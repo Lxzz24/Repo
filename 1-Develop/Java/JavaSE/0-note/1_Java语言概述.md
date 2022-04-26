@@ -61,7 +61,7 @@ JavaEE（Java Enterprise Edition）企业版
 **JRE** (Java Runtime Environment) 
 > —— Java运行环境（没编译） 
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/JavaSE/1-1.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Java/SE0101.png)
 
 ?> **JDK = JRE + 开发工具集（例如Javac编译工具等）**  
 **JRE = JVM + Java SE标准类库**
@@ -84,7 +84,7 @@ JavaEE（Java Enterprise Edition）企业版
 ---
 # 1.6 HelloWorld
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/JavaSE/1-2.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Java/SE0102.png)
 
 1. 将 `Java` 代码编写编写到扩展名为 `.java` 的文件中。
 2. 通过 `javac` 命令对该 `java` 文件进行编译编译。
