@@ -3,25 +3,26 @@
 !> <b>说明</b>：做一个有趣的爱分享的人，记录所学的计算机专业知识。如果你喜欢这个文档网站欢迎到 [GitHub](https://github.com/Lxzz24) 点个 Star，或者交换[友链](#🤟-友链) ( •̀ ω •́ )✧🔑
 
 - ⏳ 爱分享，爱生活！在我眼里，`你永远是不一样的烟火`！觉得还不错的话，记得好好学习吖！
-- ✨ 本仓库建立的初衷是为了记录一路走来学习的计算机专业知识，方便之后复习与查看。`起于此，但不止于此`，在不断的摸索和完善，勤能补拙，相信一点点的积累最后汇聚成海！希望我的这个小小的计划，可以帮助到实力强大的你！`止于至善`  🧡🧡
+- ✨ 本仓库建立的初衷是为了记录一路走来学习的计算机专业知识，方便之后复习与查看。`起于此，但不止于此`，在不断的摸索和完善，勤能补拙，相信一点点的积累最后汇聚成海！希望我的这个小小的计划，可以帮助到实力强大的你！`止于至善`🧡🧡
 
 ---
 
 # 🍵 **开发**
 
 ## ☕️ **Java**
+
 - 💯 JavaSE
   - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md ':include')
   - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md ':include') 
   - [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md ':include')
   - [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md ':include') 
-  - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md ':include')   
+  - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md ':include') 
   - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md ':include')
-  - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include')  
-
+  - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include')
 
 ## 📜 **数据库**
-  - [Oracle](/1-Develop/Database/Oracle.md ':include')
+
+- [Oracle](/1-Develop/Database/Oracle.md ':include')
 
 
 🐍 
@@ -32,9 +33,9 @@
 
 # 🚀 **计算机基础**
 
-## ⏳ 算法与数据结构
-  - [排序算法](/2-PCbase/Algorithm/sort.md ':include')
 
+## ⏳ 算法与数据结构
+- [排序算法](/2-PCbase/Algorithm/sort.md ':include')
 
 ## 🐼 
 
@@ -49,37 +50,38 @@
 ---
 
 # 📒 **Note**
-  - [Markdown](/3-Note/markdown语法.md ':include')
-  - [mermaid](/3-Note/mermaid.md ':include')
-  - [KaTeX](/3-Note/katex.md ':include')
-  - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md ':include')
-  - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md ':include')
+
+- [Markdown](/3-Note/markdown语法.md ':include')
+- [mermaid](/3-Note/mermaid.md ':include')
+- [KaTeX](/3-Note/katex.md ':include')
+- [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md ':include')
+- [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md ':include')
 
 ---
 
 # 🔨 **工具Tools**
-  - [🔨 ToolBox 实用工具库](/4-ToolBox/Tools.md ':include')
-  - [🔨 Mac使用技巧](/4-ToolBox/Mac使用技巧.md ':include')
-  - [🔨 TamperMonkey使用指南](/4-ToolBox/TamperMonkey使用指南.md ':include')
-  - [🔨 IDEA使用指南](/4-ToolBox/IDEA使用指南.md ':include')
-  - [🔨 Win10安装与配置Tomcat](/4-ToolBox/Win10安装与配置Tomcat.md ':include')
-  - [🔨 IDEA篇-非Maven项目打War包与部署](/4-ToolBox/IDEA篇-非Maven项目打War包与部署.md ':include')
-  - [🔨 Maven安装与配置](/4-ToolBox/Maven安装与配置.md ':include')
-  - [🔨 Git操作指南](/4-ToolBox/Git操作指南.md ':include')
-  - [🔨 Latex 语法使用指南](/4-ToolBox/LaTex使用指南)
-  - [🔨 PicGIF使用指南](/4-ToolBox/PicGIF使用指南.md ':include')
-  - [🔨 Postman使用指南](/4-ToolBox/Postman使用指南.md ':include')
-  - [🔨 ShareToFreeDownloadPapers](/4-ToolBox/ShareToFreeDownloadPapers.md ':include')
-  - [🔨 ShortcutKey](/4-ToolBox/ShortcutKey.md ':include')
-  - [🔨 electron安装踩坑记录](/4-ToolBox/electron安装踩坑记录.md ':include') 
+
+- [🔨 ToolBox 实用工具库](/4-ToolBox/Tools.md ':include')
+- [🔨 Mac使用技巧](/4-ToolBox/Mac使用技巧.md ':include')
+- [🔨 TamperMonkey使用指南](/4-ToolBox/TamperMonkey使用指南.md ':include')
+- [🔨 IDEA使用指南](/4-ToolBox/IDEA使用指南.md ':include')
+- [🔨 Win10安装与配置Tomcat](/4-ToolBox/Win10安装与配置Tomcat.md ':include')
+- [🔨 IDEA篇-非Maven项目打War包与部署](/4-ToolBox/IDEA篇-非Maven项目打War包与部署.md ':include')
+- [🔨 Maven安装与配置](/4-ToolBox/Maven安装与配置.md ':include')
+- [🔨 Git操作指南](/4-ToolBox/Git操作指南.md ':include')
+- [🔨 Latex 语法使用指南](/4-ToolBox/LaTex使用指南)
+- [🔨 PicGIF使用指南](/4-ToolBox/PicGIF使用指南.md ':include')
+- [🔨 Postman使用指南](/4-ToolBox/Postman使用指南.md ':include')
+- [🔨 ShareToFreeDownloadPapers](/4-ToolBox/ShareToFreeDownloadPapers.md ':include')
+- [🔨 ShortcutKey](/4-ToolBox/ShortcutKey.md ':include')
+- [🔨 electron安装踩坑记录](/4-ToolBox/electron安装踩坑记录.md ':include') 
 
 ---
-
 # 🐋 **刷题**
 
 
----
 
+---
 # 🥼 **前端学习**
 
 🥉 
@@ -87,7 +89,7 @@
 
 ---
 
-📝  
+📝
 
 
 
@@ -104,10 +106,6 @@
 🎅
 
 # 🍚 做饭指南
-
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)
-![GitHub](https://img.shields.io/github/license/Anduin2017/HowToCook)
-![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)
 
 ## 做菜之前
 

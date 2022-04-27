@@ -3,6 +3,7 @@
 
 - 🍵 **开发**
   - ☕Java
+
     - 💯JavaSE
       - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md ':include')
       - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md ':include') 
@@ -10,7 +11,8 @@
       - [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md ':include') 
       - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md ':include')   
       - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md ':include')
-      - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include')  
+      - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include') 
+
   - 🗂️ 数据库
     - [Oracle](/1-Develop/Database/Oracle.md ':include')
 
@@ -20,9 +22,13 @@
   - 🧮 算法与数据结构
     - [排序算法](/2-PCbase/Algorithm/sort.md ':include')
   - 🖥️ 计算机组成原理
+    - 
   - 💡 软件工程
+    - 
   - 🎨 设计模式
+    - 
   - 🌐 计算机网络
+    - 
   
 - 📒 **Note**
   - [Markdown](/3-Note/markdown语法.md ':include')
@@ -49,9 +55,14 @@
   
 - ✒️ **刷题**
   - [](/5-Title/#)
+
+
 - 🔗 **资源**
   - [](/6-Resource/#)
+
+
 - 🍚 **做饭指南**
+  
   - 🍳做菜之前
     - [采购原料，准备厨房](/7-HowToCook/tips/厨房准备.md ':include')
     - [学习炒与煎炸](/7-HowToCook/tips/learn/炒与煎.md ':include')
@@ -62,8 +73,11 @@
     - [学习腌（肉）](/7-HowToCook/tips/learn/学习腌.md ':include')
     - [了解食品安全常识](/7-HowToCook/tips/learn/食品安全.md ':include')
     - [如何选择吃什么？](/7-HowToCook/tips/如何选择现在吃什么.md ':include')
+  
   - 🍲菜谱
+    
     - 🥘家常菜
+      
       - 🐟水产
         - [糖醋鲤鱼](/7-HowToCook/dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md ':include')
         - [清蒸生蚝](/7-HowToCook/dishes/home-cooking/清蒸生蚝.md ':include')
@@ -73,6 +87,7 @@
         - [红烧鱼头](/7-HowToCook/dishes/home-cooking/红烧鱼头.md ':include')
         - [红烧鲤鱼](/7-HowToCook/dishes/home-cooking/红烧鲤鱼.md ':include')
         - [黄油煎虾](/7-HowToCook/dishes/home-cooking/黄油煎虾/黄油煎虾.md ':include')
+      
       - 🥩荤菜
         - [水煮肉片](/7-HowToCook/dishes/home-cooking/水煮肉片.md ':include')
         - [鱼香肉丝](/7-HowToCook/dishes/home-cooking/鱼香肉丝.md ':include')
@@ -101,6 +116,7 @@
         - [咕噜肉](/7-HowToCook/dishes/home-cooking/咕噜肉.md ':include')
         - [孜然牛肉](/7-HowToCook/dishes/home-cooking/孜然牛肉.md ':include')
         - [榄菜肉末四季豆](/7-HowToCook/dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md ':include')
+      
       - 🥦素菜
         - [西红柿炒鸡蛋](/7-HowToCook/dishes/home-cooking/西红柿炒鸡蛋.md ':include')
         - [地三鲜](/7-HowToCook/dishes/home-cooking/地三鲜.md ':include')
@@ -119,6 +135,7 @@
         - [糖拌西红柿](/7-HowToCook/dishes/home-cooking/糖拌西红柿/糖拌西红柿.md ':include')
         - [红烧茄子](/7-HowToCook/dishes/home-cooking/红烧茄子.md ':include')
         - [鱼香茄子](/7-HowToCook/dishes/home-cooking/鱼香茄子/鱼香茄子.md ':include')
+    
     - 🍞早餐
       - [太阳蛋](/7-HowToCook/dishes/breakfast/太阳蛋.md ':include')
       - [牛奶燕麦](/7-HowToCook/dishes/breakfast/牛奶燕麦.md ':include')
@@ -127,6 +144,7 @@
       - [茶叶蛋](/7-HowToCook/dishes/breakfast/茶叶蛋.md ':include')
       - [水煮玉米](/7-HowToCook/dishes/breakfast/水煮玉米.md ':include')
       - [微波炉蛋糕](/7-HowToCook/dishes/breakfast/微波炉蛋糕.md ':include')
+    
     - 🍜主食
       - [米饭](/7-HowToCook/dishes/staple/米饭/米饭.md ':include')
       - [蛋炒饭](/7-HowToCook/dishes/staple/蛋炒饭.md ':include')
@@ -144,12 +162,14 @@
       - [煮泡面加蛋](/7-HowToCook/dishes/staple/煮泡面加蛋.md ':include')
       - [老友猪肉粉](/7-HowToCook/dishes/staple/老友猪肉粉/老友猪肉粉.md ':include')
       - [微波炉腊肠煲仔饭](/7-HowToCook/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md ':include')
+    
     - 🥟半成品加工
       - [速冻汤圆](/7-HowToCook/dishes/semi-finished/速冻汤圆/速冻汤圆.md ':include')
       - [懒人蛋挞](/7-HowToCook/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md ':include')
       - [速冻水饺](/7-HowToCook/dishes/semi-finished/速冻水饺.md ':include')
       - [速冻馄饨](/7-HowToCook/dishes/semi-finished/速冻馄饨.md ':include')
       - [凉皮](/7-HowToCook/dishes/semi-finished/凉皮.md ':include')
+    
     - 🥣汤与粥
       - [米粥](/7-HowToCook/dishes/soup/米粥.md ':include')
       - [皮蛋瘦肉粥](/7-HowToCook/dishes/soup/皮蛋瘦肉粥.md ':include')
@@ -158,6 +178,7 @@
       - [罗宋汤](/7-HowToCook/dishes/soup/罗宋汤.md ':include')
       - [昂刺鱼豆腐汤](/7-HowToCook/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md ':include')
       - [紫菜蛋花汤](/7-HowToCook/dishes/soup/紫菜蛋花汤.md ':include')
+    
     - 🧋饮料
       - [酸梅汁](/7-HowToCook/dishes/drink/酸梅汁.md ':include')
       - [百香果橙子特调](/7-HowToCook/dishes/drink/百香果橙子特调/百香果橙子特调.md ':include')
@@ -165,6 +186,7 @@
       - [金菲士](/7-HowToCook/dishes/drink/金菲士.md ':include')
       - [金汤力](/7-HowToCook/dishes/drink/金汤力.md ':include')
       - [奶茶](/7-HowToCook/dishes/drink/奶茶.md ':include')
+    
     - 🏺酱料和其它材料
       - [油泼辣子](/7-HowToCook/dishes/condiment/油泼辣子.md ':include')
       - [蒜香酱油](/7-HowToCook/dishes/condiment/蒜香酱油.md ':include')
@@ -173,9 +195,11 @@
       - [炒糖色](/7-HowToCook/dishes/condiment/糖色.md ':include')
       - [蔗糖糖浆](/7-HowToCook/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md ':include')
       - [炸串酱料](/7-HowToCook/dishes/condiment/炸串酱料.md ':include')
+    
     - 🍰🍨甜品
       - [提拉米苏](/7-HowToCook/dishes/dessert/提拉米苏/提拉米苏.md ':include')
       - [烤蛋挞](/7-HowToCook/dishes/dessert/烤蛋挞/烤蛋挞.md ':include')
+  
   - 🥢进阶知识学习
     - [辅料使用技巧](/7-HowToCook/tips/advanced/辅料技巧.md ':include')
     - [油温判断技巧](/7-HowToCook/tips/advanced/油温判断技巧.md ':include')

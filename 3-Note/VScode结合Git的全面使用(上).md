@@ -16,8 +16,8 @@ git 的好处就是代码安全，如果中心服务器挂了，每个人都可�
 当然现在大行其道的是 git 代码管理。
 至于更多 SVN 和 git 区别可以参考 [菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
 
-
 # Git 使用
+
 git 本质上是一个命令行工具，可以去到 git 的官网安装其客户端。 [链接](https://git-scm.com/)
 安装成功之后就可以在命令行上输入 git 获取到 git 的操作指令了。
 ![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Note/VSGit01.png)
@@ -237,14 +237,12 @@ vscode 可以直接在左下角创建分支
 
 ![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Note/VSGit16.png)
 
-
 # 总结
 
 上面就是 VScode 内置 git 的支持，基本覆盖日常的使用流程。
 如果是个人开发已经完全够用了。
 但是如果涉及到一些团队协作的功能，那么 VScode 还是不够强大，比如处理代码冲突之类的支持就不太友好。
 那么下一篇就来介绍 VScode 的功能增强实现。
-
 
 文章作者: 智伤帝
 [文章链接](https://blog.l0v0.com/posts/94ffdbdf.html)
