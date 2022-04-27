@@ -18,7 +18,34 @@
 
 
 # Git 使用
+git 本质上是一个命令行工具，可以去到 git 的官网安装其客户端。 [链接](https://git-scm.com/)
+安装成功之后就可以在命令行上输入 git 获取到 git 的操作指令了。
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Note/VSGit01.png)
+
+下面关于 git 的命令行使用就详细说明了，可以参考菜鸟学院里面的教程 [链接](https://www.runoob.com/git/git-tutorial.html)
+下面是一些常用的命令
+
+```BASH
+git init  // 初始化本地仓库
+git config --global user.name "myname"  // 配置用户名
+git config --global user.email "myname@mymail.com"  //配置邮箱
+git remote add origin code@github.git  //绑定本地和远程仓库 
+git pull   // 拉取远程仓库的变化来同步本地的状态
+git add  // 确认本地仓库的变化到本地缓存区
+git commit  // 确认本地缓存区的内容，可以准备push
+git push   // 提交本地仓库到远程仓库
+git status   // 确定本地缓存区的状态
+```
+
+补充一下配置了 user 之后就可以在 git 上看到上传代码的用户，这个未必和 github 用户一样的。
+另外如果上传到 github 的话需要 github 账号的验证，每次都需要输入账号密码很麻烦。
+可以利用 ssh 进行 github 免密登录 [链接](https://blog.csdn.net/u013778905/article/details/83501204)
+
 # GitHub SSH 免密登录
+
+ssh 是通过 口令的机制 实现免密登录的。
+目前后端的服务器登录很常用的免密登录技术，由于口令非常复杂且无序，比输入人为的密码要安全很多
+
 # VScode 内置 Git 使用方法
 ## 认识界面
 ## 文件更新示例
