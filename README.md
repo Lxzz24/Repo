@@ -19,6 +19,11 @@
   - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md ':include')
   - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include')  
 
+
+## 📜 **数据库**
+  - [Oracle](/1-Develop/Database/Oracle.md ':include')
+
+
 🐍 
 
 🥭 
@@ -27,12 +32,8 @@
 
 # 🚀 **计算机基础**
 
-## 📜 数据库
-  - [Oracle](/1-Develop/Database/Oracle.md ':include')
-
-
 ## ⏳ 算法与数据结构
-  - [排序算法](/1-Develop/Java/JavaSE/4-ex/sort.md ':include')
+  - [排序算法](/2-PCbase/Algorithm/sort.md ':include')
 
 
 ## 🐼 
