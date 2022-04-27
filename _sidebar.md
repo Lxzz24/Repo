@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 <b><font size=6></font></b>
 
-- 🍵 **编程语言**
+- 🍵 **开发**
   - ☕Java
     - 💯JavaSE
       - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md ':include')
@@ -17,7 +17,7 @@
 
 - 💻 **计算机基础**   
   - 🗂️ 数据库
-    - [Oracle](/1-Develop/Java/database/Oracle.md)
+    - [Oracle](/1-Develop/Java/database/Oracle.md ':include')
   - 🧮 算法与数据结构
     - [排序算法](/1-Develop/Java/JavaSE/4-ex/sort.md ':include')
   - 🖥️ 计算机组成原理
@@ -26,11 +26,11 @@
   - 🌐 计算机网络
   
 - 📒 **Note**
-  - [Markdown](/3-Note/markdown语法.md)
-  - [mermaid](/3-Note/mermaid.md)
-  - [KaTeX](/3-Note/katex.md)
-  - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
-  - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
+  - [Markdown](/3-Note/markdown语法.md ':include')
+  - [mermaid](/3-Note/mermaid.md ':include')
+  - [KaTeX](/3-Note/katex.md ':include')
+  - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md ':include')
+  - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md ':include')
   
 - 🔨 **工具 Tools**
   - [🔨 ToolBox 实用工具库](/4-ToolBox/Tools.md)
