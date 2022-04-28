@@ -848,17 +848,21 @@ Modify or add a new blockquote so it matches required syntax like shown in follo
 
 Sample alert using type NOTE
 
+
 > [!NOTE]
 > An alert of type 'note' using global style 'callout'.
 Sample alert using type TIP
+
 
 > [!TIP]
 > An alert of type 'tip' using global style 'callout'.
 Sample alert using type WARNING
 
+
 > [!WARNING]
 > An alert of type 'warning' using global style 'callout'.
 Sample alert using type ATTENTION
+
 
 > [!ATTENTION]
 > An alert of type 'attention' using global style 'callout'.
