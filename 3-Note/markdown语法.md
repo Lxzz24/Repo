@@ -842,7 +842,7 @@ Ciao!
 }
 ```
 
-# Flexible Alerts
+# [Flexible Alerts](https://github.com/fzankl/docsify-plugin-flexible-alerts)
 
 Modify or add a new blockquote so it matches required syntax like shown in following examples:
 
