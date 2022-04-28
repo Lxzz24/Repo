@@ -26,12 +26,6 @@
     .markdown-section strong {
       color: rgb(239, 112, 96);
     }
-
-    /*设置tabs主题属性*/
-    :root {
-    --docsifytabs-border-color: #ededed;
-    --docsifytabs-tab-highlight-color: purple;
-    }
     
   </style>
 
@@ -159,39 +153,33 @@
         spinnerTrackColor: 'rgba(45, 140, 240, .3)',
       },
 
-      /*docsify-tabs用来在 Markdown 中显示选项卡*/
-      tabs: {
-
-        //确定是否在页面刷新/重新访问后恢复选项卡选择。
-        persist    : true,      // default
-
-        //确定选项卡选择是否将在具有匹配标签的选项卡之间同步。
-        sync       : true,      // default
-
-        //设置选项卡主题。值false将指示不应应用任何主题
-        theme      : 'classic', // 包括'classic', 'material',false
-
-        //确定是否可以使用选项卡注释定义选项卡集中的选项卡。
-        tabComments: true,      // default
-
-        //确定是否可以使用标题 + 粗体标记定义选项卡集中的选项卡。
-        tabHeadings: true       // default
-      },
-
       /*警报*/
-      'flexible-alerts' : { 
-        note : { 
-          label : "Hinweis" 
-        } , 
-        tip : { 
-          label : "Tipp" 
-        } , 
-        warning : { 
-          label : "Warnung" 
-        } , 
-        attention : { 
-          label : "Achtung" 
-        } 
+      'flexible-alerts': {
+        style: 'flat',  //Default: callout
+        note: {
+          label: {
+            '/de-DE/': 'Hinweis',
+            '/': 'Note'
+          }
+        },
+        tip: {
+          label: {
+            '/de-DE/': 'Tipp',
+            '/': 'Tip'
+          }
+        },
+        warning: {
+          label: {
+            '/de-DE/': 'Warnung',
+            '/': 'Warning'
+          }
+        },
+        attention: {
+          label: {
+            '/de-DE/': 'Achtung',
+            '/': 'Attention'
+          }
+        }
       },
 
       //阅读进度条
@@ -233,9 +221,6 @@
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/search.min.js"></script>
   <!-- 支持缩放图像 -->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/zoom-image.min.js"></script>
-  
-  <!--gif控制-->
-  <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
 
   <!-- 支持 DOT 语言 -->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/viz.js"></script>
@@ -253,16 +238,6 @@
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/jquery.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/jquery.goup.js"></script>
   
-  <!-- docsify-tabs (latest v4.x.x) -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-
-  <!-- docsify-tabs (latest v1.x.x)  -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-
-  <!-- Flexible Alerts 可使用预配置或自己的样式和警报类型将块引用转换为漂亮且可配置的警报-->
-  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script> 
-  
-  
   <script type="text/javascript">
     $(document).ready(function () {
       $.goup({
@@ -274,6 +249,12 @@
       });
     });
   </script>
+
+  <!--gif控制-->
+  <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
+
+  <!-- Flexible Alerts 可使用预配置或自己的样式和警报类型将块引用转换为漂亮且可配置的警报 -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 
   <!-- mouse click -->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/click_heart.js"></script>
