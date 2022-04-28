@@ -26,13 +26,74 @@
     .markdown-section strong {
       color: rgb(239, 112, 96);
     }
+
+    /*代码样式*/
+    .markdown-section code {
+      border-radius: 2px;
+      font-family: "Consolas","Microsoft YaHei",Arial;
+      font-size: 16px !important;
+      margin: 0 2px;
+      padding: 3px 5px;
+      white-space: nowrap;
+      /*border: 0px solid #282c34;
+      color: rgb(208, 171, 101);*/
+    }
+
+    p {
+      font-family: Consolas,"Microsoft YaHei",Arial;
+      font-size: 16px;
+    }
+
+    h1 span{
+      font-family: Consolas,"Microsoft YaHei",Arial;
+      display:inline-block;
+      background: rgb(255, 255, 255);
+      color:rgb(66, 185, 131);
+      padding:  10px  16px;
+      border-radius:5px;
+      box-shadow: 1px 1px 3px black;
+    }
+
+    /*代码块背景*/
+    p code{
+      background-color: rgb(235, 235, 235) !important;
+    }
+
+    .markdown-section h1 {
+      margin: 3rem 0 2rem 0;
+    }
+
+    .markdown-section h2 {
+      margin: 2rem 0 1rem;
+    }
+    img,
+    pre {
+      border-radius: 5px;
+    }
+
+    /*添加代码块复制按钮样式*/
+    .docsify-copy-code-button {
+      background: #039e24 !important;
+      color: #FFFFFF !important;
+      font-size: 13px !important;
+    }
+
+    ::after{
+      color: #9da2fd !important;
+      font-size: 13px !important;
+    }
+    .markdown-section>p {
+      font-size: 16px !important;
+    }
+
+    
     
   </style>
 
 </head>
 <body>
   <!-- 定义加载时候的动作 -->
-  <div id="app">LOADING...</div>
+  <div id="app"><b>LOADING...</b></div>
 
   <!-- 支持 mermaid -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">

@@ -1,17 +1,24 @@
+#
 # 1 （简单）选择排序
-![(简单)选择排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort1.gif)
+![(简单)选择排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort1.gif "-gifcontrol-mode=click;")
+
 # 2 （直接）插入排序
-![(直接)插入排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort2.gif)
+![(直接)插入排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort2.gif "-gifcontrol-mode=click;")
+
 # 3 堆排序
-![堆排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort3.gif)
+![堆排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort3.gif "-gifcontrol-mode=click;")
+
 # 4 归并排序
-![归并排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort4.gif)
+![归并排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort4.gif "-gifcontrol-mode=click;")
+
 # 5 基数排序
-![基数排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort5.gif)
+![基数排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort5.gif "-gifcontrol-mode=click;")
+
 # 6 计数排序
-![计数排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort6.gif)
+![计数排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort6.gif "-gifcontrol-mode=click;")
+
 # 7 快速排序
-![快速排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort7.gif)
+![快速排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort7.gif "-gifcontrol-mode=click;")
 > **介绍：** 
 > 快速排序通常明显比同为O(nlogn)的其他算法更快，因此常被采用，而且快排采用了分治法的思想，所以在很多笔试面试中能经常看到快排的影子。可见掌握快排的重要性。 
 > 快速排序（Quick Sort）由图灵奖获得者Tony Hoare发明，被列为20世纪十大算法之一，是迄今为止所有内排序算法中速度最快的一种。冒泡排序的升级版，交换排序的一种。快速排序的时间复杂度为O(nlog(n))。
@@ -22,7 +29,7 @@
 > 1. 递归的最底部情形，是数列的大小是零或一，也就是永远都已经被排序好了。虽然一直递归下去，但是这个算法总会结束，因为在每次的迭代(iteration)中，它至少会把一个元素摆到它最后的位置去。
 
 # 8 冒泡排序
-![冒泡排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort8.gif)
+![冒泡排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort8.gif "-gifcontrol-mode=click;")
 > **介绍： **
 > 冒泡排序的原理非常简单，它重复地走访过要排序的数列，一次比较两个元素，如果他们的顺序错误就把他们交换过来。 
 > **排序思想：** 
@@ -33,10 +40,13 @@
 
 # 9 桶排序
 ![桶排序.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort9.png)
+
 # 10 希尔排序
-![希尔排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort10.gif)
+![希尔排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort10.gif "-gifcontrol-mode=click;")
+
 # @各种内部排序方法性能比较
 ![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort11.png)
+
 > 1. **从平均时间而言**：快速排序最佳。但在最坏情况下时间性能不如堆排序和归并排序。 
 > 1. ​**从算法简单性看**：由于直接选择排序、直接插入排序和冒泡排序的算法比较简单，将其认为是简单算法。对于Shell排序、堆排序、快速排序和归并排序算法，其算法比较复杂，认为是复杂排序。 
 > 1. ​**从稳定性看**：直接插入排序、冒泡排序和归并排序时稳定的；而直接选择排序、快速排序、 Shell排序和堆排序是不稳定排序。

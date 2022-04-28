@@ -748,7 +748,7 @@ ${x_n}$,$\lim\limits_{n\rightarrow\infty}x_n = a$
 
 
 $$
-\begin{CD} 
+\begin{CD}
 A @>a>> B\\
 @VbVV @AAcA\\
 C @= D
@@ -756,7 +756,8 @@ C @= D
 $$
 
 
-# [*Tabs*](https://jhildenbiddle.github.io/docsify-tabs/#/)
+---
+# [*Tabs*](https://jhildenbiddle.github.io/docsify-tabs)
 
 
 # [Flexible Alerts](https://github.com/fzankl/docsify-plugin-flexible-alerts)
@@ -783,3 +784,5 @@ Sample alert using type ATTENTION
 
 > [!ATTENTION]
 > An alert of type 'attention' using global style 'callout'.
+
+# [gif control](https://gbodigital.github.io/docsify-gifcontrol)
