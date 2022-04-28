@@ -768,21 +768,18 @@ Sample alert using type NOTE
 
 
 > [!NOTE]
-> An alert of type 'note' using global style 'callout'.
-Sample alert using type TIP
+> blue
 
 
 > [!TIP]
-> An alert of type 'tip' using global style 'callout'.
-Sample alert using type WARNING
+> green
 
 
 > [!WARNING]
-> An alert of type 'warning' using global style 'callout'.
-Sample alert using type ATTENTION
+> red
 
 
 > [!ATTENTION]
-> An alert of type 'attention' using global style 'callout'.
+> pink
 
 # [gif control](https://gbodigital.github.io/docsify-gifcontrol)
