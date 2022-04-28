@@ -1,4 +1,7 @@
 #
+# 速查
+
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Note/MD001.png)
 
 # 一、标题
 
@@ -751,3 +754,111 @@ A @>a>> B\\
 C @= D
 \end{CD}
 $$
+
+
+# [*Tabs*](https://jhildenbiddle.github.io/docsify-tabs/#/)
+
+1. 使用HTML 注释定义选项卡集tabs:start。tabs:end
+
+HTML 注释用于标记选项卡集的开始和结束。当 Markdown 在您的 docsify 站点
+（例如 GitHub、GitLab 等）之外呈现为 HTML 时，使用 HTML 注释可防止显示与选项卡相关的标记。
+
+```
+<!-- tabs:start -->
+
+...
+
+<!-- tabs:end -->
+
+```
+
+2. 使用标题 + 粗体标记定义选项卡集中的选项卡。
+
+标题文本将用作选项卡标签，所有后续内容将与该选项卡相关联，直到下一个选项卡或tab:end评论的开始。
+标题 + 粗体标记的使用允许使用标准标记定义选项卡，并确保选项卡内容在您的 docsify 站点
+（例如 GitHub、GitLab 等）之外呈现时显示带有标题。
+
+```
+<!-- tabs:start -->
+
+#### **English**
+
+Hello!
+
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+<!-- tabs:end -->
+```
+
+3. 瞧！形成一个标签集。
+<!-- tabs:start -->
+
+#### **English**
+
+Hello!
+
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+<!-- tabs:end -->
+
+## 定制化
+
+### 主题属性
+
+主题属性允许您自定义选项卡样式，而无需编写复杂的 CSS。以下列表包含默认主题值。
+
+```
+:root {
+    /* Tab blocks */
+    --docsifytabs-border-color          : #ededed;
+    --docsifytabs-border-px             : 1px;
+    --docsifytabs-border-radius-px      : ;
+    --docsifytabs-margin                : 1.5em 0;
+
+    /* Tabs */
+    --docsifytabs-tab-background        : #f8f8f8;
+    --docsifytabs-tab-background--active: var(--docsifytabs-content-background);
+    --docsifytabs-tab-color             : #999;
+    --docsifytabs-tab-color--active     : inherit;
+    --docsifytabs-tab-highlight-px      : 3px;
+    --docsifytabs-tab-highlight-color   : var(--theme-color, currentColor);
+    --docsifytabs-tab-padding           : 0.6em 1em;
+
+    /* Tab content */
+    --docsifytabs-content-background    : inherit;
+    --docsifytabs-content-padding       : 1.5rem;
+}
+```
+
+# Flexible Alerts
+
+Modify or add a new blockquote so it matches required syntax like shown in following examples:
+
+Sample alert using type NOTE
+
+> [!NOTE]
+> An alert of type 'note' using global style 'callout'.
+Sample alert using type TIP
+
+> [!TIP]
+> An alert of type 'tip' using global style 'callout'.
+Sample alert using type WARNING
+
+> [!WARNING]
+> An alert of type 'warning' using global style 'callout'.
+Sample alert using type ATTENTION
+
+> [!ATTENTION]
+> An alert of type 'attention' using global style 'callout'.
