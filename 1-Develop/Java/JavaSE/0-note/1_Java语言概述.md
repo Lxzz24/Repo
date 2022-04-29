@@ -71,12 +71,12 @@ JavaEE（Java Enterprise Edition）企业版
 ## JRE (Java Runtime Environment) 
 > Java运行环境（没编译） 
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/SE0101.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/SE0101.png)
 
 !> **JDK = JRE + 开发工具集（例如 Javac 编译工具等）**  
 **JRE = JVM + Java SE标准类库**
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/SE0102.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/SE0102.png)
 
 > [!WARNING] 
 > $$JDK > JRE > JVM$$
