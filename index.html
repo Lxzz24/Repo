@@ -103,9 +103,6 @@
       onlyCover: true,
       themeColor: '', // 主题颜色
 
-      // 启用相对路径
-      //relativePath: true,
-
       //当路线改变时,滚动到屏幕的顶部
       auto2top: true,
 
@@ -150,33 +147,6 @@
         nextText: '下一章节',
         crossChapter: true,
         crossChapterText: true,
-      },
-
-      markdown: {
-        renderer: {
-          code: function (code, lang) {
-
-            if (lang === "dot") {
-              return (
-                '<div class="viz">' + Viz(code, "SVG") + '</div>'
-              );
-            }
-
-            if (lang === "mermaid") {
-              return (
-                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
-              );
-            }
-
-            /*if (lang === "flow") {
-              return (
-                '<div><textarea id="gengzi_code_' +(flownow++)+ '" style="width: 100%;display:none;" rows="11">' + code + "</textarea></div><div id='canvas"+(canvasnow++)+"'></div>"
-              );
-            }*/
-            
-            return this.origin.code.apply(this, arguments);
-          }
-        }
       },
 
       /*gif控制*/
@@ -249,51 +219,6 @@
     }
   </script>
 
-  <!-- 支持 flow
-  <script>
-    var flownow = 0;
-    var canvasnow = 0;
-    window.onload = function () {
-      for (var i = 0; i < flownow; i++) {
-        var cd = document.getElementById("gengzi_code_" + i),
-          chart;
-        var code = cd.value;
-        chart = flowchart.parse(code);
-        chart.drawSVG('canvas' + i, {
-          // 'x': 30,
-          // 'y': 50,
-          'line-width': 3,
-          'maxWidth': 3,//ensures the flowcharts fits within a certian width
-          'line-length': 50,
-          'text-margin': 10,
-          'font-size': 14,
-          'font': 'normal',
-          'font-family': 'Helvetica',
-          'font-weight': 'normal',
-          'font-color': 'black',
-          'line-color': 'black',
-          'element-color': 'black',
-          'fill': 'white',
-          'yes-text': 'yes',
-          'no-text': 'no',
-          'arrow-end': 'block',
-          'scale': 1,
-          'symbols': {
-            'start': {
-              'font-color': 'red',
-              'element-color': 'green',
-              'fill': 'yellow'
-            },
-            'end': {
-              'class': 'end-element'
-            }
-          }
-        });
-      }
-    };
-  </script> -->
-  
-
   <!-- docsify的js依赖 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 
@@ -306,21 +231,10 @@
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/search.min.js"></script>
   <!-- 支持缩放图像 -->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/zoom-image.min.js"></script>
-  <!-- 支持 mermaid -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
-  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-
-  <!-- 支持 flow
-  <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.min.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="//cdn.bootcdn.net/ajax/libs/flowchart/1.15.0/flowchart.js"></script> -->
   
-  <!-- 支持 DOT 语言 -->
-  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/viz.js"></script>
   <!-- 支持 LaTex 语言 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
-  <!-- 支持 sequence 图表 -->
-  <script src="//unpkg.com/websequencediagrams-docsify@2.0.1/dist/docsify-websequencediagrams.js"></script>
+    
   <!-- 复制代码-->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/docsify-copy-code.min.js"></script>
 
