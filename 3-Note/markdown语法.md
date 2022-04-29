@@ -1,7 +1,7 @@
 #
 # 速查
 
-![image.png](images/MD001.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/MD001.png)
 
 # 一、标题
 
