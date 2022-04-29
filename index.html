@@ -179,11 +179,11 @@
               );
             }
 
-            if (lang === "flow") {
+            /*if (lang === "flow") {
               return (
                 '<div><textarea id="gengzi_code_' +(flownow++)+ '" style="width: 100%;display:none;" rows="11">' + code + "</textarea></div><div id='canvas"+(canvasnow++)+"'></div>"
               );
-            }
+            }*/
 
             return this.origin.code.apply(this, arguments);
           }
@@ -260,7 +260,7 @@
     }
   </script>
 
-  <!-- 支持 flow -->
+  <!-- 支持 flow
   <script>
     var flownow = 0;
     var canvasnow = 0;
@@ -302,7 +302,7 @@
         });
       }
     };
-  </script>
+  </script> -->
   
 
   <!-- docsify的js依赖 -->
@@ -321,10 +321,11 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 
-  <!-- 支持 flow -->
+  <!-- 支持 flow
   <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="//cdn.bootcdn.net/ajax/libs/flowchart/1.15.0/flowchart.js"></script>
+  <script src="//cdn.bootcdn.net/ajax/libs/flowchart/1.15.0/flowchart.js"></script> -->
+  
   <!-- 支持 DOT 语言 -->
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/viz.js"></script>
   <!-- 支持 LaTex 语言 -->
