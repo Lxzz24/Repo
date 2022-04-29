@@ -1,7 +1,7 @@
 #
 # 速查
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Note/MD001.png)
+![image.png](images/MD001.png)
 
 # 一、标题
 
@@ -457,12 +457,7 @@ fun();
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
 
-
-
-
 ## 转义
-
-
 
 `Markdown` 使用了很多特殊符号来表示特定的意义，如果需要显示特定的符号则需要使用转义字符，`Markdown` 使用反斜杠转义特殊字符：
 
@@ -474,8 +469,6 @@ fun();
 - `\*\* 正常显示星号 \*\*`
 
 \*\* 正常显示星号 \*\*
-
-
 
 
 ## 公式

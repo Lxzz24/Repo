@@ -3,26 +3,32 @@
 
 ![(简单)选择排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort1.gif "-gifcontrol-mode=click;")
 
+---
 # 2 （直接）插入排序
 
 ![(直接)插入排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort2.gif "-gifcontrol-mode=click;")
 
+---
 # 3 堆排序
 
 ![堆排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort3.gif "-gifcontrol-mode=click;")
 
+---
 # 4 归并排序
 
 ![归并排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort4.gif "-gifcontrol-mode=click;")
 
+---
 # 5 基数排序
 
 ![基数排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort5.gif "-gifcontrol-mode=click;")
 
+---
 # 6 计数排序
 
 ![计数排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort6.gif "-gifcontrol-mode=click;")
 
+---
 # 7 快速排序
 
 ![快速排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort7.gif "-gifcontrol-mode=click;")
@@ -41,6 +47,7 @@
 3. 递归地(recursive)把小于基准值元素的子数列和大于基准值元素的子数列排序。
 4. 递归的最底部情形，是数列的大小是零或一，也就是永远都已经被排序好了。虽然一直递归下去，但是这个算法总会结束，因为在每次的迭代(iteration)中，它至少会把一个元素摆到它最后的位置去。
 
+---
 # 8 冒泡排序
 
 ![冒泡排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort8.gif "-gifcontrol-mode=click;")
@@ -54,14 +61,17 @@
 3. 针对所有的元素重复以上的步骤，除了最后一个。 
 4. 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较为止。
 
+---
 # 9 桶排序
 
 ![桶排序.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort9.png)
 
+---
 # 10 希尔排序
 
 ![希尔排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort10.gif "-gifcontrol-mode=click;")
 
+---
 # @各种内部排序方法性能比较
 
 ![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Sort/Sort11.png)
@@ -71,6 +81,7 @@
 3. ​**从稳定性看**：直接插入排序、冒泡排序和归并排序时稳定的；而直接选择排序、快速排序、 Shell排序和堆排序是不稳定排序。
 4. **从待排序的记录数n的大小看**，n较小时，宜采用简单排序；而n较大时宜采用改进排序。
 
+---
 # @排序算法的选择 
 1. 若 n 较小(如 n≤50 )，可采用**直接插入**或**直接选择排序**。当记录规模较小时，直接插入排序较好；否则因为直接选择移动的记录数少于直接插入，应选直接选择排序为宜。 
 2. 若文件初始状态基本有序(指正序)，则应选用**直接插入**、**冒泡**或随机的**快速排序**为宜； 
