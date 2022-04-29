@@ -152,4 +152,6 @@ make && make install
 ## 重载 NGINX 配置
 `/usr/local/nginx/sbin/nginx -s reload`
 
+# 5. 部署成功
+
 
