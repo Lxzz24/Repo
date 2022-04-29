@@ -107,11 +107,6 @@
     var num = 0;
     mermaid.initialize({ startOnLoad: false });
 
-    //判断,支持离线模式
-    if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
-    }
-
     window.$docsify = {
 
       // 项目名称
