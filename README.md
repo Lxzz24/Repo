@@ -16,13 +16,13 @@
 ## ☕️ Java
 
 ### 💯 JavaSE
-  1. [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md ':include')
-  2. [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md ':include') 
-  3. [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md ':include')
-  4. [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md ':include') 
-  5. [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md ':include') 
-  6. [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md ':include')
-  7. [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include')
+- [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md ':include')
+- [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md ':include') 
+- [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md ':include')
+- [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md ':include') 
+- [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md ':include') 
+- [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md ':include')
+- [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include')
 
 ## 🗂️ 数据库
 
@@ -65,7 +65,8 @@
  
 ## 🧮 算法与数据结构
   - [排序算法](/2-PCbase/Algorithm/sort.md ':include')
-  
+
+
 ## 🖥️ 计算机组成原理
 
 ## 💡 软件工程 
