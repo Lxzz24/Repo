@@ -2,7 +2,7 @@
 
 # **1.1 软件开发介绍**
 
-$$ 软件 = 系统软件（操作系统）+ 应用软件 $$
+$ 软件 = 系统软件（操作系统）+ 应用软件 $
 
 > 一系列按照特定顺寻组织的计算机数据和指令的集合。
 
@@ -10,7 +10,7 @@ $$ 软件 = 系统软件（操作系统）+ 应用软件 $$
 
 GUI：施乐 → 苹果 → 微软
 
-$$ 应用程序 = 算法 + 数据结构 $$
+$ 应用程序 = 算法 + 数据结构 $
 
 > [!NOTE]
 > 常用的DOS命令命令
@@ -19,7 +19,7 @@ $$ 应用程序 = 算法 + 数据结构 $$
 > - **rd**（remove directory） : 删除目录（非空无法删除，先使用 del，再 rd）
 > - **cd + 路径** : 进入指定目录
 > - **cd..** : 退回到上一级目录
-> - **cd\\**: 退回到根目录
+> - **cd\\** : 退回到根目录
 > - **del** : 删除文件（及目录下的文件）
 > - **exit** : 退出 dos 命令行
 
@@ -28,7 +28,7 @@ $$ 应用程序 = 算法 + 数据结构 $$
 
 > C, C++, Java, PHP, Kotlin（安卓）, Python（人工智能）, Scala（大数据）等
 
-$$机器语言（二进制代码） → 汇编语言 → 高级语言（面向过程 → 面向对象）$$
+$ 机器语言（二进制代码） → 汇编语言 → 高级语言（面向过程 → 面向对象）$
 
 ---
 # **1.3 Java语言概述**
@@ -66,20 +66,20 @@ JavaEE（Java Enterprise Edition）企业版
 # **1.5 Java语言的环境搭建**
 
 ## JDK (Java Development Kit) 
-> Java开发工具包开发工具包（JRE+开发工具）（有编译）
+Java 开发工具包开发工具包（JRE+开发工具）（有编译）
 
 ## JRE (Java Runtime Environment) 
-> Java运行环境（没编译） 
+Java 运行环境（没编译） 
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/SE0101.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/SE0101.png)
 
 !> **JDK = JRE + 开发工具集（例如 Javac 编译工具等）**  
-**JRE = JVM + Java SE标准类库**
+**JRE = JVM + Java SE 标准类库**
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/SE0102.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/SE0102.png)
 
 > [!WARNING] 
-> $$JDK > JRE > JVM$$
+> $ JDK > JRE > JVM $
 
 下载地址：[Oracle](http://www.oracle.com) 
 
@@ -87,18 +87,18 @@ JavaEE（Java Enterprise Edition）企业版
 > JDK目录：
 > - **bin** : 命令，javac.exe（编译），java.exe（解释运行），javadoc.exe（生成一个以网页形式存在的文档），jar.exe
 > - **db** : 数据库
-> - **include** : C语言编写的头文件
+> - **include** : C 语言编写的头文件
 > - **jre** : 运行环境
-> - **lib** : 函数，jar包
-> - **src.zip** : Java开源代码 
+> - **lib** : 函数，jar 包
+> - **src.zip** : Java 开源代码 
 > - **logs** : 日志文件
 > - **config** : 配置文件
 
-> 配置环境变量的目的是为了Windows操作系统执行命令时，在控制台的任何文件路径下，都可以调用jdk指定目录下的所有指令。 		
+配置环境变量的目的是为了 Windows 操作系统执行命令时，在控制台的任何文件路径下，
+都可以调用 jdk 指定目录下的所有指令。 		
 
 ---
-# **1.6 HelloWorld**
-
+# **1.6 Hello World**
 
 
 1. 将 `Java` 代码编写编写到扩展名为 `.java` 的文件中。
@@ -135,7 +135,7 @@ JavaEE（Java Enterprise Edition）企业版
 > [!TIP]
 > 注释内容可以被 JDK 提供的工具 javadoc 所解析，生成一套以网页文件形式体现的该程序的说明文档。
 
-解析
+解析:  
 `javadoc -d mydoc -author -version -encoding utf8 Hello.java`
 
 ---
@@ -143,7 +143,8 @@ JavaEE（Java Enterprise Edition）企业版
 
 ?> API （Application Programming Interface,应用程序编程接口）是 Java 提供的基本编程接口。
 
-> Java语言提供了大量的基础类，因此 `Oracle` 也为这些基础类提供了相应的API文档，用于告诉开发者如何使用这些类，以及这些类里包含的方法。 
+Java 语言提供了大量的基础类，因此 Oracle 也为这些基础类提供了相应的 API 文档，
+用于告诉开发者如何使用这些类，以及这些类里包含的方法。 
 
 [下载API](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
@@ -154,18 +155,18 @@ JavaEE（Java Enterprise Edition）企业版
    - 编写：我们将编写的 Java 代码保存在以 ".java" 结尾的源文件中
    - 编译：使用 javac.exe 命令编译我们的 Java 源文件。
      - 格式：`javac 源文件名.java`
-   - 运行：使用 `java.exe` 命令解释运行我们的字节码文件。 
+   - 运行：使用 java.exe 命令解释运行我们的字节码文件。 
       - `格式：java 类名`
-2. 在一个 Java 源文件中可以声明多个 class ，但是最多只能有一个类声明为`public`的。
-   - 而且要求声明为`public`的类的类名必须与源文件名相同。
-3. 程序的入口是`main()`方法。格式是固定的。
+2. 在一个 Java 源文件中可以声明多个 class ，但是**最多只能有一个类声明为 public 的**。
+   - 而且要求声明为 public 的类的类名必须与源文件名相同。
+3. 程序的入口是 `main()` 方法。格式是固定的。
 4. 输出语句：
    - `System.out.println();`先输出数据，然后换行
    - `System.out.print();`只输出数据
-5. 每一行执行语句都以";"结束。
+5. 每一行执行语句都以 `;` 结束。
 6. 编译的过程：
 	- 编译以后，会生成一个或多个字节码文件。
-	- 字节码文件的文件名与Java源文件中的类名相同。
+	- 字节码文件的文件名与 Java 源文件中的类名相同。
 
 ---
 # **1.10 良好的编码习惯**
@@ -180,7 +181,7 @@ JavaEE（Java Enterprise Edition）企业版
 
 ## Java集成开发环境（IDE）：
 
-~~JBuilder~~，~~NetBeans~~，Eclipse（IBM 开发的），MyEclipse（收费、集成插件），IntelliJ IDEA 
+~~JBuilder~~，~~NetBeans~~，Eclipse（IBM 开发的），MyEclipse（收费、集成插件），**IntelliJ IDEA**
 
 ---
 [练习题](https://blog.csdn.net/zhizhengguan/article/details/104071505)

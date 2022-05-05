@@ -1,7 +1,7 @@
 #
 # 速查
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/images/MD001.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/MD001.png)
 
 # 一、标题
 
@@ -16,12 +16,12 @@
 ###### 我展示的是六级标题
 ```
 
-# 我展示的是一级标题
-## 我展示的是二级标题
-### 我展示的是三级标题
-#### 我展示的是四级标题
-##### 我展示的是五级标题
-###### 我展示的是六级标题
+# 我展示的是一级标题<!-- {docsify-ignore} --> 。
+## 我展示的是二级标题<!-- {docsify-ignore} --> 。
+### 我展示的是三级标题<!-- {docsify-ignore} --> 。
+#### 我展示的是四级标题<!-- {docsify-ignore} --> 。
+##### 我展示的是五级标题<!-- {docsify-ignore} --> 。
+###### 我展示的是六级标题<!-- {docsify-ignore} --> 。
 
 ------------------------------------------------
 
@@ -174,22 +174,22 @@
 
 `[超链接名](超链接地址 "超链接title")`  
 
-> title可加可不加
+> title 可加可不加
 
 ## 示例1
 
-- `[简书](http://jianshu.com)`
+- `[简书](http://jianshu.com)`  
 [简书](http://jianshu.com)
 
 - `[百度](http://baidu.com)`  
 [百度](http://baidu.com)
 
-- `[菜鸟教程](https://www.runoob.com)`
+- `[菜鸟教程](https://www.runoob.com)`  
 [菜鸟教程](https://www.runoob.com)  
 
 
-> 注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。
-> 别的平台可能就不行了，如果想要在新页面中打开的话可以用 html 语言的 a 标签代替。
+?> 注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。
+别的平台可能就不行了，如果想要在新页面中打开的话可以用 html 语言的 a 标签代替。
 
 `<a href="超链接地址" target="_blank">超链接名</a>`
 
@@ -306,13 +306,10 @@
 |内容|内容|内容|
 
 
-> 第二行分割表头和内容。
-
-> - 有一个就行，为了对齐，多加了几个文字默认居左
-
-> - 两边加：表示文字居中
-
-> - 右边加：表示文字居右
+?> 第二行分割表头和内容。
+- 有一个就行，为了对齐，多加了几个文字默认居左
+- 两边加：表示文字居中
+- 右边加：表示文字居右
 
 !> 注：原生的语法两边都要用 | 包起来。此处省略
 
@@ -420,7 +417,7 @@ function fun(){
 fun();
 ```
 
-也可以用 ``` 包裹一段代码，并指定一种语言（也可以不指定）：
+也可以用 **```** 包裹一段代码，并指定一种语言（也可以不指定）：
 
 
 ```javascript
@@ -483,6 +480,7 @@ fun();
 # [*Tabs*](https://jhildenbiddle.github.io/docsify-tabs)
 
 
+---
 # [Flexible Alerts](https://github.com/fzankl/docsify-plugin-flexible-alerts)
 
 Modify or add a new blockquote so it matches required syntax like shown in following examples:

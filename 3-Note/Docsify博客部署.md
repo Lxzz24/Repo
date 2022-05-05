@@ -86,7 +86,7 @@ cd www
 
 成功
 
-![images](https://cdn.jsdelivr.net/gh/Lxzz24/images/Server001.png)
+![images](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Server001.png)
 
 # 4. NGINX 安装部署
 
@@ -139,14 +139,14 @@ make && make install
 
 ## 浏览器验证启动情况
 
-![images](https://cdn.jsdelivr.net/gh/Lxzz24/images/Server002.png)
+![images](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Server002.png)
 
 ## 修改配置文件
 
 `vim /usr/local/nginx/conf/nginx.conf`
 
 
-![images](https://cdn.jsdelivr.net/gh/Lxzz24/images/Server003.png)
+![images](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/Server003.png)
 
 
 ## 重载 NGINX 配置
