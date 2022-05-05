@@ -1,64 +1,36 @@
 <!-- docs/_sidebar.md -->
 <b><font size=6></font></b>
 
-- 🍵 **开 发**
-  - ☕ Java
-    - 💯 JavaSE
-      - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
-      - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
-      - [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md)
-      - [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md) 
-      - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md)   
-      - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
-      - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md) 
+- 🍵 **开发**
+  - ☕Java
+    - 💯JavaSE
+      - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md ':include')
+      - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md ':include') 
+      - [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md ':include')
+      - [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md ':include') 
+      - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md ':include')   
+      - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md ':include')
+      - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md ':include') 
   - 🗂️ 数据库
-    - ⭕ Oracle
-      - [1 - SQL](/1-Develop/Database/Oracle/1-SQL.md)
-      - [2 - 数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
-      - [3 - 数据类型实例](/1-Develop/Database/Oracle/3-数据类型实例.md)
-      - [4 - 查询基础](/1-Develop/Database/Oracle/4-查询基础.md)
-      - [5 - 字符函数](/1-Develop/Database/Oracle/5-字符函数.md)
-      - [6 - 数字函数](/1-Develop/Database/Oracle/6-数字函数.md)
-      - [7 - 日期函数](/1-Develop/Database/Oracle/7-日期函数.md)
-      - [8 - 转换函数](/1-Develop/Database/Oracle/8-转换函数.md)
-      - [9 - 通用函数、分组函数](/1-Develop/Database/Oracle/9-通用函数、分组函数.md)
-      - [10 - 多表查询](/1-Develop/Database/Oracle/10-多表查询.md)
-      - [11 - 子查询](/1-Develop/Database/Oracle/11-子查询.md)
-      - [12 - 运算](/1-Develop/Database/Oracle/12-运算.md)
-      - [13 - 内联，外联与并列查询的区别](/1-Develop/Database/Oracle/13-内联，外联与并列查询的区别.md)
-      - [14 - PL/SQL块](/1-Develop/Database/Oracle/14-PL_SQL块.md)
-      - [15 - PL/SQL的异常处理](/1-Develop/Database/Oracle/15-PL_SQL的异常处理.md)
-      - [16 - Oracle的约束](/1-Develop/Database/Oracle/16-Oracle的约束.md)
-      - [17 - 视图](/1-Develop/Database/Oracle/17-视图.md)
-      - [18 - 序列](/1-Develop/Database/Oracle/18-序列.md)
-      - [19 - 索引](/1-Develop/Database/Oracle/19-索引.md)
-      - [20 - SQL优化](/1-Develop/Database/Oracle/20-SQL优化.md)
-      - [21 - 游标](/1-Develop/Database/Oracle/21-游标.md)
-      - [22 - 自定义函数](/1-Develop/Database/Oracle/22-自定义函数.md)
-      - [23 - 存储过程](/1-Develop/Database/Oracle/23-存储过程.md)
-      - [24 - 触发器](/1-Develop/Database/Oracle/24-触发器.md)
-      - [25 - 事务](/1-Develop/Database/Oracle/25-事务.md)
-      - [26 - 用户管理](/1-Develop/Database/Oracle/26-用户管理.md)
-  - 🎨 前端
-    - [HTML](/1-Develop/Front-end/HTML.md)
-    - [CSS](/1-Develop/Front-end/CSS.md)
+    - [Oracle](/1-Develop/Database/Oracle.md ':include')
+
 
 - 💻 **计算机基础**   
   - 🧮 算法与数据结构
     - [排序算法](/2-PCbase/Algorithm/sort.md)
   - 🖥️ 计算机组成原理
   - 💡 软件工程 
-  - 🖼️ 设计模式
+  - 🎨 设计模式
   - 🌐 计算机网络
   
-- 📒 **笔 记**
-  - [📒Docsify博客部署](/3-Note/Docsify博客部署.md)
-  - [📒Markdown](/3-Note/markdown语法.md)
-  - [📒KaTeX](/3-Note/katex.md)
-  - [📒VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
-  - [📒VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
+- 📒 **Note**
+  - [Markdown](/3-Note/markdown语法.md)
+  - [mermaid](/3-Note/mermaid.md)
+  - [KaTeX](/3-Note/katex.md)
+  - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
+  - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
   
-- 🔨 **工 具**
+- 🔨 **工具 Tools**
   - [🔨 ToolBox 实用工具库](/4-ToolBox/Tools.md)
   - [🔨 Mac使用技巧](/4-ToolBox/Mac使用技巧.md)
   - [🔨 TamperMonkey使用指南](/4-ToolBox/TamperMonkey使用指南.md)
@@ -74,12 +46,12 @@
   - [🔨 ShortcutKey](/4-ToolBox/ShortcutKey.md)
   - [🔨 electron安装踩坑记录](/4-ToolBox/electron安装踩坑记录.md) 
   
-- ✒️ **刷 题**
-  - [✒️](/5-Title/#)
+- ✒️ **刷题**
+  - [](/5-Title/#)
 
 
-- 🔗 **资 源**
-  - [🔗](/6-Resource/#)
+- 🔗 **资源**
+  - [](/6-Resource/#)
 
 
 - 🍚 **做饭指南**
