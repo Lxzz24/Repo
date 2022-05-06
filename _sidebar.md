@@ -263,10 +263,6 @@
 
 <!-- 配置 -->
 <style>
-    /*加重描述strong*/
-    .markdown-section strong {
-      color: rgb(239, 112, 96);
-    }
     /*侧边栏*/
     .sidebar {
       padding-top: 5px;
