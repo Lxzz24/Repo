@@ -487,20 +487,36 @@ Modify or add a new blockquote so it matches required syntax like shown in follo
 
 Sample alert using type NOTE
 
-
+```
+> [!NOTE]
+> blue
+```
 > [!NOTE]
 > blue
 
 
+```
+> [!TIP]
+> green
+```
 > [!TIP]
 > green
 
 
+```
+> [!WARNING]
+> red
+```
 > [!WARNING]
 > red
 
 
+```
 > [!ATTENTION]
 > pink
+```
+> [!ATTENTION]
+> pink
+
 
 # [gif control](https://gbodigital.github.io/docsify-gifcontrol)

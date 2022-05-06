@@ -1,5 +1,9 @@
+#
+
 # 2.5 分支结构
+
 ## （1）if-else
+
 ```java
 /*
 分支结构中的if-else（条件判断结构）
@@ -66,6 +70,7 @@ class IfTest{
 	}
 }
 ```
+
 ```java
 /*
 如何从键盘获取不同类型的变量：需要使用Scanner类
@@ -109,7 +114,9 @@ class ScannerTest{
 	}
 }
 ```
+
 ## （2）switch-case
+
 ```java
 /*
 分支结构之二：switch-case
@@ -206,8 +213,11 @@ class SwitchCaseTest{
 	}
 }
 ```
+
 # 2.6 循环结构
+
 ## （1）for循环
+
 ```java
 /*
 For循环结构的使用
@@ -253,7 +263,9 @@ class ForTest{
 	}
 }
 ```
+
 ## （2）while循环
+
 ```java
 /*
 While循环结构的使用
@@ -292,7 +304,9 @@ class WhileTest{
 	}
 }
 ```
+
 ## （3）do-while循环
+
 ```java
 /*
 do-While循环结构的使用
@@ -349,7 +363,9 @@ class DoWhileTest{
 	}
 }
 ```
+
 ## （4）嵌套循环
+
 ```java
 /*
 嵌套循环的使用
@@ -501,7 +517,9 @@ class ForForTest{
 	}
 }
 ```
+
 # 2.7 关键字：break和continue
+
 ```java
 /*
 break和continue关键字的使用
@@ -535,7 +553,6 @@ class BreakContinueTest{
 			}
 			System.out.println();
 		}
-
 	}
 }
 ```

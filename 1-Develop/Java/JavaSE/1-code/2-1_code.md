@@ -1,4 +1,7 @@
+#
+
 # 1-标识符
+
 ```java
 class IdentifierTest{
 
@@ -25,8 +28,11 @@ class staticpublic
 {
 }
 ```
+
 # 2-变量
+
 ## 2-1 变量的使用
+
 ```java
 /*
 变量的使用
@@ -70,7 +76,9 @@ class  VariableTest{
 
 //class VariableTest{} //逆向思维，反证法
 ```
+
 ## 2-2 数据类型
+
 ```java
 /*
 Java定义的数据类型
@@ -158,7 +166,9 @@ class VariableTest1{
 	}
 }
 ```
+
 ## 2-3 基本数据类型之间的运算规则
+
 ```java
 /*
 基本数据类型之间的运算规则
@@ -211,7 +221,9 @@ class VariableTest2{
 	}
 }
 ```
+
 ## 2-4 强制类型转换
+
 ```java
 /*
 强制类型转换：自动类型提升运算的逆运算。
@@ -239,7 +251,9 @@ class VariableTest3{
 	}
 }
 ```
+
 ### F-举例
+
 ```java
 class VariableTest4{
 	public static void main(String[] args){
@@ -268,7 +282,9 @@ class VariableTest4{
 	}
 }
 ```
+
 ## 2-5 String类型
+
 ```java
 /*
 String类型变量的使用
@@ -330,7 +346,9 @@ class StringTest{
 	}
 }
 ```
+
 ## 2-6 进制
+
 ```java
 /*
 对于整数，有四种表示方式： 
@@ -361,7 +379,9 @@ class BinaryTest{
 	}
 }
 ```
+
 ## F-复习
+
 ```java
 class ReviewTest{
 	public static void main(String[] args){
@@ -380,8 +400,11 @@ class ReviewTest{
 	}
 }
 ```
+
 # 3-运算符
+
 ## 3-1 算术运算符
+
 ```java
 /*
 运算符之一：算数运算符
@@ -468,7 +491,9 @@ class AriTest {
 	}
 }
 ```
+
 ### F-1
+
 ```java
 public class SignTest{
 	public static void main(String[] args){
@@ -493,7 +518,9 @@ public class SignTest{
 	} 
 }
 ```
+
 ### F-2
+
 ```java
 /*
 练习：随意给出一个三位数的整数，打印显示它的个位数，十位数，百位数的值。
@@ -522,7 +549,9 @@ class AriExer{
 	}
 }
 ```
+
 ## 3-2 赋值运算符
+
 ```java
 /*
 运算符之二：赋值运算符
@@ -585,7 +614,9 @@ class  SetValueTest{
 	}
 }
 ```
+
 ## 3-3 比较运算符
+
 ```java
 /*
 运算符之三：比较运算符
@@ -611,7 +642,9 @@ class CompareTest{
 	}
 }
 ```
+
 ## 3-4 逻辑运算符
+
 ```java
 /*
 运算符之四：逻辑运算符
@@ -718,7 +751,9 @@ class Test {
 	}
 }
 ```
+
 ## 3-5 位运算符
+
 ```java
 /*
 运算符之五：位运算符（了解）
@@ -778,7 +813,9 @@ class BitTest{
 	}
 }
 ```
+
 ## 3-6 三元运算符
+
 ```java
 /*
 运算符之六：三元运算符(三目)

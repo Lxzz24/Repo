@@ -1,8 +1,5 @@
 # 😶‍🌫️ README
 
-<style name="Caveat">
-@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
-</style>
 
 !>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>
 
@@ -15,7 +12,9 @@
 # 🍵 **开 发**
 
 ## ☕️ Java
-<details><summary class="lv2">💯 JavaSE</summary>
+
+<details>
+<summary class="lv2">💯 JavaSE</summary>
 
 <details>
 <summary class="lv3">📑 Note</summary>
@@ -66,7 +65,8 @@
 
 ## 🗂️ 数据库
 
-<details><summary class="lv2">⭕ Oracle</summary>
+<details>
+<summary class="lv2">⭕ Oracle</summary>
 
 - [1-SQL](/1-Develop/Database/Oracle/1-SQL.md)
 - [2-数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
@@ -98,7 +98,9 @@
 </details>
 
 ## 🎨 前 端
-<details><summary class="lv2"><b>🪟 HTML & CSS</b></summary>
+
+<details>
+<summary class="lv2"><b>🪟 HTML & CSS</b></summary>
 
 - [HTML](/1-Develop/Front-end/HTML.md)
 - [CSS](/1-Develop/Front-end/CSS.md)
@@ -107,6 +109,7 @@
 
 
 ---
+
 # 💻 **计算机基础**   
 
 
@@ -142,6 +145,7 @@
 
 
 ---
+
 # 📒 **笔 记**
 
 <details><summary class="lv1"><b>🔍 速查</b></summary>
@@ -166,6 +170,7 @@
 </details>
 
 ---
+
 # 🔨 **工 具**
 
 <details><summary class="lv1"><b>⚙️ 软件指南</b></summary>
@@ -190,11 +195,13 @@
 
 
 ---
+
 # ✒️ **刷 题**
 
 
 
 ---
+
 # 🔗 **资 源**
 
 <details><summary class="lv1"><b>🔗 常用</b></summary>
@@ -206,8 +213,7 @@
 - [盒子部落](https://www.hezibuluo.com/)
 - [Mac毒](https://www.macdo.cn/)
 - [计算机类书籍](https://github.com/itdevbooks/pdf) [👉打不开点这里](/6-Resource/计算机类书籍.md)
-- 
-- 
+
 </details>
 
 <details><summary class="lv1"><b>🎞️ 影视 & 📁 软件</b></summary>
@@ -217,8 +223,8 @@
 </details>
 
 ---
-# 🍚 **做饭指南**
 
+# 🍚 **做饭指南**
 
 <details>
 <summary class="lv1"><b>🍳 做菜之前</b></summary>
@@ -434,7 +440,13 @@
 # 🤟 友链
 
 
-<style>
+
+
+<style name="Caveat">
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+</style>
+
+<style name="details">
   details{
     /*text-indent:5em;*/
     moz-user-select: -moz-none;
