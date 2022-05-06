@@ -53,8 +53,8 @@
   
 - 📒 **Note**
   - [Docsify博客部署](/3-Note/Docsify博客部署.md)
+  - [ex:代码整洁之道](/3-Note/ex：代码整洁之道.md)
   - [Markdown](/3-Note/markdown语法.md)
-  - [mermaid](/3-Note/mermaid.md)
   - [KaTeX](/3-Note/katex.md)
   - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
   - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
