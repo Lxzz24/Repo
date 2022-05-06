@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 <b><font size=6></font></b>
 
-<!--在打开网页时，侧边栏自动展开二级菜单 -->
+<!--在打开网页时，侧边栏自动展开二级菜单 ":include" -->
 
 - 🍵 **开发**
   - ☕Java
@@ -78,41 +78,46 @@
   - 🎨 设计模式
   - 🌐 计算机网络
   
-- 📒 **Note**
-  - [Docsify博客部署](/3-Note/Docsify博客部署.md)
-  - [ex:代码整洁之道](/3-Note/ex：代码整洁之道.md)
-  - [Markdown](/3-Note/markdown语法.md)
-  - [KaTeX](/3-Note/katex.md)
-  - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
-  - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
-  - 
+- 📒 **笔记**
+  - 🔍 速查
+    - [ex:代码整洁之道](/3-Note/ex：代码整洁之道.md)
+    - [Markdown](/3-Note/markdown语法.md)
+    - [KaTeX](/3-Note/katex.md)
+  - 📈 效率
+    - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
+    - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
+  - 🛠️ 部署
+    - [Docsify博客部署](/3-Note/Docsify博客部署.md)
+
   
-- 🔨 **工具 Tools**
-  - [🔨 ToolBox 实用工具库](/4-ToolBox/Tools.md)
-  - [🔨 Mac使用技巧](/4-ToolBox/Mac使用技巧.md)
-  - [🔨 TamperMonkey使用指南](/4-ToolBox/TamperMonkey使用指南.md)
-  - [🔨 IDEA使用指南](/4-ToolBox/IDEA使用指南.md)
-  - [🔨 Win10安装与配置Tomcat](/4-ToolBox/Win10安装与配置Tomcat.md)
-  - [🔨 IDEA篇-非Maven项目打War包与部署](/4-ToolBox/IDEA篇-非Maven项目打War包与部署.md)
-  - [🔨 Maven安装与配置](/4-ToolBox/Maven安装与配置.md)
-  - [🔨 Git操作指南](/4-ToolBox/Git操作指南.md)
-  - [🔨 Latex 语法使用指南](/4-ToolBox/LaTex使用指南)
-  - [🔨 PicGIF使用指南](/4-ToolBox/PicGIF使用指南.md)
-  - [🔨 Postman使用指南](/4-ToolBox/Postman使用指南.md)
-  - [🔨 ShareToFreeDownloadPapers](/4-ToolBox/ShareToFreeDownloadPapers.md)
-  - [🔨 ShortcutKey](/4-ToolBox/ShortcutKey.md)
-  - [🔨 electron安装踩坑记录](/4-ToolBox/electron安装踩坑记录.md) 
+- 🔨 **工具**
+  - ⚙️ 软件指南
+    - [ToolBox 实用工具库](/4-ToolBox/Tools.md)
+    - [Mac使用技巧](/4-ToolBox/Mac使用技巧.md)
+    - [TamperMonkey使用指南](/4-ToolBox/TamperMonkey使用指南.md)
+    - [IDEA使用指南](/4-ToolBox/IDEA使用指南.md)
+    - [Win10安装与配置Tomcat](/4-ToolBox/Win10安装与配置Tomcat.md)
+    - [IDEA篇-非Maven项目打War包与部署](/4-ToolBox/IDEA篇-非Maven项目打War包与部署.md)
+    - [Maven安装与配置](/4-ToolBox/Maven安装与配置.md)
+    - [Git操作指南](/4-ToolBox/Git操作指南.md)
+    - [Latex 语法使用指南](/4-ToolBox/LaTex使用指南)
+    - [PicGIF使用指南](/4-ToolBox/PicGIF使用指南.md)
+    - [Postman使用指南](/4-ToolBox/Postman使用指南.md)
+    - [ShareToFreeDownloadPapers](/4-ToolBox/ShareToFreeDownloadPapers.md)
+    - [ShortcutKey](/4-ToolBox/ShortcutKey.md)
+    - [electron安装踩坑记录](/4-ToolBox/electron安装踩坑记录.md) 
   
 - ✒️ **刷题**
   - [](/5-Title/#)
 
 
 - 🔗 **资源**
-  - [](/6-Resource/#)
-
+  - 🔗 常用
+    - [📖 计算机类书籍](/6-Resource/计算机类书籍.md)
+  - 🎞️ 影视 & 📁 软件
 
 - 🍚 **做饭指南**
-  - 🍳做菜之前
+  - 🍳 做菜之前
     - [采购原料，准备厨房](/7-HowToCook/tips/厨房准备.md)
     - [学习炒与煎炸](/7-HowToCook/tips/learn/炒与煎.md)
     - [学习煮](/7-HowToCook/tips/learn/煮.md)
@@ -122,9 +127,9 @@
     - [学习腌（肉）](/7-HowToCook/tips/learn/学习腌.md)
     - [了解食品安全常识](/7-HowToCook/tips/learn/食品安全.md)
     - [如何选择吃什么？](/7-HowToCook/tips/如何选择现在吃什么.md)
-  - 🍲菜谱
-    - 🥘家常菜
-      - 🐟水产
+  - 🍲 菜谱
+    - 🥘 家常菜
+      - 🐟 水产
         - [糖醋鲤鱼](/7-HowToCook/dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
         - [清蒸生蚝](/7-HowToCook/dishes/home-cooking/清蒸生蚝.md)
         - [清蒸鲈鱼](/7-HowToCook/dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
@@ -133,7 +138,7 @@
         - [红烧鱼头](/7-HowToCook/dishes/home-cooking/红烧鱼头.md)
         - [红烧鲤鱼](/7-HowToCook/dishes/home-cooking/红烧鲤鱼.md)
         - [黄油煎虾](/7-HowToCook/dishes/home-cooking/黄油煎虾/黄油煎虾.md)
-      - 🥩荤菜
+      - 🥩 荤菜
         - [水煮肉片](/7-HowToCook/dishes/home-cooking/水煮肉片.md)
         - [鱼香肉丝](/7-HowToCook/dishes/home-cooking/鱼香肉丝.md)
         - [回锅肉](/7-HowToCook/dishes/home-cooking/回锅肉.md)
@@ -161,7 +166,7 @@
         - [咕噜肉](/7-HowToCook/dishes/home-cooking/咕噜肉.md)
         - [孜然牛肉](/7-HowToCook/dishes/home-cooking/孜然牛肉.md)
         - [榄菜肉末四季豆](/7-HowToCook/dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
-      - 🥦素菜
+      - 🥦 素菜
         - [西红柿炒鸡蛋](/7-HowToCook/dishes/home-cooking/西红柿炒鸡蛋.md)
         - [地三鲜](/7-HowToCook/dishes/home-cooking/地三鲜.md)
         - [葱煎豆腐](/7-HowToCook/dishes/home-cooking/葱煎豆腐.md)
@@ -179,7 +184,7 @@
         - [糖拌西红柿](/7-HowToCook/dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
         - [红烧茄子](/7-HowToCook/dishes/home-cooking/红烧茄子.md)
         - [鱼香茄子](/7-HowToCook/dishes/home-cooking/鱼香茄子/鱼香茄子.md)
-    - 🍞早餐
+    - 🍞 早餐
       - [太阳蛋](/7-HowToCook/dishes/breakfast/太阳蛋.md)
       - [牛奶燕麦](/7-HowToCook/dishes/breakfast/牛奶燕麦.md)
       - [果酱吐司](/7-HowToCook/dishes/breakfast/吐司果酱.md)
@@ -187,7 +192,7 @@
       - [茶叶蛋](/7-HowToCook/dishes/breakfast/茶叶蛋.md)
       - [水煮玉米](/7-HowToCook/dishes/breakfast/水煮玉米.md)
       - [微波炉蛋糕](/7-HowToCook/dishes/breakfast/微波炉蛋糕.md)    
-    - 🍜主食
+    - 🍜 主食
       - [米饭](/7-HowToCook/dishes/staple/米饭/米饭.md)
       - [蛋炒饭](/7-HowToCook/dishes/staple/蛋炒饭.md)
       - [日式咖喱饭](/7-HowToCook/dishes/staple/日式咖喱饭/日式咖喱饭.md)[烙饼](/7-HowToCook/dishes/staple/烙饼/烙饼.md)
@@ -204,13 +209,13 @@
       - [煮泡面加蛋](/7-HowToCook/dishes/staple/煮泡面加蛋.md)
       - [老友猪肉粉](/7-HowToCook/dishes/staple/老友猪肉粉/老友猪肉粉.md)
       - [微波炉腊肠煲仔饭](/7-HowToCook/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)    
-    - 🥟半成品加工
+    - 🥟 半成品加工
       - [速冻汤圆](/7-HowToCook/dishes/semi-finished/速冻汤圆/速冻汤圆.md)
       - [懒人蛋挞](/7-HowToCook/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
       - [速冻水饺](/7-HowToCook/dishes/semi-finished/速冻水饺.md)
       - [速冻馄饨](/7-HowToCook/dishes/semi-finished/速冻馄饨.md)
       - [凉皮](/7-HowToCook/dishes/semi-finished/凉皮.md)    
-    - 🥣汤与粥
+    - 🥣 汤与粥
       - [米粥](/7-HowToCook/dishes/soup/米粥.md)
       - [皮蛋瘦肉粥](/7-HowToCook/dishes/soup/皮蛋瘦肉粥.md)
       - [西红柿鸡蛋汤](/7-HowToCook/dishes/soup/西红柿鸡蛋汤.md)
@@ -218,14 +223,14 @@
       - [罗宋汤](/7-HowToCook/dishes/soup/罗宋汤.md)
       - [昂刺鱼豆腐汤](/7-HowToCook/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
       - [紫菜蛋花汤](/7-HowToCook/dishes/soup/紫菜蛋花汤.md)    
-    - 🧋饮料
+    - 🧋 饮料
       - [酸梅汁](/7-HowToCook/dishes/drink/酸梅汁.md)
       - [百香果橙子特调](/7-HowToCook/dishes/drink/百香果橙子特调/百香果橙子特调.md)
       - [杨枝甘露](/7-HowToCook/dishes/drink/杨枝甘露.md)
       - [金菲士](/7-HowToCook/dishes/drink/金菲士.md)
       - [金汤力](/7-HowToCook/dishes/drink/金汤力.md)
       - [奶茶](/7-HowToCook/dishes/drink/奶茶.md)    
-    - 🏺酱料和其它材料
+    - 🏺 酱料和其它材料
       - [油泼辣子](/7-HowToCook/dishes/condiment/油泼辣子.md)
       - [蒜香酱油](/7-HowToCook/dishes/condiment/蒜香酱油.md)
       - [糖醋汁](/7-HowToCook/dishes/condiment/糖醋汁.md)
@@ -233,10 +238,10 @@
       - [炒糖色](/7-HowToCook/dishes/condiment/糖色.md)
       - [蔗糖糖浆](/7-HowToCook/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
       - [炸串酱料](/7-HowToCook/dishes/condiment/炸串酱料.md)    
-    - 🍰🍨甜品
+    - 🍰🍨 甜品
       - [提拉米苏](/7-HowToCook/dishes/dessert/提拉米苏/提拉米苏.md)
       - [烤蛋挞](/7-HowToCook/dishes/dessert/烤蛋挞/烤蛋挞.md)  
-  - 🥢进阶知识学习
+  - 🥢 进阶知识学习
     - [辅料使用技巧](/7-HowToCook/tips/advanced/辅料技巧.md)
     - [油温判断技巧](/7-HowToCook/tips/advanced/油温判断技巧.md)
 
