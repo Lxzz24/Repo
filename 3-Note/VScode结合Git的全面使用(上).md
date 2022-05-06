@@ -20,7 +20,7 @@ git 的好处就是代码安全，如果中心服务器挂了，每个人都可�
 
 git 本质上是一个命令行工具，可以去到 git 的官网安装其客户端。 [链接](https://git-scm.com/)
 安装成功之后就可以在命令行上输入 git 获取到 git 的操作指令了。
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit01.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit01.png)
 
 下面关于 git 的命令行使用就详细说明了，可以参考菜鸟学院里面的教程 [链接](https://www.runoob.com/git/git-tutorial.html)
 下面是一些常用的命令
@@ -79,7 +79,7 @@ The key's randomart image is:
 
 不过秘钥的存放路径是在用户文件夹下的 .ssh 目录 (默认生成的 id_rsa 会在那里)
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit02.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit02.png)
 
 如果秘钥不放在这个路径是读取不了的，直接用文本编辑器打开即可。
 
@@ -133,13 +133,13 @@ HostName 就对应的 IP 地址 (域名的背后也是根据 DNS 服务获取 IP
 VScode 默认内置 git 的支持，当然图形化界面客户端也不一定要用 vscode ，git 本身自带了一个图形化界面
 安装了 git 之后在任意目录下右键就有 Git Gui Here 的选项
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit03.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit03.png)
 
 使用上其实大同小异，VScode 本身的功能加上插件辅助基本也可以实现差不多的效果。
 
 ## 认识界面
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit04.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit04.png)
 
 主要包含上面的按钮以及菜单的选项。
 不过通常只会菜单里的功能通常只会用到 pull 和 push 而已，其他杂七杂八的选项都可以不管。
@@ -147,7 +147,7 @@ VScode 默认内置 git 的支持，当然图形化界面客户端也不一定�
 
 ## 文件更新示例
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit05.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit05.png)
 
 当你对仓库已经被跟踪的文件进行修改的时候，会有三种文件状态。
 
@@ -155,33 +155,33 @@ M 是 modify 的缩写即该文件存在修改
 D 是 delete 的缩写即该文件被删除了
 U 是 Update 的缩写即该文件是新添加
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit06.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit06.png)
 
 选中显示的文件可以对比前后修改的区别。
 
 ## commit 代码
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit07.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit07.png)
 
 文件按钮的的意思。
 如果是新添加的文件，放弃修改就会提示彻底删除文件。
 如果是删除的文件，选择放弃修改就会从仓库中恢复文件 (再也不用担心误删的文件找不到了)
 点击 + 号确认文件的修改就会提到 stash Changes 上 `(对应 git add 命令)`
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit08.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit08.png)
 
 确认了文件之后，在输入框输入这次更新的内容，然后点击打勾就可以保存这一次更新了 `(对应 git commit 命令)`
 如果当前所有的 Changes 都要 commit ，那可以直接输入上传的信息并且打勾就可以快速 commit 了。
 
 ## push 代码
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit09.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit09.png)
 
 这个时候 vscode 的右下角就会出现上箭头的数字为 1 (上箭头是 push 的更新，下箭头是可以 pull 的更新)
 当然如果之前没有 push 过代码的话，这个可能会没有数字显示。
 这个时候就可以将代码 push 到 github 上了 `(对应 git push 命令)`
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit10.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit10.png)
 
 完成这一步之后就可以打开 github 仓库查看代码的更新了。
 
@@ -197,7 +197,7 @@ U 是 Update 的缩写即该文件是新添加
 
 ## GitHub 查看代码
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit11.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit11.png)
 
 打开 github 的仓库可以看到之前 commit 的信息已经显示出来了。
 
@@ -210,7 +210,7 @@ U 是 Update 的缩写即该文件是新添加
 这个时候就需要 pull 拉去 github 上的新代码来实现仓库同步。
 也可以通过 vscode 右下角的下箭头看到仓库是否可以 pull
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit12.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit12.png)
 
 
 然后点击菜单的 git pull 进行仓库更新 (对应 git pull 命令)
@@ -221,21 +221,21 @@ U 是 Update 的缩写即该文件是新添加
 可以通过创建分支来实现，默认的仓库其实也是一个分支，默认名字叫做 master
 vscode 可以直接在左下角创建分支
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit13.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit13.png)
 
 在上面的输入框中输入分支的名字即可
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit14.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit14.png)
 
 我在上面创建了 release 分支，这样我就可以在 VScode 切换到 release 分支
 我可以像之前那样对 release 分支进行各种修改 push 和 pull，这些修改就不会影响到 master 分支了。
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit15.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit15.png)
 
 第一次上传新的分支 VScode 会有弹窗提示。
 上传成功之后也可以通过 github 来切换查看分支。
 
-![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/Repo/images/VSGit16.png)
+![image.png](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/VSGit16.png)
 
 # 总结
 
