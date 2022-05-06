@@ -52,11 +52,13 @@
   - 🌐 计算机网络
   
 - 📒 **Note**
+  - [Docsify博客部署](/3-Note/Docsify博客部署.md)
   - [Markdown](/3-Note/markdown语法.md)
   - [mermaid](/3-Note/mermaid.md)
   - [KaTeX](/3-Note/katex.md)
   - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
   - [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
+  - 
   
 - 🔨 **工具 Tools**
   - [🔨 ToolBox 实用工具库](/4-ToolBox/Tools.md)
