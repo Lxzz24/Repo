@@ -9,15 +9,16 @@
 
 
 ---
+
 # 🍵 **开 发**
+
 
 ## ☕️ Java
 
-<details>
-<summary class="lv2">💯 JavaSE</summary>
 
-<details>
-<summary class="lv3">📑 Note</summary>
+<details><summary class="lv2">💯 JavaSE</summary>
+
+<details><summary class="lv3">📑 Note</summary>
 
 - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
 - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
@@ -29,8 +30,7 @@
 
 </details>
 
-<details>
-<summary class="lv3">⌨️ Code</summary>
+<details><summary class="lv3">⌨️ Code</summary>
 
 - [1_code](/1-Develop/Java/JavaSE/1-code/1_code.md)
 - [2-1_code](/1-Develop/Java/JavaSE/1-code/2-1_code.md)
@@ -44,10 +44,10 @@
 - [4_code](/1-Develop/Java/JavaSE/1-code/4_code.md)
 - [5_练习](/1-Develop/Java/JavaSE/1-code/5_练习.md)
 - [5_code](/1-Develop/Java/JavaSE/1-code/5_code.md)
+
 </details>
 
-<details>
-<summary class="lv3">✏️ 练习</summary>
+<details><summary class="lv3">✏️ 练习</summary>
 
 - [每日练习1](/1-Develop/Java/JavaSE/2-daily/每日练习1.md)
 - [每日练习2](/1-Develop/Java/JavaSE/2-daily/每日练习2.md)
@@ -59,14 +59,18 @@
 - [每日练习8](/1-Develop/Java/JavaSE/2-daily/每日练习8.md)
 - [每日练习9](/1-Develop/Java/JavaSE/2-daily/每日练习9.md)
 - [每日练习10](/1-Develop/Java/JavaSE/2-daily/每日练习10.md)
-</details>
 
 </details>
+</details>
+
+
+
 
 ## 🗂️ 数据库
 
-<details>
-<summary class="lv2">⭕ Oracle</summary>
+
+
+<details><summary class="lv2">⭕ Oracle</summary>
 
 - [1-SQL](/1-Develop/Database/Oracle/1-SQL.md)
 - [2-数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
@@ -97,10 +101,13 @@
 
 </details>
 
+
+
 ## 🎨 前 端
 
-<details>
-<summary class="lv2"><b>🪟 HTML & CSS</b></summary>
+
+
+<details><summary class="lv2"><b>🪟 HTML & CSS</b></summary>
 
 - [HTML](/1-Develop/Front-end/HTML.md)
 - [CSS](/1-Develop/Front-end/CSS.md)
@@ -113,40 +120,70 @@
 # 💻 **计算机基础**   
 
 
+
 <details><summary class="lv1"><b>🧮 算法与数据结构</b></summary>
 
-- [排序算法](/2-PCbase/Algorithm/sort.md)
+- [算法与数据结构学习路线](/2-PCbase/0-StudyRoute/算法与数据结构学习路线.md)
+
+
+<details><summary class="lv2">⚖️ 算法</summary>
+
+- [排序算法](/2-PCbase/Algorithm&DataStructures/sort.md)
 
 </details>
+
+<details><summary class="lv2">🏛️ 数据结构</summary>
+
+
+
+</details>
+</details>
+
 
 
 <details><summary class="lv1"><b>🖥️ 计算机组成原理</b></summary>
 
+- [计算机组成原理学习路线](/2-PCbase/StudyRoute/计算机组成原理学习路线.md)
 
 </details>
+
 
 
 <details><summary class="lv1"><b>💡 软件工程</b></summary>
 
+- [软件工程学习路线](/2-PCbase/StudyRoute/软件工程学习路线.md)
 
 </details>
+
 
 
 <details><summary class="lv1"><b>🖼️ 设计模式</b></summary>
 
+- [设计模式学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
 
 </details>
+
 
 
 <details><summary class="lv1"><b>🌐 计算机网络</b></summary>
 
+- [计算机网络学习路线](/2-PCbase/0-StudyRoute/计算机网络学习路线.md)
+- [网络安全学习路线](/2-PCbase/0-StudyRoute/网络安全学习路线.md)
+
+<details><summary class="lv2">🔐 网络安全</summary>
+
+
 
 </details>
+</details>
+
 
 
 ---
 
 # 📒 **笔 记**
+
+
 
 <details><summary class="lv1"><b>🔍 速查</b></summary>
 
@@ -156,6 +193,7 @@
 
 </details>
 
+
 <details><summary class="lv1"><b>📈 效率</b></summary>
 
 - [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
@@ -163,15 +201,21 @@
 
 </details>
 
+
 <details><summary class="lv1"><b>🛠️ 部署</b></summary>
 
 - [Docsify博客部署](/3-Note/Docsify博客部署.md)
 
 </details>
 
+
+
+
 ---
 
 # 🔨 **工 具**
+
+
 
 <details><summary class="lv1"><b>⚙️ 软件指南</b></summary>
 
@@ -200,6 +244,7 @@
 
 
 
+
 ---
 
 # 🔗 **资 源**
@@ -216,18 +261,23 @@
 
 </details>
 
+
 <details><summary class="lv1"><b>🎞️ 影视 & 📁 软件</b></summary>
 
 
 
 </details>
 
+
+
 ---
+
 
 # 🍚 **做饭指南**
 
-<details>
-<summary class="lv1"><b>🍳 做菜之前</b></summary>
+
+
+<details><summary class="lv1"><b>🍳 做菜之前</b></summary>
 
 - [采购原料，准备厨房](/7-HowToCook/tips/厨房准备.md)
 - [学习炒与煎炸](/7-HowToCook/tips/learn/炒与煎.md)
@@ -241,14 +291,13 @@
 
 </details>
 
-<details>
-<summary class="lv1"><b>🍲 菜谱</b></summary>
 
-<details>
-<summary class="lv2"><b>🥘 家常菜</b></summary>
 
-<details>
-<summary class="lv3">🐟 水产</summary>
+<details><summary class="lv1"><b>🍲 菜谱</b></summary>
+
+<details><summary class="lv2"><b>🥘 家常菜</b></summary>
+
+<details><summary class="lv3">🐟 水产</summary>
 
 - [糖醋鲤鱼](/7-HowToCook/dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
 - [清蒸生蚝](/7-HowToCook/dishes/home-cooking/清蒸生蚝.md)
@@ -261,8 +310,8 @@
 
 </details>
 
-<details>
-<summary class="lv3">🥩 荤菜</summary>
+
+<details><summary class="lv3">🥩 荤菜</summary>
 
 - [水煮肉片](/7-HowToCook/dishes/home-cooking/水煮肉片.md)
 - [鱼香肉丝](/7-HowToCook/dishes/home-cooking/鱼香肉丝.md)
@@ -295,8 +344,7 @@
 </details>
 
 
-<details>
-<summary class="lv3">🥦 素菜</summary>
+<details><summary class="lv3">🥦 素菜</summary>
 
 - [西红柿炒鸡蛋](/7-HowToCook/dishes/home-cooking/西红柿炒鸡蛋.md)
 - [地三鲜](/7-HowToCook/dishes/home-cooking/地三鲜.md)
@@ -317,12 +365,11 @@
 - [鱼香茄子](/7-HowToCook/dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 </details>
-
 </details>
 
 
-<details>
-<summary class="lv2"><b>🍞 早餐</b></summary>
+
+<details><summary class="lv2"><b>🍞 早餐</b></summary>
 
 - [太阳蛋](/7-HowToCook/dishes/breakfast/太阳蛋.md)
 - [牛奶燕麦](/7-HowToCook/dishes/breakfast/牛奶燕麦.md)
@@ -335,8 +382,8 @@
 </details>
 
 
-<details>
-<summary class="lv2"><b>🍜 主食</b></summary>
+
+<details><summary class="lv2"><b>🍜 主食</b></summary>
 
 - [米饭](/7-HowToCook/dishes/staple/米饭/米饭.md)
 - [蛋炒饭](/7-HowToCook/dishes/staple/蛋炒饭.md)
@@ -358,8 +405,9 @@
 
 </details>
 
-<details>
-<summary class="lv2"><b>🥟 半成品加工</b></summary>
+
+
+<details><summary class="lv2"><b>🥟 半成品加工</b></summary>
 
 - [速冻汤圆](/7-HowToCook/dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 - [懒人蛋挞](/7-HowToCook/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
@@ -370,8 +418,8 @@
 </details>
 
 
-<details>
-<summary class="lv2"><b>🥣 汤与粥</b></summary>
+
+<details><summary class="lv2"><b>🥣 汤与粥</b></summary>
 
 - [米粥](/7-HowToCook/dishes/soup/米粥.md)
 - [皮蛋瘦肉粥](/7-HowToCook/dishes/soup/皮蛋瘦肉粥.md)
@@ -384,8 +432,8 @@
 </details>
 
 
-<details>
-<summary class="lv2"><b>🧋 饮料</b></summary>
+
+<details><summary class="lv2"><b>🧋 饮料</b></summary>
 
 - [酸梅汁](/7-HowToCook/dishes/drink/酸梅汁.md)
 - [百香果橙子特调](/7-HowToCook/dishes/drink/百香果橙子特调/百香果橙子特调.md)
@@ -397,8 +445,7 @@
 </details>
 
 
-<details>
-<summary class="lv2"><b>🏺 酱料和其它材料</b></summary>
+<details><summary class="lv2"><b>🏺 酱料和其它材料</b></summary>
 
 - [油泼辣子](/7-HowToCook/dishes/condiment/油泼辣子.md)
 - [蒜香酱油](/7-HowToCook/dishes/condiment/蒜香酱油.md)
@@ -411,20 +458,18 @@
 </details>
 
 
-<details>
-<summary class="lv2"><b>🍰🍨 甜品</b></summary>
+
+<details><summary class="lv2"><b>🍰🍨 甜品</b></summary>
 
 - [提拉米苏](/7-HowToCook/dishes/dessert/提拉米苏/提拉米苏.md)
 - [烤蛋挞](/7-HowToCook/dishes/dessert/烤蛋挞/烤蛋挞.md)
 
 </details>
-
 </details>
 
 
 
-<details>
-<summary class="lv1"><b>🥢 进阶知识学习</b></summary>
+<details><summary class="lv1"><b>🥢 进阶知识学习</b></summary>
 
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
@@ -437,16 +482,22 @@
 
 ---
 
+
 # 🤟 友链
 
 
+<!-- CSS样式 -->
 
-
+<!-- 引入Caveat字体 -->
 <style name="Caveat">
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 </style>
 
+
+<!-- 设定details样式 -->
 <style name="details">
+  
+  /*设置details标题无法选中*/
   details{
     /*text-indent:5em;*/
     moz-user-select: -moz-none;
@@ -457,6 +508,8 @@
     -ms-user-select:none;
     user-select:none;
   }
+
+  /*设置无序列表符号"·"的位置*/
   ul {
     /*list-style-type:none;*/
     padding: 0px;
@@ -466,6 +519,8 @@
     font-size:1.1em;
     line-height:1.5em;
   }
+
+  /*设置不同层级的summary标题的样式*/
   summary.lv1{
     font-size:1.8em;
     text-indent:1em;
