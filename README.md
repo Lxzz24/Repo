@@ -223,7 +223,6 @@
 
 # 🔨 **工 具**
 
-s
 
 <details><summary class="lv1"><b>⚙️ 软件指南</b></summary>
 
