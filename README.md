@@ -1,16 +1,29 @@
 # 😶‍🌫️ README
 
 
-!>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>
+!>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
+
+
+
+> [!TIP]
+> 建立此仓库的目的是为了能够将所有外部输入的知识、经验等存储下来，
+> 在日常工作学习生活中充分利用。❤️🧡💛💚💙💜
+
+
 
 ⭐*源码已上传 GitHub ，需要右上角自取*⭐
 
 👉*使用说明*👉 [Docsify博客部署](/3-Note/Docsify博客部署.md)
 
-?> 记住，一定要善用 `Ctrl+F` 哦！
 
+记住，一定要善用 `Ctrl+F` 哦！
 
 ---
+
+
+
+> [!ATTENTION]
+> **🔺以下内容/资源部分来自于网络🔻**
 
 # 🍵 **开 发**
 
