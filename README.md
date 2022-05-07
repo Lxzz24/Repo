@@ -7,6 +7,8 @@
 
 👉*使用说明*👉 [Docsify博客部署](/3-Note/Docsify博客部署.md)
 
+?> 记住，一定要善用 `Ctrl+F` 哦！
+
 
 ---
 
@@ -141,17 +143,9 @@
 
 
 
-<details><summary class="lv1"><b>🖥️ 计算机组成原理</b></summary>
+<details><summary class="lv1"><b>🖥️ 操作系统</b></summary>
 
-- [计算机组成原理学习路线](/2-PCbase/StudyRoute/计算机组成原理学习路线.md)
-
-</details>
-
-
-
-<details><summary class="lv1"><b>💡 软件工程</b></summary>
-
-- [软件工程学习路线](/2-PCbase/StudyRoute/软件工程学习路线.md)
+- [操作系统学习路线](/2-PCbase/StudyRoute/操作系统学习路线.md)
 
 </details>
 
