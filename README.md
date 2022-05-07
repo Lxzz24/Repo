@@ -25,6 +25,8 @@
 > [!ATTENTION]
 > **🔺以下内容/资源部分来自于网络🔻**
 
+
+
 # 🍵 **开 发**
 
 
@@ -175,11 +177,11 @@
 <details><summary class="lv1"><b>🌐 计算机网络</b></summary>
 
 - [计算机网络学习路线](/2-PCbase/0-StudyRoute/计算机网络学习路线.md)
-- [网络安全学习路线](/2-PCbase/0-StudyRoute/网络安全学习路线.md)
+
 
 <details><summary class="lv2">🔐 网络安全</summary>
 
-
+- [网络安全学习路线](/2-PCbase/0-StudyRoute/网络安全学习路线.md)
 
 </details>
 </details>
@@ -194,27 +196,26 @@
 
 <details><summary class="lv1"><b>🔍 速查</b></summary>
 
-- [Markdown](/3-Note/markdown语法.md)
-- [KaTeX](/3-Note/katex.md)
-- [ex:代码整洁之道](/3-Note/ex：代码整洁之道.md)
+- [Markdown](/3-Note/速查/markdown语法.md)
+- [KaTeX](/3-Note/速查/katex.md)
+- [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
 
 </details>
 
 
 <details><summary class="lv1"><b>📈 效率</b></summary>
 
-- [VScode结合Git的全面使用(上)](/3-Note/VScode结合Git的全面使用(上).md)
-- [VScode结合Git的全面使用(下)](/3-Note/VScode结合Git的全面使用(下).md)
+- [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
+- [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
 
 </details>
 
 
 <details><summary class="lv1"><b>🛠️ 部署</b></summary>
 
-- [Docsify博客部署](/3-Note/Docsify博客部署.md)
+- [Docsify博客部署](/3-Note/部署/Docsify博客部署.md)
 
 </details>
-
 
 
 
@@ -226,20 +227,17 @@
 
 <details><summary class="lv1"><b>⚙️ 软件指南</b></summary>
 
-- [ToolBox 实用工具库](/4-ToolBox/Tools.md)
-- [Mac使用技巧](/4-ToolBox/Mac使用技巧.md)
-- [TamperMonkey使用指南](/4-ToolBox/TamperMonkey使用指南.md)
-- [IDEA使用指南](/4-ToolBox/IDEA使用指南.md)
-- [Win10安装与配置Tomcat](/4-ToolBox/Win10安装与配置Tomcat.md)
-- [IDEA篇-非Maven项目打War包与部署](/4-ToolBox/IDEA篇-非Maven项目打War包与部署.md)
-- [Maven安装与配置](/4-ToolBox/Maven安装与配置.md)
-- [Git操作指南](/4-ToolBox/Git操作指南.md)
-- [Latex 语法使用指南](/4-ToolBox/LaTex使用指南)
-- [PicGIF使用指南](/4-ToolBox/PicGIF使用指南.md)
-- [Postman使用指南](/4-ToolBox/Postman使用指南.md)
-- [ShareToFreeDownloadPapers](/4-ToolBox/ShareToFreeDownloadPapers.md)
-- [ShortcutKey](/4-ToolBox/ShortcutKey.md)
-- [electron安装踩坑记录](/4-ToolBox/electron安装踩坑记录.md) 
+- [Mac使用技巧](/4-ToolBox/软件指南/Mac使用技巧.md)
+- [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
+- [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
+- [Maven安装与配置](/4-ToolBox/软件指南/Maven安装与配置.md)
+
+</details>
+
+<details><summary class="lv1"><b>🔨 实用工具</b></summary>
+
+- [ToolBox 实用工具库](/4-ToolBox/实用工具/Tools.md)
+- [TamperMonkey油猴](/4-ToolBox/实用工具/TamperMonkey油猴.md)
 
 </details>
 
