@@ -236,7 +236,6 @@
 
 <details><summary class="lv1"><b>⚙️ 软件指南</b></summary>
 
-- [Mac使用技巧](/4-ToolBox/软件指南/Mac使用技巧.md)
 - [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
 - [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
 - [Maven安装与配置](/4-ToolBox/软件指南/Maven安装与配置.md)
@@ -251,6 +250,13 @@
 
 </details>
 
+
+<details><summary class="lv1"><b>🍏 Mac</b></summary>
+
+- [Mac使用技巧](/4-ToolBox/Mac/Mac使用技巧.md)
+- [Mac上的”IDM“下载](/4-ToolBox/Mac/Mac上的”IDM“下载.md)
+
+</details>
 
 
 ---
@@ -283,6 +289,12 @@
 <details><summary class="lv1"><b>🎞️ 影视 & 📁 软件</b></summary>
 
 
+
+</details>
+
+<details><summary class="lv1"><b>♾️ 文章</b></summary>
+
+- [CS-Notes, from CyC2018](https://github.com/CyC2018/CS-Notes)
 
 </details>
 

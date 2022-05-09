@@ -110,7 +110,6 @@
   
 - 🔨 **工具**
   - ⚙️ 软件指南
-    - [Mac使用技巧](/4-ToolBox/软件指南/Mac使用技巧.md)
     - [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
     - [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
     - [Maven安装与配置](/4-ToolBox/软件指南/Maven安装与配置.md)
@@ -119,6 +118,10 @@
     - [编程相关在线工具](/4-ToolBox/实用工具/编程在线工具.md)
     - [ToolBox 实用工具库](/4-ToolBox/实用工具/Tools.md)
     - [TamperMonkey油猴](/4-ToolBox/实用工具/TamperMonkey油猴.md)
+  - 🍏 Mac
+    - [Mac使用技巧](/4-ToolBox/Mac/Mac使用技巧.md)
+    - [Mac上的”IDM“下载](/4-ToolBox/Mac/Mac上的”IDM“下载.md)
+
   
 - ✒️ **刷题**
   - [](/5-Title/#)
