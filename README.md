@@ -196,6 +196,7 @@
 <details><summary class="lv1"><b>💭 博客</b></summary>
 
 - [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
+- [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
 
 </details>
 
