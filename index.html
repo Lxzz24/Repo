@@ -316,6 +316,7 @@
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/sidecar.v1.js" async defer></script>
 
   <!-- Gitalk -->
+  <div id="gitalk-container"></div>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
@@ -327,7 +328,10 @@
       admin: ['Lxzz24'],
       distractionFreeMode: false,
       id: decodeURI(window.location.pathname),
+      labels: ['Gitalk'],
+      perPage: 50
     })
+    gitalk.render('gitalk-container')
   </script>
   
 </body>
