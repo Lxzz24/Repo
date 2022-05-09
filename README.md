@@ -286,15 +286,17 @@
 </details>
 
 
-<details><summary class="lv1"><b>🎞️ 影视 & 📁 软件</b></summary>
+<details><summary class="lv1"><b>📁 软件 & 🎞️ 影视 </b></summary>
 
-
+- [程序员常用软件汇总](/6-Resource/程序员常用软件汇总.md)
 
 </details>
 
 <details><summary class="lv1"><b>♾️ 文章</b></summary>
 
 - [CS-Notes, from CyC2018](https://github.com/CyC2018/CS-Notes)
+- [VSCode 配置](https://juejin.cn/post/7077393092264869924)
+- 
 
 </details>
 
