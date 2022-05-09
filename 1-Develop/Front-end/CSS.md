@@ -1,4 +1,9 @@
+# CSS
+
+
+
 # 简介
+
 - CSS 指层叠样式表 (Cascading Style Sheets)
 - 样式定义如何显示 HTML 元素
 - 样式通常存储在样式表中
@@ -7,8 +12,10 @@
 - 外部样式表通常存储在 CSS 文件中
 - 多个样式定义可层叠为一个
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/2822416/1650614098758-5a204063-ea47-47c7-868d-3eab411b4dbd.png#clientId=ub96851e6-59e0-4&crop=0.0018&crop=0&crop=1&crop=0.975&from=paste&height=120&id=ucb93630a&margin=%5Bobject%20Object%5D&name=image.png&originHeight=120&originWidth=570&originalType=url&ratio=1&rotation=0&showTitle=false&size=66889&status=done&style=none&taskId=ufb09d91b-631b-4425-8f86-30e0608703a&title=&width=569)
+![1](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS1.png)
+
 ## 实例
+
 ```css
 /*这是个注释*/
 p
@@ -19,11 +26,16 @@ p
   font-family:arial;
 }
 ```
+
 # Id 和 Class
+
 ## id 选择器
+
 id 选择器可以为标有特定 id 的 HTML 元素指定特定的样式。
-HTML元素以id属性来设置id选择器,CSS 中 id 选择器以 "#" 来定义。
+HTML 元素以 id 属性来设置 id 选择器, CSS 中 id 选择器以 "#" 来定义。
+
 ### id="para1":
+
 ```css
 #para1
 {
@@ -31,10 +43,13 @@ HTML元素以id属性来设置id选择器,CSS 中 id 选择器以 "#" 来定义�
     color:red;
 }
 ```
-:::tips
-💡ID属性不要以数字开头，数字开头的ID在 Mozilla/Firefox 浏览器中不起作用。
-:::
+
+> [!tip]
+> ID属性不要以数字开头，数字开头的ID在 Mozilla/Firefox 浏览器中不起作用。
+
+
 ## class 选择器
+
 ```css
 /*所有拥有 center 类的 HTML 元素均为居中*/
 .center {text-align:center;}
@@ -42,19 +57,25 @@ HTML元素以id属性来设置id选择器,CSS 中 id 选择器以 "#" 来定义�
 /*所有的 p 元素使用 class="center" 让该元素的文本居中:*/
 p.center {text-align:center;}
 ```
-:::warning
-💡类名的第一个字符不能使用数字！它无法在 Mozilla 或 Firefox 中起作用。
-:::
+
+> [!WARNING]
+> 类名的第一个字符不能使用数字！它无法在 Mozilla 或 Firefox 中起作用。
+
 # CSS创建
 
 - 外部样式表(External style sheet)
 - 内部样式表(Internal style sheet)
 - 内联样式(Inline style)
-:::warning
-💡不要在属性值与单位之间留有空格（如："margin-left: 20 px" ），正确的写法是 "margin-left: 20px" 。
-:::
+
+
+> [!WARNING]
+> 💡不要在属性值与单位之间留有空格（如："margin-left: 20 px" ），正确的写法是 "margin-left: 20px" 。
+
+
 ## 多重样式优先级
+
 $（内联样式）Inline style > （内部样式）Internal style sheet >（外部样式）External style sheet > 浏览器默认样式$
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -72,16 +93,23 @@ $（内联样式）Inline style > （内部样式）Internal style sheet >（外
   </body>
 </html>
 ```
-:::success
-**注意**：如果外部样式放在内部样式的后面，则外部样式将覆盖内部样式。
-:::
+
+
+> [!ATTENTION]
+> 如果外部样式放在内部样式的后面，则外部样式将覆盖内部样式。
+
 ## 选择器优先级规则
+
 $内联样式 > id 选择器 > 类选择器 = 伪类选择器 = 属性选择器 > 标签选择器 = 伪元素选择器$
+
 ### HTML
+
 ```html
 <div class="content-class" id="content-id"></div>
 ```
+
 ### CSS
+
 ```css
 #content-id {
     color: red;
@@ -93,22 +121,33 @@ div {
     color: grey;
 }
 ```
-:::success
-div 最终的颜色显示为红色。
-:::
+
+> [!ATTENTION]
+> div 最终的颜色显示为红色。
+
+
 # CSS背景
+
 ## 背景颜色
 
 - `background-color`
+
+
 ## 背景图像
 
 - `background-image`
+
+
 ```css
 body {background-image:url('paper.gif');}
 ```
+
+
 ### 水平或垂直平铺
 
 - `background-repeat`
+
+
 ```css
 body
 {
@@ -119,6 +158,8 @@ body
 ### 设置定位与不平铺
 
 - `background-position` 改变图像在背景中的位置
+
+
 ```css
 body
 {
@@ -129,18 +170,25 @@ body
 ```
 
 - `background-attachment` 背景图像是否固定或者随着页面的其余部分滚动。 
+
+
 ### 简写属性
+
 ```css
 body {background:#ffffff url('img_tree.png') no-repeat right top;}
 ```
+
 属性值的顺序为：
 
-- `background-color`
-- `background-image`
-- `background-repeat`
-- `background-attachment`
-- `background-position`
+1. `background-color`
+2. `background-image`
+3. `background-repeat`
+4. `background-attachment`
+5. `background-position`
+
+
 # CSS文本
+
 | **属性** | **描述** |
 | --- | --- |
 | [color](https://www.runoob.com/cssref/pr-text-color.html) | 设置文本颜色 |
@@ -163,8 +211,8 @@ body {color:red;}
 h1 {color:#00ff00;}
 h2 {color:rgb(255,0,0);}
 ```
-:::tips
-💡对于W3C标准的CSS：如果你定义了颜色属性，你还必须定义背景色属性。
+> [!tip]
+> 对于W3C标准的CSS：如果你定义了颜色属性，你还必须定义背景色属性。
 :::
 ## 对齐方式
 ```css
@@ -394,14 +442,15 @@ th
 }
 ```
 # CSS盒子模型(Box Model)
-![](https://cdn.nlark.com/yuque/0/2022/gif/2822416/1650784932513-d66609df-f34a-4808-8bba-ec332fb0f269.gif#clientId=u3d03da23-db13-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=udaa46dd9&margin=%5Bobject%20Object%5D&originHeight=289&originWidth=536&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u1d492314-4c27-4a4d-a60b-5456e7fd21b&title=)
+
+![2](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS2.png)
 
 - `Margin`(外边距) - 清除边框外的区域，外边距是透明的。
 - `Border`(边框) - 围绕在内边距和内容外的边框。
 - `Padding`(内边距) - 清除内容周围的区域，内边距是透明的。
 - `Content`(内容) - 盒子的内容，显示文本和图像。
-:::tips
-**💡**重要: 当您指定一个 CSS 元素的宽度和高度属性时，你只是设置内容区域的宽度和高度。要知道，完整大小的元素，你还必须添加内边距，边框和外边距。
+> [!tip]
+> *💡**重要: 当您指定一个 CSS 元素的宽度和高度属性时，你只是设置内容区域的宽度和高度。要知道，完整大小的元素，你还必须添加内边距，边框和外边距。
 :::
 最终元素的总宽度计算公式是这样的：
 总元素的宽度=宽度+左填充+右填充+左边框+右边框+左边距+右边距
@@ -417,7 +466,9 @@ th
 border:5px solid red;
 ```
 # CSS margin外边距+padding填充
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/2822416/1650785385789-39be4bf5-5809-4ac1-a4f9-8b23d3ccfe89.png#clientId=u3d03da23-db13-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u44b49ce3&margin=%5Bobject%20Object%5D&name=image.png&originHeight=300&originWidth=600&originalType=url&ratio=1&rotation=0&showTitle=false&size=13482&status=done&style=none&taskId=ue7360c65-72d6-41ae-a598-7dba8a1cfb1&title=)
+
+![3](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS3.png)
+
 # CSS分组和嵌套
 ## 分组选择器
 ```css
@@ -1008,7 +1059,9 @@ li::before {
 }
 ```
 # CSS 网页布局
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/2822416/1650787763304-de69d22a-bf0a-46c1-b3c0-4f25c73ef69a.png#clientId=u3d03da23-db13-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u0adfac55&margin=%5Bobject%20Object%5D&name=image.png&originHeight=491&originWidth=971&originalType=url&ratio=1&rotation=0&showTitle=false&size=33521&status=done&style=none&taskId=ua3d7c5f1-8550-473b-ba32-c81294123e0&title=)
+
+![4](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS4.png)
+
 ## 响应式布局
 ```css
 <!DOCTYPE html>
