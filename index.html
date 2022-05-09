@@ -319,15 +319,15 @@
   <div id="gitalk-container"></div>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      id: '{{ page.url }}',
       clientID: 'd86ba1a4df648d6f7fd8',
       clientSecret: '582f805c4d34d7ffb554360c88efb2820e80b553',
       repo: 'Repo',
       owner: 'Lxzz24',
       admin: ['Lxzz24'],
       distractionFreeMode: false,
-      id: decodeURI(window.location.pathname),
       labels: ['Gitalk'],
       perPage: 50
     })
