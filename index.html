@@ -321,7 +321,7 @@
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script type="text/javascript">
     var gitalk = new Gitalk({
-      id: '{{ page.url }}',
+      id: location.pathname,  
       clientID: 'd86ba1a4df648d6f7fd8',
       clientSecret: '582f805c4d34d7ffb554360c88efb2820e80b553',
       repo: 'Repo',
