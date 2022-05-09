@@ -1,101 +1,181 @@
 # IDEA 使用指南
 
-## 前言
+---
 
-!> 说明：从 2020 年 07 月 10 日开始，使用正版！支持正版！为正版发声！
+# 安装激活
 
-![image-20200712095431547](https://gitee.com/wugenqiang/PictureBed/raw/master/NoteBook/20200712095432.png)
+!> 作者：Java老白  
+链接：https://www.jianshu.com/p/586a61c58695  
+来源：简书  
+著作权归作者所有。
 
-## IDEA 版本更新使用
+申明，本教程 Intellij IDEA 最新版破解、激活码均收集与网络，请勿商用，仅供个人学习使用，如有侵权，
+请联系作者删除。如条件允许，建议大家购买正版。 
 
-### IDEA 2020.1.3
+?> 本教程更新于：2021 年 10 月 26 号，后续如果存在不可用问题，博主会及时更新。  
 
-使用正版！不再提供其他途径的方法更新！如果有需要这个正版使用权或者热衷于维护正版权益，可以联系我一起使用！🔑
+以下是博主免费激活之后的 Licenses 信息，激活到 2099 年，支持 Windows 和 Macos。
 
-![image-20200712095457394](https://gitee.com/wugenqiang/PictureBed/raw/master/NoteBook/20200712095458.png)
+![1](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/IDEA1.png)
+
+> [!ATTENTION]
+> 1. 本教程适用于 Intellij IDEA 2021.2.3 以下所有版本
+> 2. 本教程适用于 JetBrains 全系列产品，包括 IDEA、Pycharm、WebStorm、PhpStorm、AppCode 等
+> 3. 本教程适用于 Windows/Mac/Linux，本文以 Window 下的版本为例进行演示，
+> 其他系统的操作方式完全相同。
+
+## 安装 IntelliJ IDEA 2021.2.3 最新版本
+
+### 下载 IntelliJ IDEA
+
+点击[这个地址](https://www.jetbrains.com/idea/download/#section=windows)，
+下载 IntelliJ IDEA 2021.2.3 最新版本
 
 
+### 卸载老版本的 IDEA(如果已经安装了 IDEA)
+?> 如果电脑上已经安装了老版本的 IDEA，需要先卸载赶紧，否则可能会出现问题
 
-以下版本，破解方式对应相应的版本目前（2020 年 07 月 12 日）还是有效的，如果可以的话，希望可以和我一起支持正版！🔒
+#### 保存配置文件
 
-### IDEA 2020.1
+IntelliJ IDEA 有一个配置文件夹，保留了你使用 IntelliJ IDEA 的一些默认配置信息，
+如果你已经修改过 IntelliJ IDEA 的配置，比如 JDK 环境、Maven 环境、以及其他配置项目。
 
-> 官网下载之后，采用[激活方式](/ToolBox/IDEA使用指南?id=idea-201934)才能激活！
+如果你希望新安装的 IntelliJ IDEA，安装完成后能够保留这些配置，
+则需要先备份 IntelliJ IDEA 的配置目录，该目录默认的路径配置如下。
 
-* [官网下载 https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
-* [点击此处获取激活方式](/ToolBox/IDEA使用指南?id=idea-201934)
-
-### IDEA 2019.3.4
-
-> IDEA 2019.3.3 和 IDEA 2019.3.4 激活方式如下：
-
-* 下载 jetbrainsCrack.jar 
-
-下载链接：https://pan.baidu.com/s/1ADriYJLu1S5BLR1XSMMbSg 
-提取码：kpjy
-
-* 将 jetbrainsCrack.jar 放入 bin 目录下
-
-![image-20200319202304437](../images/image-20200319202304437.png)
-
-* 启动 IDEA，点击 Configure --> Edit Custom VM Options，将下面命令复制到文件中，然后重新启动 IDEA
-
-```
--javaagent:..\..\bin\JetbrainsCrack.jar
-```
-
-![image-20200319203202234](../images/image-20200319203202234.png)
-
-* 点击 IDEA 菜单 Configure --> Manage License --> License Server，在 License Server 中输入 http://jetbrains-license-server 到 License Server Address 中，然后先点击 Discover Server，等待后点击下面 Actuvate 即可，接着退出重启 IDEA
+这个文件是：IntelliJIDEA 安装目录下 `${IntelliJIDEA_HOME}\bin\idea.properties`
 
 ```
-http://jetbrains-license-server
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false" lang="java" 
+cid="n749" mdtype="fences" style="box-sizing: border-box; overflow: visible; 
+font-family: var(--monospace); font-size: 0.9em; display: block; break-inside: avoid; 
+text-align: left; white-space: normal; background-image: inherit; 
+background-position: inherit; background-size: inherit; background-repeat: inherit; 
+background-attachment: inherit; background-origin: inherit; background-clip: inherit; 
+background-color: rgb(248, 248, 248); position: relative !important; 
+border: 1px solid rgb(231, 234, 237); border-radius: 3px; padding: 8px 4px 6px; 
+margin-bottom: 15px; margin-top: 15px; width: inherit; color: rgb(51, 51, 51); 
+font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; 
+font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; 
+text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; 
+text-decoration-thickness: initial; text-decoration-style: initial; 
+text-decoration-color: initial;">
 ```
+---------------------------------------------------------------------
 
-新的 agent license server：`https://fls.jetbrains-agent.com`（HTTP也可用）
+Uncomment this option if you want to customize path to IDE config folder. 
+Make sure you're using forward slashes.
 
-![image-20200319204247679](../images/image-20200319204247679.png)
+---------------------------------------------------------------------
 
-* 重新进入 IDEA 菜单 Configure --> Manage License，此时会发现 IDEA 已经给我们生成了服务器地址：
+idea.config.path=${user.home}/.IntelliJIdea/config
 
-```
-http://fls.jetbrains-agent.com
-```
+---------------------------------------------------------------------
 
-![image-20200319204839884](../images/image-20200319204839884.png)
+Uncomment this option if you want to customize path to IDE system folder. 
+Make sure you're using forward slashes.
 
-完美撒花！
+---------------------------------------------------------------------
 
-!> 不过，可能会提醒下面信息：
-
-![image-20200323100018728](../images/image-20200323100018728.png)
-
-解决方案：
-
-下载文件 important.txt 放在与 JetbrainsCrack.jar 同目录 bin 下：
-
-百度云下载链接：https://pan.baidu.com/s/1beei7a6wVFSWDrPIQeQCLA 
-提取码：7ybo 
-
-![image-20200323101805421](../images/image-20200323101805421.png)
-
-重新打开 IDEA 刚刚提示信息就没啦，完美撒花！
-
-### IDEA 2019.3.3
-
-> 官网下载之后，采用[激活方式](/ToolBox/IDEA使用指南?id=idea-201934)才能激活！百度云链接下载直接激活！推荐使用百度云链接下载，集成了很多好用的插件和功能！
-
-* 下载一：[官网下载 https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
-
-* 下载二：百度云链接：https://pan.baidu.com/s/1z_Z1wigY0Yt3xfTIg_Idhg 
-  提取码：4clm
-
-* 汉化包链接：https://pan.baidu.com/s/1KMkgzFPdxcd_Kinv65yZmg 
-  提取码：pldz 
+idea.system.path=${user.home}/.IntelliJIdea/system</pre>
 
 
 
-## IDEA maven 配置
+config 和 system 是用来存储 IntelliJ IDEA 个性化配置的地方。
+提前把.IntelliJIdea 这个文件件备份，后续新的版本安装完成后，可以直接导入这个配置项目
+
+
+#### 开始卸载
+没有安装 IntelliJ IDEA 的同学，可以省略这个步骤。
+
+![2](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/IDEA2.png)
+
+
+### 开始安装 IntelliJ IDEA 2021.2.3 版本
+默认安装目录是 C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.3，这里我选择安装到其他磁盘
+
+![3](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/IDEA3.png)
+
+勾选创建桌面快捷方式，Create Desktop Shortcut，方便后续打开。
+
+
+点击 next->install，进行安装，安装完成后，Run IntelliJ IDEA 运行。
+
+
+开始激活 Intellij IDEA
+打开 IntelliJ IDEA 工具，首先会进入到 License Activation 激活页面，这个页面有两个选项
+1. Activate IntelliJ IDEA， 通过密钥激活 IDEA
+2. Start trial，免费体验 IDEA，不过在新版本中需要注册帐号登录才能体验。
+
+
+还有一个问题需要注意，有些同学点击 Log In to JetBrains Account... 这个按钮跳转到网页，网页无法打开。我就遇到了这个问题。原因是，我们在 host 文件中增加了一些 account.jetbrains.com 相关的映射，所以大家需要去 C:/Windows/System32/Driver/etcs/host 文件中，把这些内容去掉就可以打开了
+注册的流程这里就省略了，直接点击按钮后会弹出一个浏览器进入到 IntelliJ IDEA 官网，注册一个帐号并登录即可
+下图是对应登录成功后的界面，点击 Start Trial 开始免费试用。
+
+
+开始试用后，会进入待如下页面，免费试用的时间是1个月
+
+
+需要注意，有了登录帐号这个机制以后，对于这个帐号的试用期，是从注册登录的这一刻开始，这篇文章我写在 10 月 26 号，但是第一次登录是在 10 月 23 号，所以提示有效期是到 11 月 23 号。
+所以，如果遇到帐号已经过期的情况下，可能不会出现这个界面，所以大家可以执行破解补丁中 reset_script 这个脚本来重置试用期时间。
+
+
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false" lang="java" cid="n783" mdtype="fences" style="box-sizing: border-box; overflow: visible; font-family: var(--monospace); font-size: 0.9em; display: block; break-inside: avoid; text-align: left; white-space: normal; background-image: inherit; background-position: inherit; background-size: inherit; background-repeat: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: rgb(248, 248, 248); position: relative !important; border: 1px solid rgb(231, 234, 237); border-radius: 3px; padding: 8px 4px 6px; margin-bottom: 15px; margin-top: 15px; width: inherit; color: rgb(51, 51, 51); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">window系统： reset_jetbrains_eval_mac_linux.sh
+Linux/Mac系统： reset_jetbrains_eval_windows.vbs</pre>
+清空 IDEA 以往的激活方式
+之前用过 IDEA 的同学，可能已经用了其他破解补丁破解过，一般的方式也是通过 Host 代理、以及 Jar 文件替换的形式来实现，所以在使用这篇文章描述的方法来破解时，需要把原本激活的配置还原，比如 Host 文件的映射要去掉。
+配置破解补丁
+进入到 IDEA 项目开发界面(默认情况下，需要创建一个项目或者打开一个项目，才能进入到这个页面)
+点击如图所示的菜单： Help - > Edit Custom VM Options...。 修改 idea64.exe.vmoptions 文件。
+
+
+点击按钮，会打开 idea64.exe.vmoptions 文件。
+
+
+在这个文件中，我们需要把破解补丁中的 FineAgent.jar 文件，配置到 idea64.exe.vmoptions 文件中。
+
+
+1. 先把这个 jar 包拷贝到一个固定目录下，我这里把它拷贝到了 IDEA 安装目录下 D:\software\IntelliJ IDEA 2021.2.3\FineAgent.jar，大家可以根据自己实际的情况随意放置。
+2. 修改 idea64.exe.vmoptions 文件，增加如下配置
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false" lang="java" cid="n799" mdtype="fences" style="box-sizing: border-box; overflow: visible; font-family: var(--monospace); font-size: 0.9em; display: block; break-inside: avoid; text-align: left; white-space: normal; background-image: inherit; background-position: inherit; background-size: inherit; background-repeat: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: rgb(248, 248, 248); position: relative !important; border: 1px solid rgb(231, 234, 237); border-radius: 3px; padding: 8px 4px 6px; margin-bottom: 15px; margin-top: 15px; width: inherit; color: rgb(51, 51, 51); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">-javaagent:D:\software\IntelliJ IDEA 2021.2.3\FineAgent.jar</pre>
+
+D:\Develop_Tools\Java\IntelliJ IDEA 2021.3\FineAgent.jar
+
+
+重启 IntelliJ IDEA
+修改完成后，重启 IntelliJ IDEA 工具。
+重启后，又会重新进入到激活页面，这个时候，我们选择 Activate IntelliJ IDEA。
+然后 License 选择 Activation Code。
+
+
+输入激活码，点击 Activate 按钮进行激活。
+激活码一定要在补丁配置之后才能使用，否则是激活不了的。
+
+
+
+
+点击 Activate 按钮后，就能看到下面这个界面， 过期时间到 2099 年， 唉，终于可以在 IDEA 这个工具上实现终身编程的梦想。
+
+
+激活补丁下载
+
+
+激活补丁，本来是分享在百度云盘，但是百度云盘同时访问的人数过多，很容易出现被封的情况。我这边做了多个网盘的分享，然后在公众号里面基于关键字随机回复，保证激活补丁的持续性。
+需要下载的小伙伴关注公众号：跟着 Mic 学架构，回复关键字 idea，即可免费获得激活码。
+
+
+
+
+
+
+
+
+
+
+
+
+
+# IDEA maven 配置
 
 > maven 如今是 idea 当中必不可少的工具了，这里主要说明一下如何进行maven 配置。虽然 idea 有一些默认的 maven 配置，但是如果想要好用，最好还是自己配置一个 maven。
 
