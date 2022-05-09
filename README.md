@@ -203,9 +203,10 @@
 
 <details><summary class="lv1"><b>🔍 速查</b></summary>
 
+- [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
 - [Markdown](/3-Note/速查/markdown语法.md)
 - [KaTeX](/3-Note/速查/katex.md)
-- [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
+- [希腊字母](/3-Note/速查/希腊字母.md)
 
 </details>
 
