@@ -70,8 +70,8 @@
       - [26-用户管理](/1-Develop/Database/Oracle/26-用户管理.md)
   - 🎨 前 端
     - 🪟 HTML & CSS
-      - [HTML](1-Develop/Front-end/HTML.md)
-      - [CSS](1-Develop/Front-end/HTML.md)
+      - [HTML](/1-Develop/Front-end/HTML.md)
+      - [CSS](/1-Develop/Front-end/CSS.md)
 
 
 
@@ -97,6 +97,7 @@
     - [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
   - 🔍 速查
     - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
+    - [HTML](/3-Note/速查/HTML速查)
     - [Markdown](/3-Note/速查/markdown语法.md)
     - [KaTeX](/3-Note/速查/katex.md)
     - [希腊字母](/3-Note/速查/希腊字母.md)
