@@ -193,6 +193,12 @@
 # 📒 **笔 记**
 
 
+<details><summary class="lv1"><b>💭 博客</b></summary>
+
+- [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
+
+</details>
+
 
 <details><summary class="lv1"><b>🔍 速查</b></summary>
 
