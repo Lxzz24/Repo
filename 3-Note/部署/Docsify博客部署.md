@@ -155,3 +155,9 @@ make && make install
 # 5. 部署成功
 
 
+# 插件问题
+
+## Gitalk
+
+[Gitalk评论插件使用教程](https://segmentfault.com/a/1190000018072952)
+[自动初始化Gitalk评论](http://edisonxu.com/2018/10/31/gitalk-auto-init.html?hmsr=joyk.com&utm_source=joyk.com&utm_medium=referral)
