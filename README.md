@@ -226,6 +226,7 @@
 <details><summary class="lv1"><b>🛠️ 部署</b></summary>
 
 - [Docsify博客部署](/3-Note/部署/Docsify博客部署.md)
+- [Nginx部署](/3-Note/部署/Nginx部署.md)
 
 </details>
 

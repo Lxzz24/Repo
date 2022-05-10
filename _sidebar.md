@@ -108,7 +108,7 @@
     - [DNS](/3-Note/效率/DNS.md)
   - 🛠️ 部署
     - [Docsify博客部署](/3-Note/部署/Docsify博客部署.md)
-
+    - [Nginx部署](/3-Note/部署/Nginx部署.md)
   
 - 🔨 **工具**
   - ⚙️ 软件指南
