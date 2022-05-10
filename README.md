@@ -521,14 +521,6 @@
 # 🤟 友链
 
 
-<!-- utterances -->
-<script src="https://utteranc.es/client.js"
-    repo="Lxzz24/Talk"
-    issue-term="pathname"
-    theme="github-light"  
-    crossorigin="anonymous"
-    async>
-</script>
 
 <!-- CSS样式 -->
 
