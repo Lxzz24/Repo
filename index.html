@@ -314,20 +314,28 @@
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/sidecar.v1.js" async defer></script>
 
   <!-- Gitalk -->
-  <div id="gitalk-container"></div>
+  <!-- <div id="gitalk-container"></div> -->
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/gitalk.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
   <script>
-    const gitalk = new Gitalk({
+    var gitalk = new Gitalk({
       clientID: 'd86ba1a4df648d6f7fd8',
       clientSecret: '582f805c4d34d7ffb554360c88efb2820e80b553',
       repo: 'Repo',
       owner: 'Lxzz24',
       admin: ['Lxzz24'],
-      id: location.pathname,      // Ensure uniqueness and length less than 50
-      distractionFreeMode: false  // Facebook-like distraction free mode
+      title: location.hash.match(/#(.*?)([?]|$)/)[1],
+      id: location.hash.match(/#(.*?)([?]|$)/)[1],
     })
 
-    gitalk.render('gitalk-container')
+    // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
+    window.onhashchange = function(event){
+      if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+        location.reload()
+      }
+    }
+    // 由于docsify/lib/plugins/gitalk.min.js文件中已经有下面代码了，所以不需要在写一次了
+    //gitalk.render('gitalk-container')
   </script>
   
 </body>
