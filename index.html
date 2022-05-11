@@ -224,7 +224,7 @@
         function (hook, vm) {
           // load livere
           hook.beforeEach(function(content) {
-              var comment = "<div id='lv-container' data-id='city' data-uid='please_change_it'></div>\n\n----\n"
+              var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81NjM4MC8zMjg0Mw=='></div>\n\n----\n"
               return content + comment;
           });
 
@@ -244,9 +244,6 @@
               twemoji.parse(document);
           });
         },
-
-        
-        
 
       ],
 
@@ -428,26 +425,6 @@
 
   <!-- twemoji -->
   <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
-
-
-  <!-- LiveRe City install code -->
-  <div id="lv-container" data-id="city" data-uid="MTAyMC81NjM4MC8zMjg0Mw==">
-    <script type="text/javascript">
-      (function(d, s) {
-          var j, e = d.getElementsByTagName(s)[0];
-
-          if (typeof LivereTower === 'function') { return; }
-
-          j = d.createElement(s);
-          j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-          j.async = true;
-
-          e.parentNode.insertBefore(j, e);
-      })(document, 'script');
-    </script>
-    <noscript> Please activate JavaScript for write a comment in LiveRe</noscript>
-  </div>
-  <!-- completed City install code -->
 
 </body>
 
