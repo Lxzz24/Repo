@@ -1,6 +1,3 @@
-# 小白级别的 Aria2 + motrix 设置教程
-
-
 # 小白级别的Aria2+motrix设置教程
 
 因为 FDM 无法添加 tracker ，bt下载速度太慢了，所以想找一款像 FDM 一样自动接管浏览器下载

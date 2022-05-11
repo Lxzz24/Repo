@@ -1,5 +1,4 @@
 #
-
 # 1 （简单）选择排序
 
 ![(简单)选择排序.gif](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/Sort1.gif "-gifcontrol-mode=click;")

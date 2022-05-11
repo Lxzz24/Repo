@@ -1,27 +1,33 @@
 # 
+# Docsify 使用
 
-# 1. Git 安装
+- [官方文档](https://docsify.js.org/#/zh-cn/)
+- [Docsify 创建文档网站](https://blog.51cto.com/u_12877374/4935159#Docsify__4)
+- [docsify 构建文档网站之定制功能](https://blog.51cto.com/u_12877374/2853837#463_Disqus__323)
 
-## 包管理器安装
+# 部署到服务器
+## 1. Git 安装
+
+### 包管理器安装
 
 `yum install git`
 
 这样安装的 Git 版本为 1.8.3.1
 
-## 配置用户信息
+### 配置用户信息
 
 `git config --global user.name "username"`
 
-`# git config --global user.email "myname@mymail.com"`
+`## git config --global user.email "myname@mymail.com"`
 
 
-# 2. NODE 环境安装
+## 2. NODE 环境安装
 
-## 下载安装包 
+### 下载安装包 
 
 我下的是 node-v16.14.2-linux-x64.tar.xz ，直接放在 root 目录下
 
-## 创建目录并解压
+### 创建目录并解压
 
 1. 在 /user/local/ 下创建 node 文件夹并进入
 
@@ -35,14 +41,14 @@ cd node
 
 `tar -xJvf /root/node-v16.14.2-linux-x64.tar.xz -C ./`
 
-## 配置 NODE 系统环境变量
+### 配置 NODE 系统环境变量
 
 `vim ~/.bash_profile`
 
 编辑 ~/.bash_profile ⽂件，在⽂件末尾追加如下信息:
 
 ```
-# Nodejs
+## Nodejs
 export PATH=/usr/local/node/node-v12.16.3-linux-x64/bin:$PATH
 ```
 
@@ -50,7 +56,7 @@ export PATH=/usr/local/node/node-v12.16.3-linux-x64/bin:$PATH
 
 `source ~/.bash_profile`
 
-## 检查安装结果
+### 检查安装结果
 
 ```
 node -v
@@ -60,9 +66,9 @@ npx -v
 
 均有版本信息输出即可
 
-# 3. 从 GitHub 上克隆知识库
+## 3. 从 GitHub 上克隆知识库
 
-## ssh免密登录
+### ssh免密登录
 
 `ssh-keygen -t rsa -C "myname@mymail.com"`
 
@@ -70,7 +76,7 @@ npx -v
 
 复制公钥内容，打开 GitHub -> 点击右上角头像 -> Settings -> SSH and GPG keys -> New SSH key -> 粘贴
 
-## 创建目录
+### 创建目录
 
 1. 在 /user/local/ 下创建 www 文件夹并进入
 
@@ -88,7 +94,7 @@ cd www
 
 ![images](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/Server001.png)
 
-# 4. NGINX 安装部署
+## 4. NGINX 安装部署
 
 这里下载的是 nginx-1.20.2 版本
 
@@ -107,11 +113,11 @@ cd nginx
 
 解压完之后， /usr/local/nginx ⽬录中会出现⼀个 nginx-1.20.2 的⽬录
 
-## 预先安装额外的依赖
+### 预先安装额外的依赖
 `yum -y install pcre-devel`
 `yum -y install openssl openssl-devel`
 
-## 编译安装NGINX
+### 编译安装NGINX
 
 ```
 cd nginx-1.20.2
@@ -121,7 +127,7 @@ make && make install
 
 安装完成后，Nginx的可执⾏⽂件位置位于 /usr/local/nginx/sbin/nginx
 
-## 启动 NGINX
+### 启动 NGINX
 
 - 直接执⾏如下命令即可：
 
@@ -137,11 +143,11 @@ make && make install
 - 注意其配置⽂件位于：
 `/usr/local/nginx/conf/nginx.conf`
 
-## 浏览器验证启动情况
+### 浏览器验证启动情况
 
 ![images](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/Server002.png)
 
-## 修改配置文件
+### 修改配置文件
 
 `vim /usr/local/nginx/conf/nginx.conf`
 
@@ -149,15 +155,15 @@ make && make install
 ![images](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/Server003.png)
 
 
-## 重载 NGINX 配置
+### 重载 NGINX 配置
 `/usr/local/nginx/sbin/nginx -s reload`
 
-# 5. 部署成功
+## 5. 部署成功
 
 
-# 插件问题
+## 插件问题
 
-## Gitalk
+### Gitalk
 
 [Gitalk评论插件使用教程](https://segmentfault.com/a/1190000018072952)
 [自动初始化Gitalk评论](http://edisonxu.com/2018/10/31/gitalk-auto-init.html?hmsr=joyk.com&utm_source=joyk.com&utm_medium=referral)

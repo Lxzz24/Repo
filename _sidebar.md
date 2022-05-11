@@ -103,11 +103,11 @@
     - [希腊字母](/3-Note/速查/希腊字母.md)
 
   - 📈 效率
+    - [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
     - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
     - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
     - [DNS](/3-Note/效率/DNS.md)
   - 🛠️ 部署
-    - [Docsify博客部署](/3-Note/部署/Docsify博客部署.md)
     - [Nginx部署](/3-Note/部署/Nginx部署.md)
   
 - 🔨 **工具**

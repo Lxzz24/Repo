@@ -1,3 +1,4 @@
+#
 # 5.1 OOP特征二：继承性 (inheritance)
 ```java
 public class Creature {

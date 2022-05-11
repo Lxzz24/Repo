@@ -11,7 +11,7 @@
 
 ⭐*源码已上传 GitHub ，需要右上角自取*⭐
 
-👉*使用说明*👉 [Docsify博客部署](/3-Note/Docsify博客部署.md)
+👉*使用说明*👉 [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
 
 
 记住，一定要善用 `Ctrl+F` 哦！
@@ -213,6 +213,7 @@
 
 <details><summary class="lv1"><b>📈 效率</b></summary>
 
+- [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
 - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
 - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
 - [DNS](/3-Note/效率/DNS.md)
@@ -223,7 +224,6 @@
 
 <details><summary class="lv1"><b>🛠️ 部署</b></summary>
 
-- [Docsify博客部署](/3-Note/部署/Docsify博客部署.md)
 - [Nginx部署](/3-Note/部署/Nginx部署.md)
 
 </details>
