@@ -20,8 +20,8 @@
   <link rel="icon" href="favicon.ico" type="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" type="favicon.ico" />
 
-  <!-- Gitalk -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <!-- Gitalk
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
 
   <style>
     /*加重描述 strong*/
@@ -40,6 +40,7 @@
     }
 
     .markdown-section h1 {
+      
       font-weight: 600;
       display: inline-block;
       padding: 10px 0px 0px 0px;
@@ -49,7 +50,7 @@
 
     /*代码块背景*/
     p code {
-      background-color: rgb(235, 235, 235) !important;
+      background-color: rgba(235, 235, 235) !important;
     }
 
     .markdown-section h2 {
@@ -265,6 +266,12 @@
 
       //disqus Not Free
       //disqus: 'shortname'
+
+      toc: {
+        tocMaxLevel: 5,
+        target: 'h1, h2, h3, h4, h5'
+      },
+
     }
   </script>
 
@@ -328,6 +335,9 @@
 
   <!-- 阅读进度条 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+
+  <!-- 页面大纲 docsify-plugin-toc -->
+  <script src="//unpkg.com/docsify-plugin-toc"></script>
 
   <!-- 分页导航插件Pagination -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>

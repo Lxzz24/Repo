@@ -30,7 +30,6 @@
 
 ## ☕️ Java
 
-
 <details><summary class="lv2">💯 JavaSE</summary>
 
 <details><summary class="lv3">📑 Note</summary>
