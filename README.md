@@ -1,5 +1,3 @@
-# 😶‍🌫️ README
-
 
 !>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
 
@@ -140,7 +138,7 @@
 
 <details><summary class="lv1"><b>🧮 算法与数据结构</b></summary>
 
-- [算法与数据结构学习路线](/2-PCbase/0-StudyRoute/算法与数据结构学习路线.md)
+- [算法与数据结构学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
 
 
 <details><summary class="lv2">⚖️ 算法</summary>
@@ -176,13 +174,13 @@
 
 <details><summary class="lv1"><b>🌐 计算机网络</b></summary>
 
-- [计算机网络学习路线](/2-PCbase/0-StudyRoute/计算机网络学习路线.md)
+- [计算机网络学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
 - [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
 
 
 <details><summary class="lv2">🔐 网络安全</summary>
 
-- [网络安全学习路线](/2-PCbase/0-StudyRoute/网络安全学习路线.md)
+- [网络安全学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
 
 </details>
 </details>
