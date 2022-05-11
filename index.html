@@ -76,6 +76,7 @@
     .markdown-section>p {
       font-size: 16px !important;
     }
+
   </style>
 
 </head>
@@ -200,14 +201,17 @@
         height: "3px",
       },
 
-      //备案信息:以脚注的形式
+      //
+      
+      
+      //添加页脚:备案信息
       plugins: [
         function (hook) {
           var footer = [
             '<hr/>',
+            '<span id="sitetime"></span><br/>',
             '<footer>',
-            '<span><a href="https://beian.miit.gov.cn">粤ICP备2022022549号</a> &copy;2022.</span>',
-            '<span>Proudly published with <a href="http://www.gxmnzl.xyz:888/#/" target="_blank">Lxzz\'Repository</a>.</span>',
+            '<span>Copyright &copy; 2022 - 至今&nbsp;<a href="https://beian.miit.gov.cn">粤ICP备2022022549号</a> </span>',
             '</footer>'
           ].join('');
 
@@ -302,8 +306,46 @@
   <!-- emoji表情支持 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 
+  
   <!-- 字数统计 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+
+  <!-- 添加网站运行时间统计 -->
+  <script language=javascript>
+    function siteTime() {
+       window.setTimeout("siteTime()", 1000);
+       var seconds = 1000;
+       var minutes = seconds * 60;
+       var hours = minutes * 60;
+       var days = hours * 24;
+       var years = days * 365;
+       var today = new Date();
+       var todayYear = today.getFullYear();
+       var todayMonth = today.getMonth() + 1;
+       var todayDate = today.getDate();
+       var todayHour = today.getHours();
+       var todayMinute = today.getMinutes();
+       var todaySecond = today.getSeconds();
+       /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
+       year - 作为date对象的年份，为4位年份值
+       month - 0-11之间的整数，做为date对象的月份
+       day - 1-31之间的整数，做为date对象的天数
+       hours - 0(午夜24点)-23之间的整数，做为date对象的小时数
+       minutes - 0-59之间的整数，做为date对象的分钟数
+       seconds - 0-59之间的整数，做为date对象的秒数
+       microseconds - 0-999之间的整数，做为date对象的毫秒数 */
+       var t1 = Date.UTC(2022, 02, 22, 22, 22, 22); //北京时间2022-02-22 22:22:22 //计划考研的日子，6月20日毕业典礼结束后，人生需要继续努力，加油，看到这句话的朋友们！
+       var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+       var diff = t2 - t1;
+       var diffYears = Math.floor(diff / years);
+       var diffDays = Math.floor((diff / days) - diffYears * 365);
+       var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
+       var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
+       var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
+       document.getElementById("sitetime").innerHTML = " 本站已安全运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分 " + diffSeconds + " 秒 ";
+    }
+    siteTime();
+</script>
 
   <!--使用 Gitter 实现一个 IM 即时通讯聊天室功能-->
   <script>
@@ -313,7 +355,7 @@
   </script>
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/sidecar.v1.js" async defer></script>
   
-  <!-- Gitalk -->
+  <!-- Gitalk
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
   <script>
@@ -351,8 +393,10 @@
         location.reload()
       }
     }
-  </script>
+  </script> -->
   
+
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/commento.js"></script>
 </body>
 
 </html>
