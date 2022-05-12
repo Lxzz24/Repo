@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  
+
   <!--CSS-->
-  
+
   <!-- 主题 Theme
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/vue.css">
@@ -160,8 +160,8 @@
       },
 
       //
-      
-      
+
+
       //添加页脚:备案信息
       plugins: [
         function (hook) {
@@ -177,29 +177,29 @@
             return html + footer;
           });
         },
-        
-        
+
+
         function (hook, vm) {
           // load livere
-          hook.beforeEach(function(content) {
-              var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81NjM4MC8zMjg0Mw=='></div>\n\n----\n"
-              return content + comment;
+          hook.beforeEach(function (content) {
+            var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81NjM4MC8zMjg0Mw=='></div>\n\n----\n"
+            return content + comment;
           });
 
-          hook.doneEach(function() {
-             (function(d, s) {
-                 var j, e = d.getElementsByTagName(s)[0];
-                 if (typeof LivereTower === 'function') { return; }
-                 j = d.createElement(s);
-                 j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-                 j.async = true;
-                 e.parentNode.insertBefore(j, e);
-             })(document, 'script');
+          hook.doneEach(function () {
+            (function (d, s) {
+              var j, e = d.getElementsByTagName(s)[0];
+              if (typeof LivereTower === 'function') { return; }
+              j = d.createElement(s);
+              j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+              j.async = true;
+              e.parentNode.insertBefore(j, e);
+            })(document, 'script');
           });
 
           //parse twemoji
-          hook.doneEach(function() {
-              twemoji.parse(document);
+          hook.doneEach(function () {
+            twemoji.parse(document);
           });
         },
 
@@ -234,33 +234,55 @@
           toggleBtnBg: '#42b983'
         }
       },
+
+      //Tabs
+      tabs: {
+        persist: true,      // default
+        sync: true,      // default
+        theme: 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      }
     }
   </script>
 
+  <!-- Plugins -->
   <!-- docsify的js依赖 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify@4.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-themeable.min.js"></script>
 
-  <!-- 侧边栏折叠 plugins -->
+
+  <!-- 暂不使用
+    1. pdf 插入
+    <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-pdf-embed.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/pdfobject.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-example-panels.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/index.js"></script>
+  -->
+
+  <!-- Tabs -->
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-tabs@1.js"></script>
+
+  <!-- **************侧边栏折叠 plugins -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
-
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
   <!-- 支持搜索 -->
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/search.min.js"></script>
-  
-  <!-- 支持缩放图像 -->
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/search.min.js"></script>
 
-  <!-- 支持 LaTex 语言 -->
+  <!-- 支持缩放图像 -->
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/zoom-image.min.js"></script>
+
+  <!-- ***************支持 LaTex 语言 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
 
   <!-- 复制代码-->
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-copy-code.min.js"></script>
 
   <!-- 回到顶部功能 -->
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/jquery.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/jquery.goup.js"></script>
-
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/jquery.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/jquery.goup.js"></script>
   <script type="text/javascript">
     $(document).ready(function () {
       $.goup({
@@ -273,80 +295,93 @@
     });
   </script>
 
-  <!--gif 控制-->
+  <!-- ************** gif 控制 -->
   <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
 
   <!-- Flexible Alerts 可使用预配置或自己的样式和警报类型将块引用转换为漂亮且可配置的警报 -->
-  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-plugin-flexible-alerts.min.js"></script>
+  <!--<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>-->
 
-  <!-- mouse click -->
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/click_heart.js"></script>
+  <!-- ************** mouse click -->
+  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/click_heart.js"></script>
 
   <!-- 代码高亮 -->
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-flow.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-git.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-go.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-kotlin.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-latex.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-c.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-cpp.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-css.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-docker.js"></script>
+  <!-- 暂缺
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-flow.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-git.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-go.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-kotlin.min.js"></script>
+  -->
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-java.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-javascript.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-json.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-json.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-latex.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-markdown.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-markdown.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-nginx.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-php.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-python.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-scala.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-sql.js"></script>\
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/prism-yaml.js"></script>
 
-  <!-- 阅读进度条 -->
+  <!-- **************** 阅读进度条 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
 
-  <!-- 页面大纲 docsify-plugin-toc -->
+  <!-- ************* 页面大纲 docsify-plugin-toc -->
   <script src="//unpkg.com/docsify-plugin-toc"></script>
 
-  <!-- 分页导航插件Pagination -->
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 分页导航插件 Pagination -->
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-pagination.min.js"></script>
 
-  <!-- emoji表情支持 -->
+  <!-- ***************** emoji表情支持 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 
-  
   <!-- 字数统计 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/countable.min.js"></script>
 
   <!-- 添加网站运行时间统计 -->
   <script language=javascript>
     function siteTime() {
-       window.setTimeout("siteTime()", 1000);
-       var seconds = 1000;
-       var minutes = seconds * 60;
-       var hours = minutes * 60;
-       var days = hours * 24;
-       var years = days * 365;
-       var today = new Date();
-       var todayYear = today.getFullYear();
-       var todayMonth = today.getMonth() + 1;
-       var todayDate = today.getDate();
-       var todayHour = today.getHours();
-       var todayMinute = today.getMinutes();
-       var todaySecond = today.getSeconds();
-       /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
-       year - 作为date对象的年份，为4位年份值
-       month - 0-11之间的整数，做为date对象的月份
-       day - 1-31之间的整数，做为date对象的天数
-       hours - 0(午夜24点)-23之间的整数，做为date对象的小时数
-       minutes - 0-59之间的整数，做为date对象的分钟数
-       seconds - 0-59之间的整数，做为date对象的秒数
-       microseconds - 0-999之间的整数，做为date对象的毫秒数 */
-       var t1 = Date.UTC(2022, 02, 22, 22, 22, 22); //北京时间2022-02-22 22:22:22 //计划考研的日子，6月20日毕业典礼结束后，人生需要继续努力，加油，看到这句话的朋友们！
-       var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
-       var diff = t2 - t1;
-       var diffYears = Math.floor(diff / years);
-       var diffDays = Math.floor((diff / days) - diffYears * 365);
-       var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
-       var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
-       var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
-       document.getElementById("sitetime").innerHTML = " 本站已安全运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分 " + diffSeconds + " 秒 ";
+      window.setTimeout("siteTime()", 1000);
+      var seconds = 1000;
+      var minutes = seconds * 60;
+      var hours = minutes * 60;
+      var days = hours * 24;
+      var years = days * 365;
+      var today = new Date();
+      var todayYear = today.getFullYear();
+      var todayMonth = today.getMonth() + 1;
+      var todayDate = today.getDate();
+      var todayHour = today.getHours();
+      var todayMinute = today.getMinutes();
+      var todaySecond = today.getSeconds();
+      /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
+      year - 作为date对象的年份，为4位年份值
+      month - 0-11之间的整数，做为date对象的月份
+      day - 1-31之间的整数，做为date对象的天数
+      hours - 0(午夜24点)-23之间的整数，做为date对象的小时数
+      minutes - 0-59之间的整数，做为date对象的分钟数
+      seconds - 0-59之间的整数，做为date对象的秒数
+      microseconds - 0-999之间的整数，做为date对象的毫秒数 */
+      var t1 = Date.UTC(2022, 02, 22, 22, 22, 22); //北京时间2022-02-22 22:22:22 //计划考研的日子，6月20日毕业典礼结束后，人生需要继续努力，加油，看到这句话的朋友们！
+      var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+      var diff = t2 - t1;
+      var diffYears = Math.floor(diff / years);
+      var diffDays = Math.floor((diff / days) - diffYears * 365);
+      var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
+      var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
+      var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
+      document.getElementById("sitetime").innerHTML = " 本站已安全运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分 " + diffSeconds + " 秒 ";
     }
     siteTime();
-</script>
+  </script>
 
   <!--使用 Gitter 实现一个 IM 即时通讯聊天室功能-->
   <script>
@@ -355,7 +390,7 @@
     };
   </script>
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/sidecar.v1.js" async defer></script>
-  
+
 
   <!-- Gitalk
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
@@ -396,7 +431,7 @@
       }
     }
   </script> -->
-  
+
 
   <!-- twemoji -->
   <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
