@@ -1,3 +1,10 @@
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/readme.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/style.css">
+<!-- 设定details样式 
+<style name="Caveat">
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+</style>
+-->
 
 !>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
 
@@ -519,14 +526,6 @@
 
 
 
-<!-- CSS样式 -->
 
 
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/readme.css">
-
-<!-- 设定details样式 
-<style name="details">
-  
-  
-</style>-->
