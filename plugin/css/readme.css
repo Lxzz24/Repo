@@ -11,11 +11,11 @@
     user-select: none;
 }
 
-/* 设置无序列表符号"·"的位置 */
+/* 设置无序列表符号"·"的位置*/
 ul {
     /*list-style-type:none;*/
     padding: 0px;
-    margin: 0 0 0 90px;
+    /*margin: 0 0 0 90px;*/
 }
 
 li {

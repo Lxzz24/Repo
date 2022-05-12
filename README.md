@@ -37,10 +37,9 @@
 
 ## ☕️ Java
 
-<details><summary class="lv2">💯 JavaSE</summary>
-
 <!-- tabs:start -->
-#### 📑 Note
+
+#### **📑 Note**
 
 - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
 - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
@@ -50,7 +49,7 @@
 - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
 - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md)
 
-#### ⌨️ Code
+#### **⌨️ Code**
 
 - [1_code](/1-Develop/Java/JavaSE/1-code/1_code.md)
 - [2-1_code](/1-Develop/Java/JavaSE/1-code/2-1_code.md)
@@ -65,7 +64,7 @@
 - [5_练习](/1-Develop/Java/JavaSE/1-code/5_练习.md)
 - [5_code](/1-Develop/Java/JavaSE/1-code/5_code.md)
 
-#### ✏️ 练习
+#### **✏️ 练习**
 
 - [每日练习1](/1-Develop/Java/JavaSE/2-daily/每日练习1.md)
 - [每日练习2](/1-Develop/Java/JavaSE/2-daily/每日练习2.md)
@@ -79,7 +78,7 @@
 - [每日练习10](/1-Develop/Java/JavaSE/2-daily/每日练习10.md)
 
 
-<!-- tabs:start -->
+<!-- tabs:end -->
 <details><summary class="lv3">📑 Note</summary>
 
 - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
@@ -89,6 +88,10 @@
 - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md) 
 - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
 - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md)
+
+<details><summary class="lv2">💯 JavaSE</summary>
+
+
 
 </details>
 
