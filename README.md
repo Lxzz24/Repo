@@ -1,8 +1,3 @@
-<!-- 引入 Caveat 字体 -->
-<style name="Caveat">
-  @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
-</style>
-
 <font face="Caveat" size="10"><b>Lxzz' Repo</b></font>  
 
 <font face="Caveat" size="6">Always  Have  Always  Will</font>  
@@ -499,43 +494,3 @@
 
 
 
-<!--设定details样式-->
-<style>
-  /* 设置details标题无法选中 */
-  details {
-    /*text-indent:5em;*/
-    moz-user-select: -moz-none;
-    -moz-user-select: none;
-    -o-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-  }
-  /*设置无序列表符号"·"的位置*/
-  details ul {
-    /*list-style-type:none;*/
-    padding: 0px;
-    margin: 0 0 0 90px;
-  }
-  details li {
-    font-size:1.1em;
-    line-height:1.5em;
-  }
-  /*设置不同层级的summary标题的样式*/
-  summary.lv1{
-    font-size:1.8em;
-    text-indent:1em;
-    line-height:3em;
-  }
-  summary.lv2{
-    font-size:1.5em;
-    text-indent:2em;
-    line-height:2em;
-  }
-  summary.lv3{
-    font-size:1.2em;
-    text-indent:4em;
-    line-height:2em;
-  }
-</style>
