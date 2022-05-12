@@ -6,20 +6,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-
-  <!-- gif 播放控制-->
-  <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
-
+  
+  <!--CSS-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <!-- 主题 Theme
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/style.css">-->
   <!-- 支持 LaTex 语言 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
   <link rel="stylesheet" href="https://wugenqiang.js.org/src/css/iconfont.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/custom.css">
-
   <!-- 设置浏览器图标 -->
   <link rel="icon" href="favicon.ico" type="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" type="favicon.ico" />
-
+  <!-- gif 播放控制 -->
+  <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
   <!-- Gitalk
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
 
@@ -79,6 +80,17 @@
     }
 
   </style>
+
+  <!-- 百度流量统计
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?'inputyourid'";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script> -->
 
 </head>
 
@@ -272,6 +284,11 @@
         target: 'h1, h2, h3, h4, h5'
       },
 
+      darkMode: {
+        light: {
+          toggleBtnBg: '#42b983'
+        }
+      },
     }
   </script>
 
