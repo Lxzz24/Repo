@@ -41,7 +41,7 @@ pre {
     border-radius: 5px;
 }*/
 
-/*侧边栏*/
+/*侧边栏
 .sidebar {
     padding-top: 5px;
     padding-left: 10px;
@@ -71,7 +71,7 @@ aside.sidebar ul li.active>a {
     font-size: 18px !important;
 }
 
-/*以上调侧边栏*/
+以上调侧边栏*/
 
 .sidebar,
 .sidebar-toggle,
