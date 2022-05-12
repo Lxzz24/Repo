@@ -37,6 +37,8 @@
 
 ## ☕️ Java
 
+<details><summary class="lv2">💯 JavaSE</summary>
+
 <!-- tabs:start -->
 
 #### **📑 Note**
@@ -79,53 +81,7 @@
 
 
 <!-- tabs:end -->
-<details><summary class="lv3">📑 Note</summary>
 
-- [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
-- [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
-- [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md)
-- [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md) 
-- [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md) 
-- [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
-- [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md)
-
-<details><summary class="lv2">💯 JavaSE</summary>
-
-
-
-</details>
-
-<details><summary class="lv3">⌨️ Code</summary>
-
-- [1_code](/1-Develop/Java/JavaSE/1-code/1_code.md)
-- [2-1_code](/1-Develop/Java/JavaSE/1-code/2-1_code.md)
-- [2-2_code](/1-Develop/Java/JavaSE/1-code/2-2_code.md)
-- [2-2_例题](/1-Develop/Java/JavaSE/1-code/2-2_例题.md)
-- [2-2_练习](/1-Develop/Java/JavaSE/1-code/2-2_练习.md)
-- [3_练习](/1-Develop/Java/JavaSE/1-code/3_练习.md)
-- [3_code](/1-Develop/Java/JavaSE/1-code/3_code.md)
-- [4_练习](/1-Develop/Java/JavaSE/1-code/4_练习.md)
-- [4_练习12](/1-Develop/Java/JavaSE/1-code/4_练习12.md)
-- [4_code](/1-Develop/Java/JavaSE/1-code/4_code.md)
-- [5_练习](/1-Develop/Java/JavaSE/1-code/5_练习.md)
-- [5_code](/1-Develop/Java/JavaSE/1-code/5_code.md)
-
-</details>
-
-<details><summary class="lv3">✏️ 练习</summary>
-
-- [每日练习1](/1-Develop/Java/JavaSE/2-daily/每日练习1.md)
-- [每日练习2](/1-Develop/Java/JavaSE/2-daily/每日练习2.md)
-- [每日练习3](/1-Develop/Java/JavaSE/2-daily/每日练习3.md)
-- [每日练习4](/1-Develop/Java/JavaSE/2-daily/每日练习4.md)
-- [每日练习5](/1-Develop/Java/JavaSE/2-daily/每日练习5.md)
-- [每日练习6](/1-Develop/Java/JavaSE/2-daily/每日练习6.md)
-- [每日练习7](/1-Develop/Java/JavaSE/2-daily/每日练习7.md)
-- [每日练习8](/1-Develop/Java/JavaSE/2-daily/每日练习8.md)
-- [每日练习9](/1-Develop/Java/JavaSE/2-daily/每日练习9.md)
-- [每日练习10](/1-Develop/Java/JavaSE/2-daily/每日练习10.md)
-
-</details>
 </details>
 
 
