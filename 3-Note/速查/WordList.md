@@ -1,6 +1,9 @@
+#
+# 常用单词表
+
 <!-- tabs:start -->  
 
-# **A**  
+## **A**  
 
 - abbreviate, vt. 缩写，省略        
 - abbreviation, n. 缩短，省略，简称        
@@ -136,7 +139,7 @@
 - aware, a. 知道的，察觉到的 [əˈwer]        
 - away, ad. 离开，(去)掉 [əˈwe]        
 
-# **B**
+## **B**
 
 - back, n. 背面，反向，底座 [bæk]        
 - background, n. 背景，底色，基础 [ˈbækˌɡraʊnd]        
@@ -197,7 +200,7 @@
 - bypass, n. 旁路 [ˈbaɪˌpæs]    
 - byte, n. (二进制的)字节 [baɪt]    
 
-# **C**
+## **C**
 
 - cache, n. 高速缓存 [kæʃ]    
 - cad, 计算机辅助设计 [kæd]  
@@ -361,7 +364,7 @@
 - cut, v. 割，切 [kʌt]      
 - cycle, n. &, v. 周，周期；循环 [ˈsaɪkəl]   
 
-# **D**
+## **D**
 
 - daily, a. 每日的，日常的 [ˈdeli]        
 - damage, n. &, vt. 损伤，故障 [ˈdæmɪdʒ]        
@@ -476,7 +479,7 @@
 - during, prep. 在…期间 [ˈdʊrɪŋ]  
 - dynamic, a. 动态的，动力的 [daiˈnæmik]    
 
-# **E**
+## **E**
 
 - each, a. &, ad. 各(自)，每个 [itʃ]        
 - early, a. &, ad. 早期，初期 [ˈɜrli]        
@@ -579,7 +582,7 @@
 - extract, vt. 抽取，摘录，开方 [ɪkˈstrækt]        
 - extremely, ad. 极端地，非常 [ɪk'strimlɪ]       
 
-# **F**
+## **F**
 
 - face, n. 面，表面 [fes]        
 - facility, n. 设施，装备，便利 [fəˈsɪləti]        
@@ -652,7 +655,7 @@
 - fundamental, a. 基本的，根本的 [ˌfʌndəˈmɛntl]        
 - future, n. &, a. 将来，未来的 [ˈfjutʃɚ]        
 
-# **G**
+## **G**
 
 - gain, n. 增益(系数) [ɡen]    
 - gap, n. 间隙，间隔，缝隙 [ɡæp]        
@@ -678,7 +681,7 @@
 - guard, v. &, n. 防护；防护装置 [gɑrd]    
 - guide, n. 向导，指南，入门 [ɡaɪd] 
 
-# **H**
+## **H**
 
 - habit, n. 习惯 [ˈhæbɪt]    
 - half, n. &, a. &, ad. 一半，半个 [hæf]        
@@ -726,7 +729,7 @@
 - hundred, n. &, a. (一)百，百个 [ˈhʌndrɪd]        
 - hyphen, n. 连字符，短线 [ˈhaɪfən] 
 
-# **I**
+## **I**
 
 - icon, n. 图符，象征 [ˈaɪkɑn]        
 - idea, n. 思想，观念 [aɪˈdiə]        
@@ -812,14 +815,14 @@
 - item, n. 项，项目，条款 [ˈaɪtəm]        
 - iterative, a. 迭代的 ['ɪtəˌreɪtɪv]    
 
-# **J**
+## **J**
 
 - job, n. 作业 [dʒɑb]  
 - join, v. &, n. 连接，并(运算) [dʒɔɪn]      
 - jump, v. &, n. 转移 [dʒʌmp]  
 - just, ad. 恰好 [dʒʌst]  
 
-# **K**
+## **K**
 
 - keep, v. 保持，保存, (ke, p) [kip]      
 - kernel, n. 内核(核心)程序 [ˈkɜrnl]  
@@ -832,7 +835,7 @@
 - kind, n. 种类，属，级，等 [kaɪnd]        
 - know, v. 知道，了解，认识, , (na, i, o) [noʊ]        
 
-# **L**
+## **L**
 
 - label, n. 标签，标号，标识符 [ˈleɪbl]        
 - labeled, a. 有标号的 ['leɪbld]    
@@ -900,7 +903,7 @@
 - lowercase, n. 下档，小写体 ['loʊrˌkeɪs]        
 - lowest, a. 最低的，最小的 ['loʊɪst]        
 
-# **M**
+## **M**
 
 - mach, n. 马赫(速度单位)    
 - machine, n. 机器，计算机 [məˈʃin]        
@@ -989,7 +992,7 @@
 - multiprocessing, n. 多重处理，多道处理['mʌltɪˌproʊsesɪŋ]      
 - murder, n. 弄坏，毁掉 [ˈmɜrdə(r)]      
 
-# **N**
+## **N**
 
 - name, n. 名，名称；vt. 命名 [nem]        
 - national, a. 国家的 [ˈnæʃənəl,ˈnæʃnəl]    
@@ -1026,7 +1029,7 @@
 - numerical, a. 数量的，数字的 [nuˈmerɪkl]        
 - numerous, a. 为数众多的，无数的 [ˈnumərəs]        
 
-# **O**
+## **O**
 
 - object, n. 对象，目标，物体(a, zhuai, ke, te)[ˈɑbdʒekt]        
 - observe, v. 观察，探测 [əbˈzɜrv]      
@@ -1082,7 +1085,7 @@
 - overwrite, v. 重写 [ˌoʊvərˈraɪt]    
 - own, a. &, v. 自己的；拥有, , (ou, en) [oʊn]    
 
-# **P**
+## **P**
 
 - pacific, a. 平稳的，太平(洋)的 [pəˈsɪfɪk]        
 - pack, n. 压缩，包裹 [pæk]        
@@ -1216,7 +1219,7 @@
 - put, v. 存放(记录)，放置, , (pa, te) [pʊt]        
 
 
-# **Q**
+## **Q**
 
 - qualified, a. 合格的，受限制的 [ˈkwɑlɪfaɪd]        
 - quality, n. 质量，性质，属性 [ˈkwɑləti]        
@@ -1230,7 +1233,7 @@
 - quotation, n. 引证，引用(句) [kwoʊˈteɪʃn]        
 - quote, n. &, v. 引号；加引号, (k, ua, i, wu, te)[kwoʊt]    
 
-# **R**
+## **R**
 
 - ram, 随机存取存储器, , (ruai, en) [ræm]  
 - random, a. 随机的 [ˈrændəm]    
@@ -1361,7 +1364,7 @@
 - running, a. 运行着的，游动的(ruo, ning) [ˈrʌnɪŋ]        
 - runtime, n. 运行时间 [rʌn'taɪm]    
 
-# **S**
+## **S**
 
 - safe, a. 安全的，可靠的 [sef]        
 - safely, ad. 安全地，确实地 [ˈseflɪ]        
@@ -1549,7 +1552,7 @@
 - syntax, n. 语法，文法，句法 [ˈsɪnˌtæks]        
 - system, n. 系统 [ˈsɪstəm]  
 
-# **T**
+## **T**
 
 - t, ime, n. 时间；vt. 计时  
 - tab, n. 制表键 [tæb]    
@@ -1634,7 +1637,7 @@ transportable, a可移动的, , (chuan, s, ip, e, dei, bao) [trænˈspɔrtəbl]
 - typewriter, n. 打字机 [ˈtaɪpˌraɪtɚ]    
 - typical, a. 典型的，标准的 [ˈtɪpɪkəl]    
 
-# **U**
+## **U**
 
 - unable, a. 不能的 [ʌnˈebəl]    
 - unavailable, a. 不能利用的 [ˌʌnəˈveləbəl]    
@@ -1687,7 +1690,7 @@ transportable, a可移动的, , (chuan, s, ip, e, dei, bao) [trænˈspɔrtəbl]
      
 
 
-# **V**
+## **V**
 
 - valid, a. 有效的 [ˈvælɪd]    
 - valuable, a. 有价值的，贵重的[ˈvæljuəbəl,ˈvæljə-]        
@@ -1717,7 +1720,7 @@ transportable, a可移动的, , (chuan, s, ip, e, dei, bao) [trænˈspɔrtəbl]
 - vowel, n. 元音，母音 [ˈvaʊəl]        
 - vt. 替换，置换，代换    
 
-# **W**
+## **W**
 
 - wait, v. 等待, (we, i, t, e) [wet]    
 - waiting, a. 等待的 [ˈwetɪŋ]    
@@ -1764,13 +1767,13 @@ transportable, a可移动的, , (chuan, s, ip, e, dei, bao) [trænˈspɔrtəbl]
 - write, v. 写，存入 [raɪt]        
 - wrong, a. &, ad. n. 错误(的) [rɔŋ]    
 
-# **Y**
+## **Y**
 
 - year, n. (一)年，年度，年龄, , (ye) [jɪr]        
 - yellow, a. &, n. 黄色(的) [ˈjeloʊ]    
 - yet, ad. 还，仍然，至今 [jɛt]   
 
-# **Z**
+## **Z**
 
 - zap, v. 迅速离去，击溃 [zæp]        
 - zero, n. 零，零位，零点, , (, ze, i, ro, u) [ˈzɪroʊ]      
