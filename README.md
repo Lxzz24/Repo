@@ -4,11 +4,7 @@
 </style>
 
 
-
-
-
 !>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
-
 
 
 > [!TIP]
@@ -38,11 +34,11 @@
 
 ## ☕️ Java
 
-<details><summary class="lv2">💯 JavaSE</summary>
-
 <!-- tabs:start -->
 
-#### **📑 Note**
+### **💯 JavaSE**
+
+<details><summary class="lv3">📑 Note</summary>
 
 - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
 - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
@@ -52,7 +48,8 @@
 - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
 - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md)
 
-#### **⌨️ Code**
+</details>
+<details><summary class="lv3">⌨️ Code</summary>
 
 - [1_code](/1-Develop/Java/JavaSE/1-code/1_code.md)
 - [2-1_code](/1-Develop/Java/JavaSE/1-code/2-1_code.md)
@@ -67,7 +64,8 @@
 - [5_练习](/1-Develop/Java/JavaSE/1-code/5_练习.md)
 - [5_code](/1-Develop/Java/JavaSE/1-code/5_code.md)
 
-#### **✏️ 练习**
+</details>
+<details><summary class="lv3">✏️ 练习</summary>
 
 - [每日练习1](/1-Develop/Java/JavaSE/2-daily/每日练习1.md)
 - [每日练习2](/1-Develop/Java/JavaSE/2-daily/每日练习2.md)
@@ -80,10 +78,10 @@
 - [每日练习9](/1-Develop/Java/JavaSE/2-daily/每日练习9.md)
 - [每日练习10](/1-Develop/Java/JavaSE/2-daily/每日练习10.md)
 
+</details>
 
 <!-- tabs:end -->
 
-</details>
 
 
 
@@ -91,8 +89,25 @@
 ## 🗂️ 数据库
 
 
+<!-- tabs:start -->
 
-<details><summary class="lv2">⭕ Oracle</summary>
+
+### **Ⓜ️ MySQL**
+
+<details><summary class="lv3">📑 Note</summary>
+
+</details>
+<details><summary class="lv3">⌨️ Code</summary>
+
+</details>
+<details><summary class="lv3">✏️ 练习</summary>
+
+</details>
+
+
+### **⭕ Oracle**
+
+<details><summary class="lv3">📑 Note</summary>
 
 - [1-SQL](/1-Develop/Database/Oracle/1-SQL.md)
 - [2-数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
@@ -124,90 +139,92 @@
 </details>
 
 
+<!-- tabs:end -->
+
+
+
 
 ## 🎨 前 端
 
+<!-- tabs:start -->
 
+### **🖌️ HTML&CSS**
 
-<details><summary class="lv2"><b>🪟 HTML & CSS</b></summary>
+<details><summary class="lv3">📑 Note</summary>
 
 - [HTML](/1-Develop/Front-end/HTML.md)
 - [CSS](/1-Develop/Front-end/CSS.md)
 
+
 </details>
+<details><summary class="lv3">⌨️ Code</summary>
+
+</details>
+<details><summary class="lv3">✏️ 练习</summary>
+
+</details>
+
+
+
+<!-- tabs:end -->
 
 
 ---
 
 # 💻 **计算机基础**   
 
-
-
-<details><summary class="lv1"><b>🧮 算法与数据结构</b></summary>
-
 - [算法与数据结构学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
+- [操作系统学习路线](/2-PCbase/StudyRoute/操作系统学习路线.md)
+- [设计模式学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
+- [计算机网络学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
+  - [网络安全学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
 
+<!-- tabs:start -->
 
-<details><summary class="lv2">⚖️ 算法</summary>
+## **🧮 算法与数据结构**
+
+<details><summary class="lv3">⚖️ 算法</summary>
 
 - [排序算法](/2-PCbase/Algorithm&DataStructures/sort.md)
 
 </details>
-
-<details><summary class="lv2">🏛️ 数据结构</summary>
-
-
-
-</details>
-</details>
-
-
-
-<details><summary class="lv1"><b>🖥️ 操作系统</b></summary>
-
-- [操作系统学习路线](/2-PCbase/StudyRoute/操作系统学习路线.md)
+<details><summary class="lv3">🏛️ 数据结构</summary>
 
 </details>
 
 
-
-<details><summary class="lv1"><b>🖼️ 设计模式</b></summary>
-
-- [设计模式学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
-
-</details>
+## **🖥️ 操作系统**
 
 
+## **🖼️ 设计模式**
 
-<details><summary class="lv1"><b>🌐 计算机网络</b></summary>
 
-- [计算机网络学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
+## **🌐 计算机网络**
+
+
 - [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
 
 
-<details><summary class="lv2">🔐 网络安全</summary>
+<details><summary class="lv3">🔐 网络安全</summary>
 
-- [网络安全学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
 
 </details>
-</details>
 
+<!-- tabs:end -->
 
 
 ---
 
 # 📒 **笔 记**
 
+<!-- tabs:start -->
 
-<details><summary class="lv1"><b>💭 博客</b></summary>
+## **💭 博客**
 
 - [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
 - [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
 
-</details>
-
-
-<details><summary class="lv1"><b>🔍 速查</b></summary>
+## **🔍 速查**
 
 - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
 - [HTML](/3-Note/速查/HTML速查)
@@ -215,73 +232,59 @@
 - [KaTeX](/3-Note/速查/katex.md)
 - [希腊字母](/3-Note/速查/希腊字母.md)
 
-</details>
-
-
-<details><summary class="lv1"><b>📈 效率</b></summary>
+## **📈 效率**
 
 - [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
 - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
 - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
 - [DNS](/3-Note/效率/DNS.md)
 
-
-</details>
-
-
-<details><summary class="lv1"><b>🛠️ 部署</b></summary>
+## **🛠️ 部署**
 
 - [Nginx部署](/3-Note/部署/Nginx部署.md)
 
-</details>
-
-
+<!-- tabs:end -->
 
 ---
 
 # 🔨 **工 具**
 
+<!-- tabs:start -->
 
-<details><summary class="lv1"><b>⚙️ 软件指南</b></summary>
+## **⚙️ 软件指南**
 
 - [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
 - [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
 - [Maven安装与配置](/4-ToolBox/软件指南/Maven安装与配置.md)
 
-</details>
-
-<details><summary class="lv1"><b>🔨 实用工具</b></summary>
+## **🔨 实用工具**
 
 - [编程相关在线工具](/4-ToolBox/实用工具/编程在线工具.md)
 - [ToolBox 实用工具库](/4-ToolBox/实用工具/Tools.md)
 - [TamperMonkey油猴](/4-ToolBox/实用工具/TamperMonkey油猴.md)
 
-</details>
-
-
-<details><summary class="lv1"><b>🍏 Mac</b></summary>
+## **🍏 Mac**
 
 - [Mac使用技巧](/4-ToolBox/Mac/Mac使用技巧.md)
 - [Mac上的”IDM“下载](/4-ToolBox/Mac/Mac上的”IDM“下载.md)
 
-</details>
+<!-- tabs:end -->
 
 
 ---
 
 # ✒️ **刷 题**
 
-<details><summary class="lv1"><b>🔗 常用</b></summary>
 
-
-
-</details>
 
 ---
 
+
 # 🔗 **资 源**
 
-<details><summary class="lv1"><b>🔗 常用</b></summary>
+<!-- tabs:start -->
+
+## **🔗 常用**
 
 - [片库](https://www.btnull.org/)
 - [奇它论坛](https://www.qitabbs.com/)
@@ -291,22 +294,16 @@
 - [Mac毒](https://www.macdo.cn/)
 - [计算机类书籍](https://github.com/itdevbooks/pdf) [👉打不开点这里](/6-Resource/计算机类书籍.md)
 
-</details>
-
-
-<details><summary class="lv1"><b>📁 软件 & 🎞️ 影视 </b></summary>
+## **📁 软件 & 🎞️ 影视**
 
 - [程序员常用软件汇总](/6-Resource/程序员常用软件汇总.md)
 
-</details>
-
-<details><summary class="lv1"><b>♾️ 文章</b></summary>
+## **♾️ 文章**
 
 - [CS-Notes, from CyC2018](https://github.com/CyC2018/CS-Notes)
 - [VSCode 配置](https://juejin.cn/post/7077393092264869924)
-- 
 
-</details>
+<!-- tabs:end -->
 
 
 
@@ -315,9 +312,7 @@
 
 # 🍚 **做饭指南**
 
-
-
-<details><summary class="lv1"><b>🍳 做菜之前</b></summary>
+## 🍳 做菜之前
 
 - [采购原料，准备厨房](/7-HowToCook/tips/厨房准备.md)
 - [学习炒与煎炸](/7-HowToCook/tips/learn/炒与煎.md)
@@ -329,13 +324,12 @@
 - [了解食品安全常识](/7-HowToCook/tips/learn/食品安全.md)
 - [如何选择吃什么？](/7-HowToCook/tips/如何选择现在吃什么.md)
 
-</details>
 
+## 🍲 菜谱
 
+<!-- tabs:start -->
 
-<details><summary class="lv1"><b>🍲 菜谱</b></summary>
-
-<details><summary class="lv2"><b>🥘 家常菜</b></summary>
+### **🥘 家常菜**
 
 <details><summary class="lv3">🐟 水产</summary>
 
@@ -405,11 +399,9 @@
 - [鱼香茄子](/7-HowToCook/dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 </details>
-</details>
 
 
-
-<details><summary class="lv2"><b>🍞 早餐</b></summary>
+## **🍞 早餐**
 
 - [太阳蛋](/7-HowToCook/dishes/breakfast/太阳蛋.md)
 - [牛奶燕麦](/7-HowToCook/dishes/breakfast/牛奶燕麦.md)
@@ -419,11 +411,7 @@
 - [水煮玉米](/7-HowToCook/dishes/breakfast/水煮玉米.md)
 - [微波炉蛋糕](/7-HowToCook/dishes/breakfast/微波炉蛋糕.md)
 
-</details>
-
-
-
-<details><summary class="lv2"><b>🍜 主食</b></summary>
+### **🍜 主食**
 
 - [米饭](/7-HowToCook/dishes/staple/米饭/米饭.md)
 - [蛋炒饭](/7-HowToCook/dishes/staple/蛋炒饭.md)
@@ -443,11 +431,7 @@
 - [老友猪肉粉](/7-HowToCook/dishes/staple/老友猪肉粉/老友猪肉粉.md)
 - [微波炉腊肠煲仔饭](/7-HowToCook/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 
-</details>
-
-
-
-<details><summary class="lv2"><b>🥟 半成品加工</b></summary>
+### **🥟 半成品加工**
 
 - [速冻汤圆](/7-HowToCook/dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 - [懒人蛋挞](/7-HowToCook/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
@@ -455,11 +439,8 @@
 - [速冻馄饨](/7-HowToCook/dishes/semi-finished/速冻馄饨.md)
 - [凉皮](/7-HowToCook/dishes/semi-finished/凉皮.md)
 
-</details>
 
-
-
-<details><summary class="lv2"><b>🥣 汤与粥</b></summary>
+## **🥣 汤与粥**
 
 - [米粥](/7-HowToCook/dishes/soup/米粥.md)
 - [皮蛋瘦肉粥](/7-HowToCook/dishes/soup/皮蛋瘦肉粥.md)
@@ -469,11 +450,7 @@
 - [昂刺鱼豆腐汤](/7-HowToCook/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 - [紫菜蛋花汤](/7-HowToCook/dishes/soup/紫菜蛋花汤.md)
 
-</details>
-
-
-
-<details><summary class="lv2"><b>🧋 饮料</b></summary>
+## **🧋 饮料**
 
 - [酸梅汁](/7-HowToCook/dishes/drink/酸梅汁.md)
 - [百香果橙子特调](/7-HowToCook/dishes/drink/百香果橙子特调/百香果橙子特调.md)
@@ -482,10 +459,7 @@
 - [金汤力](/7-HowToCook/dishes/drink/金汤力.md)
 - [奶茶](/7-HowToCook/dishes/drink/奶茶.md)
 
-</details>
-
-
-<details><summary class="lv2"><b>🏺 酱料和其它材料</b></summary>
+## **🏺 酱料**
 
 - [油泼辣子](/7-HowToCook/dishes/condiment/油泼辣子.md)
 - [蒜香酱油](/7-HowToCook/dishes/condiment/蒜香酱油.md)
@@ -495,28 +469,21 @@
 - [蔗糖糖浆](/7-HowToCook/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 - [炸串酱料](/7-HowToCook/dishes/condiment/炸串酱料.md)
 
-</details>
 
-
-
-<details><summary class="lv2"><b>🍰🍨 甜品</b></summary>
+## **🍨 甜品**
 
 - [提拉米苏](/7-HowToCook/dishes/dessert/提拉米苏/提拉米苏.md)
 - [烤蛋挞](/7-HowToCook/dishes/dessert/烤蛋挞/烤蛋挞.md)
 
-</details>
-</details>
+<!-- tabs:end -->
 
 
-
-<details><summary class="lv1"><b>🥢 进阶知识学习</b></summary>
+## 🥢 进阶知识学习
 
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
 - [辅料使用技巧](/7-HowToCook/tips/advanced/辅料技巧.md)
 - [油温判断技巧](/7-HowToCook/tips/advanced/油温判断技巧.md)
-
-</details>
 
 
 
@@ -528,4 +495,43 @@
 
 
 
-
+<!--设定details样式-->
+<style>
+  /* 设置details标题无法选中 */
+  details {
+    /*text-indent:5em;*/
+    moz-user-select: -moz-none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  /*设置无序列表符号"·"的位置*/
+  details ul {
+    /*list-style-type:none;*/
+    padding: 0px;
+    margin: 0 0 0 90px;
+  }
+  details li {
+    font-size:1.1em;
+    line-height:1.5em;
+  }
+  /*设置不同层级的summary标题的样式*/
+  summary.lv1{
+    font-size:1.8em;
+    text-indent:1em;
+    line-height:3em;
+  }
+  summary.lv2{
+    font-size:1.5em;
+    text-indent:2em;
+    line-height:2em;
+  }
+  summary.lv3{
+    font-size:1.2em;
+    text-indent:4em;
+    line-height:2em;
+  }
+</style>

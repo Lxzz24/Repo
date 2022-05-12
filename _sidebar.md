@@ -249,7 +249,7 @@
       - [金菲士](/7-HowToCook/dishes/drink/金菲士.md)
       - [金汤力](/7-HowToCook/dishes/drink/金汤力.md)
       - [奶茶](/7-HowToCook/dishes/drink/奶茶.md)    
-    - 🏺 酱料和其它材料
+    - 🏺 酱料
       - [油泼辣子](/7-HowToCook/dishes/condiment/油泼辣子.md)
       - [蒜香酱油](/7-HowToCook/dishes/condiment/蒜香酱油.md)
       - [糖醋汁](/7-HowToCook/dishes/condiment/糖醋汁.md)
@@ -257,7 +257,7 @@
       - [炒糖色](/7-HowToCook/dishes/condiment/糖色.md)
       - [蔗糖糖浆](/7-HowToCook/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
       - [炸串酱料](/7-HowToCook/dishes/condiment/炸串酱料.md)    
-    - 🍰🍨 甜品
+    - 🍨 甜品
       - [提拉米苏](/7-HowToCook/dishes/dessert/提拉米苏/提拉米苏.md)
       - [烤蛋挞](/7-HowToCook/dishes/dessert/烤蛋挞/烤蛋挞.md)  
   - 🥢 进阶知识学习
