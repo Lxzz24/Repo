@@ -4,6 +4,60 @@
     --docsify_dark_mode_btn: var(--theme-color)
 }
 
+/*加重描述 strong*/
+.markdown-section strong {
+    color: rgb(239, 112, 96);
+}
+
+/*代码样式
+.markdown-section code {
+    border-radius: 2px;
+    font-size: 16px !important;
+    font-family: "consolas", "Microsoft YaHei", "Times New Roman";
+    margin: 0 2px;
+    padding: 3px 5px;
+    white-space: nowrap;
+}
+
+.markdown-section h1 {
+
+    font-weight: 600;
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    border-radius: 5px;
+    margin: 3rem 0 2rem 0;
+}*/
+
+/*代码块背景
+p code {
+    background-color: rgba(235, 235, 235) !important;
+}
+
+.markdown-section h2 {
+    margin: 2rem 0 1rem;
+}
+
+img,
+pre {
+    border-radius: 5px;
+}*/
+
+/*添加代码块复制按钮样式*/
+.docsify-copy-code-button {
+    background: #039e24 !important;
+    color: #FFFFFF !important;
+    font-size: 13px !important;
+}
+
+::after {
+    color: #9da2fd !important;
+    font-size: 13px !important;
+}
+
+.markdown-section>p {
+    font-size: 16px !important;
+}
+
 /*侧边栏*/
 .sidebar {
     padding-top: 5px;
@@ -33,6 +87,7 @@ aside.sidebar ul li a {
 aside.sidebar ul li.active>a {
     font-size: 18px !important;
 }
+
 /*以上调侧边栏*/
 
 .sidebar,
