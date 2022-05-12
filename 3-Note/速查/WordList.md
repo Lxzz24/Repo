@@ -6,1686 +6,1686 @@
 
 # **A**
 
-- abbreviate, vt. 缩写，省略     
-- abbreviation, n. 缩短，省略，简称     
-- ability, n. 性能，能力，效率 [əˈbɪlɪti]     
-- able, a. 能…的，有能力的 [ˈebəl]     
-- abort, v. &, n. 中断，故障 [əˈbɔrt]     
-- about, ad. 关于，大约，附近 [əˈbaʊt]     
-- above, a. 在…之上，大于 [əˈbʌv]     
-- aboveboard, ad. &, a. 照直，公开的 [ə'bʌv'boʊrd]     
-- absence, n. 缺少，没有 [ˈæbsəns]     
-- accelerator, n. 加速装置，加速剂 [ækˈsɛləˌretɚ]     
-- accept, vt. 接受，认可，同意 [ækˈsɛpt]     
-- access, n. 存取，选取，接近 [ˈæksɛs]     
-- accessible, a. 可以使用的 [ækˈsɛsəbəl] 
-- accidentally, ad. 偶然地 [ˌæksɪ'dentəlɪ] 
-- accommodate, v. 调节，适应 [əˈkɑmədeɪt]     
-- according, to, a. 按照，根据 [ə'kɔdɪŋ]     
-- accuracy, n. 精确度，准确度 [ˈækjərəsi]     
-- achieve, vt. 完成，实现 [əˈtʃiv]     
-- acknowledgment, n. , 接收(收妥)，承认[ækˈnɑlɪdʒmənt]     
-- across, prep. 交叉，越过 [əˈkrɔs]     
-- action, n. 操作，运算 [ˈækʃən]     
-- activate, vt. &, n. 使激活，驱动 [ˈæktəˌvet]     
-- active, a. 激活的，活动的 [ˈæktɪv]     
-- activity, n. 活力，功率 [ækˈtɪvɪti]     
-- actual, a. 实际的，现实的 [ˈæktʃuəl]     
-- adapter, n. 适配器，转换器 [əˈdæptɚ]     
-- add, v. &, n. 加，增加，添 [æd]     
-- addition, n. 加法，增加 [əˈdɪʃən]     
-- additional, a. 附加的，辅助的 [ə'dɪʃənl]     
-- additionally, ad. 另外，又 [ə'dɪʃənəlɪ]     
-- additive, a. &, n. 相加的；附加物 [ˈædɪtɪv] 
-- address, vt. &, n. 寻址；地址 [ˈædres] 
-- addressing, n. 寻址 
-- adequate, a. 足够的，充分的 [ˈædɪkwɪt]     
-- adjust, vt. 调整，调节，控制 [əˈdʒʌst]     
-- administrator, n. 管理人，行政人员[ædˈmɪnɪˌstretɚ]     
-- advance, v. &, n. 进步，提高；进展 [ədˈvæns]     
-- advanced, a. 先进的，预先的 [ədˈvænst]     
-- advice, n. 意见，参考说明 [əd'vaɪs]     
-- affect, vt. 影响，改变，感动 [əˈfɛkt]     
-- affected, a. 受了影响的 [əˈfɛktɪd] 
-- after, prep. &, ad. 以后，后面 [ˈæftə(r)]     
-- again, ad. 再，又，重新，也 [əˈɡɛn]     
-- against, prep. 反对，阻止 [əˈɡenst]     
-- agree, v. 符合，相同 [əˈɡri]     
-- aid, n. 帮助，辅助程序 [ed]     
-- alias, n. 别名，代号，标记 [ˈeliəs,ˈeljəs]     
-- align, v. &, n. 定位，对准 [əˈlaɪn]     
-- aligned, a. 对准的，均衡的 [ə'laɪnd]     
-- alignment, n. 序列，成直线 [əˈlaɪnmənt]     
-- all, a. 全，全部；ad. 完全 [ɔl]     
-- allocate, vt. 分配 [ˈæləˌket] 
-- allow, v. 允许，容许 [əˈlaʊ]     
-- allowable, a. 容许的，承认的 [əˈlaʊəbl]     
-- allowed, a. 容许的 [ə'laʊd] 
-- ally, v. 联合，与…关联 ['ælaɪ]     
-- along, prep. &, ad. 沿着 [əˈlɔŋ] 
-- alpha, n. 希腊字母, α，未知数 ['ælfə]     
-- alphabet, n. 字母，字母表 [ˈælfəˌbɛt,-bɪt]     
-- alphabetical, a. 字母(表)的，abc的 [ˌælfəˈbɛtɪkəl]     
-- alphabetically, ad. 按字母表顺序 [ˌælfə'betɪklɪ] 
-- already, ad. 已经，早已 [ɔlˈrɛdi]     
-- also, ad. &, conj. 也，亦，还 [ˈɔlsoʊ]     
-- alter, v. 改变，修改 [ˈɔltɚ]     
-- alternate, a. 交替的，备用的 [ˈɔltərnət]     
-- alternately, ad. 交替地，轮流地 [ɔl'tɜnətlɪ]     
-- although, conj. 虽然，即使, [ɔlˈðo]     
-- always, ad. 总是，一直，始终 [ˈɔlwez,-wɪz,-wiz]     
-- american, a. 美国的 [əˈmerɪkən] 
-- among, prep. 在…之中，中间 [əˈmʌŋ]     
-- amount, vt. &, n. 总计；合计 [əˈmaʊnt] 
-- ampersand, n. &号(and) [ˈæmpərsænd] 
-- analyst, n. 分析员 [ˈænəlɪst] 
-- angle, n. 角，角度 [ˈæŋɡəl]     
-- announce, vt. 发表，宣布 [əˈnaʊns]     
-- another, a. 另一个，别的 [əˈnʌðɚ]     
-- ansi, n. 美国国家标准协会 
-- answer, n. &, v. 响应，回答；答复 [ˈænsə(r)]     
-- anticipate, vt. 预先考虑，抢…先 [ænˈtɪsəˌpet]     
-- anytime, ad. 在任何时候 [ˈɛniˌtaɪm] 
-- anywhere, ad. 在任何地方 [ˈeniwer] 
-- appear, vi. 出现，显现，好像 [əˈpɪr]     
-- append, vt. 附加，增补[əˈpɛnd]     
-- appendix, n. 附录 [əˈpɛndɪks] 
-- apple, n. 苹果 [ˈæpəl] 
-- applicable, a. 可适用的，合适的[ˈæplɪkəbəl,əˈplɪkə-]     
-- application, n. 应用 [ˌæplɪˈkeʃən] 
-- applied, a. 适用的，外加的 [əˈplaɪd]     
-- apply, v. 应用，适用于，作用 [əˈplaɪ]     
-- appropriate, a. 适当的，合适的, [əˈproʊpriət]     
-- appropriately, ad. 适当地, [ə'proʊprɪrtlɪ] 
-- architecture, n. 结构，构造 [ˈɑrkɪtektʃə(r)]     
-- archive, vt. 归档 [ˈɑrkaɪv] 
-- area, n. (区)域，面积，方面 [ˈeriə]     
-- argument, n. 变元，自变量 [ˈɑrgjumənt]     
-- arithmetic, n. 算术，运算 [əˈrɪθmɪtɪk]     
-- around, ad. &, prep. 周围，围绕 [əˈraʊnd]     
-- array, n. 数组，阵列 [ə'reɪ]     
-- arrow, n. 箭头，指针 [ˈæroʊ]     
-- ascending, a. 增长的，向上的 [əˈsɛndɪŋ]     
-- ascii, n. 美国信息交换标准码
-- ask, v. 请求，需要 [æsk]     
-- assemble, v. 汇编，装配 [əˈsɛmbəl]     
-- assembler, n. 汇编程序 [əˈsɛmblɚ] 
-- assembly, n. 汇编，安装，装配, [əˈsɛmbli]     
-- assign, vt. 赋值，指定，分派 [əˈsaɪn]     
-- assigned, a. 指定的，赋值的 [ə'saɪnd]     
-- assignment, n. 赋值，分配 [əˈsaɪnmənt]     
-- assist, v. &, n. 加速，帮助 [əˈsɪst]     
-- assistance, n. 辅助设备，帮助 [əˈsɪstəns]     
-- associate, v. 相联，联想，关联 [əˈsoʊʃieɪt]     
-- associated, a. 联合的，相联的 [əˈsoʊʃieɪtɪd]     
-- association, n. 结合，协会，联想 [əˌsoʊʃiˈeɪʃn]     
-- assortment, n. 种类，花色品种 [əˈsɔrtmənt]     
-- assumed, a. 假定的, [əˈsumd] 
-- asterisk, n. 星号(*), [ˈæstəˌrɪsk] 
-- asynchronous, a. 异步的，非同步的 [e'sɪŋkrənəs]     
-- attached, a. 附加的 [əˈtætʃt] 
-- attempt, vt. &, n. 尝试，试验 [əˈtɛmpt]     
-- attention, n. 注意(信号) [əˈtɛnʃən] 
-- attribute, n. 属性，标志，表征 [əˈtrɪbjut]     
-- augment, v. 增加，添加，扩充 [ɔɡˈmɛnt]     
-- author, n. 程序设计者，作者 [ˈɔθɚ]     
-- auto, a. 自动的 [ˈɔtoʊ] 
-- autoindex, n. 自动变址(数) [ɔ'tɔɪndeks] 
-- automatic, a. 自动的 [ˌɔtəˈmætɪk] 
-- automatically, ad. 自动地，机械 [ˌɔtəˈmætɪklɪ]     
-- avail, v. &, n. 有益于；利益 [əˈvel] 
-- available, a. 可用的 [əˈveləbəl] 
-- average, n. 平均，平均数 [ˈævərɪdʒ,ˈævrɪdʒ]     
-- avoid, vt. 避免，取消，无效 [əˈvɔɪd]     
-- aware, a. 知道的，察觉到的 [əˈwer]     
-- away, ad. 离开，(去)掉 [əˈwe]     
+- **abbreviate**, `vt.` 缩写，省略     
+  - abbreviation, `n.` 缩短，省略，简称     
+- ability, `n.` 性能，能力，效率 `[əˈbɪlɪti]`     
+  - able, `a.` 能…的，有能力的 `[ˈebəl]`     
+- abort, `v.` & `n.` 中断，故障 `[əˈbɔrt]`     
+- about, `ad.` 关于，大约，附近 `[əˈbaʊt]`     
+- above, `a.` 在…之上，大于 `[əˈbʌv]`     
+- aboveboard, `ad.` &, `a.` 照直，公开的 `[ə'bʌv'boʊrd]`     
+- **absence**, `n.` 缺少，没有 `[ˈæbsəns]`     
+- **accelerator**, `n.` 加速装置，加速剂 `[ækˈsɛləˌretɚ]`     
+- accept, `vt.` 接受，认可，同意 `[ækˈsɛpt]`     
+- access, `n.` 存取，选取，接近 `[ˈæksɛs]`     
+  - accessible, `a.` 可以使用的 `[ækˈsɛsəbəl]` 
+- accidentally, `ad.` 偶然地 `[ˌæksɪ'dentəlɪ]` 
+- **accommodate**, `v.` 调节，适应 `[əˈkɑmədeɪt]`     
+- according, to, `a.` 按照，根据 `[ə'kɔdɪŋ]`     
+- **accuracy**, `n.` 精确度，准确度 `[ˈækjərəsi]`     
+- achieve, `vt.` 完成，实现 `[əˈtʃiv]`     
+- acknowledgment, `n.` , 接收(收妥)，承认`[ækˈnɑlɪdʒmənt]`     
+- across, `prep.` 交叉，越过 `[əˈkrɔs]`     
+- action, `n.` 操作，运算 `[ˈækʃən]`     
+- activate, `vt.` &, `n.` 使激活，驱动 `[ˈæktəˌvet]`     
+- active, `a.` 激活的，活动的 `[ˈæktɪv]`     
+- activity, `n.` 活力，功率 `[ækˈtɪvɪti]`     
+- actual, `a.` 实际的，现实的 `[ˈæktʃuəl]`     
+- adapter, `n.` 适配器，转换器 `[əˈdæptɚ]`     
+- add, `v.` &, `n.` 加，增加，添 `[æd]`     
+- addition, `n.` 加法，增加 `[əˈdɪʃən]`     
+- additional, `a.` 附加的，辅助的 `[ə'dɪʃənl]`     
+- additionally, `ad.` 另外，又 `[ə'dɪʃənəlɪ]`     
+- additive, `a.` &, `n.` 相加的；附加物 `[ˈædɪtɪv]` 
+- address, `vt.` &, `n.` 寻址；地址 `[ˈædres]` 
+- addressing, `n.` 寻址 
+- adequate, `a.` 足够的，充分的 `[ˈædɪkwɪt]`     
+- adjust, `vt.` 调整，调节，控制 `[əˈdʒʌst]`     
+- administrator, `n.` 管理人，行政人员`[ædˈmɪnɪˌstretɚ]`     
+- advance, `v.` &, `n.` 进步，提高；进展 `[ədˈvæns]`     
+- advanced, `a.` 先进的，预先的 `[ədˈvænst]`     
+- advice, `n.` 意见，参考说明 `[əd'vaɪs]`     
+- affect, `vt.` 影响，改变，感动 `[əˈfɛkt]`     
+- affected, `a.` 受了影响的 `[əˈfɛktɪd]` 
+- after, `prep.` &, `ad.` 以后，后面 `[ˈæftə(r)]`     
+- again, `ad.` 再，又，重新，也 `[əˈɡɛn]`     
+- against, `prep.` 反对，阻止 `[əˈɡenst]`     
+- agree, `v.` 符合，相同 `[əˈɡri]`     
+- aid, `n.` 帮助，辅助程序 `[ed]`     
+- alias, `n.` 别名，代号，标记 `[ˈeliəs,ˈeljəs]`     
+- align, `v.` &, `n.` 定位，对准 `[əˈlaɪn]`     
+- aligned, `a.` 对准的，均衡的 `[ə'laɪnd]`     
+- alignment, `n.` 序列，成直线 `[əˈlaɪnmənt]`     
+- all, `a.` 全，全部；`ad.` 完全 `[ɔl]`     
+- allocate, `vt.` 分配 `[ˈæləˌket]` 
+- allow, `v.` 允许，容许 `[əˈlaʊ]`     
+- allowable, `a.` 容许的，承认的 `[əˈlaʊəbl]`     
+- allowed, `a.` 容许的 `[ə'laʊd]` 
+- ally, `v.` 联合，与…关联 `['ælaɪ]`     
+- along, `prep.` &, `ad.` 沿着 `[əˈlɔŋ]` 
+- alpha, `n.` 希腊字母, α，未知数 `['ælfə]`     
+- alphabet, `n.` 字母，字母表 `[ˈælfəˌbɛt,-bɪt]`     
+- alphabetical, `a.` 字母(表)的，abc的 `[ˌælfəˈbɛtɪkəl]`     
+- alphabetically, `ad.` 按字母表顺序 `[ˌælfə'betɪklɪ]` 
+- already, `ad.` 已经，早已 `[ɔlˈrɛdi]`     
+- also, `ad.` &, `conj.` 也，亦，还 `[ˈɔlsoʊ]`     
+- alter, `v.` 改变，修改 `[ˈɔltɚ]`     
+- alternate, `a.` 交替的，备用的 `[ˈɔltərnət]`     
+- alternately, `ad.` 交替地，轮流地 `[ɔl'tɜnətlɪ]`     
+- although, `conj.` 虽然，即使, `[ɔlˈðo]`     
+- always, `ad.` 总是，一直，始终 `[ˈɔlwez,-wɪz,-wiz]`     
+- american, `a.` 美国的 `[əˈmerɪkən]` 
+- among, `prep.` 在…之中，中间 `[əˈmʌŋ]`     
+- amount, `vt.` &, `n.` 总计；合计 `[əˈmaʊnt]` 
+- ampersand, `n.` &号(and) `[ˈæmpərsænd]` 
+- analyst, `n.` 分析员 `[ˈænəlɪst]` 
+- angle, `n.` 角，角度 `[ˈæŋɡəl]`     
+- announce, `vt.` 发表，宣布 `[əˈnaʊns]`     
+- another, `a.` 另一个，别的 `[əˈnʌðɚ]`     
+- ansi, `n.` 美国国家标准协会 
+- answer, `n.` &, `v.` 响应，回答；答复 `[ˈænsə(r)]`     
+- anticipate, `vt.` 预先考虑，抢…先 `[ænˈtɪsəˌpet]`     
+- anytime, `ad.` 在任何时候 `[ˈɛniˌtaɪm]` 
+- anywhere, `ad.` 在任何地方 `[ˈeniwer]` 
+- appear, vi. 出现，显现，好像 `[əˈpɪr]`     
+- append, `vt.` 附加，增补`[əˈpɛnd]`     
+- appendix, `n.` 附录 `[əˈpɛndɪks]` 
+- apple, `n.` 苹果 `[ˈæpəl]` 
+- applicable, `a.` 可适用的，合适的`[ˈæplɪkəbəl,əˈplɪkə-]`     
+- application, `n.` 应用 `[ˌæplɪˈkeʃən]` 
+- applied, `a.` 适用的，外加的 `[əˈplaɪd]`     
+- apply, `v.` 应用，适用于，作用 `[əˈplaɪ]`     
+- appropriate, `a.` 适当的，合适的, `[əˈproʊpriət]`     
+- appropriately, `ad.` 适当地, `[ə'proʊprɪrtlɪ]` 
+- architecture, `n.` 结构，构造 `[ˈɑrkɪtektʃə(r)]`     
+- archive, `vt.` 归档 `[ˈɑrkaɪv]` 
+- area, `n.` (区)域，面积，方面 `[ˈeriə]`     
+- argument, `n.` 变元，自变量 `[ˈɑrgjumənt]`     
+- arithmetic, `n.` 算术，运算 `[əˈrɪθmɪtɪk]`     
+- around, `ad.` &, `prep.` 周围，围绕 `[əˈraʊnd]`     
+- array, `n.` 数组，阵列 `[ə'reɪ]`     
+- arrow, `n.` 箭头，指针 `[ˈæroʊ]`     
+- ascending, `a.` 增长的，向上的 `[əˈsɛndɪŋ]`     
+- ascii, `n.` 美国信息交换标准码
+- ask, `v.` 请求，需要 `[æsk]`     
+- assemble, `v.` 汇编，装配 `[əˈsɛmbəl]`     
+- assembler, `n.` 汇编程序 `[əˈsɛmblɚ]` 
+- assembly, `n.` 汇编，安装，装配, `[əˈsɛmbli]`     
+- assign, `vt.` 赋值，指定，分派 `[əˈsaɪn]`     
+- assigned, `a.` 指定的，赋值的 `[ə'saɪnd]`     
+- assignment, `n.` 赋值，分配 `[əˈsaɪnmənt]`     
+- assist, `v.` &, `n.` 加速，帮助 `[əˈsɪst]`     
+- assistance, `n.` 辅助设备，帮助 `[əˈsɪstəns]`     
+- associate, `v.` 相联，联想，关联 `[əˈsoʊʃieɪt]`     
+- associated, `a.` 联合的，相联的 `[əˈsoʊʃieɪtɪd]`     
+- association, `n.` 结合，协会，联想 `[əˌsoʊʃiˈeɪʃn]`     
+- assortment, `n.` 种类，花色品种 `[əˈsɔrtmənt]`     
+- assumed, `a.` 假定的, `[əˈsumd]` 
+- asterisk, `n.` 星号(*), `[ˈæstəˌrɪsk]` 
+- asynchronous, `a.` 异步的，非同步的 `[e'sɪŋkrənəs]`     
+- attached, `a.` 附加的 `[əˈtætʃt]` 
+- attempt, `vt.` &, `n.` 尝试，试验 `[əˈtɛmpt]`     
+- attention, `n.` 注意(信号) `[əˈtɛnʃən]` 
+- attribute, `n.` 属性，标志，表征 `[əˈtrɪbjut]`     
+- augment, `v.` 增加，添加，扩充 `[ɔɡˈmɛnt]`     
+- author, `n.` 程序设计者，作者 `[ˈɔθɚ]`     
+- auto, `a.` 自动的 `[ˈɔtoʊ]` 
+- autoindex, `n.` 自动变址(数) `[ɔ'tɔɪndeks]` 
+- automatic, `a.` 自动的 `[ˌɔtəˈmætɪk]` 
+- automatically, `ad.` 自动地，机械 `[ˌɔtəˈmætɪklɪ]`     
+- avail, `v.` &, `n.` 有益于；利益 `[əˈvel]` 
+- available, `a.` 可用的 `[əˈveləbəl]` 
+- average, `n.` 平均，平均数 `[ˈævərɪdʒ,ˈævrɪdʒ]`     
+- avoid, `vt.` 避免，取消，无效 `[əˈvɔɪd]`     
+- aware, `a.` 知道的，察觉到的 `[əˈwer]`     
+- away, `ad.` 离开，(去)掉 `[əˈwe]`     
 
 # **B**
 
-- back, n. 背面，反向，底座 [bæk]        
-- background, n. 背景，底色，基础 [ˈbækˌɡraʊnd]        
-- backspace, v. 退格，回退 ['bækspeɪs]        
-- backup, n. 备份，后备，后援 [ˈbækˌʌp]        
-- backward, ad. 向后，逆，倒  (ba, ke, wo, de)[ˈbækwərd]        
-- bad, a. 坏的，不良的 [bæd]        
-- bar, n. 条，杆，棒 [bɑr]        
-- base, n. 基，底，基地址 [bes]        
-- basic, n. &, a. 基本；基本的 [ˈbesɪk]    
-- basis, n. 基础，座 [ˈbesɪs]        
-- batch, n. 批，批量，成批 [bætʃ]        
-- become, v. 成为，变成，适宜  (bi, ka, mu)[bɪˈkʌm]        
-- becoming, a. 合适的，相称的 [bɪˈkʌmɪŋ]        
-- beep, n. 蜂鸣声，嘀嘀声 [bip]      
-- before, prep. 以前，前，先 [bɪˈfɔr,-ˈfor]      
-- begin, v. 开始，着手，开端 [ˈbeɡɪn]      
-- beginning, n. 起点，初 [bɪˈɡɪnɪŋ]      
-- bell, n. 铃，钟 [bɛl]      
-- below, a. &, prep. 下列的；低于(bo, lou) [bɪˈloʊ]    
-- between, prep. 在…之间，中间 [bɪˈtwin]      
-- beyond, prep. 超过，那边 [bɪˈjɑnd]      
-- big, a. 大的，重要的 [bɪɡ]        
-- binary, n. &, a. 二进制；双态的  (ba, be, rui)[ˈbaɪnəri]    
-- bios, n. 基本输入/输出系统  
-- bit, n. 比特；(二进制)位 [bɪt]  
-- black, a. &, n. 黑色的，黑色 [blæk]        
-- blank, n. 空白，间隔 [blæŋk]        
-- blast, v. &, n. 清除；爆炸 [blæst]    
-- blinking, n. 闪烁  (bo, lin, kin) ['blɪŋkɪŋ]  
-- block, n. (字，信息，数据)块 [blɑk]      
-- blue, a. &, n. 蓝(色)，青色 [blu]        
-- board, n. 板，插件板 [bɔrd]        
-- book, n. 书，手册，源程序块 [bʊk]      
-- boot, n. 引导，靴 [but]      
-- border, n. 边界，框，界限 [ˈbɔrdə(r)]      
-- both, a. &, ad. 两，双，都 [boʊθ]        
-- bottom, n. &, a. 底，基础；底下 [ˈbɑtəm]        
-- boundary, n. 边界，界限，约束  (bai, en, de, rui)[ˈbaʊndəri,-dri]        
-- box, n. 箱，匣，(逻辑)框 [bɑks]      
-- bracket, n. (方)括号，等级(bo, ruai, ke, te)[ˈbrækɪt]        
-- bracketed, a. 加括号的 ['brækətɪd]    
-- branch, n. 分支，支线；v. 转换  (bo, ran, chi) [bræntʃ]        
-- break, v. 断开，撕开，中断  (bo, rui, ke) [brek]        
-- bring, v. 引起，产生，拿来 [brɪŋ]      
-- british, a. &, n. 英国的；英国人 [ˈbrɪtɪʃ]    
-- brown, a. &, n. 褐色(的)，棕色 [braʊn]        
-- browse, v. 浏览 [braʊz]    
-- buffer, n. 缓冲器(ba, fe) [ˈbʌfɚ]    
-- build, v. 建造，建立，组合 [bɪld]      
-- building, n. 建造，建筑，房屋      
-- bus, n. 总线，信息通路 [bʌs]      
-- busy, a. 忙碌的，占线的 [ˈbɪzi]        
-- but, 但是，可是，除非，不过 [bʌt, bət]    
-- button, n. 按钮 [ˈbʌtn]  
-- buy, v. 买，购买，赢得 [baɪ]        
-- by, prep. 凭，靠，沿 [baɪ]        
-- bypass, n. 旁路 [ˈbaɪˌpæs]    
-- byte, n. (二进制的)字节 [baɪt]    
+- back, `n.` 背面，反向，底座 `[bæk]`        
+- background, `n.` 背景，底色，基础 `[ˈbækˌɡraʊnd]`        
+- backspace, `v.` 退格，回退 `['bækspeɪs]`        
+- backup, `n.` 备份，后备，后援 `[ˈbækˌʌp]`        
+- backward, `ad.` 向后，逆，倒  (ba, ke, wo, de)`[ˈbækwərd]`        
+- bad, `a.` 坏的，不良的 `[bæd]`        
+- bar, `n.` 条，杆，棒 `[bɑr]`        
+- base, `n.` 基，底，基地址 `[bes]`        
+- basic, `n.` &, `a.` 基本；基本的 `[ˈbesɪk]`    
+- basis, `n.` 基础，座 `[ˈbesɪs]`        
+- batch, `n.` 批，批量，成批 `[bætʃ]`        
+- become, `v.` 成为，变成，适宜  (bi, ka, mu)`[bɪˈkʌm]`        
+- becoming, `a.` 合适的，相称的 `[bɪˈkʌmɪŋ]`        
+- beep, `n.` 蜂鸣声，嘀嘀声 `[bip]`      
+- before, `prep.` 以前，前，先 `[bɪˈfɔr,-ˈfor]`      
+- begin, `v.` 开始，着手，开端 `[ˈbeɡɪn]`      
+- beginning, `n.` 起点，初 `[bɪˈɡɪnɪŋ]`      
+- bell, `n.` 铃，钟 `[bɛl]`      
+- below, `a.` &, `prep.` 下列的；低于(bo, lou) `[bɪˈloʊ]`    
+- between, `prep.` 在…之间，中间 `[bɪˈtwin]`      
+- beyond, `prep.` 超过，那边 `[bɪˈjɑnd]`      
+- big, `a.` 大的，重要的 `[bɪɡ]`        
+- binary, `n.` &, `a.` 二进制；双态的  (ba, be, rui)`[ˈbaɪnəri]`    
+- bios, `n.` 基本输入/输出系统  
+- bit, `n.` 比特；(二进制)位 `[bɪt]`  
+- black, `a.` &, `n.` 黑色的，黑色 `[blæk]`        
+- blank, `n.` 空白，间隔 `[blæŋk]`        
+- blast, `v.` &, `n.` 清除；爆炸 `[blæst]`    
+- blinking, `n.` 闪烁  (bo, lin, kin) `['blɪŋkɪŋ]`  
+- block, `n.` (字，信息，数据)块 `[blɑk]`      
+- blue, `a.` &, `n.` 蓝(色)，青色 `[blu]`        
+- board, `n.` 板，插件板 `[bɔrd]`        
+- book, `n.` 书，手册，源程序块 `[bʊk]`      
+- boot, `n.` 引导，靴 `[but]`      
+- border, `n.` 边界，框，界限 `[ˈbɔrdə(r)]`      
+- both, `a.` &, `ad.` 两，双，都 `[boʊθ]`        
+- bottom, `n.` &, `a.` 底，基础；底下 `[ˈbɑtəm]`        
+- boundary, `n.` 边界，界限，约束  (bai, en, de, rui)`[ˈbaʊndəri,-dri]`        
+- box, `n.` 箱，匣，(逻辑)框 `[bɑks]`      
+- bracket, `n.` (方)括号，等级(bo, ruai, ke, te)`[ˈbrækɪt]`        
+- bracketed, `a.` 加括号的 `['brækətɪd]`    
+- branch, `n.` 分支，支线；`v.` 转换  (bo, ran, chi) `[bræntʃ]`        
+- break, `v.` 断开，撕开，中断  (bo, rui, ke) `[brek]`        
+- bring, `v.` 引起，产生，拿来 `[brɪŋ]`      
+- british, `a.` &, `n.` 英国的；英国人 `[ˈbrɪtɪʃ]`    
+- brown, `a.` &, `n.` 褐色(的)，棕色 `[braʊn]`        
+- browse, `v.` 浏览 `[braʊz]`    
+- buffer, `n.` 缓冲器(ba, fe) `[ˈbʌfɚ]`    
+- build, `v.` 建造，建立，组合 `[bɪld]`      
+- building, `n.` 建造，建筑，房屋      
+- bus, `n.` 总线，信息通路 `[bʌs]`      
+- busy, `a.` 忙碌的，占线的 `[ˈbɪzi]`        
+- but, 但是，可是，除非，不过 `[bʌt, bət]`    
+- button, `n.` 按钮 `[ˈbʌtn]`  
+- buy, `v.` 买，购买，赢得 `[baɪ]`        
+- by, `prep.` 凭，靠，沿 `[baɪ]`        
+- bypass, `n.` 旁路 `[ˈbaɪˌpæs]`    
+- byte, `n.` (二进制的)字节 `[baɪt]`    
 
 # **C**
 
-- cache, n. 高速缓存 [kæʃ]    
-- cad, 计算机辅助设计 [kæd]  
-- calculation, n. 计算，统计，估计 [ˌkælkjəˈleʃən]        
-- call, v. 调用，访问，呼叫 [kɔl]        
-- calling, n. 呼叫，调用，调入 [ˈkɔlɪŋ]        
-- cancel, v. 删除，取消，作废 [ˈkænsəl]        
-- capability, n. 能力，效力，权力 [ˌkeɪpə'bɪləti]        
-- capitalized, a. 大写的 ['kæpɪtəlɑɪzd]    
-- capture, vt. 俘获，捕捉 [ˈkæptʃɚ]        
-- card, n. 卡片，插件(板) [kɑrd]        
-- care, n. &, v. 关心，注意 [ker]        
-- caret, n. 插入符号 ['kærət]    
-- carousel, n. 圆盘传送带 [ˌkærəˈsɛl,-ˈzɛl]    
-- carriage, n. 滑架，托架 [ˈkærɪdʒ]        
-- carry, v. 进位，带, (kai, rui) [ˈkæri]        
-- case, n. 情况，场合 [kes]        
-- cash, n. 现金 [kæʃ]    
-- cause, n. 原因，理由(kao, si) [kɔz]        
-- caution, n. &, v. 警告，注意  (kao, sheng) [ˈkɔʃən]        
-- center, n. 中心，中央 [ˈsɛntɚ]      
-- central, a. 中央的，中心的 [ˈsɛntrəl]        
-- century, n. 世纪  (san, te, rui) [ˈsɛntʃəri]    
-- certain, a. 确实的，确定的 [ˈsɜrtn]        
-- certainty, n. 必然，确实 [ˈsɜrtnti]        
-- change, v. 更换，改变，变动 [tʃendʒ]        
-- chapter, n. 章，段 [ˈtʃæptɚ]        
-- character, n. 字符，符号，特性 [ˈkærəktɚ]        
-- charge, n. 电荷，充电，负荷 [tʃɑrdʒ]        
-- charm, n. 吸引力 [tʃɑrm]    
-- chart, n. 图(表) [tʃɑrt]    
-- check, v. 校对，栓查，核算 [tʃɛk]      
-- choice, n. 选择，精品 [tʃɔɪs]      
-- choose, v. 挑选，选择，选定 [tʃuz]      
-- chunk, n. 厚块，大部分 [tʃʌŋk]      
-- circle, n. 圆，圈，循环，周期 [ˈsɜrkl]      
-- circumstances, n. 情况，环境，细节['sɜkəmstənsɪz]        
-- city, n. 城市，市区 [ˈsɪti]      
-- classify, vt. 分类，分级 [ˈklæsəˌfaɪ]        
-- clause, n. 条款，项目，子句 [klɔz]        
-- clean, a. 清洁的，干净的 [klin]        
-- clear, v. 清除，弄干净 [klɪr]        
-- click, n. “卡搭”声，插销, [klik] [klɪk]      
-- client, n. 顾客，买主 [ˈklaɪənt]        
-- clipper, n. 限幅器，钳位器 [ˈklɪpɚ]      
-- clock, n. 时钟，计时器，同步 [klɑk]      
-- clockwise, a. 顺时针的 [ˈklɑkwaɪz]    
-- close, v. &, a. 关闭，闭合；紧密 [kloʊz]        
-- closed, a. 关闭的，闭迹 [kloʊzd]        
-- closely, a. 精密地，仔细地 [ˈkloslɪ]        
-- code, n. 码，代码，编码 [koʊd]      
-- collapse, v. 崩溃，破裂, (ke, la, p, s) [kəˈlæps]        
-- collection, n. 集合，聚集，画卷 [kəˈlɛkʃən]      
-- colon, n. 冒号“:” [ˈkoʊlən]  
-- color, n. 颜色，色彩，(彩)色 [ˈkʌlɚ]      
-- column, n. 列，柱，栏 [ˈkɑləm]      
-- combination, n. 结合，组合 [ˌkɑmbɪˈneɪʃn]        
-- combine, v. 组合，联合  (ca, m, bai, n) [kəmˈbaɪn]        
-- combo, n. 二进位组合码 [ˈkɑmboʊ]  
-- come, vi, . 来，到，出现 [kʌm]      
-- comma, n. 逗号“  ”，逗点 [ˈkɑmə]        
-- command, n. 命令，指令 [kəˈmænd]        
-- comment, n. &, vi. 注解，注释 [ˈkɑment]      
-- commercial, a. 商业的，经济的 [kəˈmɜrʃl]        
-- common, a. 公用的 [ˈkɑmən]    
-- communication, n. 通信 [kəˌmjunɪˈkeʃən]    
-- compact, a. 紧致的，压缩的 [ˈkɑmˈpækt]        
-- company, n. &, v. 公司；交际，交往(kan, po, ni)[ˈkʌmpəni]        
-- compare, v. 比较，对照，比喻 [kəmˈper]        
-- comparison, n. 比较，对照 [kəmˈpærɪsən]        
-- compatibility, n. 兼容性，适应性[kəmˌpætəˈbɪlətɪ]        
-- compatible, a. 可兼容的，可共存的(kang, m, pa, tei, bao) [kəmˈpætəbəl]        
-- compile, vt. 编译  (ca, m, pai, ou) [kəmˈpaɪl]    
-- compiler, n. 编译程序(器) [kəmˈpaɪlɚ]    
-- complete, v. &, a. 完成；完整的  (ka, mu, pe, li, te) [kəmˈplit]    
-- completely, ad. 十分，完全，彻底 [kəmˈpliːtli]        
-- complex, a. &, n. 复杂的；复数 [kəmˈpleks]    
-- complexity, n. 复杂性，复杂度 [kəmˈplɛksɪti]      
-- complicated, v. 使复杂化，使混乱 [ˈkɑmplɪkeɪtɪd]        
-- compose, v. 组成，构成，构图 [kəmˈpoʊz]      
-- compress, vt. 压缩，精减 [kəmˈprɛs]      
-- compression, n. 压缩，浓缩 [kəmˈprɛʃən]      
-- comprise, vt. 包括，由…组成 [kəmˈpraɪz]        
-- computer, n. 计算机, (ka, mu, pui, te) [kəmˈpjutɚ]    
-- concatenate, vt. 连接，串联，并置[kɑnˈkæt(ə)ˌneɪt]        
-- concept, n. 概念 [ˈkɑnsept]  
-- condition, n. 条件，情况；vt. 调节 [kənˈdɪʃən]      
-- conditional, a. 有条件的 [kənˈdɪʃənəl]    
-- confidential, a. 机密的 [ˌkɑnfɪˈdenʃl]    
-- configuration, n. 配置, (kang, fe, i, ge, rua, i, sheng) [kənˌfɪgjəˈreɪʃn]    
-- configure, vt. 使成形 [kənˈfɪgjər]  
-- confirm, vt. 证实，确认 [kənˈfɜrm]      
-- confirmation, n. 认可 [ˌkɑnfərˈmeɪʃn]    
-- conflict, v. 冲突，碰头 [ˈkɑnflɪkt]      
-- conform, vi. 遵从，符合 [kənˈfɔrm]      
-- confuse, vt. 使混乱，干扰 [kənˈfjuz]      
-- congratulation, n. 祝贺[kənˌɡrætʃəˈleʃən,-ˌɡrædʒ-,kəŋ-]    
-- conjunction, n. 逻辑乘，“与” [kənˈdʒʌŋkʃən]      
-- connect, v. 连接 [kəˈnɛkt]  
-- connection, n. 连接(法) [kəˈnɛkʃən]  
-- connectivity, n. 连通性，联络性 [ˌkɑnekˈtɪvɪti]      
-- consecutive, a. 连续的，连贯的 [kənˈsɛkjətɪv]        
-- consequently, ad. 因此，从而 [ˈkɑnsəkwentli]        
-- consider, v. 考虑，认为，设想 [kənˈsɪdər ]      
-- consideration, n. 考虑，研究，讨论[kənˌsɪdəˈreʃən]        
-- considered, a. 考虑过的，被尊重的 [kənˈsɪdəd]        
-- consist, vi. 符合，包括 [kənˈsɪst]      
-- consistent, a. 相容的，一致的 [kənˈsɪstənt]        
-- console, n. 控制台，操作台 [kənˈsoʊl]      
-- constant, n. 常数 [ˈkɑnstənt]    
-- constantly, ad. 不变地，经常地 [ˈkɑnstəntli]        
-- consult, v. 咨询，顾问 [kənˈsʌlt]      
-- consume, v. 消耗，使用 [kənˈsum]      
-- contact, n. 接触，触点  (kang, tai, ke, t) [ˈkɑntækt]        
-- contain, vt. 包含，包括 [kənˈten]        
-- content, n. 含量，容量，内容 [ˈkɑntent]      
-- context, n. 上下文，来龙去脉 [ˈkɑntekst]      
-- contiguous, a. 相连的，邻接的 [kənˈtɪɡjuəs]        
-- continue, v. 连续，继续 [kənˈtɪnju]      
-- continuously, ad. 连续不断地 [kənˈtɪnjʊəslɪ]    
-- contrast, n. 反差，对比，对比度 [ˈkɑntræst]        
-- control, v. 控制，支配，管理 [kənˈtroʊl]      
-- controlled, a. 受控制的，受操纵的 [kənˈtroʊld]        
-- controller, n. 控制器 [kənˈtroʊlə(r)]  
-- convenience, n. 方便，便利 [kənˈvinjəns]      
-- convenient, a. 方便的，便利的 [kənˈvinjənt]        
-- convention, n. 常规，约定，协定 [kənˈvɛnʃən]      
-- conventional, a. 常规的，习惯的 [kənˈvɛnʃənəl]        
-- conventional, a. 常规的，习惯的 [kənˈvɛnʃənəl]        
-- convert, v. 转换，变换  (kang, wo, te) [kənˈvɜrt]        
-- converted, a. 转换的，变换的 [kən'vɜtɪd]        
-- coprocessor, n. 协同处理器(kou, pa, sei, se)['koʊˌproʊsesə]    
-- copy, n. 复制，v. 拷贝 [ˈkɑpi]      
-- copyright, n. 版权  (kao, p, i, r, ua, i, te) [ˈkɑpiraɪt]    
-- cord, n. 绳子，电线 [kɔrd]      
-- corner, n. 角，角落，转换  (ka, one) [ˈkɔrnə(r)]        
-- correct, a. &, vt. 正确的；改正  (ke, ruai, ke, te)[kəˈrɛkt]    
-- correction, n. 校正，修正 [kəˈrɛkʃən]      
-- correctly, ad. 正确地 [kəˈrɛktlɪ]    
-- correspond, vi. 通信(联系)(ke, rui, si, ban, te)[ˌkɔrəˈspɑnd]    
-- corrupt, v. &, a. 恶化；有毛病的 [kəˈrʌpt]    
-- cost, n. 值，价值，成本 [kɔst]      
-- count, v. 计数，计算 [kaʊnt]        
-- counter, n. 计数器，计算器 [ˈkaʊntɚ]        
-- course, n. 过程，航向，课程 [kɔrs]      
-- cover, vt. 盖，罩，套 [ˈkʌvɚ]      
-- cpu, 控制处理部件 [ˌsipi'ju]
-- craze, n. &, v. 裂纹开裂 [krez]    
-- create, vt. 创立，建立 [kriˈet]        
-- creation, n. 创造，创作 [kriˈeʃən]        
-- criterion, n. 标准，判据，准则 [kraɪˈtɪriən]        
-- critical, a. &, n. 临界的；临界值 [ˈkrɪtɪkəl]    
-- crop, v. 切，剪切 [krɑp]      
-- cross, n. 交叉，十字准线 [krɔs]      
-- current, n. 电流 [ˈkɜrənt]  
-- currently, ad. 目前，现在 [ˈkɜrəntli]        
-- cursor, n. 光标 [ˈkɜrsə(r)]  
-- custom, a. &, n. 常规的，惯例；用户 [ˈkʌstəm]        
-- customer, n. 顾客，客户 [ˈkʌstəmɚ]      
-- customize, vt. 定制，定做 [ˈkʌstəˌmaɪz]        
-- cut, v. 割，切 [kʌt]      
-- cycle, n. &, v. 周，周期；循环 [ˈsaɪkəl]   
+- cache, `n.` 高速缓存 `[kæʃ]`    
+- cad, 计算机辅助设计 `[kæd]`  
+- calculation, `n.` 计算，统计，估计 `[ˌkælkjəˈleʃən]`        
+- call, `v.` 调用，访问，呼叫 `[kɔl]`        
+- calling, `n.` 呼叫，调用，调入 `[ˈkɔlɪŋ]`        
+- cancel, `v.` 删除，取消，作废 `[ˈkænsəl]`        
+- capability, `n.` 能力，效力，权力 `[ˌkeɪpə'bɪləti]`        
+- capitalized, `a.` 大写的 `['kæpɪtəlɑɪzd]`    
+- capture, `vt.` 俘获，捕捉 `[ˈkæptʃɚ]`        
+- card, `n.` 卡片，插件(板) `[kɑrd]`        
+- care, `n.` &, `v.` 关心，注意 `[ker]`        
+- caret, `n.` 插入符号 `['kærət]`    
+- carousel, `n.` 圆盘传送带 `[ˌkærəˈsɛl,-ˈzɛl]`    
+- carriage, `n.` 滑架，托架 `[ˈkærɪdʒ]`        
+- carry, `v.` 进位，带, (kai, rui) `[ˈkæri]`        
+- case, `n.` 情况，场合 `[kes]`        
+- cash, `n.` 现金 `[kæʃ]`    
+- cause, `n.` 原因，理由(kao, si) `[kɔz]`        
+- caution, `n.` &, `v.` 警告，注意  (kao, sheng) `[ˈkɔʃən]`        
+- center, `n.` 中心，中央 `[ˈsɛntɚ]`      
+- central, `a.` 中央的，中心的 `[ˈsɛntrəl]`        
+- century, `n.` 世纪  (san, te, rui) `[ˈsɛntʃəri]`    
+- certain, `a.` 确实的，确定的 `[ˈsɜrtn]`        
+- certainty, `n.` 必然，确实 `[ˈsɜrtnti]`        
+- change, `v.` 更换，改变，变动 `[tʃendʒ]`        
+- chapter, `n.` 章，段 `[ˈtʃæptɚ]`        
+- character, `n.` 字符，符号，特性 `[ˈkærəktɚ]`        
+- charge, `n.` 电荷，充电，负荷 `[tʃɑrdʒ]`        
+- charm, `n.` 吸引力 `[tʃɑrm]`    
+- chart, `n.` 图(表) `[tʃɑrt]`    
+- check, `v.` 校对，栓查，核算 `[tʃɛk]`      
+- choice, `n.` 选择，精品 `[tʃɔɪs]`      
+- choose, `v.` 挑选，选择，选定 `[tʃuz]`      
+- chunk, `n.` 厚块，大部分 `[tʃʌŋk]`      
+- circle, `n.` 圆，圈，循环，周期 `[ˈsɜrkl]`      
+- circumstances, `n.` 情况，环境，细节`['sɜkəmstənsɪz]`        
+- city, `n.` 城市，市区 `[ˈsɪti]`      
+- classify, `vt.` 分类，分级 `[ˈklæsəˌfaɪ]`        
+- clause, `n.` 条款，项目，子句 `[klɔz]`        
+- clean, `a.` 清洁的，干净的 `[klin]`        
+- clear, `v.` 清除，弄干净 `[klɪr]`        
+- click, `n.` “卡搭”声，插销, `[klik]` `[klɪk]`      
+- client, `n.` 顾客，买主 `[ˈklaɪənt]`        
+- clipper, `n.` 限幅器，钳位器 `[ˈklɪpɚ]`      
+- clock, `n.` 时钟，计时器，同步 `[klɑk]`      
+- clockwise, `a.` 顺时针的 `[ˈklɑkwaɪz]`    
+- close, `v.` &, `a.` 关闭，闭合；紧密 `[kloʊz]`        
+- closed, `a.` 关闭的，闭迹 `[kloʊzd]`        
+- closely, `a.` 精密地，仔细地 `[ˈkloslɪ]`        
+- code, `n.` 码，代码，编码 `[koʊd]`      
+- collapse, `v.` 崩溃，破裂, (ke, la, p, s) `[kəˈlæps]`        
+- collection, `n.` 集合，聚集，画卷 `[kəˈlɛkʃən]`      
+- colon, `n.` 冒号“:” `[ˈkoʊlən]`  
+- color, `n.` 颜色，色彩，(彩)色 `[ˈkʌlɚ]`      
+- column, `n.` 列，柱，栏 `[ˈkɑləm]`      
+- combination, `n.` 结合，组合 `[ˌkɑmbɪˈneɪʃn]`        
+- combine, `v.` 组合，联合  (ca, m, bai, n) `[kəmˈbaɪn]`        
+- combo, `n.` 二进位组合码 `[ˈkɑmboʊ]`  
+- come, vi, . 来，到，出现 `[kʌm]`      
+- comma, `n.` 逗号“  ”，逗点 `[ˈkɑmə]`        
+- command, `n.` 命令，指令 `[kəˈmænd]`        
+- comment, `n.` &, vi. 注解，注释 `[ˈkɑment]`      
+- commercial, `a.` 商业的，经济的 `[kəˈmɜrʃl]`        
+- common, `a.` 公用的 `[ˈkɑmən]`    
+- communication, `n.` 通信 `[kəˌmjunɪˈkeʃən]`    
+- compact, `a.` 紧致的，压缩的 `[ˈkɑmˈpækt]`        
+- company, `n.` &, `v.` 公司；交际，交往(kan, po, ni)`[ˈkʌmpəni]`        
+- compare, `v.` 比较，对照，比喻 `[kəmˈper]`        
+- comparison, `n.` 比较，对照 `[kəmˈpærɪsən]`        
+- compatibility, `n.` 兼容性，适应性`[kəmˌpætəˈbɪlətɪ]`        
+- compatible, `a.` 可兼容的，可共存的(kang, m, pa, tei, bao) `[kəmˈpætəbəl]`        
+- compile, `vt.` 编译  (ca, m, pai, ou) `[kəmˈpaɪl]`    
+- compiler, `n.` 编译程序(器) `[kəmˈpaɪlɚ]`    
+- complete, `v.` &, `a.` 完成；完整的  (ka, mu, pe, li, te) `[kəmˈplit]`    
+- completely, `ad.` 十分，完全，彻底 `[kəmˈpliːtli]`        
+- complex, `a.` &, `n.` 复杂的；复数 `[kəmˈpleks]`    
+- complexity, `n.` 复杂性，复杂度 `[kəmˈplɛksɪti]`      
+- complicated, `v.` 使复杂化，使混乱 `[ˈkɑmplɪkeɪtɪd]`        
+- compose, `v.` 组成，构成，构图 `[kəmˈpoʊz]`      
+- compress, `vt.` 压缩，精减 `[kəmˈprɛs]`      
+- compression, `n.` 压缩，浓缩 `[kəmˈprɛʃən]`      
+- comprise, `vt.` 包括，由…组成 `[kəmˈpraɪz]`        
+- computer, `n.` 计算机, (ka, mu, pui, te) `[kəmˈpjutɚ]`    
+- concatenate, `vt.` 连接，串联，并置`[kɑnˈkæt(ə)ˌneɪt]`        
+- concept, `n.` 概念 `[ˈkɑnsept]`  
+- condition, `n.` 条件，情况；`vt.` 调节 `[kənˈdɪʃən]`      
+- conditional, `a.` 有条件的 `[kənˈdɪʃənəl]`    
+- confidential, `a.` 机密的 `[ˌkɑnfɪˈdenʃl]`    
+- configuration, `n.` 配置, (kang, fe, i, ge, rua, i, sheng) `[kənˌfɪgjəˈreɪʃn]`    
+- configure, `vt.` 使成形 `[kənˈfɪgjər]`  
+- confirm, `vt.` 证实，确认 `[kənˈfɜrm]`      
+- confirmation, `n.` 认可 `[ˌkɑnfərˈmeɪʃn]`    
+- conflict, `v.` 冲突，碰头 `[ˈkɑnflɪkt]`      
+- conform, vi. 遵从，符合 `[kənˈfɔrm]`      
+- confuse, `vt.` 使混乱，干扰 `[kənˈfjuz]`      
+- congratulation, `n.` 祝贺`[kənˌɡrætʃəˈleʃən,-ˌɡrædʒ-,kəŋ-]`    
+- conjunction, `n.` 逻辑乘，“与” `[kənˈdʒʌŋkʃən]`      
+- connect, `v.` 连接 `[kəˈnɛkt]`  
+- connection, `n.` 连接(法) `[kəˈnɛkʃən]`  
+- connectivity, `n.` 连通性，联络性 `[ˌkɑnekˈtɪvɪti]`      
+- consecutive, `a.` 连续的，连贯的 `[kənˈsɛkjətɪv]`        
+- consequently, `ad.` 因此，从而 `[ˈkɑnsəkwentli]`        
+- consider, `v.` 考虑，认为，设想 `[kənˈsɪdər ]`      
+- consideration, `n.` 考虑，研究，讨论`[kənˌsɪdəˈreʃən]`        
+- considered, `a.` 考虑过的，被尊重的 `[kənˈsɪdəd]`        
+- consist, vi. 符合，包括 `[kənˈsɪst]`      
+- consistent, `a.` 相容的，一致的 `[kənˈsɪstənt]`        
+- console, `n.` 控制台，操作台 `[kənˈsoʊl]`      
+- constant, `n.` 常数 `[ˈkɑnstənt]`    
+- constantly, `ad.` 不变地，经常地 `[ˈkɑnstəntli]`        
+- consult, `v.` 咨询，顾问 `[kənˈsʌlt]`      
+- consume, `v.` 消耗，使用 `[kənˈsum]`      
+- contact, `n.` 接触，触点  (kang, tai, ke, t) `[ˈkɑntækt]`        
+- contain, `vt.` 包含，包括 `[kənˈten]`        
+- content, `n.` 含量，容量，内容 `[ˈkɑntent]`      
+- context, `n.` 上下文，来龙去脉 `[ˈkɑntekst]`      
+- contiguous, `a.` 相连的，邻接的 `[kənˈtɪɡjuəs]`        
+- continue, `v.` 连续，继续 `[kənˈtɪnju]`      
+- continuously, `ad.` 连续不断地 `[kənˈtɪnjʊəslɪ]`    
+- contrast, `n.` 反差，对比，对比度 `[ˈkɑntræst]`        
+- control, `v.` 控制，支配，管理 `[kənˈtroʊl]`      
+- controlled, `a.` 受控制的，受操纵的 `[kənˈtroʊld]`        
+- controller, `n.` 控制器 `[kənˈtroʊlə(r)]`  
+- convenience, `n.` 方便，便利 `[kənˈvinjəns]`      
+- convenient, `a.` 方便的，便利的 `[kənˈvinjənt]`        
+- convention, `n.` 常规，约定，协定 `[kənˈvɛnʃən]`      
+- conventional, `a.` 常规的，习惯的 `[kənˈvɛnʃənəl]`        
+- conventional, `a.` 常规的，习惯的 `[kənˈvɛnʃənəl]`        
+- convert, `v.` 转换，变换  (kang, wo, te) `[kənˈvɜrt]`        
+- converted, `a.` 转换的，变换的 `[kən'vɜtɪd]`        
+- coprocessor, `n.` 协同处理器(kou, pa, sei, se)`['koʊˌproʊsesə]`    
+- copy, `n.` 复制，`v.` 拷贝 `[ˈkɑpi]`      
+- copyright, `n.` 版权  (kao, p, i, r, ua, i, te) `[ˈkɑpiraɪt]`    
+- cord, `n.` 绳子，电线 `[kɔrd]`      
+- corner, `n.` 角，角落，转换  (ka, one) `[ˈkɔrnə(r)]`        
+- correct, `a.` &, `vt.` 正确的；改正  (ke, ruai, ke, te)`[kəˈrɛkt]`    
+- correction, `n.` 校正，修正 `[kəˈrɛkʃən]`      
+- correctly, `ad.` 正确地 `[kəˈrɛktlɪ]`    
+- correspond, vi. 通信(联系)(ke, rui, si, ban, te)`[ˌkɔrəˈspɑnd]`    
+- corrupt, `v.` &, `a.` 恶化；有毛病的 `[kəˈrʌpt]`    
+- cost, `n.` 值，价值，成本 `[kɔst]`      
+- count, `v.` 计数，计算 `[kaʊnt]`        
+- counter, `n.` 计数器，计算器 `[ˈkaʊntɚ]`        
+- course, `n.` 过程，航向，课程 `[kɔrs]`      
+- cover, `vt.` 盖，罩，套 `[ˈkʌvɚ]`      
+- cpu, 控制处理部件 `[ˌsipi'ju]`
+- craze, `n.` &, `v.` 裂纹开裂 `[krez]`    
+- create, `vt.` 创立，建立 `[kriˈet]`        
+- creation, `n.` 创造，创作 `[kriˈeʃən]`        
+- criterion, `n.` 标准，判据，准则 `[kraɪˈtɪriən]`        
+- critical, `a.` &, `n.` 临界的；临界值 `[ˈkrɪtɪkəl]`    
+- crop, `v.` 切，剪切 `[krɑp]`      
+- cross, `n.` 交叉，十字准线 `[krɔs]`      
+- current, `n.` 电流 `[ˈkɜrənt]`  
+- currently, `ad.` 目前，现在 `[ˈkɜrəntli]`        
+- cursor, `n.` 光标 `[ˈkɜrsə(r)]`  
+- custom, `a.` &, `n.` 常规的，惯例；用户 `[ˈkʌstəm]`        
+- customer, `n.` 顾客，客户 `[ˈkʌstəmɚ]`      
+- customize, `vt.` 定制，定做 `[ˈkʌstəˌmaɪz]`        
+- cut, `v.` 割，切 `[kʌt]`      
+- cycle, `n.` &, `v.` 周，周期；循环 `[ˈsaɪkəl]`   
 
 # **D**
 
-- daily, a. 每日的，日常的 [ˈdeli]        
-- damage, n. &, vt. 损伤，故障 [ˈdæmɪdʒ]        
-- data, n. 数据 [ˈdetə,ˈdætə,ˈdɑtə]    
-- database, n. 数据库 [ˈdetəˌbes,ˈdætə-]    
-- date, n. 日期 [det]    
-- day, n. 日，天，白天，时代, (de, i) [de]        
-- deactivate, vt. 释放，去活化 [diˈæktəˌvet]        
-- deal, v. 处理，分配，交易 [dil]        
-- dearly, ad. 极，非常，昂贵地 [ˈdɪrli]        
-- death, n. 毁灭，消灭 [dɛθ]        
-- debug, vt. 调试 [diˈbʌɡ]  
-- debugger, n. 调试程序  
-- decide, v. (使)判定，判断 [dɪˈsaɪd]        
-- decimal, n. &, a. 十进制；十进制 [ˈdɛsəməl]    
-- decision, n. 判定，决定，决策 [dɪˈsɪʒən]      
-- declaration, n. 说明，申报 [ˌdɛkləˈreʃən]        
-- declare, v. 说明 [dɪˈkler]    
-- declared, a. 承认的，申报的 [dɪˈklerd]        
-- decrease, v. 减少，降低，缩短 [dɪˈkris]        
-- default, v. 缺省，预置，约定 [dɪˈfɔlt]        
-- defective, a. 故障的，有毛病的 [dɪˈfɛktɪv]        
-- definable, a. 可定义的，可确定的        
-- define, vt. 定义，规定，分辨 [dɪˈfaɪn]        
-- definition, n. 定义，确实，清晰 [ˌdɛfəˈnɪʃən]      
-- degrade, v. 降低，减少，递降 [dɪˈɡred]        
-- delay, v. 延迟 [dɪˈle]    
-- delete, vt. 删除，删去，作废 [diˈlit]      
-- deletion, n. 删去(部分)，删除, (di, li, sheng)[dɪˈliʃən]      
-- delimit, vt. 定界，定义 [dɪˈlɪmɪt]      
-- delimiter, n. 定界符，分界符 [dɪ'lɪmɪtə]      
-- demonst, rat, ion, n. (公开)表演，示范        
-- demonstrate, v. 论证，证明，证实[ˈdɛmənˌstret]        
-- denote, vt. 指示，意味着，代表 [dɪˈnoʊt]      
-- density, n. 密度 [ˈdɛnsɪti]  
-- department, n. 部门，门类，系 [dɪˈpɑrtmənt]        
-- depend, vi. 随…而定，取决于  (dei, pan, de)[dɪˈpɛnd]        
-- dependent, a. 相关的 [dɪˈpɛndənt]    
-- depth, n. 深度，浓度(颜色的) [dɛpθ]      
-- derelict, vt. 中途淘汰 [ˈdɛrəˌlɪkt]  
-- descend, v. 下降，落下 [dɪˈsɛnd]      
-- describe, vt. 描述，沿…运行 [dɪˈskraɪb]        
-- described, a. 被看到的，被发现的  (di, si, chuai, bo, te) [dɪsk'raɪbd]        
-- description, n. 描述  (dei, si, ke, pe, sheng)[dɪˈskrɪpʃən]  
-- design, v. 设计 [dɪˈzaɪn]    
-- designate, vt. 任命，标志 [ˈdɛzɪɡˌnet]        
-- designated, a. 指定的，特指的  (da, si, nei, te, d) ['dezɪɡneɪtɪd]        
-- desirable, a. 所希望的，称心的 [dɪˈzaɪrəbəl]        
-- desire, v. &, n. 期望 [ dɪˈzaɪr]    
-- desk, n. 书桌，控制台，面板 [dɛsk]      
-- desktop, a. 台式的 [ˈdesktɑp]    
-- destination, n. 目的地，接收站(da, s, i, te, ne, i, sheng) [ˌdɛstəˈneʃən]        
-- destroy, vt. 破坏，毁坏，打破 [dɪˈstrɔɪ]      
-- detail, n. 元件，零件，细节 [dɪˈteɪl]        
-- detect, vt. 检测 [dɪˈtɛkt]  
-- deter, vt. 阻止，拦住，妨碍 [dɪˈtə]      
-- determine, v. 确定 [dɪˈtɜrmɪn]  
-- determined, a. 坚决的，毅然的 [dɪˈtɜrmɪnd]        
-- develop, v. 发展，研制，显影 [dɪˈvɛləp]      
-- developer, n. 开发者，显影剂 [dɪˈveləpər]      
-- development, n. 开发，研制，显影 [dɪˈvɛləpmənt]      
-- device, n. 设备，器件，装置 [dɪˈvaɪs]        
-- diacritical, a. 区分的，辩别的 [ˌdaɪə'krɪtɪkl]        
-- diagonally, ad. 斜(对) [daɪ'æɡənəlɪ]    
-- dialog, n. &, vt. 对话 ['daɪəˌlɒg]    
-- differ, vi. 不同，不一致 [ˈdɪfɚ]      
-- difference, n. 差分，差 [ˈdɪfərəns,ˈdɪfrəns]      
-- different, a. 不同的，各种各样的 [ˈdɪfrənt]        
-- differentiate, v. 区别，分辨 [ˌdɪfəˈrɛnʃiˌet]        
-- difficult, a. 困难的，不容易的 [ˈdɪfɪˌkʌlt,-kəlt]        
-- difficulty, n. 困难，难点 [ˈdɪfɪˌkʌlti,-kəl-]      
-- digit, n. 数字，位数，位  (di, zhi, te) [ˈdɪdʒɪt]      
-- digital, a. 数字的 [ˈdɪdʒɪtl]    
-- dimension, n. 尺寸，维，因次  (di, man, shen)[dɪˈmɛnʃən,daɪ-]        
-- dimensional, n. 尺寸的，…维的 [dɪˈmɛnʃənl]        
-- direct, a. 直接的 [dɪˈrɛkt,daɪ-]    
-- direction, n. 方向，定向，指向 [dɪˈrɛkʃən,daɪ-]        
-- directly, ad. 直接地，立即 [dɪˈrɛktli,daɪ-]        
-- directory, n. 目录，索引簿 [dɪˈrɛktəri,daɪ-]        
-- disable, vt. 禁止，停用, (de, i, s, i, e, i, bo, u) [dɪsˈebəl]        
-- disabled, a. 禁止的，报废的 [dɪsˈebəld]        
-- disappear, vi. 消失 [ˌdɪsəˈpɪr]    
-- discard, v. 删除，废除，放弃 [dɪsˈkɑrd]        
-- disconnect, vt. 拆接，断开，拆线 [ˌdɪskəˈnɛkt]      
-- discuss, vt. 讨论，论述 [dɪˈskʌs]      
-- discussion, n. 讨论，商议，论述 [dɪˈskʌʃən]      
-- disk, n. 盘，磁盘 [dɪsk]      
-- diskette, n. 软磁盘，软盘片 [dɪˈskɛt]      
-- display, vt. 显示，显示器 [dɪˈsple]        
-- disregard, vt. 轻视，把…忽略不计 [ˌdɪsrɪˈgɑrd]        
-- distinction, n. 区别，相异，特性 [dɪˈstɪŋkʃən]      
-- distinguish, v. 区别，辨识 [dɪˈstɪŋɡwɪʃ]      
-- distribute, vt. 分布，配线，配给 [dɪˈstrɪbjut]      
-- distribution, n. 分布，分配 [ˌdɪstrəˈbjuʃən]      
-- divide, v. 除 [dɪˈvaɪd]    
-- division, n. 除，除法，(程序)部分 [dɪˈvɪʒən]      
-- do, v. 做，干；n. 循环 [du]      
-- document, n. 文献，资料，文件, ['dɔkjumənt,'dɔkjument] [ˈdɑkjumənt]      
-- documentation, n. 文件编制，文本(dao, kei, men, tei, sheng) [ˌdɑkjumenˈteɪʃn]        
-- door, n. 舱门，入口，孔 [dɔr, dor]      
+- daily, `a.` 每日的，日常的 `[ˈdeli]`        
+- damage, `n.` &, `vt.` 损伤，故障 `[ˈdæmɪdʒ]`        
+- data, `n.` 数据 `[ˈdetə,ˈdætə,ˈdɑtə]`    
+- database, `n.` 数据库 `[ˈdetəˌbes,ˈdætə-]`    
+- date, `n.` 日期 `[det]`    
+- day, `n.` 日，天，白天，时代, (de, i) `[de]`        
+- deactivate, `vt.` 释放，去活化 `[diˈæktəˌvet]`        
+- deal, `v.` 处理，分配，交易 `[dil]`        
+- dearly, `ad.` 极，非常，昂贵地 `[ˈdɪrli]`        
+- death, `n.` 毁灭，消灭 `[dɛθ]`        
+- debug, `vt.` 调试 `[diˈbʌɡ]`  
+- debugger, `n.` 调试程序  
+- decide, `v.` (使)判定，判断 `[dɪˈsaɪd]`        
+- decimal, `n.` &, `a.` 十进制；十进制 `[ˈdɛsəməl]`    
+- decision, `n.` 判定，决定，决策 `[dɪˈsɪʒən]`      
+- declaration, `n.` 说明，申报 `[ˌdɛkləˈreʃən]`        
+- declare, `v.` 说明 `[dɪˈkler]`    
+- declared, `a.` 承认的，申报的 `[dɪˈklerd]`        
+- decrease, `v.` 减少，降低，缩短 `[dɪˈkris]`        
+- default, `v.` 缺省，预置，约定 `[dɪˈfɔlt]`        
+- defective, `a.` 故障的，有毛病的 `[dɪˈfɛktɪv]`        
+- definable, `a.` 可定义的，可确定的        
+- define, `vt.` 定义，规定，分辨 `[dɪˈfaɪn]`        
+- definition, `n.` 定义，确实，清晰 `[ˌdɛfəˈnɪʃən]`      
+- degrade, `v.` 降低，减少，递降 `[dɪˈɡred]`        
+- delay, `v.` 延迟 `[dɪˈle]`    
+- delete, `vt.` 删除，删去，作废 `[diˈlit]`      
+- deletion, `n.` 删去(部分)，删除, (di, li, sheng)`[dɪˈliʃən]`      
+- delimit, `vt.` 定界，定义 `[dɪˈlɪmɪt]`      
+- delimiter, `n.` 定界符，分界符 `[dɪ'lɪmɪtə]`      
+- demonst, rat, ion, `n.` (公开)表演，示范        
+- demonstrate, `v.` 论证，证明，证实`[ˈdɛmənˌstret]`        
+- denote, `vt.` 指示，意味着，代表 `[dɪˈnoʊt]`      
+- density, `n.` 密度 `[ˈdɛnsɪti]`  
+- department, `n.` 部门，门类，系 `[dɪˈpɑrtmənt]`        
+- depend, vi. 随…而定，取决于  (dei, pan, de)`[dɪˈpɛnd]`        
+- dependent, `a.` 相关的 `[dɪˈpɛndənt]`    
+- depth, `n.` 深度，浓度(颜色的) `[dɛpθ]`      
+- derelict, `vt.` 中途淘汰 `[ˈdɛrəˌlɪkt]`  
+- descend, `v.` 下降，落下 `[dɪˈsɛnd]`      
+- describe, `vt.` 描述，沿…运行 `[dɪˈskraɪb]`        
+- described, `a.` 被看到的，被发现的  (di, si, chuai, bo, te) `[dɪsk'raɪbd]`        
+- description, `n.` 描述  (dei, si, ke, pe, sheng)`[dɪˈskrɪpʃən]`  
+- design, `v.` 设计 `[dɪˈzaɪn]`    
+- designate, `vt.` 任命，标志 `[ˈdɛzɪɡˌnet]`        
+- designated, `a.` 指定的，特指的  (da, si, nei, te, d) `['dezɪɡneɪtɪd]`        
+- desirable, `a.` 所希望的，称心的 `[dɪˈzaɪrəbəl]`        
+- desire, `v.` &, `n.` 期望 `[ dɪˈzaɪr]`    
+- desk, `n.` 书桌，控制台，面板 `[dɛsk]`      
+- desktop, `a.` 台式的 `[ˈdesktɑp]`    
+- destination, `n.` 目的地，接收站(da, s, i, te, ne, i, sheng) `[ˌdɛstəˈneʃən]`        
+- destroy, `vt.` 破坏，毁坏，打破 `[dɪˈstrɔɪ]`      
+- detail, `n.` 元件，零件，细节 `[dɪˈteɪl]`        
+- detect, `vt.` 检测 `[dɪˈtɛkt]`  
+- deter, `vt.` 阻止，拦住，妨碍 `[dɪˈtə]`      
+- determine, `v.` 确定 `[dɪˈtɜrmɪn]`  
+- determined, `a.` 坚决的，毅然的 `[dɪˈtɜrmɪnd]`        
+- develop, `v.` 发展，研制，显影 `[dɪˈvɛləp]`      
+- developer, `n.` 开发者，显影剂 `[dɪˈveləpər]`      
+- development, `n.` 开发，研制，显影 `[dɪˈvɛləpmənt]`      
+- device, `n.` 设备，器件，装置 `[dɪˈvaɪs]`        
+- diacritical, `a.` 区分的，辩别的 `[ˌdaɪə'krɪtɪkl]`        
+- diagonally, `ad.` 斜(对) `[daɪ'æɡənəlɪ]`    
+- dialog, `n.` &, `vt.` 对话 `['daɪəˌlɒg]`    
+- differ, vi. 不同，不一致 `[ˈdɪfɚ]`      
+- difference, `n.` 差分，差 `[ˈdɪfərəns,ˈdɪfrəns]`      
+- different, `a.` 不同的，各种各样的 `[ˈdɪfrənt]`        
+- differentiate, `v.` 区别，分辨 `[ˌdɪfəˈrɛnʃiˌet]`        
+- difficult, `a.` 困难的，不容易的 `[ˈdɪfɪˌkʌlt,-kəlt]`        
+- difficulty, `n.` 困难，难点 `[ˈdɪfɪˌkʌlti,-kəl-]`      
+- digit, `n.` 数字，位数，位  (di, zhi, te) `[ˈdɪdʒɪt]`      
+- digital, `a.` 数字的 `[ˈdɪdʒɪtl]`    
+- dimension, `n.` 尺寸，维，因次  (di, man, shen)`[dɪˈmɛnʃən,daɪ-]`        
+- dimensional, `n.` 尺寸的，…维的 `[dɪˈmɛnʃənl]`        
+- direct, `a.` 直接的 `[dɪˈrɛkt,daɪ-]`    
+- direction, `n.` 方向，定向，指向 `[dɪˈrɛkʃən,daɪ-]`        
+- directly, `ad.` 直接地，立即 `[dɪˈrɛktli,daɪ-]`        
+- directory, `n.` 目录，索引簿 `[dɪˈrɛktəri,daɪ-]`        
+- disable, `vt.` 禁止，停用, (de, i, s, i, e, i, bo, u) `[dɪsˈebəl]`        
+- disabled, `a.` 禁止的，报废的 `[dɪsˈebəld]`        
+- disappear, vi. 消失 `[ˌdɪsəˈpɪr]`    
+- discard, `v.` 删除，废除，放弃 `[dɪsˈkɑrd]`        
+- disconnect, `vt.` 拆接，断开，拆线 `[ˌdɪskəˈnɛkt]`      
+- discuss, `vt.` 讨论，论述 `[dɪˈskʌs]`      
+- discussion, `n.` 讨论，商议，论述 `[dɪˈskʌʃən]`      
+- disk, `n.` 盘，磁盘 `[dɪsk]`      
+- diskette, `n.` 软磁盘，软盘片 `[dɪˈskɛt]`      
+- display, `vt.` 显示，显示器 `[dɪˈsple]`        
+- disregard, `vt.` 轻视，把…忽略不计 `[ˌdɪsrɪˈgɑrd]`        
+- distinction, `n.` 区别，相异，特性 `[dɪˈstɪŋkʃən]`      
+- distinguish, `v.` 区别，辨识 `[dɪˈstɪŋɡwɪʃ]`      
+- distribute, `vt.` 分布，配线，配给 `[dɪˈstrɪbjut]`      
+- distribution, `n.` 分布，分配 `[ˌdɪstrəˈbjuʃən]`      
+- divide, `v.` 除 `[dɪˈvaɪd]`    
+- division, `n.` 除，除法，(程序)部分 `[dɪˈvɪʒən]`      
+- do, `v.` 做，干；`n.` 循环 `[du]`      
+- document, `n.` 文献，资料，文件, `['dɔkjumənt,'dɔkjument]` `[ˈdɑkjumənt]`      
+- documentation, `n.` 文件编制，文本(dao, kei, men, tei, sheng) `[ˌdɑkjumenˈteɪʃn]`        
+- door, `n.` 舱门，入口，孔 `[dɔr, dor]`      
 - dos, 磁盘操作系统
-- dot, n. 点 [dɑt]  
-- double, a. 两倍的，成双的 [ˈdʌbəl]        
-- down, ad. 落下，降低，减少 [daʊn]        
-- drag, vt. 拖，拉，牵，曳 [dræɡ]        
-- drive, v. 驱动；n. 驱动器 [draɪv]    
-- driver, n. 驱动器，驱动程序 [ˈdraɪvɚ]        
-- dual, a. 对偶的，双的, (du, ou) [ˈduəl]        
-- due, a. 到期的，应付(给)的 [du]        
-- dump, v. (内存信息)转储 [dʌmp]  
-- duplicate, vt. 复制，转录，加倍 [ˈduplɪkeɪt]        
-- during, prep. 在…期间 [ˈdʊrɪŋ]  
-- dynamic, a. 动态的，动力的 [daiˈnæmik]    
+- dot, `n.` 点 `[dɑt]`  
+- double, `a.` 两倍的，成双的 `[ˈdʌbəl]`        
+- down, `ad.` 落下，降低，减少 `[daʊn]`        
+- drag, `vt.` 拖，拉，牵，曳 `[dræɡ]`        
+- drive, `v.` 驱动；`n.` 驱动器 `[draɪv]`    
+- driver, `n.` 驱动器，驱动程序 `[ˈdraɪvɚ]`        
+- dual, `a.` 对偶的，双的, (du, ou) `[ˈduəl]`        
+- due, `a.` 到期的，应付(给)的 `[du]`        
+- dump, `v.` (内存信息)转储 `[dʌmp]`  
+- duplicate, `vt.` 复制，转录，加倍 `[ˈduplɪkeɪt]`        
+- during, `prep.` 在…期间 `[ˈdʊrɪŋ]`  
+- dynamic, `a.` 动态的，动力的 `[daiˈnæmik]`    
 
 # **E**
 
-- each, a. &, ad. 各(自)，每个 [itʃ]        
-- early, a. &, ad. 早期，初期 [ˈɜrli]        
-- easel, n. 框，(画)架 [ˈizəl]        
-- easily, ad. 容易地，轻易地  (y, zi, li) [ˈizəli]        
-- easy, a. &, ad. 容易的；容易地 [ˈizi]    
-- echo, n. 回波，反射波 [ˈekoʊ]      
-- edge, n. 棱，边，边缘，界限(ai, chi) [ɛdʒ]        
-- edit, vt. 编辑，编排，编篡 [ˈɛdɪt]      
-- editor, n. 编辑程序 [ˈɛdɪtɚ]  
-- effect, n. 效率，作用，效能 [ɪˈfɛkt]      
-- effective, a. 有效的 [ɪˈfɛktɪv]    
-- efficiently, ad. 有效地 [ɪˈfɪʃəntlɪ]    
-- effort, n. 工作，研究计划 [ˈefərt]      
-- either, a. &, pron. 任何一个，各 [ˈiðɚ,ˈaɪðɚ]        
-- eject, n. 弹出 [ɪ'dʒekt]  
-- elapsed, vi. &, n. 经过 [ɪ'læpst]    
-- element, n. 元件，元素，码元  (ai, l, men, te)[ˈɛləmənt]        
-- eliminate, vt. 除去，消除，切断 [ɪˈlɪməˌnet]        
-- ellipsis, n. 省略符号，省略(法) [ɪˈlɪpsɪs]      
-- else, ad. &, conj. 否则，此外, (, a, i, o, u, s, i) [ɛls]        
-- emphasize, v. 强调，着重，增强 [ˈɛmfəˌsaɪz]        
-- employe, vt. 使用，花费 [ɪm'plɔɪi]      
-- employee, n. 雇员 [ɪmˈplɔɪi]  
-- empty, a. 空，零，未占用  (e, m, p, t, i) [ˈɛmpti]        
-- emulate, v. 仿真，模仿；赶上或超过 [ˈɛmjəˌlet]        
-- emulation, n. 仿真，仿效 [ˌɛmjəˈleʃən]        
-- emulator, n. 仿真器，仿真程序        
-- enable, vt. 启动，恢复正常操作 [ɛˈnebəl]        
-- enclose, vt. 封闭，密封，围住，包装 [ɪnˈkloʊz]      
-- encounter, v. &, n. 遇到，碰到, (, in, k, a, i, wen, te)[ɛnˈkaʊntɚ]        
-- end, n. 结束，终点，端点 [ɛnd]      
-- endeavor, n. &, v. 尽力，力图 [ɪn'devə]        
-- ending, n. 结束 [ˈɛndɪŋ]  
-- enhance, vt. 增强，放大，夸张 [ɪnˈhæns]        
-- enjoy, vt. 享受，欣赏，喜爱 [ɛnˈdʒɔɪ]      
-- enough, a. &, ad. 足够的，充足的  (, in, na, fu) [ɪˈnʌf]        
-- ensemble, n. 总体，集合体 [ɑnˈsɑmbl]      
-- enter, v. 键入，送入 [ˈɛntɚ]      
-- entire, a. &, n. 完全的；总体, [in'taiə] [ɛnˈtaɪr]    
-- entirely, ad. 完全地，彻底地 [ɪnˈtaɪərli]        
-- entry, n. 输入，项(目)，入口, (en, chui) [ˈɛntri]      
-- environ, vt. 围绕，包围 [ɛnˈvaɪrən,-ˈvaɪən]        
-- environment, n. 环境 [ɛnˈvaɪrənmənt,-ˈvaɪən-]    
-- environmental, a. 周围的，环境的[ɛnˌvaɪrənˈmɛntl,-ˌvaɪən]        
-- equal, vt. &, n. 等于，相等；等号 [ˈikwəl]        
-- equally, ad. 相等地，相同地 [ˈiːkwəli]        
-- equation, n. 方程，方程式 [ɪˈkweʒən,-ʃən]        
-- equipment, n. 设备，装备，仪器 [ɪˈkwɪpmənt]      
-- equivalent, a. 相等的，等效的  (e, i, kui, wu, en, t, ) [ɪˈkwɪvələnt]        
-- erase, v. 擦除，取消，删除 [ɪˈreɪs]        
-- error, n. 错误，误差，差错 [ˈɛrɚ]      
-- escape, v. 逃避，逸出，换码 [ɪˈskep]        
-- esoteric, a. 深奥的，奥秘的 [ˌɛsəˈtɛrɪk]        
-- especially, ad. 特别(是)，尤其 [ɛˈspɛʃəli,ɪˈspɛʃ-]        
-- essentially, ad. 实质上，本来 [ɪˈsenʃəli]        
-- evaluate, v. 估计，估算，求值 [ɪˈvæljuˌet]        
-- even, a. &, ad. 偶数的；甚至 [ˈivən]    
-- eventually, ad. 终于，最后 [ɪˈvɛntʃuəli]        
-- ever, ad. 在任何时候，曾经 [ˈɛvɚ]        
-- every, a. 每个，全体，所有的 [ˈɛvri]        
-- exact, a. 正确的 [ɪɡˈzækt]    
-- exactly, ad. 正好，完全，精确地  (in, ge, zai, k, t, li) [ɪɡˈzæktli]        
-- examine, v. 检验，考试，审查 [ɪɡˈzæmɪn]        
-- example, n. 例子，实例 [ɪgˈzæmpl]        
-- exceed, v. 超过，大于 [ɪkˈsid]      
-- exceeded, a. 过度的，非常的 [ɪk'sidɪd]        
-- except, prep. 除…之外，除非 [ɪkˈsɛpt]      
-- exception, n. 例外, 异常，异议, (ei, kesai, po, sheng) [ɪkˈsɛpʃən]        
-- exclamation, n. 惊叹(号) [ˌɛkskləˈmeʃən]    
-- exclude, vt. 排除，除去 [ɪk'sklud]      
-- exclusive, a. 排斥，排它性, (ei, ke, xi, ke, lou, sei, wu) [ɪkˈsklusɪv]        
-- executable, a. 可执行的 [ɪgˈzekjətəbl]    
-- execute, v. 实行，实施 [ˈɛksɪˌkjut]      
-- execution, n. 执行 [ˌɛksɪˈkjuʃən]  
-- exhaust, v. 取尽，用完 [ɪɡˈzɔst]        
-- exist, vi. 存在，生存，有 [ɪɡˈzɪst]      
-- exit, n. &, vi. 出口；退出 [ˈɛɡzɪt,ˈɛksɪt]  
-- expand, v. 扩充，扩展，展开 [ɪkˈspænd]        
-- expanding, a. 扩展的，扩充的 [ɪk'spændɪŋ]        
-- expansion, n. 展开，展开式  (ei, k, si, pan, sheng)[ɪkˈspænʃən]        
-- expect, vt. 期望，期待，盼望 [ɪkˈspɛkt]      
-- experience, vt. &, n. 试验 [ɪkˈspɪriəns]  
-- experiment, n. 实验，试验(研究) [ɪkˈspɛrəmənt]      
-- experimentation, n. 实验(工作，法)[ɪkˌspɛrəmɛnˈteʃən]        
-- expire, v. 终止，期满 [ɪkˈspaɪr]        
-- explain, v. 阐明，解释 [ɪkˈsplen]        
-- explanation, n. 说明，注解，注释 [ˌɛkspləˈneʃən]        
-- explanatory, a. 解释(性)的 [ɪkˈsplænətɔri]    
-- explicitly, ad. 明显地，显然地 [ɪk'splɪsɪtlɪ]        
-- exponent, n. 指数，阶，幂 [ɪkˈspoʊnənt]      
-- exponential, a. 指数的，幂的，阶的[ˌɛkspəˈnɛnʃəl]        
-- express, a. 快速的 [ɪkˈsprɛs]    
-- expression, n. 表达式 [ɪkˈsprɛʃən]  
-- expunge, vt. 擦除，删掉 [ɪkˈspʌndʒ]      
-- extend, v. 扩充(ei, ke, si, ten, de) [ɪkˈstɛnd]  
-- extension, n. 扩充，延伸 [ɪkˈstɛnʃən]      
-- external, a. 外部的 [ɪkˈstɜrnl]    
-- extra, a. 特别的，额外的 ['ekstrə]        
-- extract, vt. 抽取，摘录，开方 [ɪkˈstrækt]        
-- extremely, ad. 极端地，非常 [ɪk'strimlɪ]       
+- each, `a.` &, `ad.` 各(自)，每个 `[itʃ]`        
+- early, `a.` &, `ad.` 早期，初期 `[ˈɜrli]`        
+- easel, `n.` 框，(画)架 `[ˈizəl]`        
+- easily, `ad.` 容易地，轻易地  (y, zi, li) `[ˈizəli]`        
+- easy, `a.` &, `ad.` 容易的；容易地 `[ˈizi]`    
+- echo, `n.` 回波，反射波 `[ˈekoʊ]`      
+- edge, `n.` 棱，边，边缘，界限(ai, chi) `[ɛdʒ]`        
+- edit, `vt.` 编辑，编排，编篡 `[ˈɛdɪt]`      
+- editor, `n.` 编辑程序 `[ˈɛdɪtɚ]`  
+- effect, `n.` 效率，作用，效能 `[ɪˈfɛkt]`      
+- effective, `a.` 有效的 `[ɪˈfɛktɪv]`    
+- efficiently, `ad.` 有效地 `[ɪˈfɪʃəntlɪ]`    
+- effort, `n.` 工作，研究计划 `[ˈefərt]`      
+- either, `a.` &, pro`n.` 任何一个，各 `[ˈiðɚ,ˈaɪðɚ]`        
+- eject, `n.` 弹出 `[ɪ'dʒekt]`  
+- elapsed, vi. &, `n.` 经过 `[ɪ'læpst]`    
+- element, `n.` 元件，元素，码元  (ai, l, men, te)`[ˈɛləmənt]`        
+- eliminate, `vt.` 除去，消除，切断 `[ɪˈlɪməˌnet]`        
+- ellipsis, `n.` 省略符号，省略(法) `[ɪˈlɪpsɪs]`      
+- else, `ad.` &, `conj.` 否则，此外, (, a, i, o, u, s, i) `[ɛls]`        
+- emphasize, `v.` 强调，着重，增强 `[ˈɛmfəˌsaɪz]`        
+- employe, `vt.` 使用，花费 `[ɪm'plɔɪi]`      
+- employee, `n.` 雇员 `[ɪmˈplɔɪi]`  
+- empty, `a.` 空，零，未占用  (e, m, p, t, i) `[ˈɛmpti]`        
+- emulate, `v.` 仿真，模仿；赶上或超过 `[ˈɛmjəˌlet]`        
+- emulation, `n.` 仿真，仿效 `[ˌɛmjəˈleʃən]`        
+- emulator, `n.` 仿真器，仿真程序        
+- enable, `vt.` 启动，恢复正常操作 `[ɛˈnebəl]`        
+- enclose, `vt.` 封闭，密封，围住，包装 `[ɪnˈkloʊz]`      
+- encounter, `v.` &, `n.` 遇到，碰到, (, in, k, a, i, wen, te)`[ɛnˈkaʊntɚ]`        
+- end, `n.` 结束，终点，端点 `[ɛnd]`      
+- endeavor, `n.` &, `v.` 尽力，力图 `[ɪn'devə]`        
+- ending, `n.` 结束 `[ˈɛndɪŋ]`  
+- enhance, `vt.` 增强，放大，夸张 `[ɪnˈhæns]`        
+- enjoy, `vt.` 享受，欣赏，喜爱 `[ɛnˈdʒɔɪ]`      
+- enough, `a.` &, `ad.` 足够的，充足的  (, in, na, fu) `[ɪˈnʌf]`        
+- ensemble, `n.` 总体，集合体 `[ɑnˈsɑmbl]`      
+- enter, `v.` 键入，送入 `[ˈɛntɚ]`      
+- entire, `a.` &, `n.` 完全的；总体, `[in'taiə]` `[ɛnˈtaɪr]`    
+- entirely, `ad.` 完全地，彻底地 `[ɪnˈtaɪərli]`        
+- entry, `n.` 输入，项(目)，入口, (en, chui) `[ˈɛntri]`      
+- environ, `vt.` 围绕，包围 `[ɛnˈvaɪrən,-ˈvaɪən]`        
+- environment, `n.` 环境 `[ɛnˈvaɪrənmənt,-ˈvaɪən-]`    
+- environmental, `a.` 周围的，环境的`[ɛnˌvaɪrənˈmɛntl,-ˌvaɪən]`        
+- equal, `vt.` &, `n.` 等于，相等；等号 `[ˈikwəl]`        
+- equally, `ad.` 相等地，相同地 `[ˈiːkwəli]`        
+- equation, `n.` 方程，方程式 `[ɪˈkweʒən,-ʃən]`        
+- equipment, `n.` 设备，装备，仪器 `[ɪˈkwɪpmənt]`      
+- equivalent, `a.` 相等的，等效的  (e, i, kui, wu, en, t, ) `[ɪˈkwɪvələnt]`        
+- erase, `v.` 擦除，取消，删除 `[ɪˈreɪs]`        
+- error, `n.` 错误，误差，差错 `[ˈɛrɚ]`      
+- escape, `v.` 逃避，逸出，换码 `[ɪˈskep]`        
+- esoteric, `a.` 深奥的，奥秘的 `[ˌɛsəˈtɛrɪk]`        
+- especially, `ad.` 特别(是)，尤其 `[ɛˈspɛʃəli,ɪˈspɛʃ-]`        
+- essentially, `ad.` 实质上，本来 `[ɪˈsenʃəli]`        
+- evaluate, `v.` 估计，估算，求值 `[ɪˈvæljuˌet]`        
+- even, `a.` &, `ad.` 偶数的；甚至 `[ˈivən]`    
+- eventually, `ad.` 终于，最后 `[ɪˈvɛntʃuəli]`        
+- ever, `ad.` 在任何时候，曾经 `[ˈɛvɚ]`        
+- every, `a.` 每个，全体，所有的 `[ˈɛvri]`        
+- exact, `a.` 正确的 `[ɪɡˈzækt]`    
+- exactly, `ad.` 正好，完全，精确地  (in, ge, zai, k, t, li) `[ɪɡˈzæktli]`        
+- examine, `v.` 检验，考试，审查 `[ɪɡˈzæmɪn]`        
+- example, `n.` 例子，实例 `[ɪgˈzæmpl]`        
+- exceed, `v.` 超过，大于 `[ɪkˈsid]`      
+- exceeded, `a.` 过度的，非常的 `[ɪk'sidɪd]`        
+- except, `prep.` 除…之外，除非 `[ɪkˈsɛpt]`      
+- exception, `n.` 例外, 异常，异议, (ei, kesai, po, sheng) `[ɪkˈsɛpʃən]`        
+- exclamation, `n.` 惊叹(号) `[ˌɛkskləˈmeʃən]`    
+- exclude, `vt.` 排除，除去 `[ɪk'sklud]`      
+- exclusive, `a.` 排斥，排它性, (ei, ke, xi, ke, lou, sei, wu) `[ɪkˈsklusɪv]`        
+- executable, `a.` 可执行的 `[ɪgˈzekjətəbl]`    
+- execute, `v.` 实行，实施 `[ˈɛksɪˌkjut]`      
+- execution, `n.` 执行 `[ˌɛksɪˈkjuʃən]`  
+- exhaust, `v.` 取尽，用完 `[ɪɡˈzɔst]`        
+- exist, vi. 存在，生存，有 `[ɪɡˈzɪst]`      
+- exit, `n.` &, vi. 出口；退出 `[ˈɛɡzɪt,ˈɛksɪt]`  
+- expand, `v.` 扩充，扩展，展开 `[ɪkˈspænd]`        
+- expanding, `a.` 扩展的，扩充的 `[ɪk'spændɪŋ]`        
+- expansion, `n.` 展开，展开式  (ei, k, si, pan, sheng)`[ɪkˈspænʃən]`        
+- expect, `vt.` 期望，期待，盼望 `[ɪkˈspɛkt]`      
+- experience, `vt.` &, `n.` 试验 `[ɪkˈspɪriəns]`  
+- experiment, `n.` 实验，试验(研究) `[ɪkˈspɛrəmənt]`      
+- experimentation, `n.` 实验(工作，法)`[ɪkˌspɛrəmɛnˈteʃən]`        
+- expire, `v.` 终止，期满 `[ɪkˈspaɪr]`        
+- explain, `v.` 阐明，解释 `[ɪkˈsplen]`        
+- explanation, `n.` 说明，注解，注释 `[ˌɛkspləˈneʃən]`        
+- explanatory, `a.` 解释(性)的 `[ɪkˈsplænətɔri]`    
+- explicitly, `ad.` 明显地，显然地 `[ɪk'splɪsɪtlɪ]`        
+- exponent, `n.` 指数，阶，幂 `[ɪkˈspoʊnənt]`      
+- exponential, `a.` 指数的，幂的，阶的`[ˌɛkspəˈnɛnʃəl]`        
+- express, `a.` 快速的 `[ɪkˈsprɛs]`    
+- expression, `n.` 表达式 `[ɪkˈsprɛʃən]`  
+- expunge, `vt.` 擦除，删掉 `[ɪkˈspʌndʒ]`      
+- extend, `v.` 扩充(ei, ke, si, ten, de) `[ɪkˈstɛnd]`  
+- extension, `n.` 扩充，延伸 `[ɪkˈstɛnʃən]`      
+- external, `a.` 外部的 `[ɪkˈstɜrnl]`    
+- extra, `a.` 特别的，额外的 `['ekstrə]`        
+- extract, `vt.` 抽取，摘录，开方 `[ɪkˈstrækt]`        
+- extremely, `ad.` 极端地，非常 `[ɪk'strimlɪ]`       
 
 # **F**
 
-- face, n. 面，表面 [fes]        
-- facility, n. 设施，装备，便利 [fəˈsɪləti]        
-- fact, n. 事实 [fækt]    
-- factory, n. 工厂，制造厂 [ˈfæktəri]        
-- fail, n. 故障，失效 [fel]        
-- failure, n. 失效，故障，失败 ['feɪljər]        
-- fall, n. 落下，降落 [fɔl]        
-- false, a. 假(布尔值)，错误 [fɔls]        
-- familiar, a. 熟悉的，惯用的 [fəˈmɪljɚ]        
-- familiarize, vt. 使熟悉，使通俗化 [fəˈmɪljəˌraɪz]        
-- fancy, n. &, a. 想象(的)，精制的 [ˈfænsi]        
-- far, a. 远的，遥远的 [fɑr]        
-- fast, a. &, ad. 快速的  (fa, s, t) [fæst]    
-- fastback, n. 快速返回 ['fɑstbæk]    
-- father, n. 父，上层(树节点的) [ˈfɑðɚ]        
-- feature, n. 特征，特点 [ˈfitʃɚ]        
-- feed, v. 馈给，(打印机)进纸  (, fi, d, e) [fid]      
-- field, n. 字段，域，栏，场 [fild]      
-- fifth, n. &, a. 第五，五分之一 [fɪfθ]        
-- figure, n. 数字；图，图形，形状 [ˈfɪgjər]      
-- file, n. 文件；v. 保存文件 [faɪl]    
-- filename, n. 文件名 [ˈfaɪlˌnem]    
-- filing, n. (文件的)整理汇集 [ˈfaɪlɪŋ]    
-- fill, v. 填充 [fɪl]  
-- filter, n. 滤波器，滤光材料  (, fi, out, e) [ˈfɪltɚ]      
-- final, a. 最终的 [ˈfaɪnəl]    
-- finally, ad. 终于，最后 [ˈfaɪnəli]        
-- financial, a. 财务的，金融的 [faɪˈnænʃ(ə)l]        
-- find, v. 寻找，发现 [faɪnd]        
-- fine, a. &, ad. 微小的，细的 [faɪn]        
-- finish, v. &, n. 完成，结束 [ˈfɪnɪʃ]      
-- finished, a. 完成的  (, fi, ni, s, hi, t, ) [ˈfɪnɪʃt]    
-- finisher, n. 成品机  
-- first, a. &, ad. &, n. 第一，首先 [fɜrst]        
-- fit, v. &, n. 适合，装配；非特  (fi, te) [fɪt]      
-- fix, v. 固定，定影 [fɪks]      
-- fixed, a. 固定的，不变的  (, fe, i, ke, si, de) [fɪkst]        
-- flag, n. 标志(记)，特征(位) [flæɡ]        
-- floating, a. 浮动的，浮点的 [ˈfloʊtɪŋ]        
-- floppy, n. 软磁盘 [ˈflɑpi]  
-- flush, v. 弄平，使齐平 [flʌʃ]      
-- fly, v. 飞，跳过 [flai]        
-- follow, v. 跟随，跟踪 [ˈfɑloʊ]      
-- following, a. 下列的，以下的 [ˈfɑloʊɪŋ]        
-- font, n. 铅字，字形  (, fang, te) [fɑnt]        
-- force, v. &, n. 强制；压力，强度 [fɔrs]      
-- forced, a. 强制的，压力的 [fɔrst]        
-- foreground, n. 前台 [ˈfɔrgraʊnd]    
-- forget, v. 忘记 [fərˈget]  
-- form, n. 格式，表格，方式(fao, mu) [fɔrm]        
-- format, n. 格式 [ˈfɔrmæt]    
-- formation, n. 构造，结构，形成 [fɔrˈmeɪʃn]        
-- formatted, a. 有格式的 [fɔrmæt]    
-- formatting, n. 格式化  (fao, mei, tin) ['fɔmætɪŋ]    
-- formed, a. &, n. 成形 ['fɔmd]    
-- forth, ad. 向前 [fɔrθ]    
-- forward, a. 正向的, (fao, wei, de, ) [ˈfɔrwərd]    
-- found, v. 建立，创办 [faʊnd]        
-- fourscore, n. 八十 ['foʊr'skoʊr]  
-- fragment, n. 片段，段，分段 [ˈfræɡmənt]        
-- free, a. 自由的，空闲的 [fri]        
-- freeze, v. 冻结，结冰 [friz]      
-- frequently, ad. 常常，频繁地, (fei, kuai, te, li)[ˈfrikwəntlɪ]        
-- from, prep. 从，来自，以来 [frʌm]      
-- front, a. 前面的，正面的 [frʌnt]        
-- full, a. &, ad. &, n. 全(的)，满 [fʊl]        
-- fully, ad. 十分，完全 [ˈfʊli]        
-- function, n. 函数，功能，操作 [ˈfʌŋkʃən]      
-- fundamental, a. 基本的，根本的 [ˌfʌndəˈmɛntl]        
-- future, n. &, a. 将来，未来的 [ˈfjutʃɚ]        
+- face, `n.` 面，表面 `[fes]`        
+- facility, `n.` 设施，装备，便利 `[fəˈsɪləti]`        
+- fact, `n.` 事实 `[fækt]`    
+- factory, `n.` 工厂，制造厂 `[ˈfæktəri]`        
+- fail, `n.` 故障，失效 `[fel]`        
+- failure, `n.` 失效，故障，失败 `['feɪljər]`        
+- fall, `n.` 落下，降落 `[fɔl]`        
+- false, `a.` 假(布尔值)，错误 `[fɔls]`        
+- familiar, `a.` 熟悉的，惯用的 `[fəˈmɪljɚ]`        
+- familiarize, `vt.` 使熟悉，使通俗化 `[fəˈmɪljəˌraɪz]`        
+- fancy, `n.` &, `a.` 想象(的)，精制的 `[ˈfænsi]`        
+- far, `a.` 远的，遥远的 `[fɑr]`        
+- fast, `a.` &, `ad.` 快速的  (fa, s, t) `[fæst]`    
+- fastback, `n.` 快速返回 `['fɑstbæk]`    
+- father, `n.` 父，上层(树节点的) `[ˈfɑðɚ]`        
+- feature, `n.` 特征，特点 `[ˈfitʃɚ]`        
+- feed, `v.` 馈给，(打印机)进纸  (, fi, d, e) `[fid]`      
+- field, `n.` 字段，域，栏，场 `[fild]`      
+- fifth, `n.` &, `a.` 第五，五分之一 `[fɪfθ]`        
+- figure, `n.` 数字；图，图形，形状 `[ˈfɪgjər]`      
+- file, `n.` 文件；`v.` 保存文件 `[faɪl]`    
+- filename, `n.` 文件名 `[ˈfaɪlˌnem]`    
+- filing, `n.` (文件的)整理汇集 `[ˈfaɪlɪŋ]`    
+- fill, `v.` 填充 `[fɪl]`  
+- filter, `n.` 滤波器，滤光材料  (, fi, out, e) `[ˈfɪltɚ]`      
+- final, `a.` 最终的 `[ˈfaɪnəl]`    
+- finally, `ad.` 终于，最后 `[ˈfaɪnəli]`        
+- financial, `a.` 财务的，金融的 `[faɪˈnænʃ(ə)l]`        
+- find, `v.` 寻找，发现 `[faɪnd]`        
+- fine, `a.` &, `ad.` 微小的，细的 `[faɪn]`        
+- finish, `v.` &, `n.` 完成，结束 `[ˈfɪnɪʃ]`      
+- finished, `a.` 完成的  (, fi, ni, s, hi, t, ) `[ˈfɪnɪʃt]`    
+- finisher, `n.` 成品机  
+- first, `a.` &, `ad.` &, `n.` 第一，首先 `[fɜrst]`        
+- fit, `v.` &, `n.` 适合，装配；非特  (fi, te) `[fɪt]`      
+- fix, `v.` 固定，定影 `[fɪks]`      
+- fixed, `a.` 固定的，不变的  (, fe, i, ke, si, de) `[fɪkst]`        
+- flag, `n.` 标志(记)，特征(位) `[flæɡ]`        
+- floating, `a.` 浮动的，浮点的 `[ˈfloʊtɪŋ]`        
+- floppy, `n.` 软磁盘 `[ˈflɑpi]`  
+- flush, `v.` 弄平，使齐平 `[flʌʃ]`      
+- fly, `v.` 飞，跳过 `[flai]`        
+- follow, `v.` 跟随，跟踪 `[ˈfɑloʊ]`      
+- following, `a.` 下列的，以下的 `[ˈfɑloʊɪŋ]`        
+- font, `n.` 铅字，字形  (, fang, te) `[fɑnt]`        
+- force, `v.` &, `n.` 强制；压力，强度 `[fɔrs]`      
+- forced, `a.` 强制的，压力的 `[fɔrst]`        
+- foreground, `n.` 前台 `[ˈfɔrgraʊnd]`    
+- forget, `v.` 忘记 `[fərˈget]`  
+- form, `n.` 格式，表格，方式(fao, mu) `[fɔrm]`        
+- format, `n.` 格式 `[ˈfɔrmæt]`    
+- formation, `n.` 构造，结构，形成 `[fɔrˈmeɪʃn]`        
+- formatted, `a.` 有格式的 `[fɔrmæt]`    
+- formatting, `n.` 格式化  (fao, mei, tin) `['fɔmætɪŋ]`    
+- formed, `a.` &, `n.` 成形 `['fɔmd]`    
+- forth, `ad.` 向前 `[fɔrθ]`    
+- forward, `a.` 正向的, (fao, wei, de, ) `[ˈfɔrwərd]`    
+- found, `v.` 建立，创办 `[faʊnd]`        
+- fourscore, `n.` 八十 `['foʊr'skoʊr]`  
+- fragment, `n.` 片段，段，分段 `[ˈfræɡmənt]`        
+- free, `a.` 自由的，空闲的 `[fri]`        
+- freeze, `v.` 冻结，结冰 `[friz]`      
+- frequently, `ad.` 常常，频繁地, (fei, kuai, te, li)`[ˈfrikwəntlɪ]`        
+- from, `prep.` 从，来自，以来 `[frʌm]`      
+- front, `a.` 前面的，正面的 `[frʌnt]`        
+- full, `a.` &, `ad.` &, `n.` 全(的)，满 `[fʊl]`        
+- fully, `ad.` 十分，完全 `[ˈfʊli]`        
+- function, `n.` 函数，功能，操作 `[ˈfʌŋkʃən]`      
+- fundamental, `a.` 基本的，根本的 `[ˌfʌndəˈmɛntl]`        
+- future, `n.` &, `a.` 将来，未来的 `[ˈfjutʃɚ]`        
 
 # **G**
 
-- gain, n. 增益(系数) [ɡen]    
-- gap, n. 间隙，间隔，缝隙 [ɡæp]        
-- gather, n. 聚集，集合 [ˈɡæðɚ]        
-- general, a. 通用的 [ˈdʒɛnərəl]    
-- generate, vt. 产生，发生，生成 [ˈdʒɛnəˌret]        
-- generation, n. (世)代，(发展)阶段 [ˌdʒɛnəˈreʃən]        
-- get, v. 得到，获得，取 [ɡɛt]      
-- give, vt. 给出，赋予，发生 [ɡɪv]      
-- glance, n. 闪烁 [glæns]    
-- glass, n. 玻璃 [glæs]    
-- global, n. 全局，全程，全局符, (ge, lou, bou) [ˈgloʊbl]        
-- go, vi. 运行，达到 [goʊ]      
-- grant, vt. 允许，授权 [grænt]        
-- graphic, n. &, a. 图形；图形的 [ˈɡræfɪk]    
-- graphically, ad. 用图表表示 [ˈɡræfɪklɪ]    
-- greater, than, 大于 [ɡreɪtə]  
-- greatly, ad. 大大地，非常 [ˈɡreɪtli]        
-- green, n. &, a. 绿色绿色的 [ɡrin]    
-- grey, n. &, a. 灰色；灰色的 [ɡre]    
-- group, n. 组，群 [ɡrup]      
-- growing, n. 分类，分组，成群 [ˈgroʊɪŋ]      
-- guard, v. &, n. 防护；防护装置 [gɑrd]    
-- guide, n. 向导，指南，入门 [ɡaɪd] 
+- gain, `n.` 增益(系数) `[ɡen]`    
+- gap, `n.` 间隙，间隔，缝隙 `[ɡæp]`        
+- gather, `n.` 聚集，集合 `[ˈɡæðɚ]`        
+- general, `a.` 通用的 `[ˈdʒɛnərəl]`    
+- generate, `vt.` 产生，发生，生成 `[ˈdʒɛnəˌret]`        
+- generation, `n.` (世)代，(发展)阶段 `[ˌdʒɛnəˈreʃən]`        
+- get, `v.` 得到，获得，取 `[ɡɛt]`      
+- give, `vt.` 给出，赋予，发生 `[ɡɪv]`      
+- glance, `n.` 闪烁 `[glæns]`    
+- glass, `n.` 玻璃 `[glæs]`    
+- global, `n.` 全局，全程，全局符, (ge, lou, bou) `[ˈgloʊbl]`        
+- go, vi. 运行，达到 `[goʊ]`      
+- grant, `vt.` 允许，授权 `[grænt]`        
+- graphic, `n.` &, `a.` 图形；图形的 `[ˈɡræfɪk]`    
+- graphically, `ad.` 用图表表示 `[ˈɡræfɪklɪ]`    
+- greater, than, 大于 `[ɡreɪtə]`  
+- greatly, `ad.` 大大地，非常 `[ˈɡreɪtli]`        
+- green, `n.` &, `a.` 绿色绿色的 `[ɡrin]`    
+- grey, `n.` &, `a.` 灰色；灰色的 `[ɡre]`    
+- group, `n.` 组，群 `[ɡrup]`      
+- growing, `n.` 分类，分组，成群 `[ˈgroʊɪŋ]`      
+- guard, `v.` &, `n.` 防护；防护装置 `[gɑrd]`    
+- guide, `n.` 向导，指南，入门 `[ɡaɪd]` 
 
 # **H**
 
-- habit, n. 习惯 [ˈhæbɪt]    
-- half, n. &, a. &, ad. 一半，半个 [hæf]        
-- halfway, a. 中途的，不彻底的 [ˌhæfˈweɪ]        
-- hand, n. &, a. 手，手工(动)的 [hænd]        
-- handle, n. 处理，句柄 [ˈhændl]        
-- handler, n. 处理程序 [ˈhændlɚ]    
-- handling, n. 处理，操纵 [ˈhændlɪŋ]        
-- hang, v. 中止，暂停，挂起 [hæŋ]        
-- happen, vi. (偶然)发生，碰巧 [ˈhæpən]        
-- happening, n. 事件，偶然发生的事 [ ˈhæpənɪŋ]        
-- hard, a. 硬的 [hɑrd]    
-- hardly, ad. 几乎不，未必 [ˈhɑrdli]        
-- hardware, n. 硬件 [ˈhɑrdwer]    
-- header, n. 首部，标题，报头 [ˈhɛdɚ]        
-- heading, n. 标题 [ˈhɛdɪŋ]    
-- heap, n. 堆阵 [hip]    
-- height, n. 高度 [haɪt]    
-- hello, int. &, v. 喂！；呼叫 [həˈloʊ]  
-- help, v. &, n. 帮助 [hɛlp]  
-- helpful, a. 有帮助的，有用的 [ˈhɛlpfəl]        
-- hercules, n. 大力神，大力士      
-- here, ad. 在这里, (he, i, er) [hɪr]    
-- hex, a. &, n. 六角形的 [heks]    
-- hexadecimal, a. 十六进制的 [ˌhɛksəˈdɛsəməl]    
-- hidden, a. 隐藏的，秘密的 [ˈhɪdn]        
-- hide, v. 隐藏，隐蔽 [haɪd]        
-- hierarchical, a. 分级的，分层的 [ˌhaɪəˈrɑrkɪkl]        
-- high, a. 高  (ha, i) [haɪ]    
-- higher, a. 较高的    
-- highest, a. 最高的 [haɪɪst]    
-- highlight, n. 增强亮度，提示区 [ˈhaɪˌlaɪt]        
-- history, n. 历史 [ˈhɪstəri]  
-- hit, v. 命中，瞬时干扰 [hɪt]      
-- hold, v. 保持 [hoʊld]  
-- holding, n. 保持，固定，存储 [ˈhoʊldɪŋ]      
-- home, n. &, a. 家，出发点 [hoʊm]        
-- horizontal, a. 水平的，横向的 [ˌhɔrəˈzɑntl]        
-- horizontally, ad. 水平地 [ˌhɑrɪˈzɑntəlɪ]    
-- host, n. 主机 [hoʊst]  
-- hot, a. 热的 [hɑt]    
-- how, ad. 如何，怎样，多么 [haʊ]        
-- however, conj. 然而，可是(hao, wai, wo) [haʊˈevɚ]        
-- huge, a. 巨大的，非常的 [hjudʒ]        
-- hundred, n. &, a. (一)百，百个 [ˈhʌndrɪd]        
-- hyphen, n. 连字符，短线 [ˈhaɪfən] 
+- habit, `n.` 习惯 `[ˈhæbɪt]`    
+- half, `n.` &, `a.` &, `ad.` 一半，半个 `[hæf]`        
+- halfway, `a.` 中途的，不彻底的 `[ˌhæfˈweɪ]`        
+- hand, `n.` &, `a.` 手，手工(动)的 `[hænd]`        
+- handle, `n.` 处理，句柄 `[ˈhændl]`        
+- handler, `n.` 处理程序 `[ˈhændlɚ]`    
+- handling, `n.` 处理，操纵 `[ˈhændlɪŋ]`        
+- hang, `v.` 中止，暂停，挂起 `[hæŋ]`        
+- happen, vi. (偶然)发生，碰巧 `[ˈhæpən]`        
+- happening, `n.` 事件，偶然发生的事 `[ ˈhæpənɪŋ]`        
+- hard, `a.` 硬的 `[hɑrd]`    
+- hardly, `ad.` 几乎不，未必 `[ˈhɑrdli]`        
+- hardware, `n.` 硬件 `[ˈhɑrdwer]`    
+- header, `n.` 首部，标题，报头 `[ˈhɛdɚ]`        
+- heading, `n.` 标题 `[ˈhɛdɪŋ]`    
+- heap, `n.` 堆阵 `[hip]`    
+- height, `n.` 高度 `[haɪt]`    
+- hello, int. &, `v.` 喂！；呼叫 `[həˈloʊ]`  
+- help, `v.` &, `n.` 帮助 `[hɛlp]`  
+- helpful, `a.` 有帮助的，有用的 `[ˈhɛlpfəl]`        
+- hercules, `n.` 大力神，大力士      
+- here, `ad.` 在这里, (he, i, er) `[hɪr]`    
+- hex, `a.` &, `n.` 六角形的 `[heks]`    
+- hexadecimal, `a.` 十六进制的 `[ˌhɛksəˈdɛsəməl]`    
+- hidden, `a.` 隐藏的，秘密的 `[ˈhɪdn]`        
+- hide, `v.` 隐藏，隐蔽 `[haɪd]`        
+- hierarchical, `a.` 分级的，分层的 `[ˌhaɪəˈrɑrkɪkl]`        
+- high, `a.` 高  (ha, i) `[haɪ]`    
+- higher, `a.` 较高的    
+- highest, `a.` 最高的 `[haɪɪst]`    
+- highlight, `n.` 增强亮度，提示区 `[ˈhaɪˌlaɪt]`        
+- history, `n.` 历史 `[ˈhɪstəri]`  
+- hit, `v.` 命中，瞬时干扰 `[hɪt]`      
+- hold, `v.` 保持 `[hoʊld]`  
+- holding, `n.` 保持，固定，存储 `[ˈhoʊldɪŋ]`      
+- home, `n.` &, `a.` 家，出发点 `[hoʊm]`        
+- horizontal, `a.` 水平的，横向的 `[ˌhɔrəˈzɑntl]`        
+- horizontally, `ad.` 水平地 `[ˌhɑrɪˈzɑntəlɪ]`    
+- host, `n.` 主机 `[hoʊst]`  
+- hot, `a.` 热的 `[hɑt]`    
+- how, `ad.` 如何，怎样，多么 `[haʊ]`        
+- however, `conj.` 然而，可是(hao, wai, wo) `[haʊˈevɚ]`        
+- huge, `a.` 巨大的，非常的 `[hjudʒ]`        
+- hundred, `n.` &, `a.` (一)百，百个 `[ˈhʌndrɪd]`        
+- hyphen, `n.` 连字符，短线 `[ˈhaɪfən]` 
 
 # **I**
 
-- icon, n. 图符，象征 [ˈaɪkɑn]        
-- idea, n. 思想，观念 [aɪˈdiə]        
-- identical, a. 相等的，相同的 [aɪˈdɛntɪkəl]        
-- identically, ad. 相等，恒等 [aɪ'dentɪklɪ]        
-- identify, v. 识别，辨认, (ai, dai, nei, fai) [aɪˈdɛntəˌfaɪ]        
-- if, conj. 如果 [ɪf]  
-- ignore, vt. 不管，忽略不计 [ɪɡˈnɔr,-ˈnor]      
-- image, n. 图像，影像，映像 [ˈɪmɪdʒ]        
-- immediately, ad. 直接地  (in, mi, di, si) [ɪˈmidiɪtli]    
-- implement, n. &, vt. 工具；执行，实现[ˈɪmpləmənt]      
-- implicit, a. 隐式的 [ɪmˈplɪsɪt]    
-- importance, n. 价值，重要 [ɪmˈpɔrtns]        
-- important, a. 严重的，显著的 [ɪmˈpɔrtnt]        
-- inc, lude, vt. 包括，包含      
-- inclusive, a. 包括的，内含的 [ɪnˈklusɪv]        
-- incompatible, a. 不兼容的, (in, ca, mu, pai, tei, bou) [ˌɪnkəmˈpætəbəl]    
-- incorrect, a. 错误的，不正确的 [ˌɪnkəˈrɛkt]        
-- increase, v. 增加，增大 [ɪnˈkris]        
-- increment, n. 增量，加１，递增 [ˈɪnkrəmənt,ˈɪŋ-]      
-- indefinitely, ad. 无限地，无穷地 [ɪnˈdefɪnətli]        
-- indent, v. 缩排 [ɪnˈdent]  
-- indentation, n. 缩进，缩排 [ˌɪndɛnˈteʃən]        
-- independent, a. 独立的 [ˌɪndɪˈpɛndənt]    
-- independently, a. 独立地 [ˌɪndɪˈpɛndəntlɪ]    
-- index, n. 索引，变址，指数 [ˈɪnˌdɛks]      
-- indexing, n. 变址，标引，加下标 ['ɪndeksɪŋ]      
-- indicate, vt. 指示，表示 [ˈɪndɪˌket]        
-- indicator, n. 指示器，指示灯 [ˈɪndɪˌketɚ]        
-- indirectly, ad. 间接地 [ˌɪndəˈrɛktlɪ]    
-- individual, a. 个别的，单个的 [ˌɪndəˈvɪdʒuəl]        
-- individually, ad. 个别地，单独地 [ˌɪndɪˈvɪdʒuəli]        
-- indus, try, n. 工业  
-- inexperienced, a. 不熟练的，外行的[ˌɪnɪkˈspɪriənst]        
-- infinite, a. 无限的，无穷的        
-- information, n. 信息，情报 [ˌɪnfərˈmeɪʃn]        
-- inhibit, vt. 禁止 [ɪnˈhɪbɪt]  
-- initial, a. 最初的，初始的 [ɪˈnɪʃəl]        
-- initialize, v. 初始化  (in, ne, she, lai, zi) [ɪˈnɪʃəˌlaɪz]    
-- initially, ad. 最初，开头 [ɪˈnɪʃəli]        
-- initiate, vt. 开创，起始 [ɪˈnɪʃieɪt]        
-- input, n. 输入，输入设备 [ˈɪnˌpʊt]      
-- insert, vt. 插入 [ɪnˈsɜrt]  
-- insertion, n. 插入，嵌入，插页 [ɪnˈsɜrʃn]      
-- inside, n. &, a. 内部，内容；内部的 [ɪnˈsaɪd,ˈɪnˌsaɪd]        
-- install, vt. 安装 [ɪnˈstɔl]    
-- installation, n. 安装，装配  (, in, sit, e, lei, shen)[ˌɪnstəˈleʃən]        
-- instance, n. &, vt. 例子，情况；举例 [ˈɪnstəns]        
-- instant, a. 立刻的，直接的 [ˈɪnstənt]        
-- instead, ad. (来)代替，当作, (in, si, tai, de) [ɪnˈstɛd]        
-- instruct, vt. 讲授，命令 [ɪnˈstrʌkt]      
-- instruction, 指令，指导(, in, ke, s, i, chua, ke, sheng) [ɪnˈstrʌkʃən]      
-- insufficient, a. 不足的，不适当的 [ˌɪnsəˈfɪʃənt]        
-- insure, v. 保证，保障 [ɪnˈʃʊr]      
-- integer, n. 整数 [ˈɪntɪdʒɚ]  
-- integrate, v. 综合，集成 [ˈɪntɪˌɡret]        
-- intend, vt. 打算，设计 [ɪnˈtɛnd]      
-- intense, a. 强烈的，高度的  (in, ten, si) [ɪnˈtɛns]        
-- intensity, n. 强度，亮度 [ɪnˈtɛnsɪti]      
-- interactive, a. 交互式，交互的  (in, te, a, k, ti, wu)[ˌɪntɚˈæktɪv]        
-- interest, n. 兴趣，注意，影响[ˈɪntrɪst,-tərɪst,-ˌtrɛst]      
-- interface, n. 接口  (, in, te, fe, i, s, i) [ˈɪntərfeɪs]    
-- interfere, vi. 干涉，干扰，冲突 [ˌɪntərˈfɪr]      
-- internal, a. 内部的 [ɪnˈtɜrnl]    
-- internally, ad. 在内(部) [ɪnˈtənəlɪ]    
-- interpret, v. 解释 [ɪnˈtɜrprɪt]  
-- interpretability, n. 配合动作性 [ɪntɜprɪ'təbɪlɪtɪ]    
-- interpretable, a. 彼此协作的 [ɪn'tɜprɪtəbl]    
-- interpreter, n. 解释程序，翻译机, (in, te, p, te)[ɪnˈtɜrprɪtə(r)]      
-- interrupt, v. &, n. 中断 [ˌɪntəˈrʌpt]  
-- interval, n. 间歇，区间 [ˈɪntərvl]        
-- intervene, vi插入，干涉 [ˌɪntərˈvin]    
-- into, prep. 向内，进入 [ˈɪntu]      
-- introduce, vt. 引进，引导 [ˈdus]      
-- introduction, n. 入门，介绍，引进 [ˌɪntrəˈdʌkʃən]      
-- invalid, a. 无效的 [ˈɪnvəlɪd]    
-- invent, vt. 创造，想象 [ɪnˈvɛnt]      
-- inverse, a. 反向的，逆的 [ˌɪnˈvɜrs]        
-- invoke, vt. 调用，请求  (in, wou, te) [ɪnˈvoʊk]      
-- involve, vt. 涉及，卷入，占用 [ɪnˈvɑlv]      
-- involved, a. 有关的 [ɪnˈvɑlvd]    
-- issue, v. 发行，出版，流出 [ˈɪʃu]      
-- item, n. 项，项目，条款 [ˈaɪtəm]        
-- iterative, a. 迭代的 ['ɪtəˌreɪtɪv]    
+- icon, `n.` 图符，象征 `[ˈaɪkɑn]`        
+- idea, `n.` 思想，观念 `[aɪˈdiə]`        
+- identical, `a.` 相等的，相同的 `[aɪˈdɛntɪkəl]`        
+- identically, `ad.` 相等，恒等 `[aɪ'dentɪklɪ]`        
+- identify, `v.` 识别，辨认, (ai, dai, nei, fai) `[aɪˈdɛntəˌfaɪ]`        
+- if, `conj.` 如果 `[ɪf]`  
+- ignore, `vt.` 不管，忽略不计 `[ɪɡˈnɔr,-ˈnor]`      
+- image, `n.` 图像，影像，映像 `[ˈɪmɪdʒ]`        
+- immediately, `ad.` 直接地  (in, mi, di, si) `[ɪˈmidiɪtli]`    
+- implement, `n.` &, `vt.` 工具；执行，实现`[ˈɪmpləmənt]`      
+- implicit, `a.` 隐式的 `[ɪmˈplɪsɪt]`    
+- importance, `n.` 价值，重要 `[ɪmˈpɔrtns]`        
+- important, `a.` 严重的，显著的 `[ɪmˈpɔrtnt]`        
+- inc, lude, `vt.` 包括，包含      
+- inclusive, `a.` 包括的，内含的 `[ɪnˈklusɪv]`        
+- incompatible, `a.` 不兼容的, (in, ca, mu, pai, tei, bou) `[ˌɪnkəmˈpætəbəl]`    
+- incorrect, `a.` 错误的，不正确的 `[ˌɪnkəˈrɛkt]`        
+- increase, `v.` 增加，增大 `[ɪnˈkris]`        
+- increment, `n.` 增量，加１，递增 `[ˈɪnkrəmənt,ˈɪŋ-]`      
+- indefinitely, `ad.` 无限地，无穷地 `[ɪnˈdefɪnətli]`        
+- indent, `v.` 缩排 `[ɪnˈdent]`  
+- indentation, `n.` 缩进，缩排 `[ˌɪndɛnˈteʃən]`        
+- independent, `a.` 独立的 `[ˌɪndɪˈpɛndənt]`    
+- independently, `a.` 独立地 `[ˌɪndɪˈpɛndəntlɪ]`    
+- index, `n.` 索引，变址，指数 `[ˈɪnˌdɛks]`      
+- indexing, `n.` 变址，标引，加下标 `['ɪndeksɪŋ]`      
+- indicate, `vt.` 指示，表示 `[ˈɪndɪˌket]`        
+- indicator, `n.` 指示器，指示灯 `[ˈɪndɪˌketɚ]`        
+- indirectly, `ad.` 间接地 `[ˌɪndəˈrɛktlɪ]`    
+- individual, `a.` 个别的，单个的 `[ˌɪndəˈvɪdʒuəl]`        
+- individually, `ad.` 个别地，单独地 `[ˌɪndɪˈvɪdʒuəli]`        
+- indus, try, `n.` 工业  
+- inexperienced, `a.` 不熟练的，外行的`[ˌɪnɪkˈspɪriənst]`        
+- infinite, `a.` 无限的，无穷的        
+- information, `n.` 信息，情报 `[ˌɪnfərˈmeɪʃn]`        
+- inhibit, `vt.` 禁止 `[ɪnˈhɪbɪt]`  
+- initial, `a.` 最初的，初始的 `[ɪˈnɪʃəl]`        
+- initialize, `v.` 初始化  (in, ne, she, lai, zi) `[ɪˈnɪʃəˌlaɪz]`    
+- initially, `ad.` 最初，开头 `[ɪˈnɪʃəli]`        
+- initiate, `vt.` 开创，起始 `[ɪˈnɪʃieɪt]`        
+- input, `n.` 输入，输入设备 `[ˈɪnˌpʊt]`      
+- insert, `vt.` 插入 `[ɪnˈsɜrt]`  
+- insertion, `n.` 插入，嵌入，插页 `[ɪnˈsɜrʃn]`      
+- inside, `n.` &, `a.` 内部，内容；内部的 `[ɪnˈsaɪd,ˈɪnˌsaɪd]`        
+- install, `vt.` 安装 `[ɪnˈstɔl]`    
+- installation, `n.` 安装，装配  (, in, sit, e, lei, shen)`[ˌɪnstəˈleʃən]`        
+- instance, `n.` &, `vt.` 例子，情况；举例 `[ˈɪnstəns]`        
+- instant, `a.` 立刻的，直接的 `[ˈɪnstənt]`        
+- instead, `ad.` (来)代替，当作, (in, si, tai, de) `[ɪnˈstɛd]`        
+- instruct, `vt.` 讲授，命令 `[ɪnˈstrʌkt]`      
+- instruction, 指令，指导(, in, ke, s, i, chua, ke, sheng) `[ɪnˈstrʌkʃən]`      
+- insufficient, `a.` 不足的，不适当的 `[ˌɪnsəˈfɪʃənt]`        
+- insure, `v.` 保证，保障 `[ɪnˈʃʊr]`      
+- integer, `n.` 整数 `[ˈɪntɪdʒɚ]`  
+- integrate, `v.` 综合，集成 `[ˈɪntɪˌɡret]`        
+- intend, `vt.` 打算，设计 `[ɪnˈtɛnd]`      
+- intense, `a.` 强烈的，高度的  (in, ten, si) `[ɪnˈtɛns]`        
+- intensity, `n.` 强度，亮度 `[ɪnˈtɛnsɪti]`      
+- interactive, `a.` 交互式，交互的  (in, te, a, k, ti, wu)`[ˌɪntɚˈæktɪv]`        
+- interest, `n.` 兴趣，注意，影响`[ˈɪntrɪst,-tərɪst,-ˌtrɛst]`      
+- interface, `n.` 接口  (, in, te, fe, i, s, i) `[ˈɪntərfeɪs]`    
+- interfere, vi. 干涉，干扰，冲突 `[ˌɪntərˈfɪr]`      
+- internal, `a.` 内部的 `[ɪnˈtɜrnl]`    
+- internally, `ad.` 在内(部) `[ɪnˈtənəlɪ]`    
+- interpret, `v.` 解释 `[ɪnˈtɜrprɪt]`  
+- interpretability, `n.` 配合动作性 `[ɪntɜprɪ'təbɪlɪtɪ]`    
+- interpretable, `a.` 彼此协作的 `[ɪn'tɜprɪtəbl]`    
+- interpreter, `n.` 解释程序，翻译机, (in, te, p, te)`[ɪnˈtɜrprɪtə(r)]`      
+- interrupt, `v.` &, `n.` 中断 `[ˌɪntəˈrʌpt]`  
+- interval, `n.` 间歇，区间 `[ˈɪntərvl]`        
+- intervene, vi插入，干涉 `[ˌɪntərˈvin]`    
+- into, `prep.` 向内，进入 `[ˈɪntu]`      
+- introduce, `vt.` 引进，引导 `[ˈdus]`      
+- introduction, `n.` 入门，介绍，引进 `[ˌɪntrəˈdʌkʃən]`      
+- invalid, `a.` 无效的 `[ˈɪnvəlɪd]`    
+- invent, `vt.` 创造，想象 `[ɪnˈvɛnt]`      
+- inverse, `a.` 反向的，逆的 `[ˌɪnˈvɜrs]`        
+- invoke, `vt.` 调用，请求  (in, wou, te) `[ɪnˈvoʊk]`      
+- involve, `vt.` 涉及，卷入，占用 `[ɪnˈvɑlv]`      
+- involved, `a.` 有关的 `[ɪnˈvɑlvd]`    
+- issue, `v.` 发行，出版，流出 `[ˈɪʃu]`      
+- item, `n.` 项，项目，条款 `[ˈaɪtəm]`        
+- iterative, `a.` 迭代的 `['ɪtəˌreɪtɪv]`    
 
 # **J**
 
-- job, n. 作业 [dʒɑb]  
-- join, v. &, n. 连接，并(运算) [dʒɔɪn]      
-- jump, v. &, n. 转移 [dʒʌmp]  
-- just, ad. 恰好 [dʒʌst]  
+- job, `n.` 作业 `[dʒɑb]`  
+- join, `v.` &, `n.` 连接，并(运算) `[dʒɔɪn]`      
+- jump, `v.` &, `n.` 转移 `[dʒʌmp]`  
+- just, `ad.` 恰好 `[dʒʌst]`  
 
 # **K**
 
-- keep, v. 保持，保存, (ke, p) [kip]      
-- kernel, n. 内核(核心)程序 [ˈkɜrnl]  
-- key, n. 键，关键字，关键码 [ki]      
-- keyboard, n. 键盘 [ˈkibɔrd]    
-- keyed, a. 键控的 [kid]    
-- keypad, n. 小键盘  (ki, pai, de) [ˈkiˌpæd]    
-- keyword, n. 关键字(词) [ˈkiwɜrd]  
-- kilobyte, n. 千字节(kb) [ˈkɪləˌbaɪt]    
-- kind, n. 种类，属，级，等 [kaɪnd]        
-- know, v. 知道，了解，认识  (na, i, o) [noʊ]        
+- keep, `v.` 保持，保存, (ke, p) `[kip]`      
+- kernel, `n.` 内核(核心)程序 `[ˈkɜrnl]`  
+- key, `n.` 键，关键字，关键码 `[ki]`      
+- keyboard, `n.` 键盘 `[ˈkibɔrd]`    
+- keyed, `a.` 键控的 `[kid]`    
+- keypad, `n.` 小键盘  (ki, pai, de) `[ˈkiˌpæd]`    
+- keyword, `n.` 关键字(词) `[ˈkiwɜrd]`  
+- kilobyte, `n.` 千字节(kb) `[ˈkɪləˌbaɪt]`    
+- kind, `n.` 种类，属，级，等 `[kaɪnd]`        
+- know, `v.` 知道，了解，认识  (na, i, o) `[noʊ]`        
 
 # **L**
 
-- label, n. 标签，标号，标识符 [ˈleɪbl]        
-- labeled, a. 有标号的 ['leɪbld]    
-- landler, n. 兰德勒舞曲 ['lændlər]    
-- language, n. 语言  (lan, ge, wei, chi) [ˈlæŋɡwɪdʒ]    
-- large, a. (巨)大的，大量的 [lɑrdʒ]        
-- last, a. &, n. 最后(的) [læst]    
-- later, a. 更后的，后面的 [ˈletɚ]        
-- latter, a. 后面的，最近的 [ˈlætɚ]        
-- layer, n. &, v. 层，涂层 [ˈler]        
-- layout, n. 布置，布局，安排 [ˈleˌaʊt]        
-- leading, n. &, a. 引导(的) [ˈlidɪŋ]    
-- learn, v. 学习，训练(, lan, en) [lɜrn]        
-- learning, n. 学问，知识  (lei, ning) [ˈlɜrnɪŋ]        
-- least, a. &, ad. 最小(的) [list]    
-- leave, v. 离开，留下 [liv]        
-- left, a. &, n. 左边(的) [lɛft]    
-- legal, a. 合法的，法律的 [ˈliɡəl]        
-- lending, n. &, a. 借给，出租；借出的 [ˈlɛndɪŋ]        
-- length, n. (字，记录，块)长度 [leŋθ]      
-- less, a. &, ad. 更小，更少 [lɛs]        
-- lesson, n. 功课，教训 [ˈlɛsən]      
-- let, v. 让，允许 [lɛt]      
-- letter, n. 字母，信 [ˈlɛtɚ]      
-- level, n. 水平，级，层次 [ˈlɛvəl]      
-- lexical, a. 辞典的，词法的 [ˈlɛksɪkəl]        
-- library, n. (程序…)库，图书馆 [ˈlaɪbreri]        
-- light, n. &, a. 光(波，源)；轻的  (, la, i, t, e) [laɪt]        
-- lightning, n. 闪电 [ˈlaɪtnɪŋ]    
-- like, a. 类似的，同样的 [laɪk]        
-- limit, n. 极限，限界 [ˈlɪmɪt]      
-- limitations, n. 限制，边界 [lɪmɪ'teɪʃnz]        
-- limited, a. 有限的，(受)限制的 [ˈlɪmɪtɪd]        
-- limiter, n. 限制(幅)器 ['lɪmətə]  
-- limiting, n. (电路参数)限制处理 [ˈlɪmɪtɪŋ]  
-- line, n. (数据，程序)行，线路 [laɪn]        
-- link, n. &, v. 链接；连接，联络, (lin, k) [lɪŋk]      
-- linker, n. 连接程序 ['lɪŋkə]  
-- list, n. 列表，显示，v. 打印 [lɪst]      
-- listing, n. 列表，编目  (li, si, tin) [ˈlɪstɪŋ]      
-- literal, a. 文字的  (li, te, rou) [ˈlɪtərəl]    
-- little, a. 小的，少量的 [ˈlɪtl]        
-- load, n. &, v. 装入，负载，寄存 [loʊd]        
-- loaded, a. 有负载的 [ˈloʊdɪd]    
-- loading, n. 装入，加载，存放 [ˈloʊdɪŋ]        
-- local, a. 局部的，本地的 [ˈloʊkl]        
-- locate, vt. 定位 [ˈloʊkeɪt]    
-- locating, n. 定位，查找 [loʊ'kəɪtɪŋ]        
-- location, n. 定位，(存储器)单元 [loʊˈkeɪʃn]        
-- lock, n. &, v. 锁，封闭；自动跟踪(lao, ke) [lɑk]        
-- locking, n. 锁定，加锁 ['lɒkɪŋ]      
-- log, n. &, v. 记录，存入 [lɔg]      
-- logarithm, n. 对数 [ˈlɔgərɪðəm]    
-- logged, a. 记录的，浸透的 [lɔgd]        
-- logic, n. 逻辑(线路) [ˈlɑdʒɪk]  
-- logical, a. 逻辑的，逻辑“或” [ˈlɑdʒɪkl]        
-- long, a. 长的，远的(, lang) [lɔŋ]        
-- look, v. 看，查看(, lu, ke, ) [lʊk]      
-- loop, n. 圈，环；(程序)循环，回路 [lup]      
-- lose, n. 失去，损失 [luz]      
-- loss, n. 损耗，损失, (lao, s) [lɔs]        
-- lot, n. 一块(批，组，套) [lɑt]      
-- low, a. 低的，浅的，弱的 [loʊ]        
-- lower, a. 下部的，低级的 [ˈloʊə(r)]        
-- lowercase, n. 下档，小写体 ['loʊrˌkeɪs]        
-- lowest, a. 最低的，最小的 ['loʊɪst]        
+- label, `n.` 标签，标号，标识符 `[ˈleɪbl]`        
+- labeled, `a.` 有标号的 `['leɪbld]`    
+- landler, `n.` 兰德勒舞曲 `['lændlər]`    
+- language, `n.` 语言  (lan, ge, wei, chi) `[ˈlæŋɡwɪdʒ]`    
+- large, `a.` (巨)大的，大量的 `[lɑrdʒ]`        
+- last, `a.` &, `n.` 最后(的) `[læst]`    
+- later, `a.` 更后的，后面的 `[ˈletɚ]`        
+- latter, `a.` 后面的，最近的 `[ˈlætɚ]`        
+- layer, `n.` &, `v.` 层，涂层 `[ˈler]`        
+- layout, `n.` 布置，布局，安排 `[ˈleˌaʊt]`        
+- leading, `n.` &, `a.` 引导(的) `[ˈlidɪŋ]`    
+- learn, `v.` 学习，训练(, lan, en) `[lɜrn]`        
+- learning, `n.` 学问，知识  (lei, ning) `[ˈlɜrnɪŋ]`        
+- least, `a.` &, `ad.` 最小(的) `[list]`    
+- leave, `v.` 离开，留下 `[liv]`        
+- left, `a.` &, `n.` 左边(的) `[lɛft]`    
+- legal, `a.` 合法的，法律的 `[ˈliɡəl]`        
+- lending, `n.` &, `a.` 借给，出租；借出的 `[ˈlɛndɪŋ]`        
+- length, `n.` (字，记录，块)长度 `[leŋθ]`      
+- less, `a.` &, `ad.` 更小，更少 `[lɛs]`        
+- lesson, `n.` 功课，教训 `[ˈlɛsən]`      
+- let, `v.` 让，允许 `[lɛt]`      
+- letter, `n.` 字母，信 `[ˈlɛtɚ]`      
+- level, `n.` 水平，级，层次 `[ˈlɛvəl]`      
+- lexical, `a.` 辞典的，词法的 `[ˈlɛksɪkəl]`        
+- library, `n.` (程序…)库，图书馆 `[ˈlaɪbreri]`        
+- light, `n.` &, `a.` 光(波，源)；轻的  (, la, i, t, e) `[laɪt]`        
+- lightning, `n.` 闪电 `[ˈlaɪtnɪŋ]`    
+- like, `a.` 类似的，同样的 `[laɪk]`        
+- limit, `n.` 极限，限界 `[ˈlɪmɪt]`      
+- limitations, `n.` 限制，边界 `[lɪmɪ'teɪʃnz]`        
+- limited, `a.` 有限的，(受)限制的 `[ˈlɪmɪtɪd]`        
+- limiter, `n.` 限制(幅)器 `['lɪmətə]`  
+- limiting, `n.` (电路参数)限制处理 `[ˈlɪmɪtɪŋ]`  
+- line, `n.` (数据，程序)行，线路 `[laɪn]`        
+- link, `n.` &, `v.` 链接；连接，联络, (lin, k) `[lɪŋk]`      
+- linker, `n.` 连接程序 `['lɪŋkə]`  
+- list, `n.` 列表，显示，`v.` 打印 `[lɪst]`      
+- listing, `n.` 列表，编目  (li, si, tin) `[ˈlɪstɪŋ]`      
+- literal, `a.` 文字的  (li, te, rou) `[ˈlɪtərəl]`    
+- little, `a.` 小的，少量的 `[ˈlɪtl]`        
+- load, `n.` &, `v.` 装入，负载，寄存 `[loʊd]`        
+- loaded, `a.` 有负载的 `[ˈloʊdɪd]`    
+- loading, `n.` 装入，加载，存放 `[ˈloʊdɪŋ]`        
+- local, `a.` 局部的，本地的 `[ˈloʊkl]`        
+- locate, `vt.` 定位 `[ˈloʊkeɪt]`    
+- locating, `n.` 定位，查找 `[loʊ'kəɪtɪŋ]`        
+- location, `n.` 定位，(存储器)单元 `[loʊˈkeɪʃn]`        
+- lock, `n.` &, `v.` 锁，封闭；自动跟踪(lao, ke) `[lɑk]`        
+- locking, `n.` 锁定，加锁 `['lɒkɪŋ]`      
+- log, `n.` &, `v.` 记录，存入 `[lɔg]`      
+- logarithm, `n.` 对数 `[ˈlɔgərɪðəm]`    
+- logged, `a.` 记录的，浸透的 `[lɔgd]`        
+- logic, `n.` 逻辑(线路) `[ˈlɑdʒɪk]`  
+- logical, `a.` 逻辑的，逻辑“或” `[ˈlɑdʒɪkl]`        
+- long, `a.` 长的，远的(, lang) `[lɔŋ]`        
+- look, `v.` 看，查看(, lu, ke, ) `[lʊk]`      
+- loop, `n.` 圈，环；(程序)循环，回路 `[lup]`      
+- lose, `n.` 失去，损失 `[luz]`      
+- loss, `n.` 损耗，损失, (lao, s) `[lɔs]`        
+- lot, `n.` 一块(批，组，套) `[lɑt]`      
+- low, `a.` 低的，浅的，弱的 `[loʊ]`        
+- lower, `a.` 下部的，低级的 `[ˈloʊə(r)]`        
+- lowercase, `n.` 下档，小写体 `['loʊrˌkeɪs]`        
+- lowest, `a.` 最低的，最小的 `['loʊɪst]`        
 
 # **M**
 
-- mach, n. 马赫(速度单位)    
-- machine, n. 机器，计算机 [məˈʃin]        
-- macro, n. 宏，宏功能，宏指令 [ˈmækroʊ]        
-- macros, n. 宏命令(指令), (mai, ke, lou, si) ['mækrɒs]    
-- magenta, n. &, a. 深红色(的) [məˈdʒɛntə]    
-- magic, n. 魔术，幻术 [ˈmædʒɪk]        
-- main, a. 主要的 [men]    
-- mainframe, n. 主机，大型机 [ˈmeɪnfreɪm]        
-- maintain, vt. 维护，保养，保留 [menˈten]        
-- major, a. 较大的，主要的 [ˈmedʒɚ]        
-- make, vt. 制造，形成，接通 [mek]        
-- making, n. 制造，构造 [ˈmekɪŋ]        
-- manage, v. 管理，经营，使用 [ˈmænɪdʒ]        
-- management, n. 管理 [ˈmænɪdʒmənt]    
-- manager, n. 管理程序 [ˈmænɪdʒɚ]    
-- manifest, vt. 表明，显示，显现 [ˈmænəˌfɛst]        
-- manipulating, v. 操纵，操作        
-- manner, n. 方法，样式，惯例 [ˈmænɚ]        
-- manual, a. 手工的，手动的  (man, nui, ou)[ˈmænjuəl]        
-- manually, ad. 用手，手动地 [ˈmænjʊəlɪ]        
-- manufacture, vt. &, n. 制造(业)，工业[ˌmænjəˈfæktʃɚ]        
-- many, a. &, n. 许多，多数(ma, i, ni) [ˈmɛni]        
-- map, n. &, vt. 图；映射，变址 [mæp]        
-- margin, n. 余量，边缘，边际 [ˈmɑrdʒən]        
-- mark, n. 标记；vt. 加标记 [mɑrk]    
-- marked, a. 有记号的 [mɑrkt]    
-- marker, n. 记号，标记，标志  (ma, ke, ) [ˈmɑrkə(r)]        
-- market, n. 市场，行情，销路 [ˈmɑrkɪt]        
-- marking, n. 标记，记号，传号 [ˈmɑrkɪŋ]        
-- masking, n. 掩蔽，屏蔽 ['mɑskɪŋ]        
-- master, a. 总要的，总的 [ˈmæstə(r)]        
-- match, v. 比较，匹配，符合, (ma, c, hi) [mætʃ]        
-- matching, n. 匹配，调整 [ˈmætʃɪŋ]        
-- math, n. 数学 [mæθ]    
-- matter, n. 物质，内容，事情 [ˈmætɚ]        
-- maximum, n. &, a. 最大(的)，最高(mai, ke, sei, men) [ˈmæksəməm]        
-- mean, n. &, vt. 平均；意味着 [min]    
-- meaning, n. 意义，含义 [ˈminɪŋ]        
-- means, n. 方法，手段 [minz]        
-- medium, n. &, a. 媒体；中等的 [ˈmidiəm]    
-- meet, v. “与”，符合，满足 [mit]      
-- mega, n. 兆，百万 ['meɡə]        
-- memo, n. 备忘录 [ˈmemoʊ]  
-- memory, n. 记忆存储，存储器 [ˈmɛməri]      
-- mention, vt. &, n. 叙述，说到 [ˈmɛnʃən]      
-- menu, n. 菜单，目录 [ˈmɛnju,ˈmenju]      
-- message, n. 信息，消息，电文 [ˈmɛsɪdʒ]        
-- meter, n. 仪表，米 [ˈmitɚ]      
-- method, n. 方法，方案 [ˈmɛθəd]      
-- micro, a. &, n. 微的，百万分之一 [ˈmaɪkroʊ]        
-- middle, a. 中间的 [ˈmidl]    
-- midnight, n. &, a. 午夜 [ˈmɪdˌnaɪt]    
-- mind, n. 愿望，想法，智力 [maɪnd]        
-- minimum, n. &, a. 最小(的)，最低  (mi, ni, men)[ˈmɪnəməm]        
-- minus, a. &, n. 负的；负数，减 [ˈmaɪnəs]        
-- mirror, n. &, v. 镜，反射，反映  (mi, re) [ˈmɪrɚ]      
-- mismatch, n. &, vt. 失配，不匹配 [mɪsˈmætʃ]        
-- mistake, n. 错误  (mi, si, tei, ke) [mɪˈstek]    
-- mixed, a. 混合的  (mi, k, s, t) [mɪkst]    
-- mixture, n. 混合物 [ˈmɪkstʃɚ]  
-- mod, a. &, n. 时髦的 [mɑd]    
-- mode, n. 态，方式，模 [moʊd]      
-- model, n. 模型，样机，型号 [ˈmɑdl]      
-- modification, n. 改变，修改  (mao, di, fi, kei, sheng) [ˌmɑdɪfɪˈkeɪʃn]        
-- modified, a. 修改的，变更的 ['mɒdəˌfaɪd]        
-- modifier, n. 修改量，变址数 [ˈmɑdɪfaɪə(r)]        
-- modify, vt. 修改，改变，变址 [ˈmɑdɪfaɪ]        
-- module, n. 模块(程序设计) [ˈmɑdʒul]  
-- moment, n. 矩，力矩，磁矩 [ˈmoʊmənt]      
-- monitor, n. 监视器，监督程序, (mao, nit, e)[ˈmɑnɪtə(r)]        
-- mono, a. &, n. 单音的 [ˈmɑnoʊ]    
-- monochrome, n. 单色 [ˈmɑnəkroʊm]  
-- month, n. 月份  (ma, n, pu) [mʌnθ]    
-- moreover, ad. 况且，并且，此外 [mɔrˈoʊvər]        
-- motif, n. 主题，要点，特色 [moʊˈtif]      
-- mountain, n. 高山，山脉 [ˈmaʊntn]        
-- mouse, n. 鼠标器 [maʊs]    
-- move, v. 移动 [muv]  
-- movement, n. 传送，移动 [ˈmuvmənt]      
-- movie, n. 影片，电影(院), (mu, wi) [ˈmuvi]      
-- moving, n. &, a. 活动的，自动的(mu, wei, ying)[ˈmuvɪŋ]        
-- much, a. &, n. 很多，许多，大量, (ma, c, hi) [mʌtʃ]        
+- mach, `n.` 马赫(速度单位)    
+- machine, `n.` 机器，计算机 `[məˈʃin]`        
+- macro, `n.` 宏，宏功能，宏指令 `[ˈmækroʊ]`        
+- macros, `n.` 宏命令(指令), (mai, ke, lou, si) `['mækrɒs]`    
+- magenta, `n.` &, `a.` 深红色(的) `[məˈdʒɛntə]`    
+- magic, `n.` 魔术，幻术 `[ˈmædʒɪk]`        
+- main, `a.` 主要的 `[men]`    
+- mainframe, `n.` 主机，大型机 `[ˈmeɪnfreɪm]`        
+- maintain, `vt.` 维护，保养，保留 `[menˈten]`        
+- major, `a.` 较大的，主要的 `[ˈmedʒɚ]`        
+- make, `vt.` 制造，形成，接通 `[mek]`        
+- making, `n.` 制造，构造 `[ˈmekɪŋ]`        
+- manage, `v.` 管理，经营，使用 `[ˈmænɪdʒ]`        
+- management, `n.` 管理 `[ˈmænɪdʒmənt]`    
+- manager, `n.` 管理程序 `[ˈmænɪdʒɚ]`    
+- manifest, `vt.` 表明，显示，显现 `[ˈmænəˌfɛst]`        
+- manipulating, `v.` 操纵，操作        
+- manner, `n.` 方法，样式，惯例 `[ˈmænɚ]`        
+- manual, `a.` 手工的，手动的  (man, nui, ou)`[ˈmænjuəl]`        
+- manually, `ad.` 用手，手动地 `[ˈmænjʊəlɪ]`        
+- manufacture, `vt.` &, `n.` 制造(业)，工业`[ˌmænjəˈfæktʃɚ]`        
+- many, `a.` &, `n.` 许多，多数(ma, i, ni) `[ˈmɛni]`        
+- map, `n.` &, `vt.` 图；映射，变址 `[mæp]`        
+- margin, `n.` 余量，边缘，边际 `[ˈmɑrdʒən]`        
+- mark, `n.` 标记；`vt.` 加标记 `[mɑrk]`    
+- marked, `a.` 有记号的 `[mɑrkt]`    
+- marker, `n.` 记号，标记，标志  (ma, ke, ) `[ˈmɑrkə(r)]`        
+- market, `n.` 市场，行情，销路 `[ˈmɑrkɪt]`        
+- marking, `n.` 标记，记号，传号 `[ˈmɑrkɪŋ]`        
+- masking, `n.` 掩蔽，屏蔽 `['mɑskɪŋ]`        
+- master, `a.` 总要的，总的 `[ˈmæstə(r)]`        
+- match, `v.` 比较，匹配，符合, (ma, c, hi) `[mætʃ]`        
+- matching, `n.` 匹配，调整 `[ˈmætʃɪŋ]`        
+- math, `n.` 数学 `[mæθ]`    
+- matter, `n.` 物质，内容，事情 `[ˈmætɚ]`        
+- maximum, `n.` &, `a.` 最大(的)，最高(mai, ke, sei, men) `[ˈmæksəməm]`        
+- mean, `n.` &, `vt.` 平均；意味着 `[min]`    
+- meaning, `n.` 意义，含义 `[ˈminɪŋ]`        
+- means, `n.` 方法，手段 `[minz]`        
+- medium, `n.` &, `a.` 媒体；中等的 `[ˈmidiəm]`    
+- meet, `v.` “与”，符合，满足 `[mit]`      
+- mega, `n.` 兆，百万 `['meɡə]`        
+- memo, `n.` 备忘录 `[ˈmemoʊ]`  
+- memory, `n.` 记忆存储，存储器 `[ˈmɛməri]`      
+- mention, `vt.` &, `n.` 叙述，说到 `[ˈmɛnʃən]`      
+- menu, `n.` 菜单，目录 `[ˈmɛnju,ˈmenju]`      
+- message, `n.` 信息，消息，电文 `[ˈmɛsɪdʒ]`        
+- meter, `n.` 仪表，米 `[ˈmitɚ]`      
+- method, `n.` 方法，方案 `[ˈmɛθəd]`      
+- micro, `a.` &, `n.` 微的，百万分之一 `[ˈmaɪkroʊ]`        
+- middle, `a.` 中间的 `[ˈmidl]`    
+- midnight, `n.` &, `a.` 午夜 `[ˈmɪdˌnaɪt]`    
+- mind, `n.` 愿望，想法，智力 `[maɪnd]`        
+- minimum, `n.` &, `a.` 最小(的)，最低  (mi, ni, men)`[ˈmɪnəməm]`        
+- minus, `a.` &, `n.` 负的；负数，减 `[ˈmaɪnəs]`        
+- mirror, `n.` &, `v.` 镜，反射，反映  (mi, re) `[ˈmɪrɚ]`      
+- mismatch, `n.` &, `vt.` 失配，不匹配 `[mɪsˈmætʃ]`        
+- mistake, `n.` 错误  (mi, si, tei, ke) `[mɪˈstek]`    
+- mixed, `a.` 混合的  (mi, k, s, t) `[mɪkst]`    
+- mixture, `n.` 混合物 `[ˈmɪkstʃɚ]`  
+- mod, `a.` &, `n.` 时髦的 `[mɑd]`    
+- mode, `n.` 态，方式，模 `[moʊd]`      
+- model, `n.` 模型，样机，型号 `[ˈmɑdl]`      
+- modification, `n.` 改变，修改  (mao, di, fi, kei, sheng) `[ˌmɑdɪfɪˈkeɪʃn]`        
+- modified, `a.` 修改的，变更的 `['mɒdəˌfaɪd]`        
+- modifier, `n.` 修改量，变址数 `[ˈmɑdɪfaɪə(r)]`        
+- modify, `vt.` 修改，改变，变址 `[ˈmɑdɪfaɪ]`        
+- module, `n.` 模块(程序设计) `[ˈmɑdʒul]`  
+- moment, `n.` 矩，力矩，磁矩 `[ˈmoʊmənt]`      
+- monitor, `n.` 监视器，监督程序, (mao, nit, e)`[ˈmɑnɪtə(r)]`        
+- mono, `a.` &, `n.` 单音的 `[ˈmɑnoʊ]`    
+- monochrome, `n.` 单色 `[ˈmɑnəkroʊm]`  
+- month, `n.` 月份  (ma, n, pu) `[mʌnθ]`    
+- moreover, `ad.` 况且，并且，此外 `[mɔrˈoʊvər]`        
+- motif, `n.` 主题，要点，特色 `[moʊˈtif]`      
+- mountain, `n.` 高山，山脉 `[ˈmaʊntn]`        
+- mouse, `n.` 鼠标器 `[maʊs]`    
+- move, `v.` 移动 `[muv]`  
+- movement, `n.` 传送，移动 `[ˈmuvmənt]`      
+- movie, `n.` 影片，电影(院), (mu, wi) `[ˈmuvi]`      
+- moving, `n.` &, `a.` 活动的，自动的(mu, wei, ying)`[ˈmuvɪŋ]`        
+- much, `a.` &, `n.` 很多，许多，大量, (ma, c, hi) `[mʌtʃ]`        
 - multi, (词头), 多
-- multiple, a. 多次的，复杂的, (mo, u, t, i, po, u)[ˈmʌltəpəl]        
-- multiprocessing, n. 多重处理，多道处理['mʌltɪˌproʊsesɪŋ]      
-- murder, n. 弄坏，毁掉 [ˈmɜrdə(r)]      
+- multiple, `a.` 多次的，复杂的, (mo, u, t, i, po, u)`[ˈmʌltəpəl]`        
+- multiprocessing, `n.` 多重处理，多道处理`['mʌltɪˌproʊsesɪŋ]`      
+- murder, `n.` 弄坏，毁掉 `[ˈmɜrdə(r)]`      
 
 # **N**
 
-- name, n. 名，名称；vt. 命名 [nem]        
-- national, a. 国家的 [ˈnæʃənəl,ˈnæʃnəl]    
-- natural, a. 自然的 [ˈnætʃrəl]    
-- nature, n. 自然，天然 [ˈnetʃɚ]        
-- navigate, v. 导航，驾驶 [ˈnævɪˌɡet]        
-- navigation, n. 导航(na, we, i, ge, i, sheng)[ˌnævɪˈɡeʃən]    
-- near, ad. &, prep. 领近，接近 [nɪr]        
-- nearly, ad. 近乎，差不多，几乎 [ˈnɪrli]        
-- necessarily, ad. 必定，当然 [ˌnɛsɪˈsɛrəli,-ˈsɛr-]        
-- necessary, a. 必要的，必然的 [ˈnesəseri]        
-- need, v. 必须，需要 [nid]      
-- negate, vt. 否定，求反，“非” [nɪˈɡet]        
-- negative, a. 负的，否定的 [ˈnɛɡətɪv]        
-- neither, a. &, pron. (两者)都不 [ˈniðɚ,ˈnaɪ-]    
-- nest, v. 嵌套，后进先出 [nɛst]      
-- network, n. &, vt. 网络；联网, (nai, te, wo, de)[ˈnetwɜrk]    
-- never, ad. 决不，从来不 [ˈnɛvɚ]        
-- newly, ad. 新近，重新  (nui, li) [ˈnuli]        
-- next, n. 下一次，a. 其次 [nɛkst]        
-- nicety, n. 细节，精细 [ˈnaɪsɪti]        
-- noninteractive, a. 不相关的，非交互的['nɒnɪntə'æktɪv]        
-- nor, conj. 也不 [nɔr]  
-- normal, a. &, n. 正常，标准 [ˈnɔrml]        
-- normally, ad. 正常地，通常  (nou, me, li) [ˈnɔrməli]        
-- note, n. 注解，注释 [noʊt]      
-- noted, a. 著名的 [ˈnoʊtɪd]    
-- nothing, n. 没有任何东西 [ˈnʌθɪŋ]  
-- now, ad. &, n. 此刻，现在(nao) [naʊ]        
-- null, n. &, a. 空(的)，零(的) [nʌl]        
-- number, n. 数字，号码；vt. 编号 [ˈnʌmbɚ]      
-- numeral, n. &, n. 数字的，数码 [ˈnumərəl]        
-- numeric, n. &, a. 数字的，分数 [nu'merɪk]        
-- numerical, a. 数量的，数字的 [nuˈmerɪkl]        
-- numerous, a. 为数众多的，无数的 [ˈnumərəs]        
+- name, `n.` 名，名称；`vt.` 命名 `[nem]`        
+- national, `a.` 国家的 `[ˈnæʃənəl,ˈnæʃnəl]`    
+- natural, `a.` 自然的 `[ˈnætʃrəl]`    
+- nature, `n.` 自然，天然 `[ˈnetʃɚ]`        
+- navigate, `v.` 导航，驾驶 `[ˈnævɪˌɡet]`        
+- navigation, `n.` 导航(na, we, i, ge, i, sheng)`[ˌnævɪˈɡeʃən]`    
+- near, `ad.` &, `prep.` 领近，接近 `[nɪr]`        
+- nearly, `ad.` 近乎，差不多，几乎 `[ˈnɪrli]`        
+- necessarily, `ad.` 必定，当然 `[ˌnɛsɪˈsɛrəli,-ˈsɛr-]`        
+- necessary, `a.` 必要的，必然的 `[ˈnesəseri]`        
+- need, `v.` 必须，需要 `[nid]`      
+- negate, `vt.` 否定，求反，“非” `[nɪˈɡet]`        
+- negative, `a.` 负的，否定的 `[ˈnɛɡətɪv]`        
+- neither, `a.` &, pro`n.` (两者)都不 `[ˈniðɚ,ˈnaɪ-]`    
+- nest, `v.` 嵌套，后进先出 `[nɛst]`      
+- network, `n.` &, `vt.` 网络；联网, (nai, te, wo, de)`[ˈnetwɜrk]`    
+- never, `ad.` 决不，从来不 `[ˈnɛvɚ]`        
+- newly, `ad.` 新近，重新  (nui, li) `[ˈnuli]`        
+- next, `n.` 下一次，`a.` 其次 `[nɛkst]`        
+- nicety, `n.` 细节，精细 `[ˈnaɪsɪti]`        
+- noninteractive, `a.` 不相关的，非交互的`['nɒnɪntə'æktɪv]`        
+- nor, `conj.` 也不 `[nɔr]`  
+- normal, `a.` &, `n.` 正常，标准 `[ˈnɔrml]`        
+- normally, `ad.` 正常地，通常  (nou, me, li) `[ˈnɔrməli]`        
+- note, `n.` 注解，注释 `[noʊt]`      
+- noted, `a.` 著名的 `[ˈnoʊtɪd]`    
+- nothing, `n.` 没有任何东西 `[ˈnʌθɪŋ]`  
+- now, `ad.` &, `n.` 此刻，现在(nao) `[naʊ]`        
+- null, `n.` &, `a.` 空(的)，零(的) `[nʌl]`        
+- number, `n.` 数字，号码；`vt.` 编号 `[ˈnʌmbɚ]`      
+- numeral, `n.` &, `n.` 数字的，数码 `[ˈnumərəl]`        
+- numeric, `n.` &, `a.` 数字的，分数 `[nu'merɪk]`        
+- numerical, `a.` 数量的，数字的 `[nuˈmerɪkl]`        
+- numerous, `a.` 为数众多的，无数的 `[ˈnumərəs]`        
 
 # **O**
 
-- object, n. 对象，目标，物体(a, zhuai, ke, te)[ˈɑbdʒekt]        
-- observe, v. 观察，探测 [əbˈzɜrv]      
-- obsolete, a. 作废的，过时的 [ˌɑbsəˈlit]        
-- obtain, v. 获得，得到 [əbˈtein]        
-- occasionally, ad. 偶尔(地)，不时 [əˈkeɪʒnəli]        
-- occupy, vt. 占有，充满 [ˈɑkjupaɪ]        
-- occur, vi. 发生，出现，存在 [əˈkɚ]      
-- occurrence, n. 出现，发生(e, ke, run, si) [əˈkɜrəns]      
-- odometer, n. 里程表，计程仪 [oʊˈdɑmɪtə(r)]      
-- off, ad. (设备)关着，脱离 [ɔf]        
-- offer, v. 提供，给予，呈现 [ˈɔfə(r)]      
-- office, n. 办公室，局，站 [ˈɔfɪs]      
-- often, ad. 经常，往往，屡次 [ˈɔfn]        
-- ok, ad. &, a. 对，好；全对        
-- omit, vt. 省略，删去，遗漏(ao, mai, te) [oˈmɪt]        
-- on, ad. 接通，导电，开 [ɑn]        
-- on-, line, a. 联机的 ['ən]    
-- once, ad. &, n. 只一次，一旦 [wʌns]        
-- ones, n. 二进制反码 ['wʌnz]  
-- only, a. 唯一的，ad. 仅仅 [ˈoʊnli]        
-- onto, prep. 向…，到…上 [ˈɑnˌtu,-tə,ˈɔn-]      
-- open, v. 打开，开启，断开 [ˈoʊpən]      
-- opened, a. 开路的，断开的 ['oʊpənd]        
-- opening, n. 打开，断路，孔, (ou, po, ning)[ˈoʊpnɪŋ]      
-- operate, v. 操作，运算 [ˈɑpəreɪt]        
-- operating, a. 操作的，控制的(a, pe, rui, tin)[ˈɑpəˌretɪŋ]        
-- operation, n. 操作，运算，动作 [ˌɑpəˈreɪʃn]        
-- operator, n. 操作员，运算符 [ˈɑpəreɪtə(r)]        
-- opinion, n. 意见，见解，判断 [əˈpɪnjən]      
-- opposite, a. &, n. &, ad. 相反的 [ˈɑpəzət]    
-- optimize, v. 优选，优化 [ˈɑptɪmaɪz]        
-- option, n. 任选，选择，可选项 [ˈɑpʃn]      
-- optional, a. 任选的，可选的 [ˈɑpʃənl]        
-- order, n. &, vt. 指令，次序；排序 [ˈɔrdə(r)]      
-- organization, n. 结构，机构，公司 [ˌɔrgənəˈzeɪʃn]        
-- organize, v. 组织，创办，成立  (o, ge, na, i, zi)[ˈɔrgənaɪz]        
-- oriented, a. 有向的，定向的 ['ɔrɪrntɪd]        
-- original, n. &, a. 原文；原(初)始(ou, vi, zhi, nou)[əˈrɪdʒənəl]    
-- originally, ad. 原来，最初 [əˈrɪdʒənəli]        
-- other, a. 别的，另外的 [ˈʌðər]        
-- otherwise, ad. &, a. 另外 [ˈʌðərwaɪz]    
-- out, n. &, a. 输入，在外 [aʊt]        
-- outcome, n. 结果，成果，输出 [ˈaʊtˌkʌm]        
-- output, n. 输出，输出设备 [ˈaʊtˌpʊt]        
-- over, prep. 在…上方  (, ou, wo) [ˈoʊvə(r)]  
-- overall, a. 总共的，全部的 [ˌoʊvərˈɔl]        
-- overflow, v. 溢出，上溢 [ˌoʊvərˈfloʊ]      
-- overlay, v. 覆盖，重叠(ou, wei, chi) [ˌoʊvərˈleɪ]        
-- override, v. &, n. 超越，克服 [ˌoʊvərˈraɪd]        
-- overstrike, n. 过打印 [oʊvə'straɪk]    
-- overview, n. 综述，概要 [ˈoʊvərvju]      
-- overwrite, v. 重写 [ˌoʊvərˈraɪt]    
-- own, a. &, v. 自己的；拥有  (ou, en) [oʊn]    
+- object, `n.` 对象，目标，物体(a, zhuai, ke, te)`[ˈɑbdʒekt]`        
+- observe, `v.` 观察，探测 `[əbˈzɜrv]`      
+- obsolete, `a.` 作废的，过时的 `[ˌɑbsəˈlit]`        
+- obtain, `v.` 获得，得到 `[əbˈtein]`        
+- occasionally, `ad.` 偶尔(地)，不时 `[əˈkeɪʒnəli]`        
+- occupy, `vt.` 占有，充满 `[ˈɑkjupaɪ]`        
+- occur, vi. 发生，出现，存在 `[əˈkɚ]`      
+- occurrence, `n.` 出现，发生(e, ke, run, si) `[əˈkɜrəns]`      
+- odometer, `n.` 里程表，计程仪 `[oʊˈdɑmɪtə(r)]`      
+- off, `ad.` (设备)关着，脱离 `[ɔf]`        
+- offer, `v.` 提供，给予，呈现 `[ˈɔfə(r)]`      
+- office, `n.` 办公室，局，站 `[ˈɔfɪs]`      
+- often, `ad.` 经常，往往，屡次 `[ˈɔfn]`        
+- ok, `ad.` &, `a.` 对，好；全对        
+- omit, `vt.` 省略，删去，遗漏(ao, mai, te) `[oˈmɪt]`        
+- on, `ad.` 接通，导电，开 `[ɑn]`        
+- on-, line, `a.` 联机的 `['ən]`    
+- once, `ad.` &, `n.` 只一次，一旦 `[wʌns]`        
+- ones, `n.` 二进制反码 `['wʌnz]`  
+- only, `a.` 唯一的，`ad.` 仅仅 `[ˈoʊnli]`        
+- onto, `prep.` 向…，到…上 `[ˈɑnˌtu,-tə,ˈɔn-]`      
+- open, `v.` 打开，开启，断开 `[ˈoʊpən]`      
+- opened, `a.` 开路的，断开的 `['oʊpənd]`        
+- opening, `n.` 打开，断路，孔, (ou, po, ning)`[ˈoʊpnɪŋ]`      
+- operate, `v.` 操作，运算 `[ˈɑpəreɪt]`        
+- operating, `a.` 操作的，控制的(a, pe, rui, tin)`[ˈɑpəˌretɪŋ]`        
+- operation, `n.` 操作，运算，动作 `[ˌɑpəˈreɪʃn]`        
+- operator, `n.` 操作员，运算符 `[ˈɑpəreɪtə(r)]`        
+- opinion, `n.` 意见，见解，判断 `[əˈpɪnjən]`      
+- opposite, `a.` &, `n.` &, `ad.` 相反的 `[ˈɑpəzət]`    
+- optimize, `v.` 优选，优化 `[ˈɑptɪmaɪz]`        
+- option, `n.` 任选，选择，可选项 `[ˈɑpʃn]`      
+- optional, `a.` 任选的，可选的 `[ˈɑpʃənl]`        
+- order, `n.` &, `vt.` 指令，次序；排序 `[ˈɔrdə(r)]`      
+- organization, `n.` 结构，机构，公司 `[ˌɔrgənəˈzeɪʃn]`        
+- organize, `v.` 组织，创办，成立  (o, ge, na, i, zi)`[ˈɔrgənaɪz]`        
+- oriented, `a.` 有向的，定向的 `['ɔrɪrntɪd]`        
+- original, `n.` &, `a.` 原文；原(初)始(ou, vi, zhi, nou)`[əˈrɪdʒənəl]`    
+- originally, `ad.` 原来，最初 `[əˈrɪdʒənəli]`        
+- other, `a.` 别的，另外的 `[ˈʌðər]`        
+- otherwise, `ad.` &, `a.` 另外 `[ˈʌðərwaɪz]`    
+- out, `n.` &, `a.` 输入，在外 `[aʊt]`        
+- outcome, `n.` 结果，成果，输出 `[ˈaʊtˌkʌm]`        
+- output, `n.` 输出，输出设备 `[ˈaʊtˌpʊt]`        
+- over, `prep.` 在…上方  (, ou, wo) `[ˈoʊvə(r)]`  
+- overall, `a.` 总共的，全部的 `[ˌoʊvərˈɔl]`        
+- overflow, `v.` 溢出，上溢 `[ˌoʊvərˈfloʊ]`      
+- overlay, `v.` 覆盖，重叠(ou, wei, chi) `[ˌoʊvərˈleɪ]`        
+- override, `v.` &, `n.` 超越，克服 `[ˌoʊvərˈraɪd]`        
+- overstrike, `n.` 过打印 `[oʊvə'straɪk]`    
+- overview, `n.` 综述，概要 `[ˈoʊvərvju]`      
+- overwrite, `v.` 重写 `[ˌoʊvərˈraɪt]`    
+- own, `a.` &, `v.` 自己的；拥有  (ou, en) `[oʊn]`    
 
 # **P**
 
-- pacific, a. 平稳的，太平(洋)的 [pəˈsɪfɪk]        
-- pack, n. 压缩，包裹 [pæk]        
-- package, n. 插件，(软件)包 [ˈpækɪdʒ]        
-- page, n. 页面，页，版面 [pedʒ]        
-- pair, n. (一)对，一双 [per]        
-- paper, n. 纸，文件，论文 [ˈpeɪpər]        
-- paragraph, n. 段(落)，节，短讯 [ˈpærəgræf]        
-- parallel, a. 并行 [ˈpærəˌlɛl]    
-- parameter, n. 参数，参变量 [pəˈræmɪtɚ]        
-- parent, n. 双亲，父代 [ˈperənt]        
-- parenthesis, n. 括弧，圆括号 [pəˈrɛnθɪsɪs]        
-- parse, vt. (语法)分析 [pɑrs]    
-- part, n. 部分，零件(pa, te) [pɑrt]        
-- particular, a. 特定的，特别的  (pe, tei, ke, le)[pərˈtɪkjələ(r)]        
-- particularly, ad. 特别，格外，尤其 [pərˈtɪkjələrli]        
-- partition, v. 划分，分区，部分 [pɑrˈtɪʃn]        
-- pass, v. 传送，传递，遍(数) [pæs]        
-- password, n. 口令，保密字(pa, si, wo, de)[ˈpæswɜrd]        
-- past, a. 过去的，结束的  (pa, sit, e) [pæst]        
-- paste, n. 湖，胶，膏 [pest]        
-- path, n. 路径，通路，轨道 [pæθ]        
-- pattern, n. 模式 [ˈpætərn]    
-- pause, vi. 暂停, (pao, zi) [pɔz]    
-- pay, v. 付款，支付 [pe]        
-- payment, n. 支付，付款 [ˈpemənt]        
-- penalty, n. 惩罚，罚款，负担 [ˈpɛnəlti]        
-- pending, a. 悬而未决的，未定的 [ˈpɛndɪŋ]        
-- people, n. 人们 [ˈpipəl]  
-- per, prep. 每，按  (per) [pɚ]      
-- perform, v. 执行，完成 [pərˈfɔrm]      
-- performance, n. 性能，实绩 [pərˈfɔrməns]        
-- period, n. 周期 [ˈpɪriəd]  
-- permanent, a. 永久的 [ˈpɜrmənənt]    
-- permanently, ad. 永久地，持久地 [ˈpəmənəntlɪ]        
-- permit, v. 许可，容许, (po, mi, t) [pərˈmɪt]      
-- personal, a. 个人的，自身的, (pa, s, i, nou) [ˈpɜrsənl]        
-- pertain, vi. 附属，属于，关于  (p, tin) [pərˈteɪn]        
-- phoenix, n. 凤凰，绝世珍品 [ˈfinɪks]      
-- phone, n. 电话，电话机，音素 [foʊn]      
-- photograph, n. 照片；v. 照相 [ˈfoʊtəgræf]    
-- phrase, n. 短语，成语 [frez]        
-- physical, a. 物理的，实际的 [ˈfɪzɪkəl]        
-- physically, a. 物理上，实际上 [ˈfɪzɪkəlɪ]        
-- picture, n. 图象，画面 [ˈpɪktʃɚ]      
-- piece, n. 一块，部分，段 [pis]      
-- pipe, n. 管，导管 [paɪp]        
-- place, vt. 放，位，地点 [ples]        
-- placement, n. 布局 [ˈpleɪsmənt]    
-- plain, n. 明码 [plen]    
-- platform, n. 平台，台架 [ˈplætfɔrm]        
-- play, v. 玩，奏，放音，放象 [pleɪ]        
-- please, v. 请 [pliz]    
-- plus, prep. 加，加上，外加 [plʌs]      
-- point, n. 点，小数点，句号(po, in, te) [pɔɪnt]      
-- pointer, n. 指针，指示字 [ˈpɔɪntɚ]      
-- pool, n. &, v. 池，坑；共享 [pul]      
-- pop, v. 上托，弹出(栈) [pɑp]      
-- port, n. 端口，进出口 [pɔrt]      
-- portion, n. &, vt. 部分；分配 [ˈpɔrʃn]  
-- position, n. 位置；vt. 定位 [pəˈzɪʃən]  
-- positioning, n. 定位 [pə'zɪʃnɪŋ]  
-- positive, a. 正的，阳的，正片 [ˈpɑzətɪv]        
-- possibility, n. 可能性 [ˌpɑsəˈbɪləti]  
-- possible, a. 可能的，潜在的 [ˈpɑsəbl]        
-- possibly, ad. 可能地，合理地 [ˈpɑsəbli]        
-- potentially, ad. 可能地，大概地 [pəˈtɛnʃəlɪ]        
-- power, n. 功率，电源，幂 [ˈpaʊɚ]        
-- powerful, a. 强大的，大功率的 [ˈpaʊərfl]        
-- practice, n. 实习，实践(pe, rua, ke, te, si) [ˈpræktɪs]        
-- precede, v. 先于  (pe, ci, de) [prɪˈsid]  
-- precedence, n. 优先权 [ˈprɛsɪdəns,prɪˈsidns]  
-- preceding, a. 先的，以前的 [prɪˈsidɪŋ]        
-- predict, vt. 预测，预言 [prɪˈdɪkt]      
-- prefer, vt. 更喜欢，宁愿 [prɪˈfɚ]      
-- prefix, n. 前缀 [ˈpriˌfɪks]  
-- prepare, v. 准备 [prɪˈper]    
-- presence, n. 存在，有 [ˈprɛzəns]      
-- present, a. &, v. 现行的；提供  (p, rua, i, zen, t)[ˈprɛznt]    
-- preserve, vt. 保存，维持 [prɪˈzɜrv]      
-- preset, vt. 预置 [priˈsɛt]  
-- press, v. 按，压 [prɛs]      
-- pressed, a. 加压的，压缩的  (pe, r, ua, i, s, i, d, ) [prɛst]        
-- pressing, n. &, a. 压制；紧急的 [ˈprɛsɪŋ]    
-- prevent, v. 防止，预防 [prɪˈvɛnt]      
-- preview, n. &, vt. 预映 [ˈpriˌvju]  
-- previous, a. 早先的，上述的(po, rui, wei, e, si)[ˈpriviəs]        
-- previously, ad. 以前，预先 [ˈprivɪəslɪ]        
-- price, n. 价格 [praɪs]    
-- primarily, ad. 首先，起初，原来[praɪˈmɛrəli,-ˈmɛr-]        
-- primary, a. 原始的，主要的 [ˈpraɪmeri]        
-- print, v. 打印，印刷 [prɪnt]      
-- printable, a. 可印刷的 [ˈprɪntəbəl]    
-- printer, n. 打印机，印刷机 [ˈprɪntɚ]      
-- printout, n. 印出 [ˈprɪntˌaʊt]    
-- prior, a. 先验的，优先的 [ˈpraɪɚ]        
-- private, a. 专用的，私人的 [ˈpraɪvɪt]        
-- probable, a. 概率的，可能的 [ˈprɑbəbl]        
-- probably, ad. 多半，很可能 [ˈprɑbəbli]        
-- problem, n. 问题，难题 [ˈprɑbləm]      
-- procedural, a. 程序上的 [prəˈsidʒərəl]    
-- procedure, n. 过程，程序，工序 [prəˈsidʒɚ]      
-- process, vt. 处理，进程，加工 [ˈproʊses]      
-- processing, n. (数据)处理，加工      
-- processor, n. 处理机，处理程序 [ˈprɑsesə]      
-- produce, v. 生产，制造  (po, dui, si) [prəˈdus]      
-- product, n. (乘)积，产品 [ˈprɑdʌkt]      
-- profile, n. 简要，剖面，概貌 [ˈproʊfaɪl]        
-- program, n. 程序 [ˈproʊgræm]    
-- programmable, a. 可编程的 [ˈproʊgræməbl]    
-- programmer, n. 程序设计人员 [ˈproʊgræmə(r)]    
-- programming, n. 程序设计，编程序, (pe, rou, ge, ruai, ming) [ˈproʊgræmɪŋ]        
-- progress, n. 进度，进展 [ˈprɑgres]      
-- project, n. 项目，计划，设计 [ˈprɑdʒekt]      
-- prompt, n. &, v. 提示 [prɑmpt]  
-- proper, a. 真的，固有的 [ˈprɑpə(r)]        
-- properly, ad. 真正地，适当地 [ˈprɑpərli]        
-- property, n. 性(质)，特征(pe, rua, po, ti, )[ˈprɑpərti]        
-- proprietary, a. 专有的 [prəˈpraɪəteri]    
-- protect, vt. 保护 [prəˈtɛkt]  
-- protection, n. 保护 [prəˈtɛkʃən]  
-- protocol, n. 规约，协议，规程 [ˈproʊtəkɔl]      
-- provide, v. 提供 [prəˈvaɪd]    
-- pseudo, a. 假的，伪的，冒充的 ['sudoʊ]        
-- public, a. 公用的，公共的 [ˈpʌblɪk]        
-- publisher, n. 出版者，发行人 [ˈpʌblɪʃɚ]      
-- purchase, n. &, v. 购买 [ˈpɜrtʃəs]    
-- purge, v. &, n. 清除 [pɜrdʒ]  
-- purpose, n. &, vt. 目的，用途；打算 [ˈpɜrpəs]      
-- push, v. 推，按，压，进(栈), (pus, hi, ) [pʊʃ]      
-- put, v. 存放(记录)，放置  (pa, te) [pʊt]        
+- pacific, `a.` 平稳的，太平(洋)的 `[pəˈsɪfɪk]`        
+- pack, `n.` 压缩，包裹 `[pæk]`        
+- package, `n.` 插件，(软件)包 `[ˈpækɪdʒ]`        
+- page, `n.` 页面，页，版面 `[pedʒ]`        
+- pair, `n.` (一)对，一双 `[per]`        
+- paper, `n.` 纸，文件，论文 `[ˈpeɪpər]`        
+- paragraph, `n.` 段(落)，节，短讯 `[ˈpærəgræf]`        
+- parallel, `a.` 并行 `[ˈpærəˌlɛl]`    
+- parameter, `n.` 参数，参变量 `[pəˈræmɪtɚ]`        
+- parent, `n.` 双亲，父代 `[ˈperənt]`        
+- parenthesis, `n.` 括弧，圆括号 `[pəˈrɛnθɪsɪs]`        
+- parse, `vt.` (语法)分析 `[pɑrs]`    
+- part, `n.` 部分，零件(pa, te) `[pɑrt]`        
+- particular, `a.` 特定的，特别的  (pe, tei, ke, le)`[pərˈtɪkjələ(r)]`        
+- particularly, `ad.` 特别，格外，尤其 `[pərˈtɪkjələrli]`        
+- partition, `v.` 划分，分区，部分 `[pɑrˈtɪʃn]`        
+- pass, `v.` 传送，传递，遍(数) `[pæs]`        
+- password, `n.` 口令，保密字(pa, si, wo, de)`[ˈpæswɜrd]`        
+- past, `a.` 过去的，结束的  (pa, sit, e) `[pæst]`        
+- paste, `n.` 湖，胶，膏 `[pest]`        
+- path, `n.` 路径，通路，轨道 `[pæθ]`        
+- pattern, `n.` 模式 `[ˈpætərn]`    
+- pause, vi. 暂停, (pao, zi) `[pɔz]`    
+- pay, `v.` 付款，支付 `[pe]`        
+- payment, `n.` 支付，付款 `[ˈpemənt]`        
+- penalty, `n.` 惩罚，罚款，负担 `[ˈpɛnəlti]`        
+- pending, `a.` 悬而未决的，未定的 `[ˈpɛndɪŋ]`        
+- people, `n.` 人们 `[ˈpipəl]`  
+- per, `prep.` 每，按  (per) `[pɚ]`      
+- perform, `v.` 执行，完成 `[pərˈfɔrm]`      
+- performance, `n.` 性能，实绩 `[pərˈfɔrməns]`        
+- period, `n.` 周期 `[ˈpɪriəd]`  
+- permanent, `a.` 永久的 `[ˈpɜrmənənt]`    
+- permanently, `ad.` 永久地，持久地 `[ˈpəmənəntlɪ]`        
+- permit, `v.` 许可，容许, (po, mi, t) `[pərˈmɪt]`      
+- personal, `a.` 个人的，自身的, (pa, s, i, nou) `[ˈpɜrsənl]`        
+- pertain, vi. 附属，属于，关于  (p, tin) `[pərˈteɪn]`        
+- phoenix, `n.` 凤凰，绝世珍品 `[ˈfinɪks]`      
+- phone, `n.` 电话，电话机，音素 `[foʊn]`      
+- photograph, `n.` 照片；`v.` 照相 `[ˈfoʊtəgræf]`    
+- phrase, `n.` 短语，成语 `[frez]`        
+- physical, `a.` 物理的，实际的 `[ˈfɪzɪkəl]`        
+- physically, `a.` 物理上，实际上 `[ˈfɪzɪkəlɪ]`        
+- picture, `n.` 图象，画面 `[ˈpɪktʃɚ]`      
+- piece, `n.` 一块，部分，段 `[pis]`      
+- pipe, `n.` 管，导管 `[paɪp]`        
+- place, `vt.` 放，位，地点 `[ples]`        
+- placement, `n.` 布局 `[ˈpleɪsmənt]`    
+- plain, `n.` 明码 `[plen]`    
+- platform, `n.` 平台，台架 `[ˈplætfɔrm]`        
+- play, `v.` 玩，奏，放音，放象 `[pleɪ]`        
+- please, `v.` 请 `[pliz]`    
+- plus, `prep.` 加，加上，外加 `[plʌs]`      
+- point, `n.` 点，小数点，句号(po, in, te) `[pɔɪnt]`      
+- pointer, `n.` 指针，指示字 `[ˈpɔɪntɚ]`      
+- pool, `n.` &, `v.` 池，坑；共享 `[pul]`      
+- pop, `v.` 上托，弹出(栈) `[pɑp]`      
+- port, `n.` 端口，进出口 `[pɔrt]`      
+- portion, `n.` &, `vt.` 部分；分配 `[ˈpɔrʃn]`  
+- position, `n.` 位置；`vt.` 定位 `[pəˈzɪʃən]`  
+- positioning, `n.` 定位 `[pə'zɪʃnɪŋ]`  
+- positive, `a.` 正的，阳的，正片 `[ˈpɑzətɪv]`        
+- possibility, `n.` 可能性 `[ˌpɑsəˈbɪləti]`  
+- possible, `a.` 可能的，潜在的 `[ˈpɑsəbl]`        
+- possibly, `ad.` 可能地，合理地 `[ˈpɑsəbli]`        
+- potentially, `ad.` 可能地，大概地 `[pəˈtɛnʃəlɪ]`        
+- power, `n.` 功率，电源，幂 `[ˈpaʊɚ]`        
+- powerful, `a.` 强大的，大功率的 `[ˈpaʊərfl]`        
+- practice, `n.` 实习，实践(pe, rua, ke, te, si) `[ˈpræktɪs]`        
+- precede, `v.` 先于  (pe, ci, de) `[prɪˈsid]`  
+- precedence, `n.` 优先权 `[ˈprɛsɪdəns,prɪˈsidns]`  
+- preceding, `a.` 先的，以前的 `[prɪˈsidɪŋ]`        
+- predict, `vt.` 预测，预言 `[prɪˈdɪkt]`      
+- prefer, `vt.` 更喜欢，宁愿 `[prɪˈfɚ]`      
+- prefix, `n.` 前缀 `[ˈpriˌfɪks]`  
+- prepare, `v.` 准备 `[prɪˈper]`    
+- presence, `n.` 存在，有 `[ˈprɛzəns]`      
+- present, `a.` &, `v.` 现行的；提供  (p, rua, i, zen, t)`[ˈprɛznt]`    
+- preserve, `vt.` 保存，维持 `[prɪˈzɜrv]`      
+- preset, `vt.` 预置 `[priˈsɛt]`  
+- press, `v.` 按，压 `[prɛs]`      
+- pressed, `a.` 加压的，压缩的  (pe, r, ua, i, s, i, d, ) `[prɛst]`        
+- pressing, `n.` &, `a.` 压制；紧急的 `[ˈprɛsɪŋ]`    
+- prevent, `v.` 防止，预防 `[prɪˈvɛnt]`      
+- preview, `n.` &, `vt.` 预映 `[ˈpriˌvju]`  
+- previous, `a.` 早先的，上述的(po, rui, wei, e, si)`[ˈpriviəs]`        
+- previously, `ad.` 以前，预先 `[ˈprivɪəslɪ]`        
+- price, `n.` 价格 `[praɪs]`    
+- primarily, `ad.` 首先，起初，原来`[praɪˈmɛrəli,-ˈmɛr-]`        
+- primary, `a.` 原始的，主要的 `[ˈpraɪmeri]`        
+- print, `v.` 打印，印刷 `[prɪnt]`      
+- printable, `a.` 可印刷的 `[ˈprɪntəbəl]`    
+- printer, `n.` 打印机，印刷机 `[ˈprɪntɚ]`      
+- printout, `n.` 印出 `[ˈprɪntˌaʊt]`    
+- prior, `a.` 先验的，优先的 `[ˈpraɪɚ]`        
+- private, `a.` 专用的，私人的 `[ˈpraɪvɪt]`        
+- probable, `a.` 概率的，可能的 `[ˈprɑbəbl]`        
+- probably, `ad.` 多半，很可能 `[ˈprɑbəbli]`        
+- problem, `n.` 问题，难题 `[ˈprɑbləm]`      
+- procedural, `a.` 程序上的 `[prəˈsidʒərəl]`    
+- procedure, `n.` 过程，程序，工序 `[prəˈsidʒɚ]`      
+- process, `vt.` 处理，进程，加工 `[ˈproʊses]`      
+- processing, `n.` (数据)处理，加工      
+- processor, `n.` 处理机，处理程序 `[ˈprɑsesə]`      
+- produce, `v.` 生产，制造  (po, dui, si) `[prəˈdus]`      
+- product, `n.` (乘)积，产品 `[ˈprɑdʌkt]`      
+- profile, `n.` 简要，剖面，概貌 `[ˈproʊfaɪl]`        
+- program, `n.` 程序 `[ˈproʊgræm]`    
+- programmable, `a.` 可编程的 `[ˈproʊgræməbl]`    
+- programmer, `n.` 程序设计人员 `[ˈproʊgræmə(r)]`    
+- programming, `n.` 程序设计，编程序, (pe, rou, ge, ruai, ming) `[ˈproʊgræmɪŋ]`        
+- progress, `n.` 进度，进展 `[ˈprɑgres]`      
+- project, `n.` 项目，计划，设计 `[ˈprɑdʒekt]`      
+- prompt, `n.` &, `v.` 提示 `[prɑmpt]`  
+- proper, `a.` 真的，固有的 `[ˈprɑpə(r)]`        
+- properly, `ad.` 真正地，适当地 `[ˈprɑpərli]`        
+- property, `n.` 性(质)，特征(pe, rua, po, ti, )`[ˈprɑpərti]`        
+- proprietary, `a.` 专有的 `[prəˈpraɪəteri]`    
+- protect, `vt.` 保护 `[prəˈtɛkt]`  
+- protection, `n.` 保护 `[prəˈtɛkʃən]`  
+- protocol, `n.` 规约，协议，规程 `[ˈproʊtəkɔl]`      
+- provide, `v.` 提供 `[prəˈvaɪd]`    
+- pseudo, `a.` 假的，伪的，冒充的 `['sudoʊ]`        
+- public, `a.` 公用的，公共的 `[ˈpʌblɪk]`        
+- publisher, `n.` 出版者，发行人 `[ˈpʌblɪʃɚ]`      
+- purchase, `n.` &, `v.` 购买 `[ˈpɜrtʃəs]`    
+- purge, `v.` &, `n.` 清除 `[pɜrdʒ]`  
+- purpose, `n.` &, `vt.` 目的，用途；打算 `[ˈpɜrpəs]`      
+- push, `v.` 推，按，压，进(栈), (pus, hi, ) `[pʊʃ]`      
+- put, `v.` 存放(记录)，放置  (pa, te) `[pʊt]`        
 
 
 # **Q**
 
-- qualified, a. 合格的，受限制的 [ˈkwɑlɪfaɪd]        
-- quality, n. 质量，性质，属性 [ˈkwɑləti]        
-- question, n. 问题 [ˈkwɛstʃən]  
-- queue, v. &, n. 排队，队列 [kju]      
-- quick, a. &, ad. 快速的，灵敏的 [kwɪk]        
-- quickly, a. 快，迅速地 [ˈkwɪklɪ]        
-- quiet, a. &, n. 静态，静止的 [ˈkwaɪɪt]        
-- quietly, ad. 静静地 [ˈkwaɪətlɪ]    
-- quit, v. 退出，结束 [kwɪt]      
-- quotation, n. 引证，引用(句) [kwoʊˈteɪʃn]        
-- quote, n. &, v. 引号；加引号, (k, ua, i, wu, te)[kwoʊt]    
+- qualified, `a.` 合格的，受限制的 `[ˈkwɑlɪfaɪd]`        
+- quality, `n.` 质量，性质，属性 `[ˈkwɑləti]`        
+- question, `n.` 问题 `[ˈkwɛstʃən]`  
+- queue, `v.` &, `n.` 排队，队列 `[kju]`      
+- quick, `a.` &, `ad.` 快速的，灵敏的 `[kwɪk]`        
+- quickly, `a.` 快，迅速地 `[ˈkwɪklɪ]`        
+- quiet, `a.` &, `n.` 静态，静止的 `[ˈkwaɪɪt]`        
+- quietly, `ad.` 静静地 `[ˈkwaɪətlɪ]`    
+- quit, `v.` 退出，结束 `[kwɪt]`      
+- quotation, `n.` 引证，引用(句) `[kwoʊˈteɪʃn]`        
+- quote, `n.` &, `v.` 引号；加引号, (k, ua, i, wu, te)`[kwoʊt]`    
 
 # **R**
 
-- ram, 随机存取存储器  (ruai, en) [ræm]  
-- random, a. 随机的 [ˈrændəm]    
-- range, n. 范围，域，区域 [rendʒ]        
-- rate, n. 比率，速率，费率 [ret]        
-- rated, a. 额定的 ['reɪtɪd]    
-- rather, ad. 宁可，有点  (tua, ze) [ˈræðər]        
-- rating, n. 定额，标称值 [ˈretɪŋ]        
-- re, index, v. &, n. 变换(改变)符号  (ruan, di, ke, s, i) [reɪ]    
-- reach, v. &, n. 范围，达到范围  (rui, chi) [ritʃ]        
-- reactivate, v. 使恢复活动 [riˈæktəˌvet]    
-- read, v. 读，读阅 [rid]        
-- readable, a. 可读的 [ˈridəbəl]    
-- readily, ad. 容易地，不勉强  (ruai, de, li) [ˈrɛdəli,ˈrɛdli]        
-- reading, n. 读，读数 ['ridɪŋ]        
-- ready, a. 就绪，准备好的  (ruai, dei) [ˈrɛdi]        
-- real, n. 实数，实的，实型 [ˈriəl,ril]        
-- really, a. 真正地，确实地 [ˈriəˌli,ˈrili]        
-- reappears, vi. 再现，重现 [riə'pɪrz]        
-- rearrange, v. 重新整理，重新排序 [ˌriəˈrendʒ]        
-- reason, n. 原因，理由 [ˈrizən]        
-- rebuild, v. 重建，修复，改造 [riˈbɪld]      
-- recall, vt. 撤消，复活，检索(rui, kao, l) [rɪˈkɔl]        
-- receive, v. 接收  (r, i, s, i, v) [rɪˈsiv]  
-- received, a. 被接收的，公认的 [rɪˈsivd]        
-- recent, a. 近来的 [ˈrisənt]    
-- recently, ad. 近来 ['risṇtlɪ]    
-- recognize, v. 识别 [ˈrɛkəɡˌnaɪz]    
-- recommend, vt. 推荐，建议 [ˌrɛkəˈmɛnd]      
-- record, n. 记录 [ˈrekərd]  
-- recover, v. 恢复，回收  (rui, ka, wan) [rɪ'kʌvər]        
-- recoverable, a. 可恢复的，可回收的 [rɪˈkʌvərəbl]        
-- rectangle, n. 矩形  (rui, ke, ten, gou) [ˈrɛkˌtæŋɡəl]    
-- rectangular, a. 矩形的，成直角的 [rɛkˈtæŋɡjəlɚ]        
-- recursive, a. 递归的，循环的 [rɪˈkɜrsɪv]        
-- red, a. &, n. 红色(的), (ruai, de) [rɛd]    
-- redefine, vt. 重新规定(定义)  (rui, di, fan, en)[ˌriːdɪˈfaɪn]    
-- redi, rect, vt. 重定向  
-- redraw, vt. 再拉  (rui, di, ao) [ˌriːˈdrɔː]    
-- reduce, v. 减少，降低，简化 [rɪˈdus]      
-- reduction, n. 减化，还原，减少 [rɪˈdʌkʃən]      
-- redundant, a. 冗余的 [rɪˈdʌndənt]    
-- reenter, v. 重新进入 [ri'entə]  
-- refer, v. 访问，引用，涉及 [rɪˈfɚ]      
-- reference, n. &, a. 参考； [ˈrɛfərəns,ˈrɛfrəns]    
-- reflect, v. 反射 [rɪˈflɛkt]  
-- reflow, v. &, n. 回流，逆流 [ˈrifloʊ]      
-- reformat, v. 重定格式 [riˈfɔrmæt]    
-- refresh, v. 刷新，更新，再生 [rɪˈfrɛʃ]      
-- regard, vt. 考虑，注意，关系 [rɪˈgɑrd]        
-- regardless, a. 不注意的，不考虑的, (rui, ga, de, li, s) [rɪˈgɑrdləs]        
-- register, n. 寄存器 [ˈrɛdʒɪstɚ]  
-- registration, n. 登记，挂号，读数[ˌrɛdʒɪˈstreʃən]        
-- regular, a. 正则的，正规的 [ˈrɛɡjəlɚ]        
-- reinstate, vt. 复原，恢复 [ˌriɪnˈstet]        
-- related, a. 相关的 [rɪˈletɪd]    
-- relation, n. 关系，关系式, (, r, ui, le, i, s, he, n)[rɪˈleɪʃn]        
-- relative, a. 相对的 [ˈrɛlətɪv]    
-- release, vt. &, n. 释放，核发，版  (r, ui, li, s, i) [rɪ'lis]        
-- reload, vt. 再装入 [ˌriˈloʊd]    
-- remain, vi. 剩下，留下，仍然 [rɪˈmen]        
-- remainder, n. 余数，余项，剩余 [rɪˈmendɚ]        
-- remark, n. 评注，备注 [rɪˈmɑrk]        
-- remember, v. 存储，记忆，记住 [rɪˈmɛmbɚ]      
-- remove, v. 除去，移动 [rɪˈmuv]      
-- rename, vt. 更名，改名 [ˌriːˈneɪm]        
-- rent, v. &, n. 租用；裂缝 [rɛnt]  
-- reorder, v. (按序)排列，排序 [ˌriˈɔrdə(r)]      
-- reorganization, vt. 重排，改组 [riˌɔrɡənɪˈzeʃən]        
-- repaint, vt. 重画  (rui, pen, te) [ri'peɪnt]    
-- repeat, v. 重复  (ri, pi, te) [rɪˈpit]    
-- repeated, a. 重复的 [rɪˈpitɪd]    
-- repeatedly, ad. 重复地 [rɪ'pitɪdlɪ]    
-- repeating, n. 重复，循环 [rɪ'pitɪŋ]        
-- repetitive, a. 重复的 [rɪˈpɛtɪtɪv]    
-- replaceable, a. 可替换的 [rɪˈpleɪsəbl]    
-- replacement, n. 替换，置换，更新, (rui, p, e, li, s, i, me, n, te, ) [rɪˈplesmənt]        
-- replicate, vt. 重复，复制 [ˈrɛplɪˌket]        
-- report, vt. &, n. 报告，报表 [rɪˈpɔrt]      
-- represent, v. 表示，表现，代表 [ˌrɛprɪˈzɛnt]      
-- representation, n. 表示 [ˌrɛprɪzɛnˈteʃən]    
-- representative, a. 典型的，表示的[ˌrɛprɪˈzɛntətɪv]        
-- request, n. &, vt. 请求  (r, i, k, ua, i, s, i, t, e) [rɪˈkwɛst]    
-- require, v. 需要，要求  (r, ui, k, ua, i, er, ) [rɪˈkwaɪr]        
-- required, a. 需要的, (rui, kuai, er, de) [rɪ'kwaɪəd]    
-- reread, vt. 重读 [ri'rid]    
-- reserve, vt. 保留，预定，预约 [rɪˈzɜrv]      
-- reserved, a. 保留的，预订的 [rɪˈzɜrvd]        
-- reset, vt. 复位，置“0, ” [riˈsɛt]      
-- reside, vi. 驻留 [rɪˈzaɪd]    
-- resident, a. 驻留的  (rei, zi, den, t) [ˈrɛzɪdənt,-ˌdɛnt]    
-- resolution, n. 分辨率 [ˌrɛzəˈluʃən]  
-- resolve, v. 分辨，解像 [rɪˈzɑlv]      
-- respect, n. &, vt. 遵守，关系 [rɪˈspɛkt]      
-- respectively, ad. 分别地 [rɪˈspɛktɪvli]    
-- respond, v. 回答，响应 [rɪˈspɑnd]      
-- rest, n. &, v. 剩余，休息 [rest]      
-- restart, v. 重新启动，再启动  (rui, sit, a, te)[ˌriˈstɑrt]        
-- restore, vt. 恢复，复原 [rɪˈstɔr,-ˈstor]      
-- restrict, vt. 约束，限制 [rɪˈstrɪkt]      
-- restricted, a. 受限制的，受约束的 [rɪˈstrɪktɪd]        
-- restricting, n. &, a. 限制(的) [rɪs'trɪktɪŋ]    
-- restriction, n. 限制，约束，节流 [rɪˈstrɪkʃən]      
-- restructure, vt. 调整，重新组织 [riˈstrʌktʃɚ]      
-- result, n. 结果 [rɪˈzʌlt]  
-- resulting, a. 结果的，合成的 [rɪ'zʌltɪŋ]        
-- resume, v. 重(新)开(始)  (re, s, you, mu) [rɪ'zjum]  
-- retain, vt. 保持，维持 [rɪˈten]        
-- retrieve, v. 检索  (e, chui, wu) [rɪˈtriv]  
-- retry, vt. 再试，复算, rui, chuai) [ˌri'traɪ]        
-- return, v. 返回，回送 [rɪˈtɜrn]      
-- returned, a. 退回的 [rɪ'tɜnd]    
-- reverse, v. &, a. 反向的，逆  (ri, we, s) [rɪˈvɜrs]        
-- review, v. &, n. (再)检查 [rɪˈvju]  
-- revolutionize, vt. 变革，彻底改革 [revəˈluːʃəˌnaɪz]        
-- rewrite, vt. 重写，再生 [riˈraɪt]        
-- right, a. 右边的，正确的 [raɪt]        
-- ring, n. &, v. 环，圈；按铃 [rɪŋ]      
-- roll, n. &, v. 案卷；卷动，滚动 [roʊl]      
-- room, n. 房间，空间 [rum,rʊm]      
-- root, n. 根, (ru, te) [rut,rʊt]  
-- round, v. 舍入，四舍五入 [raʊnd]        
-- route, n. 路线，路由 [rut,raʊt]        
-- routine, n. 程序，例行程序  (rui, tin) [ruˈtin]      
-- row, n. 行  (ruai, o) [roʊ]    
-- rule, n. 规则，法则，尺 [ruːl]      
-- run, v. 运行，运转，操作 [rʌn]      
-- running, a. 运行着的，游动的(ruo, ning) [ˈrʌnɪŋ]        
-- runtime, n. 运行时间 [rʌn'taɪm]    
+- ram, 随机存取存储器  (ruai, en) `[ræm]`  
+- random, `a.` 随机的 `[ˈrændəm]`    
+- range, `n.` 范围，域，区域 `[rendʒ]`        
+- rate, `n.` 比率，速率，费率 `[ret]`        
+- rated, `a.` 额定的 `['reɪtɪd]`    
+- rather, `ad.` 宁可，有点  (tua, ze) `[ˈræðər]`        
+- rating, `n.` 定额，标称值 `[ˈretɪŋ]`        
+- re, index, `v.` &, `n.` 变换(改变)符号  (ruan, di, ke, s, i) `[reɪ]`    
+- reach, `v.` &, `n.` 范围，达到范围  (rui, chi) `[ritʃ]`        
+- reactivate, `v.` 使恢复活动 `[riˈæktəˌvet]`    
+- read, `v.` 读，读阅 `[rid]`        
+- readable, `a.` 可读的 `[ˈridəbəl]`    
+- readily, `ad.` 容易地，不勉强  (ruai, de, li) `[ˈrɛdəli,ˈrɛdli]`        
+- reading, `n.` 读，读数 `['ridɪŋ]`        
+- ready, `a.` 就绪，准备好的  (ruai, dei) `[ˈrɛdi]`        
+- real, `n.` 实数，实的，实型 `[ˈriəl,ril]`        
+- really, `a.` 真正地，确实地 `[ˈriəˌli,ˈrili]`        
+- reappears, vi. 再现，重现 `[riə'pɪrz]`        
+- rearrange, `v.` 重新整理，重新排序 `[ˌriəˈrendʒ]`        
+- reason, `n.` 原因，理由 `[ˈrizən]`        
+- rebuild, `v.` 重建，修复，改造 `[riˈbɪld]`      
+- recall, `vt.` 撤消，复活，检索(rui, kao, l) `[rɪˈkɔl]`        
+- receive, `v.` 接收  (r, i, s, i, v) `[rɪˈsiv]`  
+- received, `a.` 被接收的，公认的 `[rɪˈsivd]`        
+- recent, `a.` 近来的 `[ˈrisənt]`    
+- recently, `ad.` 近来 `['risṇtlɪ]`    
+- recognize, `v.` 识别 `[ˈrɛkəɡˌnaɪz]`    
+- recommend, `vt.` 推荐，建议 `[ˌrɛkəˈmɛnd]`      
+- record, `n.` 记录 `[ˈrekərd]`  
+- recover, `v.` 恢复，回收  (rui, ka, wan) `[rɪ'kʌvər]`        
+- recoverable, `a.` 可恢复的，可回收的 `[rɪˈkʌvərəbl]`        
+- rectangle, `n.` 矩形  (rui, ke, ten, gou) `[ˈrɛkˌtæŋɡəl]`    
+- rectangular, `a.` 矩形的，成直角的 `[rɛkˈtæŋɡjəlɚ]`        
+- recursive, `a.` 递归的，循环的 `[rɪˈkɜrsɪv]`        
+- red, `a.` &, `n.` 红色(的), (ruai, de) `[rɛd]`    
+- redefine, `vt.` 重新规定(定义)  (rui, di, fan, en)`[ˌriːdɪˈfaɪn]`    
+- redi, rect, `vt.` 重定向  
+- redraw, `vt.` 再拉  (rui, di, ao) `[ˌriːˈdrɔː]`    
+- reduce, `v.` 减少，降低，简化 `[rɪˈdus]`      
+- reduction, `n.` 减化，还原，减少 `[rɪˈdʌkʃən]`      
+- redundant, `a.` 冗余的 `[rɪˈdʌndənt]`    
+- reenter, `v.` 重新进入 `[ri'entə]`  
+- refer, `v.` 访问，引用，涉及 `[rɪˈfɚ]`      
+- reference, `n.` &, `a.` 参考； `[ˈrɛfərəns,ˈrɛfrəns]`    
+- reflect, `v.` 反射 `[rɪˈflɛkt]`  
+- reflow, `v.` &, `n.` 回流，逆流 `[ˈrifloʊ]`      
+- reformat, `v.` 重定格式 `[riˈfɔrmæt]`    
+- refresh, `v.` 刷新，更新，再生 `[rɪˈfrɛʃ]`      
+- regard, `vt.` 考虑，注意，关系 `[rɪˈgɑrd]`        
+- regardless, `a.` 不注意的，不考虑的, (rui, ga, de, li, s) `[rɪˈgɑrdləs]`        
+- register, `n.` 寄存器 `[ˈrɛdʒɪstɚ]`  
+- registration, `n.` 登记，挂号，读数`[ˌrɛdʒɪˈstreʃən]`        
+- regular, `a.` 正则的，正规的 `[ˈrɛɡjəlɚ]`        
+- reinstate, `vt.` 复原，恢复 `[ˌriɪnˈstet]`        
+- related, `a.` 相关的 `[rɪˈletɪd]`    
+- relation, `n.` 关系，关系式, (, r, ui, le, i, s, he, n)`[rɪˈleɪʃn]`        
+- relative, `a.` 相对的 `[ˈrɛlətɪv]`    
+- release, `vt.` &, `n.` 释放，核发，版  (r, ui, li, s, i) `[rɪ'lis]`        
+- reload, `vt.` 再装入 `[ˌriˈloʊd]`    
+- remain, vi. 剩下，留下，仍然 `[rɪˈmen]`        
+- remainder, `n.` 余数，余项，剩余 `[rɪˈmendɚ]`        
+- remark, `n.` 评注，备注 `[rɪˈmɑrk]`        
+- remember, `v.` 存储，记忆，记住 `[rɪˈmɛmbɚ]`      
+- remove, `v.` 除去，移动 `[rɪˈmuv]`      
+- rename, `vt.` 更名，改名 `[ˌriːˈneɪm]`        
+- rent, `v.` &, `n.` 租用；裂缝 `[rɛnt]`  
+- reorder, `v.` (按序)排列，排序 `[ˌriˈɔrdə(r)]`      
+- reorganization, `vt.` 重排，改组 `[riˌɔrɡənɪˈzeʃən]`        
+- repaint, `vt.` 重画  (rui, pen, te) `[ri'peɪnt]`    
+- repeat, `v.` 重复  (ri, pi, te) `[rɪˈpit]`    
+- repeated, `a.` 重复的 `[rɪˈpitɪd]`    
+- repeatedly, `ad.` 重复地 `[rɪ'pitɪdlɪ]`    
+- repeating, `n.` 重复，循环 `[rɪ'pitɪŋ]`        
+- repetitive, `a.` 重复的 `[rɪˈpɛtɪtɪv]`    
+- replaceable, `a.` 可替换的 `[rɪˈpleɪsəbl]`    
+- replacement, `n.` 替换，置换，更新, (rui, p, e, li, s, i, me, n, te, ) `[rɪˈplesmənt]`        
+- replicate, `vt.` 重复，复制 `[ˈrɛplɪˌket]`        
+- report, `vt.` &, `n.` 报告，报表 `[rɪˈpɔrt]`      
+- represent, `v.` 表示，表现，代表 `[ˌrɛprɪˈzɛnt]`      
+- representation, `n.` 表示 `[ˌrɛprɪzɛnˈteʃən]`    
+- representative, `a.` 典型的，表示的`[ˌrɛprɪˈzɛntətɪv]`        
+- request, `n.` &, `vt.` 请求  (r, i, k, ua, i, s, i, t, e) `[rɪˈkwɛst]`    
+- require, `v.` 需要，要求  (r, ui, k, ua, i, er, ) `[rɪˈkwaɪr]`        
+- required, `a.` 需要的, (rui, kuai, er, de) `[rɪ'kwaɪəd]`    
+- reread, `vt.` 重读 `[ri'rid]`    
+- reserve, `vt.` 保留，预定，预约 `[rɪˈzɜrv]`      
+- reserved, `a.` 保留的，预订的 `[rɪˈzɜrvd]`        
+- reset, `vt.` 复位，置“0, ” `[riˈsɛt]`      
+- reside, vi. 驻留 `[rɪˈzaɪd]`    
+- resident, `a.` 驻留的  (rei, zi, den, t) `[ˈrɛzɪdənt,-ˌdɛnt]`    
+- resolution, `n.` 分辨率 `[ˌrɛzəˈluʃən]`  
+- resolve, `v.` 分辨，解像 `[rɪˈzɑlv]`      
+- respect, `n.` &, `vt.` 遵守，关系 `[rɪˈspɛkt]`      
+- respectively, `ad.` 分别地 `[rɪˈspɛktɪvli]`    
+- respond, `v.` 回答，响应 `[rɪˈspɑnd]`      
+- rest, `n.` &, `v.` 剩余，休息 `[rest]`      
+- restart, `v.` 重新启动，再启动  (rui, sit, a, te)`[ˌriˈstɑrt]`        
+- restore, `vt.` 恢复，复原 `[rɪˈstɔr,-ˈstor]`      
+- restrict, `vt.` 约束，限制 `[rɪˈstrɪkt]`      
+- restricted, `a.` 受限制的，受约束的 `[rɪˈstrɪktɪd]`        
+- restricting, `n.` &, `a.` 限制(的) `[rɪs'trɪktɪŋ]`    
+- restriction, `n.` 限制，约束，节流 `[rɪˈstrɪkʃən]`      
+- restructure, `vt.` 调整，重新组织 `[riˈstrʌktʃɚ]`      
+- result, `n.` 结果 `[rɪˈzʌlt]`  
+- resulting, `a.` 结果的，合成的 `[rɪ'zʌltɪŋ]`        
+- resume, `v.` 重(新)开(始)  (re, s, you, mu) `[rɪ'zjum]`  
+- retain, `vt.` 保持，维持 `[rɪˈten]`        
+- retrieve, `v.` 检索  (e, chui, wu) `[rɪˈtriv]`  
+- retry, `vt.` 再试，复算, rui, chuai) `[ˌri'traɪ]`        
+- return, `v.` 返回，回送 `[rɪˈtɜrn]`      
+- returned, `a.` 退回的 `[rɪ'tɜnd]`    
+- reverse, `v.` &, `a.` 反向的，逆  (ri, we, s) `[rɪˈvɜrs]`        
+- review, `v.` &, `n.` (再)检查 `[rɪˈvju]`  
+- revolutionize, `vt.` 变革，彻底改革 `[revəˈluːʃəˌnaɪz]`        
+- rewrite, `vt.` 重写，再生 `[riˈraɪt]`        
+- right, `a.` 右边的，正确的 `[raɪt]`        
+- ring, `n.` &, `v.` 环，圈；按铃 `[rɪŋ]`      
+- roll, `n.` &, `v.` 案卷；卷动，滚动 `[roʊl]`      
+- room, `n.` 房间，空间 `[rum,rʊm]`      
+- root, `n.` 根, (ru, te) `[rut,rʊt]`  
+- round, `v.` 舍入，四舍五入 `[raʊnd]`        
+- route, `n.` 路线，路由 `[rut,raʊt]`        
+- routine, `n.` 程序，例行程序  (rui, tin) `[ruˈtin]`      
+- row, `n.` 行  (ruai, o) `[roʊ]`    
+- rule, `n.` 规则，法则，尺 `[ruːl]`      
+- run, `v.` 运行，运转，操作 `[rʌn]`      
+- running, `a.` 运行着的，游动的(ruo, ning) `[ˈrʌnɪŋ]`        
+- runtime, `n.` 运行时间 `[rʌn'taɪm]`    
 
 # **S**
 
-- safe, a. 安全的，可靠的 [sef]        
-- safely, ad. 安全地，确实地 [ˈseflɪ]        
-- safety, n. 安全，保险 [ˈsefti]        
-- salary, n. &, vt. 薪水；发工资 [ˈsæləri,ˈsælri]    
-- sale, n. 销售，销路 [sel]        
-- same, a. 同样的，相同的 [sem]        
-- sample, n. &, v. 样品，样本；抽样 [ˈsæmpl]        
-- save, v. 保存 [sev]    
-- saving, a. 保存的 [ˈsevɪŋ]    
-- say, v. 说，显示，假定 [se]        
-- scan, v. 扫描，扫视，搜索 [skæn]        
-- scatter, v. 散射，分散，散布 [ˈskætɚ]        
-- scattered, a. 分散的 [ˈskætərd]    
-- scheme, n. 方案，计划，图 [skim]      
-- scope, n. 范围，显示器 [skoʊp]      
-- screen, n. 屏幕，屏；v. 屏蔽 [skrin]      
-- scroll, vt. 上滚(卷)；n. 纸卷 [skroʊl]  
-- seamless, a. 无缝的 [ˈsimlɪs]    
-- search, v. 检索，查询，搜索 [sɜrtʃ]        
-- searching, n. 搜索, (se, te, shen) [ˈsɜrtʃɪŋ]    
-- second, n. &, a. 秒，第二(的) [ˈsekənd]        
-- secondary, a. 辅助的，第二的 [ˈsekənderi]        
-- section, n. 节，段，区域 [ ˈsɛkʃən]      
-- sector, n. &, v. 扇区，段；分段 [ˈsɛktɚ,-ˌtɔr]      
-- security, n. 安全性，保密性 [səˈkjʊrəti]      
-- see, v. 看，看出，查看 [si]      
-- seek, v. 查找，寻找，探求 [sik]      
-- segment, n. 段，片段，图块 [ˈsɛɡmənt]      
-- seldom, ad. 不常，很少，难得 [ˈsɛldəm]        
-- select, vt. 选择 [sɪˈlɛkt]  
-- selected, a. 精选的 [sɪ'lektɪd]    
-- selection, n. 选择 [sɪˈlɛkʃən]  
-- semicolon, n. 分号(；) [ˈsemikoʊlən]  
-- send, v. 发送 [sɛnd]  
-- sensitive, a. 敏感的，灵敏的 [ˈsɛnsɪtɪv]        
-- sensitivity, n. 灵敏度 [ˌsɛnsɪˈtɪvɪti]  
-- sentence, n. 句(子) [ˈsɛntəns]  
-- separate, v. &, a. 分隔，分离，各自的 ['sepəreɪt]        
-- separated, a. 分开的, (sai, po, rui, t, d) ['sepəreɪtɪd]    
-- separately, ad. 分别地 [ˈsɛpərɪtlɪ]    
-- separator, n. 分隔符 [ˈsɛpəˌretɚ]    
-- sequence, n. 顺序，时序，序列 [ˈsikwəns,-ˌkwɛns]      
-- sequentially, ad. 顺序地 [sɪ'kwenʃəlɪ]    
-- serial, a. 串行的，串联的 [ˈsɪriəl]        
-- series, n. 序列，系列，串联 [ˈsɪriz]      
-- service, n. &, vt. 服务，业务 [ˈsɜrvɪs]      
-- session, n. 对话，通话  (se, sheng) [ˈsɛʃən]      
-- set, v. 设置，n. 集合 [sɛt]      
-- setting, n. 设置，调整 [ˈsɛtɪŋ]      
-- setup, n. 安排，准备，配置 [ˈsɛtˌʌp]      
-- seven, n. &, a. 七(个) [ˈsɛvən]    
-- several, a. &, n. 若干个，几个(sai, fe, rou)[ˈsɛvərəl,ˈsɛvrəl]        
-- share, v. 共享，共用 [ʃer]        
-- sheet, n. (图)表，纸，片 [ʃit]      
-- shell, n. 壳，外壳, · [ʃɛl]      
-- shield, v. 屏蔽，罩，防护 [ʃild]      
-- shift, v. 转义，换档，移位 [ʃɪft]      
-- ship, n. 舰，船 [ʃɪp]      
-- short, a. &, n. 短的；短路 [ʃɔrt]    
-- shortcut, n. 近路，捷径(shou, ka, i, te, ) [ˈʃɔrtˌkʌt]        
-- should, v. &, aux. 应当，该 [ʃʊd]        
-- show, v. 显示，呈现，出示 [ʃoʊ]      
-- showing, n. 显示，表现 [ˈʃoʊɪŋ]      
-- shut, v. 关闭 [ʃʌt]  
-- side, n. (旁)边，面，侧(面)  (sai, de) [saɪd]        
-- sign, n. 符号，信号，记号  (sa, i, n) [saɪn]        
-- signal, n. &, v. 信号；发信号 [ˈsɪɡnəl]    
-- significant, a. 有效的，有意义的 [sɪɡˈnɪfɪkənt]        
-- similar, a. 相似的, (si, mi, le) [ˈsɪməlɚ]    
-- simple, a. 简单的 [ˈsɪmpəl]    
-- simply, ad. 简单地，单纯地 [ˈsɪmpli]        
-- since, prep. 自从…以来 [sɪns]  
-- single, a. &, n. 单个的；一个，单 [ˈsɪŋɡəl]        
-- sit, v. 位于，安装 [sit]      
-- situation, n. 情况，状况，势态 [ˌsɪtʃuˈeʃən]        
-- six, n. &, a. 六(个)(的) [sɪks]    
-- size, n. 尺寸，大小，容量 [saɪz]        
-- skeleton, n. 骨架，框架 [ˈskɛlɪtn]      
-- skill, n. 技巧 [skɪl]  
-- skip, v. 跳跃(定位)，跳过 [skɪp]      
-- slash, n. 斜线, (, s, i, la, i, s, hi) [slæʃ]    
-- slide, v. &, n. 滑动，滑动触头 [slaɪd]        
-- slow, a. &, ad. 慢速的 [sloʊ]    
-- slowly, ad. 缓慢地 [ˈsloʊli]    
-- small, a. 小的，小型的  (si, mao, ou) [smɔl]        
-- smooth, v. &, a. 平滑；平滑的 [smuð]    
-- snapshot, n. 抽点打印 [ˈsnæpʃɑt]    
-- so, pron. &, conj. 如此，这样 [soʊ]      
-- social, a. 社会的 [ˈsoʊʃl]    
-- socket, n. 插座，插孔，插口 [ˈsɑkɪt]      
-- soft, a. 软的 [sɔft]    
-- software, n. 软件(sao, fu, wei, er) [ˈsɔftwer]    
-- solely, ad. 独自，单独，只 [ˈsoʊlli]        
-- solution, n. 解，解法，解答 [səˈluʃən]      
-- somewhat, pron. &, ad. 稍微，有点 [ˈsʌmwʌt]        
-- sort, v. 分类，排序 [sɔrt]      
-- sound, n. 声音，音响 [saʊnd]        
-- sounding, a. 发声的 [ˈsaʊndɪŋ]    
-- source, n. 源，电源，源点 [sɔrs]      
-- space, n. 空格键，空间 [ spes]        
-- special, a. 专用的，特殊的  (si, bai, shou) [ˈspɛʃəl]        
-- specialize, v. (使)专门化 [ˈspɛʃəˌlaɪz]    
-- specific, a. 特殊的，具体的 [spɪˈsɪfɪk]        
-- specifically, ad. 特别地，逐一地 [spəˈsɪfɪkli]        
-- specification, n. 说明书，规则说明书[ˌspɛsəfɪˈkeʃən]        
-- specify, v. 指定，规定，确定 [ˈspɛsəˌfaɪ]        
-- speech, n. 说话，言语，语音 [spitʃ]      
-- speed, n. 速度  (s, i, p, i, d) [spid]  
-- spell, v. 拼写 [spɛl]  
-- spill, v. 漏出，溢出，漏失 [spɪl]      
-- split, v. 分开，分离 [splɪt]      
-- splitting, n. 分区(裂) [ˈsplɪtɪŋ]  
-- spread, v. 展开，传播 [sprɛd]        
-- square, n. &, a. 正方形；方形的 [skwer]    
-- squeeze, v. 挤压 [skwiz]  
-- stack, n. 栈，堆栈，存储栈 [stæk]        
-- stamp, n. 图章 [stæmp]    
-- stand, v. 处于(状态)，保持 [stænd]        
-- standard, n. 标准(si, tan, de, rui, de) [ˈstændərd]    
-- star, n. 星形，星号 [stɑr]        
-- start, v. 起动，开始，启动 [stɑrt]        
-- starting, a. 起始的(si, chua, tin) ['stɑtɪŋ]    
-- startup, n. 启动, (si, tar, ta, p) ['stɑt'ʌp]    
-- state, n. &, vt. 状态；确定(si, dei, te),[stet]    
-- stated, a. 规定的 ['steɪtɪd]    
-- statement, n. 语句，陈述，命题 [ˈstetmənt]        
-- static, a. 静态的，不变的 [ˈstætɪk]        
-- stationary, a. 静止的，平稳的 [ˈsteɪʃəneri]        
-- status, n. 状态，态，状况 [ˈstetəs,ˈstætəs]        
-- stay, v. 停止，停留 [ste]        
-- step, n. 步，步骤，步长，档 [stɛp]      
-- still, a. &, n. &, v. 静止的；静；平静  (, s, i, de, i, o, u) [stɪl]    
-- stop, v. 停止，停机 [stɑp]      
-- stopping, n. 停止，制动(状态) ['stɒpɪŋ]      
-- storage, n. 存储，存储器  (s, tao, run, zhi)[ˈstɔrɪdʒ,ˈstor-]        
-- store, n. &, vt. 存储，存储器 [stɔr,stor]      
-- stream, n. 流 [strim]    
-- strike, v. 敲，击 [straɪk]        
-- string, n. 行，字符串 [strɪŋ]      
-- strong, a. 强的 [strɔŋ]    
-- structural, a. 结构的，结构上的 [ˈstrʌktʃərəl]        
-- structure, n. 结构，构造，构件 [ˈstrʌktʃɚ]      
-- stuff, n. &, vt. 材料；装入 [stʌf]  
-- sub-dire, ctory, n. 子目录(sao, bo, di, ruai, ke, te, rui)    
-- subgroup, n. 分组，子群 [ˈsʌbˌɡrup]      
-- subject, n. 主题，源 [ˈsʌbdʒekt]      
-- subroutine, n. 子程序 [ˈsʌbruˌtin]  
-- subscript, n. 注脚，下标 [ˈsʌbˌskrɪpt]      
-- subsequent, a. 后来的，其次的 [ˈsʌbsɪˌkwɛnt,-kwənt]        
-- subsequently, ad. 其后，其次，按着[ˈsʌbsɪˌkwɛntlɪ]        
-- subset, n. 子集，子设备 [ˈsʌbˌsɛt]      
-- substantial, a. 实质的，真正的 [səbˈstænʃəl]        
-- substantially, ad. 实质上，本质上 [səbˈstænʃəlɪ]        
-- substitute, v. 代替，替换，代入 [ˈsʌbstɪtut]      
-- substitution, n. 代替，替换，置换[ˌsʌbstɪˈtuʃən,-ˈtju-]      
-- subtotal, n. &, v. 小计，求部分和  (sa, bo, tei, lou)[ˈsʌbtoʊtl]        
-- successful, a. 成功的 [səkˈsɛsfəl]    
-- succession, n. 逐次性，连续性 [səkˈsɛʃən]      
-- successive, a. 逐次的，相继的 [səkˈsɛsɪv]        
-- such, a. &, pron. 这样的，如此 [sʌtʃ]        
-- sufficient, a. 充足的，足够的 [səˈfɪʃənt]        
-- suggest, vt. 建议，提议，暗示[səɡˈdʒɛst,səˈdʒɛst]      
-- suggestion, n. 暗示，提醒 [səɡˈdʒɛstʃən,səˈdʒɛs-]      
-- suitable, a. 适合的，相适宜的 [ˈsutəbəl]        
-- sum, n. 和，合计，总额 [sʌm]      
-- summary, n. 摘要，汇总，提要  (se, me, rui)[ˈsʌməri]        
-- sun, n. 太阳，日 [sʌn]      
-- superimpose, vt. 重叠，叠加 [ˌsupərɪmˈpoʊz]      
-- supply, vt. &, n. 电源，供给 [səˈplaɪ]        
-- support, vt. 支援，支持，配套 [səˈpɔrt]      
-- suppose, v. 假定，推测 [səˈpoʊz]      
-- supposed, a. 假定的，推测的 [səˈpoʊzd]        
-- suppressed, vt. 抑制，取消       
-- sure, a. &, ad. 确实的；的确 [ʃʊr]    
-- surrounding, a. 周围的，环绕的 [səˈraʊndɪŋ]        
-- suspend, v. 中止，暂停，挂起 [səˈspɛnd]      
-- suspension, n. 暂停，中止，挂起 [səˈspɛnʃən]      
-- swap, v. 交换，调动 [swɑp]        
-- switch, n. &, v. 开关，转换，切换 [swɪtʃ]      
-- switching, n. 开关，转接，交换, (si, wei, te, chen) [swɪtʃɪŋ]      
-- symbol, n. 符号，记号  (sen, bou) [ˈsɪmbəl]      
-- synchronization, n. 同步 [ˌsɪŋkrənaɪ'zeɪʃn]    
-- synchronize, v. 使同步 [ˈsɪŋkrəˌnaɪz,ˈsɪn-]    
-- syntax, n. 语法，文法，句法 [ˈsɪnˌtæks]        
-- system, n. 系统 [ˈsɪstəm]  
+- safe, `a.` 安全的，可靠的 `[sef]`        
+- safely, `ad.` 安全地，确实地 `[ˈseflɪ]`        
+- safety, `n.` 安全，保险 `[ˈsefti]`        
+- salary, `n.` &, `vt.` 薪水；发工资 `[ˈsæləri,ˈsælri]`    
+- sale, `n.` 销售，销路 `[sel]`        
+- same, `a.` 同样的，相同的 `[sem]`        
+- sample, `n.` &, `v.` 样品，样本；抽样 `[ˈsæmpl]`        
+- save, `v.` 保存 `[sev]`    
+- saving, `a.` 保存的 `[ˈsevɪŋ]`    
+- say, `v.` 说，显示，假定 `[se]`        
+- scan, `v.` 扫描，扫视，搜索 `[skæn]`        
+- scatter, `v.` 散射，分散，散布 `[ˈskætɚ]`        
+- scattered, `a.` 分散的 `[ˈskætərd]`    
+- scheme, `n.` 方案，计划，图 `[skim]`      
+- scope, `n.` 范围，显示器 `[skoʊp]`      
+- screen, `n.` 屏幕，屏；`v.` 屏蔽 `[skrin]`      
+- scroll, `vt.` 上滚(卷)；`n.` 纸卷 `[skroʊl]`  
+- seamless, `a.` 无缝的 `[ˈsimlɪs]`    
+- search, `v.` 检索，查询，搜索 `[sɜrtʃ]`        
+- searching, `n.` 搜索, (se, te, shen) `[ˈsɜrtʃɪŋ]`    
+- second, `n.` &, `a.` 秒，第二(的) `[ˈsekənd]`        
+- secondary, `a.` 辅助的，第二的 `[ˈsekənderi]`        
+- section, `n.` 节，段，区域 `[ ˈsɛkʃən]`      
+- sector, `n.` &, `v.` 扇区，段；分段 `[ˈsɛktɚ,-ˌtɔr]`      
+- security, `n.` 安全性，保密性 `[səˈkjʊrəti]`      
+- see, `v.` 看，看出，查看 `[si]`      
+- seek, `v.` 查找，寻找，探求 `[sik]`      
+- segment, `n.` 段，片段，图块 `[ˈsɛɡmənt]`      
+- seldom, `ad.` 不常，很少，难得 `[ˈsɛldəm]`        
+- select, `vt.` 选择 `[sɪˈlɛkt]`  
+- selected, `a.` 精选的 `[sɪ'lektɪd]`    
+- selection, `n.` 选择 `[sɪˈlɛkʃən]`  
+- semicolon, `n.` 分号(；) `[ˈsemikoʊlən]`  
+- send, `v.` 发送 `[sɛnd]`  
+- sensitive, `a.` 敏感的，灵敏的 `[ˈsɛnsɪtɪv]`        
+- sensitivity, `n.` 灵敏度 `[ˌsɛnsɪˈtɪvɪti]`  
+- sentence, `n.` 句(子) `[ˈsɛntəns]`  
+- separate, `v.` &, `a.` 分隔，分离，各自的 `['sepəreɪt]`        
+- separated, `a.` 分开的, (sai, po, rui, t, d) `['sepəreɪtɪd]`    
+- separately, `ad.` 分别地 `[ˈsɛpərɪtlɪ]`    
+- separator, `n.` 分隔符 `[ˈsɛpəˌretɚ]`    
+- sequence, `n.` 顺序，时序，序列 `[ˈsikwəns,-ˌkwɛns]`      
+- sequentially, `ad.` 顺序地 `[sɪ'kwenʃəlɪ]`    
+- serial, `a.` 串行的，串联的 `[ˈsɪriəl]`        
+- series, `n.` 序列，系列，串联 `[ˈsɪriz]`      
+- service, `n.` &, `vt.` 服务，业务 `[ˈsɜrvɪs]`      
+- session, `n.` 对话，通话  (se, sheng) `[ˈsɛʃən]`      
+- set, `v.` 设置，`n.` 集合 `[sɛt]`      
+- setting, `n.` 设置，调整 `[ˈsɛtɪŋ]`      
+- setup, `n.` 安排，准备，配置 `[ˈsɛtˌʌp]`      
+- seven, `n.` &, `a.` 七(个) `[ˈsɛvən]`    
+- several, `a.` &, `n.` 若干个，几个(sai, fe, rou)`[ˈsɛvərəl,ˈsɛvrəl]`        
+- share, `v.` 共享，共用 `[ʃer]`        
+- sheet, `n.` (图)表，纸，片 `[ʃit]`      
+- shell, `n.` 壳，外壳, · `[ʃɛl]`      
+- shield, `v.` 屏蔽，罩，防护 `[ʃild]`      
+- shift, `v.` 转义，换档，移位 `[ʃɪft]`      
+- ship, `n.` 舰，船 `[ʃɪp]`      
+- short, `a.` &, `n.` 短的；短路 `[ʃɔrt]`    
+- shortcut, `n.` 近路，捷径(shou, ka, i, te, ) `[ˈʃɔrtˌkʌt]`        
+- should, `v.` &, aux. 应当，该 `[ʃʊd]`        
+- show, `v.` 显示，呈现，出示 `[ʃoʊ]`      
+- showing, `n.` 显示，表现 `[ˈʃoʊɪŋ]`      
+- shut, `v.` 关闭 `[ʃʌt]`  
+- side, `n.` (旁)边，面，侧(面)  (sai, de) `[saɪd]`        
+- sign, `n.` 符号，信号，记号  (sa, i, n) `[saɪn]`        
+- signal, `n.` &, `v.` 信号；发信号 `[ˈsɪɡnəl]`    
+- significant, `a.` 有效的，有意义的 `[sɪɡˈnɪfɪkənt]`        
+- similar, `a.` 相似的, (si, mi, le) `[ˈsɪməlɚ]`    
+- simple, `a.` 简单的 `[ˈsɪmpəl]`    
+- simply, `ad.` 简单地，单纯地 `[ˈsɪmpli]`        
+- since, `prep.` 自从…以来 `[sɪns]`  
+- single, `a.` &, `n.` 单个的；一个，单 `[ˈsɪŋɡəl]`        
+- sit, `v.` 位于，安装 `[sit]`      
+- situation, `n.` 情况，状况，势态 `[ˌsɪtʃuˈeʃən]`        
+- six, `n.` &, `a.` 六(个)(的) `[sɪks]`    
+- size, `n.` 尺寸，大小，容量 `[saɪz]`        
+- skeleton, `n.` 骨架，框架 `[ˈskɛlɪtn]`      
+- skill, `n.` 技巧 `[skɪl]`  
+- skip, `v.` 跳跃(定位)，跳过 `[skɪp]`      
+- slash, `n.` 斜线, (, s, i, la, i, s, hi) `[slæʃ]`    
+- slide, `v.` &, `n.` 滑动，滑动触头 `[slaɪd]`        
+- slow, `a.` &, `ad.` 慢速的 `[sloʊ]`    
+- slowly, `ad.` 缓慢地 `[ˈsloʊli]`    
+- small, `a.` 小的，小型的  (si, mao, ou) `[smɔl]`        
+- smooth, `v.` &, `a.` 平滑；平滑的 `[smuð]`    
+- snapshot, `n.` 抽点打印 `[ˈsnæpʃɑt]`    
+- so, pro`n.` &, `conj.` 如此，这样 `[soʊ]`      
+- social, `a.` 社会的 `[ˈsoʊʃl]`    
+- socket, `n.` 插座，插孔，插口 `[ˈsɑkɪt]`      
+- soft, `a.` 软的 `[sɔft]`    
+- software, `n.` 软件(sao, fu, wei, er) `[ˈsɔftwer]`    
+- solely, `ad.` 独自，单独，只 `[ˈsoʊlli]`        
+- solution, `n.` 解，解法，解答 `[səˈluʃən]`      
+- somewhat, pro`n.` &, `ad.` 稍微，有点 `[ˈsʌmwʌt]`        
+- sort, `v.` 分类，排序 `[sɔrt]`      
+- sound, `n.` 声音，音响 `[saʊnd]`        
+- sounding, `a.` 发声的 `[ˈsaʊndɪŋ]`    
+- source, `n.` 源，电源，源点 `[sɔrs]`      
+- space, `n.` 空格键，空间 `[ spes]`        
+- special, `a.` 专用的，特殊的  (si, bai, shou) `[ˈspɛʃəl]`        
+- specialize, `v.` (使)专门化 `[ˈspɛʃəˌlaɪz]`    
+- specific, `a.` 特殊的，具体的 `[spɪˈsɪfɪk]`        
+- specifically, `ad.` 特别地，逐一地 `[spəˈsɪfɪkli]`        
+- specification, `n.` 说明书，规则说明书`[ˌspɛsəfɪˈkeʃən]`        
+- specify, `v.` 指定，规定，确定 `[ˈspɛsəˌfaɪ]`        
+- speech, `n.` 说话，言语，语音 `[spitʃ]`      
+- speed, `n.` 速度  (s, i, p, i, d) `[spid]`  
+- spell, `v.` 拼写 `[spɛl]`  
+- spill, `v.` 漏出，溢出，漏失 `[spɪl]`      
+- split, `v.` 分开，分离 `[splɪt]`      
+- splitting, `n.` 分区(裂) `[ˈsplɪtɪŋ]`  
+- spread, `v.` 展开，传播 `[sprɛd]`        
+- square, `n.` &, `a.` 正方形；方形的 `[skwer]`    
+- squeeze, `v.` 挤压 `[skwiz]`  
+- stack, `n.` 栈，堆栈，存储栈 `[stæk]`        
+- stamp, `n.` 图章 `[stæmp]`    
+- stand, `v.` 处于(状态)，保持 `[stænd]`        
+- standard, `n.` 标准(si, tan, de, rui, de) `[ˈstændərd]`    
+- star, `n.` 星形，星号 `[stɑr]`        
+- start, `v.` 起动，开始，启动 `[stɑrt]`        
+- starting, `a.` 起始的(si, chua, tin) `['stɑtɪŋ]`    
+- startup, `n.` 启动, (si, tar, ta, p) `['stɑt'ʌp]`    
+- state, `n.` &, `vt.` 状态；确定(si, dei, te),`[stet]`    
+- stated, `a.` 规定的 `['steɪtɪd]`    
+- statement, `n.` 语句，陈述，命题 `[ˈstetmənt]`        
+- static, `a.` 静态的，不变的 `[ˈstætɪk]`        
+- stationary, `a.` 静止的，平稳的 `[ˈsteɪʃəneri]`        
+- status, `n.` 状态，态，状况 `[ˈstetəs,ˈstætəs]`        
+- stay, `v.` 停止，停留 `[ste]`        
+- step, `n.` 步，步骤，步长，档 `[stɛp]`      
+- still, `a.` &, `n.` &, `v.` 静止的；静；平静  (, s, i, de, i, o, u) `[stɪl]`    
+- stop, `v.` 停止，停机 `[stɑp]`      
+- stopping, `n.` 停止，制动(状态) `['stɒpɪŋ]`      
+- storage, `n.` 存储，存储器  (s, tao, run, zhi)`[ˈstɔrɪdʒ,ˈstor-]`        
+- store, `n.` &, `vt.` 存储，存储器 `[stɔr,stor]`      
+- stream, `n.` 流 `[strim]`    
+- strike, `v.` 敲，击 `[straɪk]`        
+- string, `n.` 行，字符串 `[strɪŋ]`      
+- strong, `a.` 强的 `[strɔŋ]`    
+- structural, `a.` 结构的，结构上的 `[ˈstrʌktʃərəl]`        
+- structure, `n.` 结构，构造，构件 `[ˈstrʌktʃɚ]`      
+- stuff, `n.` &, `vt.` 材料；装入 `[stʌf]`  
+- sub-dire, ctory, `n.` 子目录(sao, bo, di, ruai, ke, te, rui)    
+- subgroup, `n.` 分组，子群 `[ˈsʌbˌɡrup]`      
+- subject, `n.` 主题，源 `[ˈsʌbdʒekt]`      
+- subroutine, `n.` 子程序 `[ˈsʌbruˌtin]`  
+- subscript, `n.` 注脚，下标 `[ˈsʌbˌskrɪpt]`      
+- subsequent, `a.` 后来的，其次的 `[ˈsʌbsɪˌkwɛnt,-kwənt]`        
+- subsequently, `ad.` 其后，其次，按着`[ˈsʌbsɪˌkwɛntlɪ]`        
+- subset, `n.` 子集，子设备 `[ˈsʌbˌsɛt]`      
+- substantial, `a.` 实质的，真正的 `[səbˈstænʃəl]`        
+- substantially, `ad.` 实质上，本质上 `[səbˈstænʃəlɪ]`        
+- substitute, `v.` 代替，替换，代入 `[ˈsʌbstɪtut]`      
+- substitution, `n.` 代替，替换，置换`[ˌsʌbstɪˈtuʃən,-ˈtju-]`      
+- subtotal, `n.` &, `v.` 小计，求部分和  (sa, bo, tei, lou)`[ˈsʌbtoʊtl]`        
+- successful, `a.` 成功的 `[səkˈsɛsfəl]`    
+- succession, `n.` 逐次性，连续性 `[səkˈsɛʃən]`      
+- successive, `a.` 逐次的，相继的 `[səkˈsɛsɪv]`        
+- such, `a.` &, pro`n.` 这样的，如此 `[sʌtʃ]`        
+- sufficient, `a.` 充足的，足够的 `[səˈfɪʃənt]`        
+- suggest, `vt.` 建议，提议，暗示`[səɡˈdʒɛst,səˈdʒɛst]`      
+- suggestion, `n.` 暗示，提醒 `[səɡˈdʒɛstʃən,səˈdʒɛs-]`      
+- suitable, `a.` 适合的，相适宜的 `[ˈsutəbəl]`        
+- sum, `n.` 和，合计，总额 `[sʌm]`      
+- summary, `n.` 摘要，汇总，提要  (se, me, rui)`[ˈsʌməri]`        
+- sun, `n.` 太阳，日 `[sʌn]`      
+- superimpose, `vt.` 重叠，叠加 `[ˌsupərɪmˈpoʊz]`      
+- supply, `vt.` &, `n.` 电源，供给 `[səˈplaɪ]`        
+- support, `vt.` 支援，支持，配套 `[səˈpɔrt]`      
+- suppose, `v.` 假定，推测 `[səˈpoʊz]`      
+- supposed, `a.` 假定的，推测的 `[səˈpoʊzd]`        
+- suppressed, `vt.` 抑制，取消       
+- sure, `a.` &, `ad.` 确实的；的确 `[ʃʊr]`    
+- surrounding, `a.` 周围的，环绕的 `[səˈraʊndɪŋ]`        
+- suspend, `v.` 中止，暂停，挂起 `[səˈspɛnd]`      
+- suspension, `n.` 暂停，中止，挂起 `[səˈspɛnʃən]`      
+- swap, `v.` 交换，调动 `[swɑp]`        
+- switch, `n.` &, `v.` 开关，转换，切换 `[swɪtʃ]`      
+- switching, `n.` 开关，转接，交换, (si, wei, te, chen) `[swɪtʃɪŋ]`      
+- symbol, `n.` 符号，记号  (sen, bou) `[ˈsɪmbəl]`      
+- synchronization, `n.` 同步 `[ˌsɪŋkrənaɪ'zeɪʃn]`    
+- synchronize, `v.` 使同步 `[ˈsɪŋkrəˌnaɪz,ˈsɪn-]`    
+- syntax, `n.` 语法，文法，句法 `[ˈsɪnˌtæks]`        
+- system, `n.` 系统 `[ˈsɪstəm]`  
 
 # **T**
 
-- t, ime, n. 时间；vt. 计时  
-- tab, n. 制表键 [tæb]    
-- table, n. 表, (tei, bao) [ˈtebəl]    
-- tag, n. 特征，标记，标识符 [tæɡ]        
-- take, v. 取，拿 [tek]        
-- talent, n. 才能，技能，人才 [ˈtælənt]        
-- talk, v. 通话，谈话, (tao, ke) [tɔk]        
-- tape, n. 磁带，纸带 [tep]        
-- task, n. 任务；v. 派给…任务 [tæsk]    
-- teach, v. 教，讲授 [titʃ]        
-- team, n. 队，小组 [tim]        
-- technical, a. 技术的，专业的 [ˈtɛknɪkəl]        
-- technology, n. 工艺，技术，制造学 [tekˈnɑlədʒi]      
-- telephone, n. 电话 [ˈtelɪfoʊn]  
-- tell, n. 讲，说，教，计算 [tɛl]      
-- template, n. 标准框，样板，模板 [ˈtɛmplɪt]        
-- temporarily, ad. 暂时  (, tan, p, ruo, le, i) [tempəˈrerɪlɪ]    
-- temporary, a. 暂时的，临时的  (tai, me, pe, rui)[ˈtempəreri]        
-- tension, n. 张力 [ˈtɛnʃən]  
-- term, n. 项，条款，术语 [tɜrm]      
-- terminal, n. 终端，端子 [ˈtɜrmɪnl]        
-- terminate, v. 端接，终止 [ˈtɜrmɪneɪt]        
-- terminating, n. 终止，终结，收信 ['tɜmɪneɪtɪŋ]        
-- terminology, n. 术语 [ˌtɜrməˈnɑlədʒi]  
-- test, n. &, v. 测试, (tei, si, t) [test]  
-- text, n. 正文，文本 [tɛkst]      
-- then, ad. &, conj. 那时，则 [ðɛn]        
-- thereafter, ad. 此后，据此 [ˌðerˈæftə(r)]        
-- therefore, ad. &, conj. 因此，所以 [ˈðerfɔ(r)]        
-- think, v. 考虑，以为，判断 [θɪŋk]      
-- third, a. &, n. 第三，三分之一, (ou, de, ) [θɜrd]        
-- though, conj. 虽然，尽管 [ðoʊ]      
-- thousand, n. &, a. (一)千，无数的 [ˈθaʊzənd]        
-- three, a. &, n. 三(的)  (s, i, r, ui) [θri]    
-- through, prep. &, ad. 通过，直通 [θru]        
-- throughout, prep. 贯穿，整，遍 [ θruˈaʊt]        
-- tick, v；n. 滴答(响)；勾号(√)  (t, i, k, e) [tɪk]  
-- times, n. 次数 [taɪmz]    
-- tiny, a. 微小的，微量的 [ˈtaɪni]        
-- title, n. 题目，标题 [ˈtaɪtl]        
-- today, n. &, ad. 今天 [təˈde]    
-- together, ad. 一同，共同，相互 [təˈɡɛðɚ]        
-- toggle, n. &, v. 触发器；系紧 [ˈtɑgl]  
-- tone, n. 音调，音色，色调 [toʊn]      
-- tool, n. 工具，刀 [tul]      
-- top, n. 顶，尖端 [tɑp]      
-- topic, n. 题目，论题 [ˈtɑpɪk]      
-- tornado, n. 旋风，龙卷风 [tɔrˈneɪdoʊ]        
-- total, n. &, v. 总数；总计(to, lou) [ˈtoʊtl]    
-- touch, v. &, n. 按，揿，触；触力 [tʌtʃ]      
-- toward, prep. 朝(着…方向) [tɔrd,tord,təˈwɔrd]    
-- trace, v. 跟踪，追踪 [tres]        
-- track, n. 磁道，轨道 [træk]        
-- traditional, a. 传统的，惯例的 [trəˈdɪʃənəl]        
-- trailing, n. &, a. 结尾；尾随的 ['treɪlɪŋ]    
-- transaction, n. 事项，事务，学报[trænˈsækʃən,-ˈzæk-]        
-- transfer, v. 传送，转换，转移 [trænsˈfɚ]        
-- transform, v. &, n. 变换，变换式 [trænsˈfɔrm]        
-- translate, v. 翻译，转换，平移 [trænsˈlet,trænz-,ˈtrænsˌlet,ˈtrænz-]        
-- translation, n. 翻译，变换，平移[trænsˈleʃən,trænz-]        
-transportable, a可移动的  (chuan, s, ip, e, dei, bao) [trænˈspɔrtəbl]  
-- trap, n. &, vt. 陷阱；俘获 [træp]    
-- traverse, v. 横渡，横过，横断 [trəˈvɜrs]        
-- treat, v. 处理，加工 [trit]        
-- tree, n. 树，语法树 [tri]      
-- trigger, n. &, v. 触发器；触发 [ˈtrɪɡɚ]  
-- trim, n. 区标，微调 [trɪm]      
-- trouble, n. 故障 [ˈtrʌbəl]  
-- true, a. &, n. 真，实，选中, (chu) [tru]        
-- truncate, vt. 截尾，截断 [ˈtrʌŋkeɪt]        
-- try, n. (尝)试，试验 [traɪ]        
-- trying, a. 费劲的，困难的 [ˈtraɪɪŋ]        
-- turn, v. &, n. 转，转动；圈，匝 [tɜrn]      
-- turning, a. 转弯的，旋转的 [ˈtɜrnɪŋ]        
-- turnkey, n. 总控钥匙 [ˈtɜrnki]  
-- tutorial, a. 指导的 [tuˈtɔriəl]    
-- twentieth, n. &, a. 第二十(的)[ˈtwɛntiɪθ,ˈtwʌn-]    
-- twice, n. &, ad. 两次，两倍于 [twaɪs]        
-- two, n. &, a. 二，两，双 [tu]        
-- type, n. 型，类型；v. 打印 [taɪp]        
-- typewriter, n. 打字机 [ˈtaɪpˌraɪtɚ]    
-- typical, a. 典型的，标准的 [ˈtɪpɪkəl]    
+- t, ime, `n.` 时间；`vt.` 计时  
+- tab, `n.` 制表键 `[tæb]`    
+- table, `n.` 表, (tei, bao) `[ˈtebəl]`    
+- tag, `n.` 特征，标记，标识符 `[tæɡ]`        
+- take, `v.` 取，拿 `[tek]`        
+- talent, `n.` 才能，技能，人才 `[ˈtælənt]`        
+- talk, `v.` 通话，谈话, (tao, ke) `[tɔk]`        
+- tape, `n.` 磁带，纸带 `[tep]`        
+- task, `n.` 任务；`v.` 派给…任务 `[tæsk]`    
+- teach, `v.` 教，讲授 `[titʃ]`        
+- team, `n.` 队，小组 `[tim]`        
+- technical, `a.` 技术的，专业的 `[ˈtɛknɪkəl]`        
+- technology, `n.` 工艺，技术，制造学 `[tekˈnɑlədʒi]`      
+- telephone, `n.` 电话 `[ˈtelɪfoʊn]`  
+- tell, `n.` 讲，说，教，计算 `[tɛl]`      
+- template, `n.` 标准框，样板，模板 `[ˈtɛmplɪt]`        
+- temporarily, `ad.` 暂时  (, tan, p, ruo, le, i) `[tempəˈrerɪlɪ]`    
+- temporary, `a.` 暂时的，临时的  (tai, me, pe, rui)`[ˈtempəreri]`        
+- tension, `n.` 张力 `[ˈtɛnʃən]`  
+- term, `n.` 项，条款，术语 `[tɜrm]`      
+- terminal, `n.` 终端，端子 `[ˈtɜrmɪnl]`        
+- terminate, `v.` 端接，终止 `[ˈtɜrmɪneɪt]`        
+- terminating, `n.` 终止，终结，收信 `['tɜmɪneɪtɪŋ]`        
+- terminology, `n.` 术语 `[ˌtɜrməˈnɑlədʒi]`  
+- test, `n.` &, `v.` 测试, (tei, si, t) `[test]`  
+- text, `n.` 正文，文本 `[tɛkst]`      
+- then, `ad.` &, `conj.` 那时，则 `[ðɛn]`        
+- thereafter, `ad.` 此后，据此 `[ˌðerˈæftə(r)]`        
+- therefore, `ad.` &, `conj.` 因此，所以 `[ˈðerfɔ(r)]`        
+- think, `v.` 考虑，以为，判断 `[θɪŋk]`      
+- third, `a.` &, `n.` 第三，三分之一, (ou, de, ) `[θɜrd]`        
+- though, `conj.` 虽然，尽管 `[ðoʊ]`      
+- thousand, `n.` &, `a.` (一)千，无数的 `[ˈθaʊzənd]`        
+- three, `a.` &, `n.` 三(的)  (s, i, r, ui) `[θri]`    
+- through, `prep.` &, `ad.` 通过，直通 `[θru]`        
+- throughout, `prep.` 贯穿，整，遍 `[ θruˈaʊt]`        
+- tick, v；`n.` 滴答(响)；勾号(√)  (t, i, k, e) `[tɪk]`  
+- times, `n.` 次数 `[taɪmz]`    
+- tiny, `a.` 微小的，微量的 `[ˈtaɪni]`        
+- title, `n.` 题目，标题 `[ˈtaɪtl]`        
+- today, `n.` &, `ad.` 今天 `[təˈde]`    
+- together, `ad.` 一同，共同，相互 `[təˈɡɛðɚ]`        
+- toggle, `n.` &, `v.` 触发器；系紧 `[ˈtɑgl]`  
+- tone, `n.` 音调，音色，色调 `[toʊn]`      
+- tool, `n.` 工具，刀 `[tul]`      
+- top, `n.` 顶，尖端 `[tɑp]`      
+- topic, `n.` 题目，论题 `[ˈtɑpɪk]`      
+- tornado, `n.` 旋风，龙卷风 `[tɔrˈneɪdoʊ]`        
+- total, `n.` &, `v.` 总数；总计(to, lou) `[ˈtoʊtl]`    
+- touch, `v.` &, `n.` 按，揿，触；触力 `[tʌtʃ]`      
+- toward, `prep.` 朝(着…方向) `[tɔrd,tord,təˈwɔrd]`    
+- trace, `v.` 跟踪，追踪 `[tres]`        
+- track, `n.` 磁道，轨道 `[træk]`        
+- traditional, `a.` 传统的，惯例的 `[trəˈdɪʃənəl]`        
+- trailing, `n.` &, `a.` 结尾；尾随的 `['treɪlɪŋ]`    
+- transaction, `n.` 事项，事务，学报`[trænˈsækʃən,-ˈzæk-]`        
+- transfer, `v.` 传送，转换，转移 `[trænsˈfɚ]`        
+- transform, `v.` &, `n.` 变换，变换式 `[trænsˈfɔrm]`        
+- translate, `v.` 翻译，转换，平移 `[trænsˈlet,trænz-,ˈtrænsˌlet,ˈtrænz-]`        
+- translation, `n.` 翻译，变换，平移`[trænsˈleʃən,trænz-]`        
+transportable, a可移动的  (chuan, s, ip, e, dei, bao) `[trænˈspɔrtəbl]`  
+- trap, `n.` &, `vt.` 陷阱；俘获 `[træp]`    
+- traverse, `v.` 横渡，横过，横断 `[trəˈvɜrs]`        
+- treat, `v.` 处理，加工 `[trit]`        
+- tree, `n.` 树，语法树 `[tri]`      
+- trigger, `n.` &, `v.` 触发器；触发 `[ˈtrɪɡɚ]`  
+- trim, `n.` 区标，微调 `[trɪm]`      
+- trouble, `n.` 故障 `[ˈtrʌbəl]`  
+- true, `a.` &, `n.` 真，实，选中, (chu) `[tru]`        
+- truncate, `vt.` 截尾，截断 `[ˈtrʌŋkeɪt]`        
+- try, `n.` (尝)试，试验 `[traɪ]`        
+- trying, `a.` 费劲的，困难的 `[ˈtraɪɪŋ]`        
+- turn, `v.` &, `n.` 转，转动；圈，匝 `[tɜrn]`      
+- turning, `a.` 转弯的，旋转的 `[ˈtɜrnɪŋ]`        
+- turnkey, `n.` 总控钥匙 `[ˈtɜrnki]`  
+- tutorial, `a.` 指导的 `[tuˈtɔriəl]`    
+- twentieth, `n.` &, `a.` 第二十(的)`[ˈtwɛntiɪθ,ˈtwʌn-]`    
+- twice, `n.` &, `ad.` 两次，两倍于 `[twaɪs]`        
+- two, `n.` &, `a.` 二，两，双 `[tu]`        
+- type, `n.` 型，类型；`v.` 打印 `[taɪp]`        
+- typewriter, `n.` 打字机 `[ˈtaɪpˌraɪtɚ]`    
+- typical, `a.` 典型的，标准的 `[ˈtɪpɪkəl]`    
 
 # **U**
 
-- unable, a. 不能的 [ʌnˈebəl]    
-- unavailable, a. 不能利用的 [ˌʌnəˈveləbəl]    
-- unchanged, a. 不变的 [ʌnˈtʃeɪndʒd]    
-- undefined, a. 未定义的  (an, de, fai, en, de)[ˌʌndɪˈfaɪnd]    
-- under, prep. 在…下面(之下), (ang, de) [ˈʌndɚ]    
-- underline, n. 下划线 [ˌʌndərˈlaɪn]    
-- underlying, a. 基础的，根本的 [ˌʌndərˈlaɪɪŋ]        
-- underscore, vt. 在…下面划线 [ˌʌndərˈskɔ(r)]  
-- understand, v. 懂，明白(了)，理解 [ˌʌndərˈstænd]        
-- understanding, n. &, a. 了解的，聪明的[ˌʌndərˈstændɪŋ]        
-- undesirable, a. 不合乎需要的 [ˌʌndɪˈzaɪrəbəl]    
-- undo, vt. 取消，废除 [ʌnˈdu]      
-- undone, a. 未完成的 [ʌnˈdʌn]    
-- unformatted, a. 无格式的 [ʌn'fɔˌmætɪd]    
-- unfortunately, ad. 不幸，遗憾地 [ʌnˈfɔrtʃənətli]        
-- unique, a. 唯一的，独特的(you, ni, ke) [juˈnik]        
-- university, n. (综合性)大学 [ˌjunɪˈvɜrsəti]  
-- unknown, a. 未知的，无名的 [ˌʌnˈnoʊn]        
-- unless, conj. 除非 [ʌnˈlɛs]  
-- unlike, a. 不象的，不同的 [ʌnˈlaɪk]        
-- unlock, v. 开锁，打开 [ˌʌnˈlɑk]      
-- unmarked, a. 没有标记的 [ʌnˈmɑrkt]    
-- unnecessary, a. 不必要的，多余的[ʌnˈnesəseri]        
-- unpack, v. 拆开，卸，分开 [ʌnˈpæk]        
-- unrecognized, a. 未被认出的    
-- unsafe, v. 恢复 [ʌnˈsef]    
-- unshift, v. 未移动，不移档 [ʌn'ʃɪft]      
-- unsigned, a. 无符号的 [ʌn'saɪnd]    
-- unsuccessful, a. 不成功的，失败的 [ˌʌnsəkˈsɛsfəl]        
-- until, prep. 到…为止，直到 [ʌnˈtɪl]      
-- unused, a. 不用的，空着的 [ˌʌnˈjuzd]        
-- unwanted, a. 不需要的，多余的 [ˌʌnˈwɑntɪd]        
-- up, ad. 上，向上，a. 高的 [ʌp]        
-- update, v. 更新，修改，校正(a, pe, dei, te) [ʌpˈdet]        
-- updated, a. 适时的，更新的(ao, p, dei, te, de)[ʌp'deɪtɪd]        
-- upgrade, v. 升级，提高质量 [ˈʌpˌɡred]        
-- upon, prep. 依据，遵照 [əˈpɑn]      
-- upper, a. 上的，上部的  (a, pe) [ˈʌpɚ]        
-- uppercase, n. 大写字母 ['ʌpəˌkeɪs]    
-- usage, n. 应用，使用，用法 [ˈjusɪdʒ,-zɪdʒ]        
-- use, v. 使用，用途 [jus]      
-- useful, a. 有用的(you, s, i, fou) [ˈjusfəl]    
-- useless, a. 无用的 [ˈjuslɪs]    
-- user, n. 用户 [ˈjuzɚ]  
-- usually, ad. 通常，平常，一般 [ˈjuːʒuəli]        
-- utility, n. &, a. 实用程序；实用性, (, yo, u, t, i, li, t, i) [juˈtɪləti]    
+- unable, `a.` 不能的 `[ʌnˈebəl]`    
+- unavailable, `a.` 不能利用的 `[ˌʌnəˈveləbəl]`    
+- unchanged, `a.` 不变的 `[ʌnˈtʃeɪndʒd]`    
+- undefined, `a.` 未定义的  (an, de, fai, en, de)`[ˌʌndɪˈfaɪnd]`    
+- under, `prep.` 在…下面(之下), (ang, de) `[ˈʌndɚ]`    
+- underline, `n.` 下划线 `[ˌʌndərˈlaɪn]`    
+- underlying, `a.` 基础的，根本的 `[ˌʌndərˈlaɪɪŋ]`        
+- underscore, `vt.` 在…下面划线 `[ˌʌndərˈskɔ(r)]`  
+- understand, `v.` 懂，明白(了)，理解 `[ˌʌndərˈstænd]`        
+- understanding, `n.` &, `a.` 了解的，聪明的`[ˌʌndərˈstændɪŋ]`        
+- undesirable, `a.` 不合乎需要的 `[ˌʌndɪˈzaɪrəbəl]`    
+- undo, `vt.` 取消，废除 `[ʌnˈdu]`      
+- undone, `a.` 未完成的 `[ʌnˈdʌn]`    
+- unformatted, `a.` 无格式的 `[ʌn'fɔˌmætɪd]`    
+- unfortunately, `ad.` 不幸，遗憾地 `[ʌnˈfɔrtʃənətli]`        
+- unique, `a.` 唯一的，独特的(you, ni, ke) `[juˈnik]`        
+- university, `n.` (综合性)大学 `[ˌjunɪˈvɜrsəti]`  
+- unknown, `a.` 未知的，无名的 `[ˌʌnˈnoʊn]`        
+- unless, `conj.` 除非 `[ʌnˈlɛs]`  
+- unlike, `a.` 不象的，不同的 `[ʌnˈlaɪk]`        
+- unlock, `v.` 开锁，打开 `[ˌʌnˈlɑk]`      
+- unmarked, `a.` 没有标记的 `[ʌnˈmɑrkt]`    
+- unnecessary, `a.` 不必要的，多余的`[ʌnˈnesəseri]`        
+- unpack, `v.` 拆开，卸，分开 `[ʌnˈpæk]`        
+- unrecognized, `a.` 未被认出的    
+- unsafe, `v.` 恢复 `[ʌnˈsef]`    
+- unshift, `v.` 未移动，不移档 `[ʌn'ʃɪft]`      
+- unsigned, `a.` 无符号的 `[ʌn'saɪnd]`    
+- unsuccessful, `a.` 不成功的，失败的 `[ˌʌnsəkˈsɛsfəl]`        
+- until, `prep.` 到…为止，直到 `[ʌnˈtɪl]`      
+- unused, `a.` 不用的，空着的 `[ˌʌnˈjuzd]`        
+- unwanted, `a.` 不需要的，多余的 `[ˌʌnˈwɑntɪd]`        
+- up, `ad.` 上，向上，`a.` 高的 `[ʌp]`        
+- update, `v.` 更新，修改，校正(a, pe, dei, te) `[ʌpˈdet]`        
+- updated, `a.` 适时的，更新的(ao, p, dei, te, de)`[ʌp'deɪtɪd]`        
+- upgrade, `v.` 升级，提高质量 `[ˈʌpˌɡred]`        
+- upon, `prep.` 依据，遵照 `[əˈpɑn]`      
+- upper, `a.` 上的，上部的  (a, pe) `[ˈʌpɚ]`        
+- uppercase, `n.` 大写字母 `['ʌpəˌkeɪs]`    
+- usage, `n.` 应用，使用，用法 `[ˈjusɪdʒ,-zɪdʒ]`        
+- use, `v.` 使用，用途 `[jus]`      
+- useful, `a.` 有用的(you, s, i, fou) `[ˈjusfəl]`    
+- useless, `a.` 无用的 `[ˈjuslɪs]`    
+- user, `n.` 用户 `[ˈjuzɚ]`  
+- usually, `ad.` 通常，平常，一般 `[ˈjuːʒuəli]`        
+- utility, `n.` &, `a.` 实用程序；实用性, (, yo, u, t, i, li, t, i) `[juˈtɪləti]`    
   
 
      
@@ -1693,91 +1693,91 @@ transportable, a可移动的  (chuan, s, ip, e, dei, bao) [trænˈspɔrtəbl]
 
 # **V**
 
-- valid, a. 有效的 [ˈvælɪd]    
-- valuable, a. 有价值的，贵重的[ˈvæljuəbəl,ˈvæljə-]        
-- value, n. 值 [ˈvælju]    
-- variable, a. 可变的；n. 变量 [ˈveriəbl]    
-- variant, n. &, a. 变体，易变的 [ˈveriənt]        
-- variety, n. 变化，种类，品种(v, rua, i, t, i) [vəˈraɪɪti]        
-- various, a. 不同的，各种各样的 [ˈveriəs]        
-- vary, v. 变化，变换 [ˈveri]        
-- varying, a. 变化的，可变的 ['veərɪŋ]        
-- verify, vt. 鉴定，检验，核对 [ˈvɛrəˌfaɪ]        
-- version, n. 版本 [ˈvɜrʒn]  
-- vertical, a. 垂直的，立(式)的 [ˈvɜrtɪkl]        
-- vertically, ad. 竖直地，直立地 [ˈvətɪklɪ]        
-- very, ad. 很，非常，最 [ˈvɛri]        
-- via, prep. 经过，经由 [ˈvaɪə,ˈviə]        
-- vice, n. 缺点，毛病，错误 [vaɪs]        
-- video, n. 视频，电视 [ˈvɪdioʊ]      
-- view, n. &, v. 视图，景象 [vju]      
-- violate, vt. 违犯，妨碍，破坏 [ˈvaɪəˌlet]        
-- virtual, a. 虚(拟)的，虚拟 [ˈvɜrtʃuəl]        
-- virtually, ad. 实际上 [ˈvɜrtʃuəli]    
-- visible, a. 可见的，明显的 [ˈvɪzəbəl]        
-- visual, a. 视觉的，直观的 [ˈvɪʒuəl]        
-- vital, a. 生动的，不可缺少的 ['vaɪtl]        
-- volume, n. 卷，册，体积，容量 [ˈvɑljum]      
-- vowel, n. 元音，母音 [ˈvaʊəl]        
-- vt. 替换，置换，代换    
+- valid, `a.` 有效的 `[ˈvælɪd]`    
+- valuable, `a.` 有价值的，贵重的`[ˈvæljuəbəl,ˈvæljə-]`        
+- value, `n.` 值 `[ˈvælju]`    
+- variable, `a.` 可变的；`n.` 变量 `[ˈveriəbl]`    
+- variant, `n.` &, `a.` 变体，易变的 `[ˈveriənt]`        
+- variety, `n.` 变化，种类，品种(v, rua, i, t, i) `[vəˈraɪɪti]`        
+- various, `a.` 不同的，各种各样的 `[ˈveriəs]`        
+- vary, `v.` 变化，变换 `[ˈveri]`        
+- varying, `a.` 变化的，可变的 `['veərɪŋ]`        
+- verify, `vt.` 鉴定，检验，核对 `[ˈvɛrəˌfaɪ]`        
+- version, `n.` 版本 `[ˈvɜrʒn]`  
+- vertical, `a.` 垂直的，立(式)的 `[ˈvɜrtɪkl]`        
+- vertically, `ad.` 竖直地，直立地 `[ˈvətɪklɪ]`        
+- very, `ad.` 很，非常，最 `[ˈvɛri]`        
+- via, `prep.` 经过，经由 `[ˈvaɪə,ˈviə]`        
+- vice, `n.` 缺点，毛病，错误 `[vaɪs]`        
+- video, `n.` 视频，电视 `[ˈvɪdioʊ]`      
+- view, `n.` &, `v.` 视图，景象 `[vju]`      
+- violate, `vt.` 违犯，妨碍，破坏 `[ˈvaɪəˌlet]`        
+- virtual, `a.` 虚(拟)的，虚拟 `[ˈvɜrtʃuəl]`        
+- virtually, `ad.` 实际上 `[ˈvɜrtʃuəli]`    
+- visible, `a.` 可见的，明显的 `[ˈvɪzəbəl]`        
+- visual, `a.` 视觉的，直观的 `[ˈvɪʒuəl]`        
+- vital, `a.` 生动的，不可缺少的 `['vaɪtl]`        
+- volume, `n.` 卷，册，体积，容量 `[ˈvɑljum]`      
+- vowel, `n.` 元音，母音 `[ˈvaʊəl]`        
+- `vt.` 替换，置换，代换    
 
 # **W**
 
-- wait, v. 等待, (we, i, t, e) [wet]    
-- waiting, a. 等待的 [ˈwetɪŋ]    
-- want, v. 需要，应该，缺少 [wɑnt]        
-- ware, n. 仪器，商品 [wer]        
-- warn, vt. 警告，警戒，预告 [wɔrn]        
-- warning, n. &, a. 报警，预告 [ˈwɔrnɪŋ]        
-- warranty, n. 保证(书)，授权 [ˈwɔrənti]        
-- watch, n. &, v. 监视，观测 [wɑtʃ]        
-- way, n. 路线，途径，状态 [we]        
-- week, n. (一)星期，(一)周 [wik]      
-- welcome, vt. &, n. 欢迎 [ˈwɛlkəm]  
-- well, n. &, a. 井；好，良好  (wa, i, ou) [wɛl]        
-- whatever, pron. &, a. 无论什么 [wətˈevə(r)]    
-- whenever, ad. &, conj. 随时  (wen, na, we)[hwɛnˈɛvɚ]    
-- whereas, conj. 面，其实，既然 [ˌwerˈæz]        
-- whether, conj. 无论，不管 [ˈhwɛðɚ,ˈwɛð-]      
-- which, pron. 哪个，a. 那一个 [hwɪtʃ,wɪtʃ]        
-- whichever, a. &, pron. 无论哪个 [hwɪtʃˈɛvɚ,wɪtʃ-]    
-- while, conj. 当…的时候 [hwaɪl,waɪl]    
-- white, a. &, n. 白色(的) [hwaɪt,waɪt]    
-- whole, a. 全部的，整个的 [hoʊl]        
-- whose, pron. 谁的 [huz]  
-- why, ad. 为什么, (wai) [hwaɪ,waɪ]    
-- wide, a. &, ad. 宽的，广阔的 [waɪd]        
-- widely, ad. 广泛，很远 [ ˈwaɪdlɪ]        
-- width, n. 宽度  (we, i, zi) [wɪdθ,wɪθ,wɪtθ]  
-- wildcard, n. 通配符 ['waɪldkɑd]    
-- window, n. 窗口 [ˈwɪndoʊ]  
-- windowing, n. 开窗口 ['wɪndoʊɪŋ]  
-- wise, a. 聪明的 [waɪz]    
-- wish, v. &, n. 祝愿，希望  (we, i, s, hi) [wɪʃ]      
-- with, prep. 用，与，随着 [wɪθ]      
-- within, prep. 在…以内 [wɪðˈɪn,wɪθ-]  
-- without, prep. 没有，在…以外 [wɪðˈaʊt,wɪθ-]        
-- word, n. 字(词)，单词 [wɜrd]      
-- wordperfect, a. 一字不错地熟记的    
-- work, n. 工作 [wɜrk]  
-- worker, n. 工作人员 [ˈwɜrkə(r)]  
-- working, n. 工作，操作，作业 [ˈwɜrkɪŋ]      
-- world, n. 世界，全球 [wɜrld]      
-- worry, v. &, n. (使)烦恼 [ˈwɜri]  
-- wrap, v. &, n. 包装，缠绕 [ræp]        
-- write, v. 写，存入 [raɪt]        
-- wrong, a. &, ad. n. 错误(的) [rɔŋ]    
+- wait, `v.` 等待, (we, i, t, e) `[wet]`    
+- waiting, `a.` 等待的 `[ˈwetɪŋ]`    
+- want, `v.` 需要，应该，缺少 `[wɑnt]`        
+- ware, `n.` 仪器，商品 `[wer]`        
+- warn, `vt.` 警告，警戒，预告 `[wɔrn]`        
+- warning, `n.` &, `a.` 报警，预告 `[ˈwɔrnɪŋ]`        
+- warranty, `n.` 保证(书)，授权 `[ˈwɔrənti]`        
+- watch, `n.` &, `v.` 监视，观测 `[wɑtʃ]`        
+- way, `n.` 路线，途径，状态 `[we]`        
+- week, `n.` (一)星期，(一)周 `[wik]`      
+- welcome, `vt.` &, `n.` 欢迎 `[ˈwɛlkəm]`  
+- well, `n.` &, `a.` 井；好，良好  (wa, i, ou) `[wɛl]`        
+- whatever, pro`n.` &, `a.` 无论什么 `[wətˈevə(r)]`    
+- whenever, `ad.` &, `conj.` 随时  (wen, na, we)`[hwɛnˈɛvɚ]`    
+- whereas, `conj.` 面，其实，既然 `[ˌwerˈæz]`        
+- whether, `conj.` 无论，不管 `[ˈhwɛðɚ,ˈwɛð-]`      
+- which, pro`n.` 哪个，`a.` 那一个 `[hwɪtʃ,wɪtʃ]`        
+- whichever, `a.` &, pro`n.` 无论哪个 `[hwɪtʃˈɛvɚ,wɪtʃ-]`    
+- while, `conj.` 当…的时候 `[hwaɪl,waɪl]`    
+- white, `a.` &, `n.` 白色(的) `[hwaɪt,waɪt]`    
+- whole, `a.` 全部的，整个的 `[hoʊl]`        
+- whose, pro`n.` 谁的 `[huz]`  
+- why, `ad.` 为什么, (wai) `[hwaɪ,waɪ]`    
+- wide, `a.` &, `ad.` 宽的，广阔的 `[waɪd]`        
+- widely, `ad.` 广泛，很远 `[ ˈwaɪdlɪ]`        
+- width, `n.` 宽度  (we, i, zi) `[wɪdθ,wɪθ,wɪtθ]`  
+- wildcard, `n.` 通配符 `['waɪldkɑd]`    
+- window, `n.` 窗口 `[ˈwɪndoʊ]`  
+- windowing, `n.` 开窗口 `['wɪndoʊɪŋ]`  
+- wise, `a.` 聪明的 `[waɪz]`    
+- wish, `v.` &, `n.` 祝愿，希望  (we, i, s, hi) `[wɪʃ]`      
+- with, `prep.` 用，与，随着 `[wɪθ]`      
+- within, `prep.` 在…以内 `[wɪðˈɪn,wɪθ-]`  
+- without, `prep.` 没有，在…以外 `[wɪðˈaʊt,wɪθ-]`        
+- word, `n.` 字(词)，单词 `[wɜrd]`      
+- wordperfect, `a.` 一字不错地熟记的    
+- work, `n.` 工作 `[wɜrk]`  
+- worker, `n.` 工作人员 `[ˈwɜrkə(r)]`  
+- working, `n.` 工作，操作，作业 `[ˈwɜrkɪŋ]`      
+- world, `n.` 世界，全球 `[wɜrld]`      
+- worry, `v.` &, `n.` (使)烦恼 `[ˈwɜri]`  
+- wrap, `v.` &, `n.` 包装，缠绕 `[ræp]`        
+- write, `v.` 写，存入 `[raɪt]`        
+- wrong, `a.` &, `ad.` `n.` 错误(的) `[rɔŋ]`    
 
 # **Y**
 
-- year, n. (一)年，年度，年龄  (ye) [jɪr]        
-- yellow, a. &, n. 黄色(的) [ˈjeloʊ]    
-- yet, ad. 还，仍然，至今 [jɛt]   
+- year, `n.` (一)年，年度，年龄  (ye) `[jɪr]`        
+- yellow, `a.` &, `n.` 黄色(的) `[ˈjeloʊ]`    
+- yet, `ad.` 还，仍然，至今 `[jɛt]`   
 
 # **Z**
 
-- zap, v. 迅速离去，击溃 [zæp]        
-- zero, n. 零，零位，零点  (, ze, i, ro, u) [ˈzɪroʊ]      
-- zoom, v. 变焦距  (, zu, mu) [zum]  
+- zap, `v.` 迅速离去，击溃 `[zæp]`        
+- zero, `n.` 零，零位，零点  (, ze, i, ro, u) `[ˈzɪroʊ]`      
+- zoom, `v.` 变焦距  (, zu, mu) `[zum]`  
 
 <!-- tabs:end -->    
