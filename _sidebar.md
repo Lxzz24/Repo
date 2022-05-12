@@ -96,6 +96,7 @@
     - [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
     - [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
   - 🔍 速查
+    - [常用单词](/3-Note/速查/WordList.md)
     - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
     - [HTML](/3-Note/速查/HTML速查)
     - [Markdown](/3-Note/速查/markdown语法.md)
