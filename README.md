@@ -1,43 +1,11 @@
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/readme.css">
-
 <!-- 引入 Caveat 字体 -->
 <style name="Caveat">
   @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 </style>
 
 
-<!-- 
-<style>
-  /*设置无序列表符号"·"的位置*/
-  ul {
-    list-style-type:none;
-    padding: 0px;
-    margin: 0 0 0 90px;
-  }
 
-  li {
-    font-size: 1.1em;
-    line-height: 1.5em;
-  }
-  /* 设置不同层级的summary标题的样式*/
-  summary.lv1 {
-      font-size: 1.8em;
-      text-indent: 1em;
-      line-height: 3em;
-  }
 
-  summary.lv2 {
-      font-size: 1.5em;
-      text-indent: 2em;
-      line-height: 2em;
-  }
-
-  summary.lv3 {
-      font-size: 1.2em;
-      text-indent: 4em;
-      line-height: 2em;
-  }
-</style> -->
 
 !>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
 
@@ -556,7 +524,6 @@
 
 
 # 🤟 友链
-
 
 
 
