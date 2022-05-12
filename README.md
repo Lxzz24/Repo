@@ -6,8 +6,9 @@
 </style>
 
 
-<!-- 设置无序列表符号"·"的位置
+<!-- 
 <style>
+  /*设置无序列表符号"·"的位置*/
   ul {
     list-style-type:none;
     padding: 0px;
@@ -17,6 +18,24 @@
   li {
     font-size: 1.1em;
     line-height: 1.5em;
+  }
+  /* 设置不同层级的summary标题的样式*/
+  summary.lv1 {
+      font-size: 1.8em;
+      text-indent: 1em;
+      line-height: 3em;
+  }
+
+  summary.lv2 {
+      font-size: 1.5em;
+      text-indent: 2em;
+      line-height: 2em;
+  }
+
+  summary.lv3 {
+      font-size: 1.2em;
+      text-indent: 4em;
+      line-height: 2em;
   }
 </style> -->
 
