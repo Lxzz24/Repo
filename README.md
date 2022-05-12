@@ -6,6 +6,20 @@
 </style>
 
 
+<!-- 设置无序列表符号"·"的位置
+<style>
+  ul {
+    list-style-type:none;
+    padding: 0px;
+    margin: 0 0 0 90px;
+  }
+
+  li {
+    font-size: 1.1em;
+    line-height: 1.5em;
+  }
+</style> -->
+
 !>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
 
 
