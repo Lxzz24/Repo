@@ -7,10 +7,6 @@
     --docsifytabs-tab-highlight-color: purple;
 }
 
-/*加重描述 strong*/
-markdown-section strong {
-    color: rgb(239, 112, 96);
-}
 
 /*代码样式
 .markdown-section code {
@@ -44,22 +40,6 @@ img,
 pre {
     border-radius: 5px;
 }*/
-
-/*添加代码块复制按钮样式*/
-.docsify-copy-code-button {
-    background: #039e24 !important;
-    color: #FFFFFF !important;
-    font-size: 13px !important;
-}
-
-::after {
-    color: #9da2fd !important;
-    font-size: 13px !important;
-}
-
-.markdown-section>p {
-    font-size: 16px !important;
-}
 
 /*侧边栏*/
 .sidebar {
