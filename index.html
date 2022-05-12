@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/style.css">
-  
+
   <!-- 支持 LaTex 语言 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/katex.min.css" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/iconfont.css">
@@ -26,8 +26,8 @@
 
   <!-- 代码框 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/prism-dark.css">
-  
-  
+
+
   <!-- Gitalk
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
 
@@ -43,6 +43,29 @@
     })();
   </script> -->
 
+
+  <style>
+    /*加重描述 strong*/
+    markdown-section strong {
+      color: rgb(239, 112, 96);
+    }
+
+    /*添加代码块复制按钮样式*/
+    .docsify-copy-code-button {
+      background: #039e24 !important;
+      color: #FFFFFF !important;
+      font-size: 13px !important;
+    }
+
+    ::after {
+      color: #9da2fd !important;
+      font-size: 13px !important;
+    }
+
+    .markdown-section>p {
+      font-size: 16px !important;
+    }
+  </style>
 </head>
 
 <body>
@@ -55,7 +78,7 @@
 
       // 项目名称
       name: "Lxzz' Repo",
-      logo:'https://cdn.jsdelivr.net/gh/Lxzz24/Repo/logo1.png',
+      logo: 'https://cdn.jsdelivr.net/gh/Lxzz24/Repo/logo1.png',
 
       // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
       repo: 'https://github.com/Lxzz24/Repo',
@@ -270,7 +293,7 @@
 
   <!-- docsify-example-panels for rendering example panels content from markdown. -->
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-example-panels.js"></script>
-  
+
   <!-- Nodejs应用的主文件index.js, https://segmentfault.com/a/1190000006650266 -->
   <!-- 开启后可显示 dark 主题的切换按钮 -->
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/index.js"></script>
