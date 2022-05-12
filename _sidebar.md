@@ -99,23 +99,21 @@
     - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
     - [HTML](/3-Note/速查/HTML速查)
     - [Markdown](/3-Note/速查/markdown语法.md)
+    - [docsify插件用法](/3-Note/速查/docsify插件用法.md)
     - [KaTeX](/3-Note/速查/katex.md)
     - [希腊字母](/3-Note/速查/希腊字母.md)
-
   - 📈 效率
-    - [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
+    - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
     - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
     - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
     - [DNS](/3-Note/效率/DNS.md)
   - 🛠️ 部署
     - [Nginx部署](/3-Note/部署/Nginx部署.md)
-  
 - 🔨 **工具**
   - ⚙️ 软件指南
     - [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
     - [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
     - [Maven安装与配置](/4-ToolBox/软件指南/Maven安装与配置.md)
-
   - 🔨 实用工具
     - [编程相关在线工具](/4-ToolBox/实用工具/编程在线工具.md)
     - [ToolBox 实用工具库](/4-ToolBox/实用工具/Tools.md)

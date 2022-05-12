@@ -3,19 +3,20 @@
   @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 </style>
 
+<font face="Caveat" size="10"><b>Lxzz' Repo</b></font>  
 
-!>  <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
+<font face="Caveat" size="6">Always  Have  Always  Will</font>  
 
 
 > [!TIP]
-> 建立此仓库的目的是为了能够将所有外部输入的知识、经验等存储下来，
+> 建立此仓库的目的是为了梳理所有外部输入的知识、经验等，
 > 在日常工作学习生活中充分利用。❤️🧡💛💚💙💜
 
 
 
-⭐*源码已上传 GitHub ，需要右上角自取*⭐
+⭐ *源码已上传 GitHub ，需要右上角自取* ⭐
 
-👉*使用说明*👉 [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
+👉 *使用说明* 👉 [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
 
 
 记住，一定要善用 `Ctrl+F` 哦！
@@ -173,13 +174,15 @@
 
 # 💻 **计算机基础**   
 
+<!-- tabs:start -->
+
+## **学习路线**
+
 - [算法与数据结构学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
 - [操作系统学习路线](/2-PCbase/StudyRoute/操作系统学习路线.md)
 - [设计模式学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
 - [计算机网络学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
   - [网络安全学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
-
-<!-- tabs:start -->
 
 ## **🧮 算法与数据结构**
 
@@ -229,12 +232,13 @@
 - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
 - [HTML](/3-Note/速查/HTML速查)
 - [Markdown](/3-Note/速查/markdown语法.md)
+- [docsify插件用法](/3-Note/速查/docsify插件用法.md)
 - [KaTeX](/3-Note/速查/katex.md)
 - [希腊字母](/3-Note/速查/希腊字母.md)
 
 ## **📈 效率**
 
-- [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
+- [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
 - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
 - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
 - [DNS](/3-Note/效率/DNS.md)
