@@ -225,6 +225,7 @@
 
 ## **🔍 速查**
 
+- [常用单词](/3-Note/速查/WordList.md)
 - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
 - [HTML](/3-Note/速查/HTML速查)
 - [Markdown](/3-Note/速查/markdown语法.md)
