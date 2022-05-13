@@ -849,8 +849,8 @@ body {
 	border-radius: 2px;
 	color: #e96900;
 	font-size: .8rem;
-	margin: 0 0px;
-	padding: 0 0;
+	margin: 0 0;
+	padding: 3px 5px;
 	white-space: pre-wrap
 }
 
@@ -970,7 +970,7 @@ body {
 .markdown-section pre>code {
 	-moz-osx-font-smoothing: initial;
 	-webkit-font-smoothing: initial;
-	background-color: #f8f8f8;
+	background-color: #525252;
 	border-radius: 2px;
 	color: #525252;
 	display: block;
@@ -986,7 +986,7 @@ body {
 
 .markdown-section code:after,
 .markdown-section code:before {
-	letter-spacing: 0.05rem
+	letter-spacing: .05rem
 }
 
 code .token {
