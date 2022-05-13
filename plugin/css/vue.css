@@ -861,29 +861,6 @@ body {
 	font-size: 16px !important;
 }
 
-code[class*="language-"],
-pre[class*="language-"] {
-	color: white;
-	background: none;
-	text-shadow: 0 -0.01em -0.01em black;
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	font-size: 1.5em;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
-	line-height: 1.5;
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	tab-size: 4;
-
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-}
-
 .markdown-section code {
 	border-radius: 2px;
 	color: #e96900;
@@ -903,12 +880,13 @@ pre[class*="language-"] {
 	-moz-osx-font-smoothing: initial;
 	-webkit-font-smoothing: initial;
 	line-height: 1.5rem;
-	margin: 1.2em 0;
+	margin: none;
 	overflow: auto;
 	padding: 0 1.4rem;
 	position: relative;
 	word-wrap: normal
 }
+
 
 .token.cdata,
 .token.comment,

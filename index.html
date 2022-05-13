@@ -65,6 +65,7 @@
       --docsifytabs-content-background: inherit;
       --docsifytabs-content-padding: 1.5rem;
     }
+
     /*tab自定义样式*/
     .tab-badge {
       position: absolute;
@@ -84,21 +85,6 @@
       color: rgb(239, 112, 96);
     }
 
-    /*添加代码块复制按钮样式*/
-    .docsify-copy-code-button {
-      background: #42b983 !important;
-      color: #FFFFFF !important;
-      font-size: 13px !important;
-    }
-
-    ::after {
-      color: #9da2fd !important;
-      font-size: 13px !important;
-    }
-
-    .markdown-section>p {
-      font-size: 16px !important;
-    }
 
     code[class*="language-"],
     pre[class*="language-"] {
@@ -116,84 +102,11 @@
       -moz-tab-size: 4;
       -o-tab-size: 4;
       tab-size: 4;
-
       -webkit-hyphens: none;
       -moz-hyphens: none;
       -ms-hyphens: none;
       hyphens: none;
     }
-
-    .token.comment,
-    .token.prolog,
-    .token.doctype,
-    .token.cdata {
-      color: #42b983;
-    }
-
-    .token.punctuation {
-      opacity: .7;
-    }
-
-    .token.namespace {
-      opacity: .7;
-    }
-
-    .token.property,
-    .token.tag,
-    .token.boolean,
-    .token.number,
-    .token.constant,
-    .token.symbol {
-      color: hsl(350, 40%, 70%);
-    }
-
-    .token.selector,
-    .token.attr-name,
-    .token.string,
-    .token.char,
-    .token.builtin,
-    .token.inserted {
-      color: hsl(75, 70%, 60%);
-    }
-
-    .token.operator,
-    .token.entity,
-    .token.url,
-    .language-css .token.string,
-    .style .token.string,
-    .token.variable {
-      color: hsl(40, 90%, 60%);
-    }
-
-    .token.atrule,
-    .token.attr-value,
-    .token.keyword {
-      color: hsl(221, 91%, 46%);
-    }
-
-    .token.regex,
-    .token.important {
-      color: #e90;
-    }
-
-    .token.important,
-    .token.bold {
-      font-weight: bold;
-    }
-
-    .token.italic {
-      font-style: italic;
-    }
-
-    .token.entity {
-      cursor: help;
-    }
-
-    .token.deleted {
-      color: red;
-    }
-
-
   </style>
 
   <!-- 引入 Caveat 字体 -->
