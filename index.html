@@ -45,19 +45,48 @@
 
 
   <style>
-    /*tabs*/
     :root {
+      /* Tab blocks */
       --docsifytabs-border-color: #969696;
-      --docsifytabs-tab-highlight-color: rgb(4, 128, 0);
+      --docsifytabs-border-px: 1px;
+      --docsifytabs-border-radius-px: ;
+      --docsifytabs-margin: 1.5em 0;
+
+      /* Tabs */
+      --docsifytabs-tab-background: #f8f8f8;
+      --docsifytabs-tab-background--active: var(--docsifytabs-content-background);
+      --docsifytabs-tab-color: #999;
+      --docsifytabs-tab-color--active: inherit;
+      --docsifytabs-tab-highlight-px: 3px;
+      --docsifytabs-tab-highlight-color: #42b983;
+      --docsifytabs-tab-padding: 0.6em 1em;
+
+      /* Tab content */
+      --docsifytabs-content-background: inherit;
+      --docsifytabs-content-padding: 1.5rem;
+    }
+    /*tab自定义样式*/
+    .tab-badge {
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: translate(35%, -45%);
+      padding: 0.25em 0.35em;
+      border-radius: 3px;
+      background: red;
+      color: white;
+      font-family: sans-serif;
+      font-size: 11px;
+      font-weight: bold;
     }
 
     .markdown-section strong {
-    	color: rgb(239, 112, 96);
+      color: rgb(239, 112, 96);
     }
-    
+
     /*添加代码块复制按钮样式*/
     .docsify-copy-code-button {
-      background: #039e24 !important;
+      background: #42b983 !important;
       color: #FFFFFF !important;
       font-size: 13px !important;
     }
@@ -84,7 +113,6 @@
       word-break: normal;
       word-wrap: normal;
       line-height: 1.5;
-
       -moz-tab-size: 4;
       -o-tab-size: 4;
       tab-size: 4;
@@ -99,7 +127,7 @@
     .token.prolog,
     .token.doctype,
     .token.cdata {
-      color: hsl(123, 100%, 32%);
+      color: #42b983;
     }
 
     .token.punctuation {
@@ -164,6 +192,8 @@
     .token.deleted {
       color: red;
     }
+
+
   </style>
 
   <!-- 引入 Caveat 字体 -->
@@ -423,7 +453,7 @@
       tabs: {
         persist: true,          // default
         sync: true,             // default
-        theme: 'material',       // default 'classic', 'material',false
+        theme: 'classic',       // default 'classic', 'material',false
         tabComments: true,      // default
         tabHeadings: true       // default
       }

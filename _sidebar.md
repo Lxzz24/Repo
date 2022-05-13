@@ -100,11 +100,11 @@
     - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
     - [HTML](/3-Note/速查/HTML速查)
     - [Markdown](/3-Note/速查/markdown语法.md)
-    - [docsify插件用法](/3-Note/速查/docsify插件用法.md)
     - [KaTeX](/3-Note/速查/katex.md)
     - [希腊字母](/3-Note/速查/希腊字母.md)
   - 📈 效率
     - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
+    - [docsify插件用法](/3-Note/效率/docsify插件用法.md)
     - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
     - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
     - [DNS](/3-Note/效率/DNS.md)
