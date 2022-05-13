@@ -49,14 +49,14 @@ div#app:empty:before {
 
 .search a:hover {
 	color: var(--theme-color, #42b983);
-  }
+}
 
 .search .search-keyword {
 	color: var(--theme-color, #42b983);
 	font-style: normal;
 	font-weight: bold;
 	font-weight: 700
-  }
+}
 
 
 body,
@@ -648,11 +648,11 @@ section.cover p {
 }
 
 section.cover h1 {
-	color:inherit;
+	color: inherit;
 	/* color: aqua; */
 	font-size: 2.5rem;
 	font-weight: 300;
-	margin:.625rem 0 2.5rem;
+	margin: .625rem 0 2.5rem;
 	position: relative;
 	text-align: center
 }
@@ -845,6 +845,45 @@ body {
 	color: #7f8c8d
 }
 
+/*添加代码块复制按钮样式*/
+.docsify-copy-code-button {
+	background: #42b983 !important;
+	color: #FFFFFF !important;
+	font-size: 13px !important;
+}
+
+::after {
+	color: #9da2fd !important;
+	font-size: 13px !important;
+}
+
+.markdown-section>p {
+	font-size: 16px !important;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: white;
+	background: none;
+	text-shadow: 0 -0.01em -0.01em black;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1.5em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
 .markdown-section code {
 	border-radius: 2px;
 	color: #e96900;
@@ -857,7 +896,7 @@ body {
 .markdown-section code,
 .markdown-section pre {
 	background-color: #f8f8f8;
-	font-family:  Consolas, Roboto Mono, Monaco, courier, monospace
+	font-family: Consolas, Roboto Mono, Monaco, courier, monospace
 }
 
 .markdown-section pre {
@@ -875,7 +914,12 @@ body {
 .token.comment,
 .token.doctype,
 .token.prolog {
-	color: #8e908c
+	color: #42b983;
+}
+
+.token.punctuation {
+	color: #525252;
+	opacity: 0.7;
 }
 
 .token.namespace {
@@ -883,46 +927,45 @@ body {
 }
 
 .token.boolean,
-.token.number {
+.token.number,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.property {
 	color: #c76b29
 }
 
-.token.punctuation {
-	color: #525252
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: hsl(75, 70%, 60%);
 }
 
-.token.property {
-	color: #c08b30
-}
-
-.token.tag {
-	color: #2973b7
-}
-
-.token.string {
-	color: var(--theme-color, #42b983)
-}
-
-.token.selector {
-	color: #6679cc
-}
-
-.token.attr-name {
-	color: #2973b7
-}
-
+.token.operator,
+.token.entity,
+.token.url,
 .language-css .token.string,
 .style .token.string,
-.token.entity,
-.token.url {
-	color: #22a2c9
+.token.variable {
+	color: hsl(40, 90%, 60%);
 }
 
-.token.attr-value,
-.token.control,
 .token.directive,
+.token.control,
+.token.atrule,
+.token.attr-value,
+.token.keyword,
 .token.unit {
-	color: var(--theme-color, #42b983)
+	color: hsl(221, 91%, 46%);
+}
+
+.token.regex,
+.token.important,
+.token.statement {
+	color: #e90;
 }
 
 .token.function,
@@ -930,11 +973,6 @@ body {
 	color: #e96900
 }
 
-.token.atrule,
-.token.regex,
-.token.statement {
-	color: #22a2c9
-}
 
 .token.placeholder,
 .token.variable {
@@ -950,14 +988,15 @@ body {
 	text-decoration: none
 }
 
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+
 .token.italic {
 	font-style: italic
 }
 
-.token.bold,
-.token.important {
-	font-weight: 700
-}
 
 .token.important {
 	color: #c94922
@@ -966,6 +1005,11 @@ body {
 .token.entity {
 	cursor: help
 }
+
+.token.deleted {
+	color: red;
+}
+
 
 .markdown-section pre>code {
 	-moz-osx-font-smoothing: initial;
