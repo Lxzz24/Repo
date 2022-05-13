@@ -188,28 +188,29 @@ Ciao!
 <!-- tabs:end -->
 ```
 
-#### **<span style="color: red;">红色</span>**
+#### **<span style='color: red;'>红色</span>**
 
 ```markdown
 <!-- tabs:start -->
 
-#### **<span style="color: red;">Red</span>**
+#### **<span style='color: red;'>Red</span>**
 
 ...
 
 <!-- tabs:end -->
 ```
 
-#### **:smile:**
+#### ** :smile: **
 
 ```markdown
 <!-- tabs:start -->
 
-#### **:smile:**
+#### **k:smile:**
 
 ...
 
 <!-- tabs:end -->
+
 ```
 
 #### **😀**
@@ -224,12 +225,12 @@ Ciao!
 <!-- tabs:end -->
 ```
 
-#### **Badge <span class="tab-badge">New!</span>**
+#### **Badge <span class='tab-badge'>New!</span>**
 
 ```markdown
 <!-- tabs:start -->
 
-#### **Badge <span class="tab-badge">New!</span>**
+#### **Badge <span class='tab-badge'>New!</span>**
 
 ...
 

@@ -845,28 +845,14 @@ body {
 	color: #7f8c8d
 }
 
-/*添加代码块复制按钮样式*/
-.docsify-copy-code-button {
-	background: #42b983 !important;
-	color: #FFFFFF !important;
-	font-size: 13px !important;
-}
 
-::after {
-	color: #9da2fd !important;
-	font-size: 13px !important;
-}
-
-.markdown-section>p {
-	font-size: 16px !important;
-}
 
 .markdown-section code {
 	border-radius: 2px;
 	color: #e96900;
 	font-size: .8rem;
 	margin: 0 0;
-	padding: 3px 5px;
+	padding: 0 0;
 	white-space: pre-wrap
 }
 
@@ -880,9 +866,9 @@ body {
 	-moz-osx-font-smoothing: initial;
 	-webkit-font-smoothing: initial;
 	line-height: 1.5rem;
-	margin: none;
+	margin: 0 0;
 	overflow: auto;
-	padding: 0 1.4rem;
+	padding: 0 0;
 	position: relative;
 	word-wrap: normal
 }
