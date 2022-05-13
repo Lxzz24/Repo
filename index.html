@@ -23,12 +23,6 @@
   <link rel="shortcut icon" href="favicon.ico" type="favicon.ico" />
   <!-- ************gif 播放控制 -->
   <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
-  <!-- Toc自定义 -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/main.css">
-
-  <!-- 代码框 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/css/prism-dark.css">
-  -->
 
   <!-- Gitalk
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
@@ -82,15 +76,51 @@
       font-weight: bold;
     }
 
+    /*docsify-plugin-toc*/
+    aside.toc-nav {
+      max-width: 500px;
+      right: 0 !important;
+      margin-right: 0 !important;
+      background: rgb(255, 255, 255, 0.5);
+      position: relative;
+      top: 70px;
+      right: 3%;
+      margin-right: 0;
+      width: 250px;
+      z-index: 999999;
+      align-self: flex-start;
+      flex: 0 0 auto;
+      overflow-y: auto;
+      max-height: 70%;
+    }
+
+    aside.toc-nav:hover {
+      max-width: inherit;
+      opacity: 1;
+    }
+
+    section.content {
+      padding-right: 220px;
+    }
+
+    aside.toc-nav.nothing {
+      width: 0;
+    }
+
+    .page_toc {
+      position: relative;
+      left: 0;
+      margin: 10px 0;
+      border: none;
+      font-size: 1.0em;
+    }
+
+    /*加粗字体颜色*/
     .markdown-section strong {
       color: rgb(239, 112, 96);
     }
 
-    .markdown-section {
-      margin: none;
-      padding: 0.25em 0.35em;
-    }
-
+    /*代码框样式*/
     code[class*="language-"],
     pre[class*="language-"] {
       color: white;
@@ -451,47 +481,47 @@
             twemoji.parse(document);
           });
         },
-        
+
       ],
 
-    //字数统计
-    count: {
-      countable: true,
+      //字数统计
+      count: {
+        countable: true,
         position: 'top',
-          margin: '10px',
-            float: 'right',
-              fontsize: '0.9em',
-                color: 'rgb(90,90,90)',
-                  language: 'chinese',
-                    localization: {
-        words: "",
+        margin: '10px',
+        float: 'right',
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese',
+        localization: {
+          words: "",
           minute: ""
+        },
+        isExpected: true
       },
-      isExpected: true
-    },
 
-    //disqus Not Free
-    //disqus: 'shortname'
+      //disqus Not Free
+      //disqus: 'shortname'
 
-    toc: {
-      tocMaxLevel: 5,
+      toc: {
+        tocMaxLevel: 5,
         target: 'h1, h2, h3, h4, h5'
-    },
+      },
 
-    darkMode: {
-      light: {
-        toggleBtnBg: '#42b983'
-      }
-    },
+      darkMode: {
+        light: {
+          toggleBtnBg: '#42b983'
+        }
+      },
 
-    //Tabs
-    tabs: {
-      persist: true,          // default
+      //Tabs
+      tabs: {
+        persist: true,          // default
         sync: true,             // default
-          theme: 'classic',       // default 'classic', 'material',false
-            tabComments: true,      // default
-              tabHeadings: true       // default
-    }
+        theme: 'material',       // default 'classic', 'material',false
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      }
     }
   </script>
 
