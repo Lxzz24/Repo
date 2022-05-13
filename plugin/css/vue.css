@@ -971,13 +971,13 @@ body {
 	-moz-osx-font-smoothing: initial;
 	-webkit-font-smoothing: initial;
 	background-color: #525252;
-	border-radius: 2px;
+	border-radius: 0;
 	color: #525252;
 	display: block;
 	font-family: Roboto Mono, Monaco, courier, monospace;
 	font-size: .8rem;
 	line-height: inherit;
-	margin: 0 2px;
+	margin: 0 0;
 	max-width: inherit;
 	overflow: inherit;
 	padding: 2.2em 5px;
