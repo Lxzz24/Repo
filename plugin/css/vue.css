@@ -859,7 +859,8 @@ body {
 .markdown-section code,
 .markdown-section pre {
 	background-color: #f8f8f8;
-	font-family: Consolas, Roboto Mono, Monaco, courier, monospace
+	font-family: Consolas, Roboto Mono, Monaco, courier, monospace;
+	text-shadow: 0 -0.01em -0.01em black;
 }
 
 .markdown-section pre {
