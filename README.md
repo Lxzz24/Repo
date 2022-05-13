@@ -218,10 +218,13 @@
 
 <!-- tabs:start -->
 
-## **💭 博客**
+## **📈 效率**
 
-- [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
-- [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
+- [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
+- [docsify插件用法](/3-Note/效率/docsify插件用法.md)
+- [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
+- [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
+- [DNS](/3-Note/效率/DNS.md)
 
 ## **🔍 速查**
 
@@ -233,17 +236,14 @@
 - [KaTeX](/3-Note/速查/katex.md)
 - [希腊字母](/3-Note/速查/希腊字母.md)
 
-## **📈 效率**
-
-- [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
-- [docsify插件用法](/3-Note/效率/docsify插件用法.md)
-- [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
-- [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
-- [DNS](/3-Note/效率/DNS.md)
-
 ## **🛠️ 部署**
 
 - [Nginx部署](/3-Note/部署/Nginx部署.md)
+
+## **💭 博客**
+
+- [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
+- [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
 
 <!-- tabs:end -->
 
