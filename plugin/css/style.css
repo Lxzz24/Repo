@@ -2,9 +2,6 @@
     --text_color: var(--theme-color);
     --docsify_dark_mode_bg: #fff;
     --docsify_dark_mode_btn: var(--theme-color);
-    /*tabs*/
-    --docsifytabs-border-color: #ededed;
-    --docsifytabs-tab-highlight-color: purple;
 }
 
 

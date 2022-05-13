@@ -45,6 +45,12 @@
 
 
   <style>
+    /*tabs*/
+    :root {
+      --docsifytabs-border-color: #969696;
+      --docsifytabs-tab-highlight-color: rgb(4, 128, 0);
+    }
+
     .markdown-section strong {
     	color: rgb(239, 112, 96);
     }
@@ -417,7 +423,7 @@
       tabs: {
         persist: true,          // default
         sync: true,             // default
-        theme: 'classic',       // default
+        theme: 'material',       // default 'classic', 'material',false
         tabComments: true,      // default
         tabHeadings: true       // default
       }
@@ -444,7 +450,7 @@
 
   <!-- Nodejs应用的主文件index.js, https://segmentfault.com/a/1190000006650266 -->
   <!-- 开启后可显示 dark 主题的切换按钮 -->
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/index.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/index.js"></script> -->
 
   <!-- Tabs -->
   <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/js/docsify-tabs@1.js"></script>
