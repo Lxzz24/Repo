@@ -2,6 +2,8 @@
 
 <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
 
+[![Gitter](https://badges.gitter.im/Lxzz24/community.svg)](https://gitter.im/Lxzz24/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 > [!TIP]
 > 建立此仓库的目的是为了梳理所有外部输入的知识、经验等，

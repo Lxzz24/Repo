@@ -444,6 +444,7 @@
             '<span id="sitetime"></span><br/>',
             '<footer>',
             '<span>Copyright &copy; 2022 - 至今&nbsp;<a href="https://beian.miit.gov.cn">粤ICP备2022022549号</a> </span>',
+            '&nbsp;<a href="https://gitter.im/Lxzz24/community">Community</a>',
             '</footer>'
           ].join('');
 
@@ -664,13 +665,14 @@
     siteTime();
   </script>
 
-  <!--使用 Gitter 实现一个 IM 即时通讯聊天室功能-->
+  <!--使用 Gitter 以及 Sidecar 实现一个 IM 即时通讯聊天室功能-->
   <script>
     ((window.gitter = {}).chat = {}).options = {
       room: 'Lxzz24/community'
     };
   </script>
-  <script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/sidecar.v1.js" async defer></script>
+  <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+  <!--<script src="https://cdn.jsdelivr.net/gh/Lxzz24/Repo/plugin/sidecar.v1.js" async defer></script>-->
 
 
   <!-- Gitalk
