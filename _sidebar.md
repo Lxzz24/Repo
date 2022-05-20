@@ -3,7 +3,7 @@
 
 <!--在打开网页时，侧边栏自动展开二级菜单 ":include" -->
 
-- 🍵 **开发**
+* 🍵 **开发**
   - ☕Java
     - 💯JavaSE
       - 📑 Note
@@ -72,7 +72,7 @@
     - 🪟 HTML & CSS
       - [HTML](/1-Develop/Front-end/HTML.md)
       - [CSS](/1-Develop/Front-end/CSS.md)
-- 💻 **计算机基础**   
+* 💻 **计算机基础**   
   - 🧮 算法与数据结构
     - [学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
     - ⚖️ 算法
@@ -87,7 +87,7 @@
     - [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
     - 🔐 网络安全
       - [学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
-- 📒 **笔记**
+* 📒 **笔记**
   - 📈 效率
     - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
     - [docsify插件用法](/3-Note/效率/docsify插件用法.md)
@@ -106,7 +106,7 @@
   - 💭 博客
     - [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
     - [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
-- 🔨 **工具**
+* 🔨 **工具**
   - ⚙️ 软件指南
     - [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
     - [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
@@ -118,14 +118,14 @@
   - 🍏 Mac
     - [Mac使用技巧](/4-ToolBox/Mac/Mac使用技巧.md)
     - [Mac上的”IDM“下载](/4-ToolBox/Mac/Mac上的”IDM“下载.md)  
-- ✒️ **刷题**
+* ✒️ **刷题**
   - [](/5-Title/#)
-- 🔗 **资源**
+* 🔗 **资源**
   - 🔗 常用
     - [📖 计算机类书籍](/6-Resource/计算机类书籍.md)
   - 🎞️ 影视 & 📁 软件
     - [程序员常用软件汇总](/6-Resource/程序员常用软件汇总.md)
-- 🍚 **做饭指南**
+* 🍚 **做饭指南**
   - 🍳 做菜之前
     - [采购原料，准备厨房](/7-HowToCook/tips/厨房准备.md)
     - [学习炒与煎炸](/7-HowToCook/tips/learn/炒与煎.md)
