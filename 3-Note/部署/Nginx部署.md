@@ -88,7 +88,7 @@ make && make install
    该操作将 Nginx 服务器证书压缩包下载到本地，并保存在浏览器的默认下载位置。
 5. 打开浏览器的默认下载位置，解压已下载的 Nginx 证书压缩包文件。解压后您将获得以下文件：
 
-![1](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/Nginx1.png)
+![1](http://cdn.gxmnzl.xyz/img/Nginx1.png)
 
 
 > [!ATTENTION]
@@ -307,7 +307,7 @@ cd /usr/local/nginx/sbin/
 
 12. 有以下提示，证明已经编译成功：
 
-![2](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/Nginx2.png)
+![2](http://cdn.gxmnzl.xyz/img/Nginx2.png)
 
 
 
