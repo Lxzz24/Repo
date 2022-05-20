@@ -1,7 +1,7 @@
 #
 # 速查
 
-![image.png](http://cdn.gxmnzl.xyz/img/MD001.png)
+![image.png](https://cdn.gxmnzl.xyz/img/MD001.png)
 
 # 一、标题
 

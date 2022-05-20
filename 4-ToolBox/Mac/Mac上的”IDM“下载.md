@@ -23,12 +23,12 @@ Aria2 for edge： **Aria2 for Edge** - Microsoft Edge Addons
 
 右键点击 Aria2 for chrome 的图标，选择“选项”（edge 的叫“扩展选项”），进入扩展配置页面。
 
-![Aria2](http://cdn.gxmnzl.xyz/img/MacMotrix1.png)
+![Aria2](https://cdn.gxmnzl.xyz/img/MacMotrix1.png)
 
 按下图所示勾选配置， Aria2-RPC-Server 中间填 `http://localhost:16800/jsonrpc` ，
 默认设置是 `http://localhost:6800/jsonrpc` ，给 6800 前面加个 1 就行了，填完点击 save。
 
-![具体配置](http://cdn.gxmnzl.xyz/img/MacMotrix2.png)
+![具体配置](https://cdn.gxmnzl.xyz/img/MacMotrix2.png)
 
 
 如果不需要自动替代浏览器自带下载的话，就不用勾选下载拦截选项的第一个，
@@ -38,12 +38,12 @@ Aria2 for edge： **Aria2 for Edge** - Microsoft Edge Addons
 
 打开 motrix，再点击 Aria2 for Chrome 图标，正常情况如下图，左边的“ Aria2 状态”会显示已连接
 
-![正常情况](http://cdn.gxmnzl.xyz/img/MacMotrix3.png)
+![正常情况](https://cdn.gxmnzl.xyz/img/MacMotrix3.png)
 
 注意：如果这里没显示已连接可能是因为 motrix 设置了 rpc 授权密码（我就是因为这个在这里卡了很久），
 需要在 motrix 的左下角点击设置，再点击进阶设置，把授权密码那里填写的东西删掉。
 
-![motrix设置](http://cdn.gxmnzl.xyz/img/MacMotrix4.png)
+![motrix设置](https://cdn.gxmnzl.xyz/img/MacMotrix4.png)
 
 # 第四步
 
@@ -51,7 +51,7 @@ Aria2 for edge： **Aria2 for Edge** - Microsoft Edge Addons
 每天自动更新 tracker服务器列表（可以显著加快bt下载速度），下载协议部分如果不用
 其他bt下载软件的话就选择开启。
 
-![进阶设置](http://cdn.gxmnzl.xyz/img/MacMotrix5.png)
+![进阶设置](https://cdn.gxmnzl.xyz/img/MacMotrix5.png)
 
 注意bt下载没速度的解决方法（以下引用自官方帮助文档）： 
 

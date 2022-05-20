@@ -4,7 +4,7 @@
 !> HTML 不是一种编程语言，而是一种标记语言
 
 
-![IMG](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/HTML1.png)
+![IMG](https://cdn.gxmnzl.xyz/img/HTML1.png)
 
 
 # HTML基础

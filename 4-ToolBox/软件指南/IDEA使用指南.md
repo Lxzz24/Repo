@@ -17,7 +17,7 @@
 
 以下是博主免费激活之后的 Licenses 信息，激活到 2099 年，支持 Windows 和 Macos。
 
-![1](http://cdn.gxmnzl.xyz/img/IDEA1.png)
+![1](https://cdn.gxmnzl.xyz/img/IDEA1.png)
 
 > [!ATTENTION]
 > 1. 本教程适用于 Intellij IDEA 2021.2.3 以下所有版本
@@ -89,21 +89,21 @@ config 和 system 是用来存储 IntelliJ IDEA 个性化配置的地方。
 #### 开始卸载
 没有安装 IntelliJ IDEA 的同学，可以省略这个步骤。
 
-![2](http://cdn.gxmnzl.xyz/img/IDEA2.png)
+![2](https://cdn.gxmnzl.xyz/img/IDEA2.png)
 
 
 ### 开始安装 IntelliJ IDEA 2021.2.3 版本
 默认安装目录是 C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.3，这里我选择安装到其他磁盘
 
-![3](http://cdn.gxmnzl.xyz/img/IDEA3.png)
+![3](https://cdn.gxmnzl.xyz/img/IDEA3.png)
 
 勾选创建桌面快捷方式，Create Desktop Shortcut，方便后续打开。
 
-![4](http://cdn.gxmnzl.xyz/img/IDEA4.png)
+![4](https://cdn.gxmnzl.xyz/img/IDEA4.png)
 
 点击 next->install，进行安装，安装完成后，Run IntelliJ IDEA 运行。
 
-![5](http://cdn.gxmnzl.xyz/img/IDEA5.png)
+![5](https://cdn.gxmnzl.xyz/img/IDEA5.png)
 
 ### 开始激活 Intellij IDEA
 
@@ -112,7 +112,7 @@ config 和 system 是用来存储 IntelliJ IDEA 个性化配置的地方。
 1. Activate IntelliJ IDEA， 通过密钥激活 IDEA
 2. Start trial，免费体验 IDEA，不过在新版本中需要注册帐号登录才能体验。
 
-![6](http://cdn.gxmnzl.xyz/img/IDEA6.png)
+![6](https://cdn.gxmnzl.xyz/img/IDEA6.png)
 
 ?> 还有一个问题需要注意，有些同学点击 Log In to JetBrains Account... 这个按钮跳转到网页，
 网页无法打开。我就遇到了这个问题。原因是，我们在 host 文件中增加了一些 
@@ -124,11 +124,11 @@ account.jetbrains.com 相关的映射，所以大家需要去 C:/Windows/System3
 
 下图是对应登录成功后的界面，点击 Start Trial 开始免费试用。
 
-![7](http://cdn.gxmnzl.xyz/img/IDEA7.png)
+![7](https://cdn.gxmnzl.xyz/img/IDEA7.png)
 
 开始试用后，会进入待如下页面，免费试用的时间是1个月
 
-![8](http://cdn.gxmnzl.xyz/img/IDEA8.png)
+![8](https://cdn.gxmnzl.xyz/img/IDEA8.png)
 
 需要注意，有了登录帐号这个机制以后，对于这个帐号的试用期，是从注册登录的这一刻开始，
 这篇文章我写在 10 月 26 号，但是第一次登录是在 10 月 23 号，所以提示有效期是到 11 月 23 号。
@@ -136,7 +136,7 @@ account.jetbrains.com 相关的映射，所以大家需要去 C:/Windows/System3
 所以，如果遇到帐号已经过期的情况下，可能不会出现这个界面，所以大家可以执行破解补丁中 
 reset_script 这个脚本来重置试用期时间。
 
-![9](http://cdn.gxmnzl.xyz/img/IDEA9.png)
+![9](https://cdn.gxmnzl.xyz/img/IDEA9.png)
 
 ```
 <pre class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false" 
@@ -170,16 +170,16 @@ Linux/Mac系统：reset_jetbrains_eval_windows.vbs</pre>
 点击如图所示的菜单： Help - > Edit Custom VM Options...。 
 修改 idea64.exe.vmoptions 文件。
 
-![10](http://cdn.gxmnzl.xyz/img/IDEA10.png)
+![10](https://cdn.gxmnzl.xyz/img/IDEA10.png)
 
 点击按钮，会打开 idea64.exe.vmoptions 文件。
 
-![11](http://cdn.gxmnzl.xyz/img/IDEA11.png)
+![11](https://cdn.gxmnzl.xyz/img/IDEA11.png)
 
 在这个文件中，我们需要把破解补丁中的 FineAgent.jar 文件，
 配置到 idea64.exe.vmoptions 文件中。
 
-![12](http://cdn.gxmnzl.xyz/img/IDEA12.png)
+![12](https://cdn.gxmnzl.xyz/img/IDEA12.png)
 
 
 1. 先把这个 jar 包拷贝到一个固定目录下，我这里把它拷贝到了 IDEA 安装目录下 
@@ -205,7 +205,7 @@ text-decoration-color: initial;">
 -javaagent:D:\software\IntelliJ IDEA 2021.2.3\FineAgent.jar</pre>
 ```
 
-![13](http://cdn.gxmnzl.xyz/img/IDEA13.png)
+![13](https://cdn.gxmnzl.xyz/img/IDEA13.png)
 
 
 ### 重启 IntelliJ IDEA
@@ -215,24 +215,24 @@ text-decoration-color: initial;">
 
 然后 License 选择 Activation Code。  
 
-![14](http://cdn.gxmnzl.xyz/img/IDEA14.png)
+![14](https://cdn.gxmnzl.xyz/img/IDEA14.png)
 
 输入激活码，点击 Activate 按钮进行激活。
 激活码一定要在补丁配置之后才能使用，否则是激活不了的。
 
-![15](http://cdn.gxmnzl.xyz/img/IDEA15.png)
+![15](https://cdn.gxmnzl.xyz/img/IDEA15.png)
 
-![16](http://cdn.gxmnzl.xyz/img/IDEA16.png)
+![16](https://cdn.gxmnzl.xyz/img/IDEA16.png)
 
 点击 Activate 按钮后，就能看到下面这个界面， 过期时间到 2099 年， 
 唉，终于可以在 IDEA 这个工具上实现终身编程的梦想。
 
-![17](http://cdn.gxmnzl.xyz/img/IDEA17.png)
+![17](https://cdn.gxmnzl.xyz/img/IDEA17.png)
 
 
 ### 激活补丁下载
 
-![18](http://cdn.gxmnzl.xyz/img/IDEA18.png)
+![18](https://cdn.gxmnzl.xyz/img/IDEA18.png)
 
 [链接](https://pan.baidu.com/s/1zk1xFqABdQcuKfq9M9Rblw) 提取码: ec9n
 

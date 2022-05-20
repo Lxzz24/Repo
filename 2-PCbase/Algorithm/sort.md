@@ -1,37 +1,37 @@
 # 
 # 1 （简单）选择排序
 
-![(简单)选择排序.gif](http://cdn.gxmnzl.xyz/img/Sort1.gif "-gifcontrol-mode=click;")
+![(简单)选择排序.gif](https://cdn.gxmnzl.xyz/img/Sort1.gif "-gifcontrol-mode=click;")
 
 ---
 # 2 （直接）插入排序
 
-![(直接)插入排序.gif](http://cdn.gxmnzl.xyz/img/Sort2.gif "-gifcontrol-mode=click;")
+![(直接)插入排序.gif](https://cdn.gxmnzl.xyz/img/Sort2.gif "-gifcontrol-mode=click;")
 
 ---
 # 3 堆排序
 
-![堆排序.gif](http://cdn.gxmnzl.xyz/img/Sort3.gif "-gifcontrol-mode=click;")
+![堆排序.gif](https://cdn.gxmnzl.xyz/img/Sort3.gif "-gifcontrol-mode=click;")
 
 ---
 # 4 归并排序
 
-![归并排序.gif](http://cdn.gxmnzl.xyz/img/Sort4.gif "-gifcontrol-mode=click;")
+![归并排序.gif](https://cdn.gxmnzl.xyz/img/Sort4.gif "-gifcontrol-mode=click;")
 
 ---
 # 5 基数排序
 
-![基数排序.gif](http://cdn.gxmnzl.xyz/img/Sort5.gif "-gifcontrol-mode=click;")
+![基数排序.gif](https://cdn.gxmnzl.xyz/img/Sort5.gif "-gifcontrol-mode=click;")
 
 ---
 # 6 计数排序
 
-![计数排序.gif](http://cdn.gxmnzl.xyz/img/Sort6.gif "-gifcontrol-mode=click;")
+![计数排序.gif](https://cdn.gxmnzl.xyz/img/Sort6.gif "-gifcontrol-mode=click;")
 
 ---
 # 7 快速排序
 
-![快速排序.gif](http://cdn.gxmnzl.xyz/img/Sort7.gif "-gifcontrol-mode=click;")
+![快速排序.gif](https://cdn.gxmnzl.xyz/img/Sort7.gif "-gifcontrol-mode=click;")
 
 ## 介绍 
 
@@ -50,7 +50,7 @@
 ---
 # 8 冒泡排序
 
-![冒泡排序.gif](http://cdn.gxmnzl.xyz/img/Sort8.gif "-gifcontrol-mode=click;")
+![冒泡排序.gif](https://cdn.gxmnzl.xyz/img/Sort8.gif "-gifcontrol-mode=click;")
 
 ## 介绍
 冒泡排序的原理非常简单，它重复地走访过要排序的数列，一次比较两个元素，如果他们的顺序错误就把他们交换过来。 
@@ -64,17 +64,17 @@
 ---
 # 9 桶排序
 
-![桶排序.png](http://cdn.gxmnzl.xyz/img/Sort9.png)
+![桶排序.png](https://cdn.gxmnzl.xyz/img/Sort9.png)
 
 ---
 # 10 希尔排序
 
-![希尔排序.gif](http://cdn.gxmnzl.xyz/img/Sort10.gif "-gifcontrol-mode=click;")
+![希尔排序.gif](https://cdn.gxmnzl.xyz/img/Sort10.gif "-gifcontrol-mode=click;")
 
 ---
 # @各种内部排序方法性能比较
 
-![image.png](http://cdn.gxmnzl.xyz/img/Sort11.png)
+![image.png](https://cdn.gxmnzl.xyz/img/Sort11.png)
 
 1. **从平均时间而言**：快速排序最佳。但在最坏情况下时间性能不如堆排序和归并排序。 
 2. ​**从算法简单性看**：由于直接选择排序、直接插入排序和冒泡排序的算法比较简单，将其认为是简单算法。对于Shell排序、堆排序、快速排序和归并排序算法，其算法比较复杂，认为是复杂排序。 

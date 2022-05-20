@@ -12,7 +12,7 @@
 - 外部样式表通常存储在 CSS 文件中
 - 多个样式定义可层叠为一个
 
-![1](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS1.png)
+![1](https://cdn.gxmnzl.xyz/img/CSS1.png)
 
 ## 实例
 
@@ -443,7 +443,7 @@ th
 ```
 # CSS盒子模型(Box Model)
 
-![2](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS2.png)
+![2](https://cdn.gxmnzl.xyz/img/CSS2.png)
 
 - `Margin`(外边距) - 清除边框外的区域，外边距是透明的。
 - `Border`(边框) - 围绕在内边距和内容外的边框。
@@ -467,7 +467,7 @@ border:5px solid red;
 ```
 # CSS margin外边距+padding填充
 
-![3](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS3.png)
+![3](https://cdn.gxmnzl.xyz/img/CSS3.png)
 
 # CSS分组和嵌套
 ## 分组选择器
@@ -1060,7 +1060,7 @@ li::before {
 ```
 # CSS 网页布局
 
-![4](https://cdn.jsdelivr.net/gh/Lxzz24/IMG/repo/CSS4.png)
+![4](https://cdn.gxmnzl.xyz/img/CSS4.png)
 
 ## 响应式布局
 ```css

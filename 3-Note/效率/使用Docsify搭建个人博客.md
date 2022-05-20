@@ -92,7 +92,7 @@ cd www
 
 成功
 
-![images](http://cdn.gxmnzl.xyz/img/Server001.png)
+![images](https://cdn.gxmnzl.xyz/img/Server001.png)
 
 ## 4. NGINX 安装部署
 
@@ -145,14 +145,14 @@ make && make install
 
 ### 浏览器验证启动情况
 
-![images](http://cdn.gxmnzl.xyz/img/Server002.png)
+![images](https://cdn.gxmnzl.xyz/img/Server002.png)
 
 ### 修改配置文件
 
 `vim /usr/local/nginx/conf/nginx.conf`
 
 
-![images](http://cdn.gxmnzl.xyz/img/Server003.png)
+![images](https://cdn.gxmnzl.xyz/img/Server003.png)
 
 
 ### 重载 NGINX 配置
