@@ -5,7 +5,7 @@
 }
 
 
-/*代码样式
+/*代码样式*/
 .markdown-section code {
     border-radius: 2px;
     font-size: 16px !important;
@@ -22,9 +22,9 @@
     padding: 10px 0px 0px 0px;
     border-radius: 5px;
     margin: 3rem 0 2rem 0;
-}*/
+}
 
-/*代码块背景
+/*代码块背景*/
 p code {
     background-color: rgba(235, 235, 235) !important;
 }
@@ -36,7 +36,7 @@ p code {
 img,
 pre {
     border-radius: 5px;
-}*/
+}
 
 
 .sidebar,
