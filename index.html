@@ -243,35 +243,50 @@
     .token.deleted {
       color: red;
     }
+
     /*侧边栏*/
     .sidebar {
-      padding-top: 5px;
-      padding-left: 10px;
+      padding-top: 6px;
     }
 
     aside.sidebar ul li {
-      margin: 8px 0px;
-      font-size: 18px;
+      margin: 0px;
       position: relative;
     }
-    
+
     aside.sidebar ul li ul {
-      font-size: 18px;
+      margin: 0px 0;
     }
-    
+
     aside.sidebar ul li p {
+      padding-left: 22px;
       font-size: 18px;
       font-weight: normal;
     }
-    
+
     aside.sidebar ul li a {
       line-height: 25px;
-      font-size: 15px;
+      font-size: 14px;
+      padding: 3px 0 3px 22px;
     }
-    
+
     aside.sidebar ul li.active > a {
-      font-size: 18px !important;
+      font-size: 16px !important;
     }
+
+    aside.sidebar ul li.active > a:before {
+      content: '' !important;
+      position: absolute !important;
+      margin: 0 !important;
+      width: 10px !important;
+      height: 10px !important;
+      top: 15px !important;
+      left: 0px !important;
+      border-radius: 50% !important;
+      background-color: #fed24a !important;
+      box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
+    }
+
     /*以上调侧边栏*/
   </style>
 
@@ -385,7 +400,7 @@
       maxLevel: 5,
 
       // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
-      subMaxLevel: 3,
+      subMaxLevel: 0,
 
       //如果子目录有_sidebar.md,但你就想使用根目录的_sidebar.md，添加alias字段:
       alias: {
@@ -516,8 +531,9 @@
       //disqus: 'shortname'
 
       toc: {
+        scope: '.markdown-section',
         tocMaxLevel: 5,
-        target: 'h1, h2, h3, h4, h5'
+        target: 'h1, h2, h3, h4'
       },
 
       darkMode: {
@@ -625,7 +641,7 @@
   <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-php.min.js"></script>
   <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-python.js"></script>
   <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-scala.min.js"></script>
-  <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-sql.js"></script>\
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-sql.js"></script>
   <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-yaml.js"></script>
 
   <!-- **************** 阅读进度条
@@ -639,7 +655,7 @@
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-pagination.min.js"></script>
 
   <!-- ***************** emoji表情支持 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script>
 
   <!-- 字数统计 -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/countable.js"></script>
@@ -737,6 +753,7 @@
 
   <!-- disqus Not Free
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
+
 </body>
 
 </html>
