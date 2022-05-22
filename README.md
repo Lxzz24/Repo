@@ -290,6 +290,8 @@
 
 ## **🔗 常用**
 
+<details><summary class="lv3">资源类</summary>
+
 - [片库](https://www.btnull.org/)
 - [奇它论坛](https://www.qitabbs.com/)
 - [懒得勤快](https://masuit.com/)
@@ -297,6 +299,22 @@
 - [盒子部落](https://www.hezibuluo.com/)
 - [Mac毒](https://www.macdo.cn/)
 - [计算机类书籍](https://github.com/itdevbooks/pdf) [👉打不开点这里](/6-Resource/计算机类书籍.md)
+
+</details>
+<details><summary class="lv3">趣味学习</summary>
+
+- [Coding Games]()
+- [CodeCombat]()
+- [Screeps]()
+- [Checkio]()
+- [Vim Adventures]()
+- [Codewars]()
+- [Hacker.org]()
+- [Ruby Quiz]()
+- [Code Monkey]()
+- [Elevator Saga]()
+
+</details>
 
 ## **📁 软件 & 🎞️ 影视**
 
