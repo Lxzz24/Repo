@@ -1,5 +1,5 @@
 # 
-# **1.1 软件开发介绍**
+# **一、软件开发介绍**
 
 $ 软件 = 系统软件（操作系统）+ 应用软件 $
 
@@ -23,14 +23,14 @@ $ 应用程序 = 算法 + 数据结构 $
 > - **exit** : 退出 dos 命令行
 
 ---
-# **1.2 计算机编程语言介绍**
+# **二、计算机编程语言介绍**
 
 > C, C++, Java, PHP, Kotlin（安卓）, Python（人工智能）, Scala（大数据）等
 
 $ 机器语言（二进制代码） → 汇编语言 → 高级语言（面向过程 → 面向对象）$
 
 ---
-# **1.3 Java语言概述**
+# **三、Java语言概述**
 
 > SUN（Stanford University Network，1995）
 > 后台开发：Java、PHP、Python、Go、Node.js
@@ -45,15 +45,15 @@ JavaEE（Java Enterprise Edition）企业版
 > 应用方向：企业级应用 + Android平台应用 + 大数据平台开发
 
 ---
-# **1.4 Java程序运行机制及运行过程**
+# **四、Java程序运行机制及运行过程**
 
-## 特点：
+## 4.1 特点：
    - 面向对象
      - **类、对象；封装、继承、多态**
    - 健壮性
    - 跨平台性（可以在不同的系统平台上运行: JVM 负责 Java 程序在该系统的运行）
 
-## Java的两种核心机制：
+## 4.2 Java的两种核心机制：
 
 - **JVM** 
    - Java 虚拟机（Java Virtal Machine）
@@ -62,12 +62,12 @@ JavaEE（Java Enterprise Edition）企业版
    - 回收不再使用的内存空间会出现内存泄漏和内存溢出
 
 ---
-# **1.5 Java语言的环境搭建**
+# **五、Java语言的环境搭建**
 
-## JDK (Java Development Kit) 
+## 5.1 JDK (Java Development Kit) 
 Java 开发工具包开发工具包（JRE+开发工具）（有编译）
 
-## JRE (Java Runtime Environment) 
+## 5.2 JRE (Java Runtime Environment) 
 Java 运行环境（没编译） 
 
 ![image.png](https://cdn.gxmnzl.xyz/img/SE0101.png)
@@ -97,7 +97,7 @@ Java 运行环境（没编译）
 都可以调用 jdk 指定目录下的所有指令。 		
 
 ---
-# **1.6 Hello World**
+# **六、Hello World**
 
 
 1. 将 `Java` 代码编写编写到扩展名为 `.java` 的文件中。
@@ -109,9 +109,9 @@ Java 运行环境（没编译）
    - `println`是输出一行的意思；
 
 ---
-# **1.7 EditPlus**
+# **七、EditPlus**
 ---
-# **1.8 注释（Comment）**
+# **八、注释（Comment）**
 
 1. 单行 `//`
    
@@ -138,7 +138,7 @@ Java 运行环境（没编译）
 `javadoc -d mydoc -author -version -encoding utf8 Hello.java`
 
 ---
-# **1.9 Java API文档** 
+# **九、Java API文档** 
 
 ?> API （Application Programming Interface,应用程序编程接口）是 Java 提供的基本编程接口。
 
@@ -168,11 +168,11 @@ Java 语言提供了大量的基础类，因此 Oracle 也为这些基础类提�
 	- 字节码文件的文件名与 Java 源文件中的类名相同。
 
 ---
-# **1.10 良好的编码习惯**
+# **十、良好的编码习惯**
 注释、缩进、空白、行尾风格
 
 ---
-# **1.11 常用的Java开发工具**
+# **十一、常用的Java开发工具**
 
 ## 文本编辑工具：
 

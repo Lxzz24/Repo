@@ -87,6 +87,31 @@
     - [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
     - 🔐 网络安全
       - [学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
+  - 📝 软考-软件设计师
+    - [软考-软件设计师](/2-PCbase/软考/软件设计师.md)
+    - Ⓜ️ 上午题
+      - [#1_计算机系统](https://www.bilibili.com/video/BV1ym4y1D7RW)
+      - [#2_程序设计语言](https://www.bilibili.com/video/BV1tL411c7gi)
+      - [#3_数据结构_上](https://www.bilibili.com/video/BV1jY411b73f)
+      - [#4_数据结构_下](https://www.bilibili.com/video/BV1UP4y1A79a)
+      - [#5_知识产权](https://www.bilibili.com/video/BV1Qr4y167cX)
+      - [#6_数据库](https://www.bilibili.com/video/BV1LZ4y1k7ma)
+      - [#7_面向对象](https://www.bilibili.com/video/BV1QU4y1o7MS)
+      - [#8_UML](https://www.bilibili.com/video/BV1a44y1K7HH)
+      - [#9_设计模式](https://www.bilibili.com/video/BV18L4y1M7Bd)
+      - [#10_操作系统](https://www.bilibili.com/video/BV1AY411E7GC)
+      - [#11_结构化开发](https://www.bilibili.com/video/BV19Y4y1v7Rv)
+      - [#12_软件工程_上](https://www.bilibili.com/video/BV1j94y1Z7xX)
+      - [#13_软件工程_下](https://www.bilibili.com/video/BV16u411C7U9)
+      - [#14_信息安全](https://www.bilibili.com/video/BV1rS4y187HK)
+      - [#15_计算机网络](https://www.bilibili.com/video/BV1gU4y1U72k)
+      - [#16_算法](https://www.bilibili.com/video/BV1CS4y187Hk)
+    - 🅰️ 下午题
+      - [#1_试题一](https://www.bilibili.com/video/BV1ai4y1f7ot)
+      - [#2_试题二](https://www.bilibili.com/video/BV1x34y1k7ZE)
+      - [#3_试题三](https://www.bilibili.com/video/BV11Z4y1z7Uc)
+      - [#4_试题六](https://www.bilibili.com/video/BV1XT4y1v7ih)
+      - [#5_试题四](https://www.bilibili.com/video/BV1uZ4y1y77y)
 * 📒 **笔记**
   - 📈 效率
     - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
@@ -122,7 +147,8 @@
   - [](/5-Title/#)
 * 🔗 **资源**
   - 🔗 常用
-    - [📖 计算机类书籍](/6-Resource/计算机类书籍.md)
+    - [计算机类书籍](/6-Resource/计算机类书籍.md)
+    - [软考-软件设计师](/6-Resource/软件设计师.md)
   - 🎞️ 影视 & 📁 软件
     - [程序员常用软件汇总](/6-Resource/程序员常用软件汇总.md)
 * 🍚 **做饭指南**
