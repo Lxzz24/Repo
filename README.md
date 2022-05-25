@@ -13,8 +13,7 @@
 
 ⭐ *源码已上传 GitHub ，需要右上角自取* ⭐
 
-👉 *使用说明* 👉 [使用Docsify搭建个人博客](/3-Note/部署/使用Docsify搭建个人博客.md)
-
+👉 *使用说明* 👉 [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
 
 记住，一定要善用 `Ctrl + F` 哦！
 
@@ -182,6 +181,20 @@
 - [计算机网络学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
   - [网络安全学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
 
+
+## **🖥️ 操作系统**
+
+
+## **🌐 计算机网络**
+
+- [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
+
+<details><summary class="lv3">🔐 网络安全</summary>
+
+
+
+</details>
+
 ## **🧮 算法与数据结构**
 
 <details><summary class="lv3">⚖️ 算法</summary>
@@ -194,23 +207,11 @@
 </details>
 
 
-## **🖥️ 操作系统**
-
 
 ## **🖼️ 设计模式**
 
 
-## **🌐 计算机网络**
 
-
-- [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
-
-
-<details><summary class="lv3">🔐 网络安全</summary>
-
-
-
-</details>
 
 ## **📝 软考-软件设计师**
 
