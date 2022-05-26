@@ -2,7 +2,6 @@
 <b><font size=6></font></b>
 
 
-<<<<<<< HEAD
 * ☕ **Java**
   - [Java快速入门](1-Develop/Java/Note/1_快速入门/0_入门.md)
     - 简介
@@ -339,99 +338,13 @@
 * 🎨 **设计模式**
     - [学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
 * 🌐 **计算机网络**
-=======
-* 🍵 **开发**
-  - ☕Java
-    - 💯JavaSE
-      - 📑 Note
-        - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
-        - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
-        - [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md)
-        - [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md) 
-        - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md)   
-        - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
-        - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md) 
-      - ⌨️ Code
-        - [1_code](/1-Develop/Java/JavaSE/1-code/1_code.md)
-        - [2-1_code](/1-Develop/Java/JavaSE/1-code/2-1_code.md)
-        - [2-2_例题](/1-Develop/Java/JavaSE/1-code/2-2_例题.md)
-        - [2-2_练习](/1-Develop/Java/JavaSE/1-code/2-2_练习.md)
-        - [2-2_code](/1-Develop/Java/JavaSE/1-code/2-2_code.md)
-        - [3_练习](/1-Develop/Java/JavaSE/1-code/3_练习.md)
-        - [3_code](/1-Develop/Java/JavaSE/1-code/3_code.md)
-        - [4_练习](/1-Develop/Java/JavaSE/1-code/4_练习.md)
-        - [4_练习12](/1-Develop/Java/JavaSE/1-code/4_练习12.md)
-        - [4_code](/1-Develop/Java/JavaSE/1-code/4_code.md)
-        - [5_练习](/1-Develop/Java/JavaSE/1-code/5_练习.md)
-        - [5_code](/1-Develop/Java/JavaSE/1-code/5_code.md)
-      - ✏️ 练习
-        - [每日练习1](/1-Develop/Java/JavaSE/2-daily/每日练习1.md)
-        - [每日练习2](/1-Develop/Java/JavaSE/2-daily/每日练习2.md)
-        - [每日练习3](/1-Develop/Java/JavaSE/2-daily/每日练习3.md)
-        - [每日练习4](/1-Develop/Java/JavaSE/2-daily/每日练习4.md)
-        - [每日练习5](/1-Develop/Java/JavaSE/2-daily/每日练习5.md)
-        - [每日练习6](/1-Develop/Java/JavaSE/2-daily/每日练习6.md)
-        - [每日练习7](/1-Develop/Java/JavaSE/2-daily/每日练习7.md)
-        - [每日练习8](/1-Develop/Java/JavaSE/2-daily/每日练习8.md)
-        - [每日练习9](/1-Develop/Java/JavaSE/2-daily/每日练习9.md)
-        - [每日练习10](/1-Develop/Java/JavaSE/2-daily/每日练习10.md)
-        - [](/1-Develop/Java/JavaSE/2-daily/每日练习11.md)
-        - 
-  - 🗂️ 数据库
-    - ⭕ Oracle
-      - [1-SQL](/1-Develop/Database/Oracle/1-SQL.md)
-      - [2-数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
-      - [3-数据类型实例](/1-Develop/Database/Oracle/3-数据类型实例.md)
-      - [4-查询基础](/1-Develop/Database/Oracle/4-查询基础.md)
-      - [5-字符函数](/1-Develop/Database/Oracle/5-字符函数.md)
-      - [6-数字函数](/1-Develop/Database/Oracle/6-数字函数.md)
-      - [7-日期函数](/1-Develop/Database/Oracle/7-日期函数.md)
-      - [8-转换函数](/1-Develop/Database/Oracle/8-转换函数.md)
-      - [9-通用函数、分组函数](/1-Develop/Database/Oracle/9-通用函数、分组函数.md)
-      - [10-多表查询](/1-Develop/Database/Oracle/10-多表查询.md)
-      - [11-子查询](/1-Develop/Database/Oracle/11-子查询.md)
-      - [12-运算](/1-Develop/Database/Oracle/12-运算.md)
-      - [13-内联，外联与并列查询的区别](/1-Develop/Database/Oracle/13-内联，外联与并列查询的区别.md)
-      - [14-PL/SQL块](/1-Develop/Database/Oracle/14-PL_SQL块.md)
-      - [15-PL/SQL的异常处理](/1-Develop/Database/Oracle/15-PL_SQL的异常处理.md)
-      - [16-Oracle的约束](/1-Develop/Database/Oracle/16-Oracle的约束.md)
-      - [17-视图](/1-Develop/Database/Oracle/17-视图.md)
-      - [18-序列](/1-Develop/Database/Oracle/18-序列.md)
-      - [19-索引](/1-Develop/Database/Oracle/19-索引.md)
-      - [20-SQL优化](/1-Develop/Database/Oracle/20-SQL优化.md)
-      - [21-游标](/1-Develop/Database/Oracle/21-游标.md)
-      - [22-自定义函数](/1-Develop/Database/Oracle/22-自定义函数.md)
-      - [23-存储过程](/1-Develop/Database/Oracle/23-存储过程.md)
-      - [24-触发器](/1-Develop/Database/Oracle/24-触发器.md)
-      - [25-事务](/1-Develop/Database/Oracle/25-事务.md)
-      - [26-用户管理](/1-Develop/Database/Oracle/26-用户管理.md)
-  - 🎨 前 端
-    - 🪟 HTML & CSS
-      - [HTML](/1-Develop/Front-end/HTML.md)
-      - [CSS](/1-Develop/Front-end/CSS.md)
-* 💻 **计算机基础**   
-  - 🖥️ 操作系统
-    - [学习路线](/2-PCbase/StudyRoute/操作系统学习路线.md)
-  - 🌐 计算机网络
->>>>>>> e2b6e4399cbcee782f1f5e7e32a675e85d45aed9
     - [学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
     - [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
     - 🔐 网络安全
       - [学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
-<<<<<<< HEAD
 * 📝 **软考-软件设计师**
-=======
-  - 🧮 算法与数据结构
-    - [学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
-    - ⚖️ 算法
-      - [排序算法](/2-PCbase/Algorithm/sort.md)
-    - 🏛️ 数据结构
-  - 🎨 设计模式
-    - [学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
-  - 📝 软考-软件设计师
->>>>>>> e2b6e4399cbcee782f1f5e7e32a675e85d45aed9
-    - [视频资源](/2-PCbase/软考/软件设计师.md)
-    - Ⓜ️ 上午题
+  - [视频资源](/2-PCbase/软考/软件设计师.md)
+  - Ⓜ️ 上午题
       - [#1_计算机系统](/2-PCbase/软考/上午题/1_计算机系统.md)
       - [#2_程序设计语言](/2-PCbase/软考/上午题/2_程序设计语言.md)
       - [#3_数据结构_上](/2-PCbase/软考/上午题/3_数据结构_上.md)
@@ -448,7 +361,7 @@
       - [#14_信息安全](/2-PCbase/软考/上午题/14_信息安全.md)
       - [#15_计算机网络](/2-PCbase/软考/上午题/15_计算机网络.md)
       - [#16_算法](/2-PCbase/软考/上午题/16_算法.md)
-    - 🅰️ 下午题
+  - 🅰️ 下午题
       - [#1_试题一](/2-PCbase/软考/下午题/1_试题一.md)
       - [#2_试题二](/2-PCbase/软考/下午题/2_试题二.md)
       - [#3_试题三](/2-PCbase/软考/下午题/3_试题三.md)
