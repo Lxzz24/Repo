@@ -1,93 +1,348 @@
 <!-- docs/_sidebar.md -->
 <b><font size=6></font></b>
 
-<!--在打开网页时，侧边栏自动展开二级菜单 ":include" -->
 
-* 🍵 **开发**
-  - ☕Java
-    - 💯JavaSE
-      - 📑 Note
-        - [0_入门](/1-Develop/Java/JavaSE/0-note/0_入门.md)
-        - [1_Java语言概述](/1-Develop/Java/JavaSE/0-note/1_Java语言概述.md) 
-        - [2-1_基本语法(上)](/1-Develop/Java/JavaSE/0-note/2-1_基本语法(上).md)
-        - [2-2_基本语法(下)](/1-Develop/Java/JavaSE/0-note/2-2_基本语法(下).md) 
-        - [3_数组](/1-Develop/Java/JavaSE/0-note/3_数组.md)   
-        - [4_面向对象编程_上](/1-Develop/Java/JavaSE/0-note/4_面向对象编程_上.md)
-        - [5_面向对象编程_中](/1-Develop/Java/JavaSE/0-note/5_面向对象编程_中.md) 
-      - ⌨️ Code
-        - [1_code](/1-Develop/Java/JavaSE/1-code/1_code.md)
-        - [2-1_code](/1-Develop/Java/JavaSE/1-code/2-1_code.md)
-        - [2-2_例题](/1-Develop/Java/JavaSE/1-code/2-2_例题.md)
-        - [2-2_练习](/1-Develop/Java/JavaSE/1-code/2-2_练习.md)
-        - [2-2_code](/1-Develop/Java/JavaSE/1-code/2-2_code.md)
-        - [3_练习](/1-Develop/Java/JavaSE/1-code/3_练习.md)
-        - [3_code](/1-Develop/Java/JavaSE/1-code/3_code.md)
-        - [4_练习](/1-Develop/Java/JavaSE/1-code/4_练习.md)
-        - [4_练习12](/1-Develop/Java/JavaSE/1-code/4_练习12.md)
-        - [4_code](/1-Develop/Java/JavaSE/1-code/4_code.md)
-        - [5_练习](/1-Develop/Java/JavaSE/1-code/5_练习.md)
-        - [5_code](/1-Develop/Java/JavaSE/1-code/5_code.md)
-      - ✏️ 练习
-        - [每日练习1](/1-Develop/Java/JavaSE/2-daily/每日练习1.md)
-        - [每日练习2](/1-Develop/Java/JavaSE/2-daily/每日练习2.md)
-        - [每日练习3](/1-Develop/Java/JavaSE/2-daily/每日练习3.md)
-        - [每日练习4](/1-Develop/Java/JavaSE/2-daily/每日练习4.md)
-        - [每日练习5](/1-Develop/Java/JavaSE/2-daily/每日练习5.md)
-        - [每日练习6](/1-Develop/Java/JavaSE/2-daily/每日练习6.md)
-        - [每日练习7](/1-Develop/Java/JavaSE/2-daily/每日练习7.md)
-        - [每日练习8](/1-Develop/Java/JavaSE/2-daily/每日练习8.md)
-        - [每日练习9](/1-Develop/Java/JavaSE/2-daily/每日练习9.md)
-        - [每日练习10](/1-Develop/Java/JavaSE/2-daily/每日练习10.md)
-        - [](/1-Develop/Java/JavaSE/2-daily/每日练习11.md)
-        - 
-  - 🗂️ 数据库
-    - ⭕ Oracle
-      - [1-SQL](/1-Develop/Database/Oracle/1-SQL.md)
-      - [2-数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
-      - [3-数据类型实例](/1-Develop/Database/Oracle/3-数据类型实例.md)
-      - [4-查询基础](/1-Develop/Database/Oracle/4-查询基础.md)
-      - [5-字符函数](/1-Develop/Database/Oracle/5-字符函数.md)
-      - [6-数字函数](/1-Develop/Database/Oracle/6-数字函数.md)
-      - [7-日期函数](/1-Develop/Database/Oracle/7-日期函数.md)
-      - [8-转换函数](/1-Develop/Database/Oracle/8-转换函数.md)
-      - [9-通用函数、分组函数](/1-Develop/Database/Oracle/9-通用函数、分组函数.md)
-      - [10-多表查询](/1-Develop/Database/Oracle/10-多表查询.md)
-      - [11-子查询](/1-Develop/Database/Oracle/11-子查询.md)
-      - [12-运算](/1-Develop/Database/Oracle/12-运算.md)
-      - [13-内联，外联与并列查询的区别](/1-Develop/Database/Oracle/13-内联，外联与并列查询的区别.md)
-      - [14-PL/SQL块](/1-Develop/Database/Oracle/14-PL_SQL块.md)
-      - [15-PL/SQL的异常处理](/1-Develop/Database/Oracle/15-PL_SQL的异常处理.md)
-      - [16-Oracle的约束](/1-Develop/Database/Oracle/16-Oracle的约束.md)
-      - [17-视图](/1-Develop/Database/Oracle/17-视图.md)
-      - [18-序列](/1-Develop/Database/Oracle/18-序列.md)
-      - [19-索引](/1-Develop/Database/Oracle/19-索引.md)
-      - [20-SQL优化](/1-Develop/Database/Oracle/20-SQL优化.md)
-      - [21-游标](/1-Develop/Database/Oracle/21-游标.md)
-      - [22-自定义函数](/1-Develop/Database/Oracle/22-自定义函数.md)
-      - [23-存储过程](/1-Develop/Database/Oracle/23-存储过程.md)
-      - [24-触发器](/1-Develop/Database/Oracle/24-触发器.md)
-      - [25-事务](/1-Develop/Database/Oracle/25-事务.md)
-      - [26-用户管理](/1-Develop/Database/Oracle/26-用户管理.md)
-  - 🎨 前 端
-    - 🪟 HTML & CSS
-      - [HTML](/1-Develop/Front-end/HTML.md)
-      - [CSS](/1-Develop/Front-end/CSS.md)
-* 💻 **计算机基础**   
-  - 🧮 算法与数据结构
-    - [学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
-    - ⚖️ 算法
-      - [排序算法](/2-PCbase/Algorithm/sort.md)
-    - 🏛️ 数据结构
-  - 🖥️ 操作系统
+* ☕ **Java**
+  - [Java快速入门](1-Develop/Java/Note/1_快速入门/0_入门.md)
+    - 简介
+      - 概述
+      - 安装 JDK
+      - 第一个 Java 程序
+      - 使用 IDE
+    - Java 程序基础
+      - Java 程序基本结构
+      - 变量和数据类型
+      - 进制
+      - 运算符
+    - 流程控制
+      - 分支结构
+      - 循环结构
+      - break 和 continue
+    - 数组操作
+      - 概述
+      - 一维数组
+      - 多维数组
+      - 数组常见算法
+      - Arrays 工具类
+      - 数组常见异常
+  - 面向对象编程基础
+    - 面向过程与面向对象
+    - Java 基本元素：类和对象
+      - 对象的创建和使用
+      - 类的成员
+        - 属性
+        - 方法
+          - 重载
+          - 重写
+        - 构造器
+        - 代码块
+        - 内部类
+    - 面向对象三大特征
+      - 封装性
+      - 继承性
+      - 多态性
+    - 关键字：this
+    - 关键字：package、import
+    - 作用域
+    - 关键字：super
+    - 抽象类与抽象方法
+    - 关键字：static
+    - 关键字：final
+    - 接口
+  - Java 核心类
+    - 字符串相关的类
+      - String 类及常用方法
+      - StringBuffer\StringBuilder
+      - StringJoiner
+    - 包装类型
+    - JavaBean
+    - 枚举类
+    - 记录类
+    - Java 比较器
+      - Comparable
+      - Comparator
+    - System 类
+    - Math 类
+    - BigInteger 与 BigDecimal
+  - 异常处理
+    - 异常概述与异常体系结构
+    - 常见异常
+    - 异常处理机制
+      - try-catch-finally
+      - throws
+    - 手动抛出异常：throw
+    - 用户自定义异常类
+  - 多线程
+    - 多线程基础
+    - 线程的创建和使用
+    - 线程的生命周期
+    - 线程的同步
+    - 线程的通信
+    - 死锁
+    - 使用wait和notify
+    - 使用ReentrantLock
+    - 使用Condition
+    - 使用ReadWriteLock
+    - 使用StampedLock
+    - 使用Concurrent集合
+    - 使用Atomic
+    - 使用线程池
+    - 使用Future
+    - 使用CompletableFuture
+    - 使用ForkJoin
+    - 使用ThreadLocal
+  - 集合
+    - Java 集合框架概述
+    - Collection 
+    - List
+    - Set
+    - Map 
+    - Iterator
+    - Collections 工具类
+  - 注解
+    - 使用注解
+    - 定义注解
+    - 处理注解
+  - 泛型
+    - 什么是泛型
+    - 使用泛型
+    - 自定义泛型
+    - 泛型在继承上的体现
+    - 通配符的使用
+    - 泛型应用举例
+  - IO
+    - File 类的使用
+    - IO 流原理及流的分类
+    - 节点流（文件流）
+    - 缓冲流
+    - 转换流
+    - 标准输入、输出流
+    - 打印流
+    - 数据流
+    - 对象流
+    - 随机存取文件流
+    - NIO.2 中 Path、Paths、Files 类的使用
+  - 日期与时间
+    - 基本概念
+    - Date 和 Calendar
+    - LocalDateTime
+    - ZonedDateTime
+    - DateTimeFormatter
+    - Instant
+    - 最佳实践
+  - 网络编程
+    - 概述
+    - 通信要素
+      - IP 和端口号
+      - 网络协议
+    - TCP 网络编程
+    - UDP 网络编程
+    - URL 编程
+    - HTTP 编程
+  - 反射
+    - Java 反射机制概述
+    - Class类
+    - 类的加载与 ClassLoader 的理解
+    - 创建运行时类的对象
+    - 获取运行时类的完整结构
+    - 调用运行时类的指定结构
+    - 动态代理
+  - 单元测试
+    - 编写JUnit测试
+    - 使用Fixture
+    - 异常测试
+    - 条件测试
+    - 参数化测试
+  - 正则表达式
+    - 简介
+    - 匹配规则
+    - 复杂匹配规则
+    - 分组匹配
+    - 非贪婪匹配
+    - 搜索和替换
+  - 加密与安全
+    - 编码算法
+    - 哈希算法
+    - BouncyCastle
+    - Hmac算法
+    - 对称加密算法
+    - 口令加密算法
+    - 密钥交换算法
+    - 非对称加密算法
+    - 签名算法
+    - 数字证书
+  - Maven 基础
+    - Maven介绍
+    - 依赖管理
+    - 构建流程
+    - 使用插件
+    - 模块管理
+    - 使用mvnw
+    - 发布Artifact
+  - XML 与 JSON
+    - XML简介
+    - 使用DOM
+    - 使用SAX
+    - 使用Jackson
+    - 使用JSON
+  - JDBC 编程
+    - JDBC简介
+    - JDBC查询
+    - JDBC更新
+    - JDBC事务
+    - JDBC Batch
+    - JDBC连接池
+  - 函数式编程
+    - Lambda基础
+    - 方法引用
+    - 使用Stream
+    - 创建Stream
+    - 使用map
+    - 使用filter
+    - 使用reduce
+    - 输出集合
+    - 其他操作
+  - 设计模式
+    - 创建型模式
+      - 工厂方法
+      - 抽象工厂
+      - 生成器
+      - 原型
+      - 单例
+    - 结构型模式
+      - 适配器
+      - 桥接
+      - 组合
+      - 装饰器
+      - 外观
+      - 享元
+      - 代理
+    - 行为型模式
+      - 责任链
+      - 命令
+      - 解释器
+      - 迭代器
+      - 中介
+      - 备忘录
+      - 观察者
+      - 状态
+      - 策略
+      - 模板方法
+      - 访问者
+  - Web 开发
+    - Web基础
+    - Servlet入门
+    - Servlet开发
+    - Servlet进阶
+      - 重定向与转发
+      - 使用Session和Cookie
+    - JSP开发
+    - MVC开发
+    - MVC高级开发
+    - 使用Filter
+      - 修改请求
+      - 修改响应
+    - 使用Listener
+    - 部署
+  - Spring 开发
+    - IoC容器
+      - IoC原理
+      - 装配Bean
+      - 使用Annotation配置
+      - 定制Bean
+      - 使用Resource
+      - 注入配置
+      - 使用条件装配
+    - 使用AOP
+      - 装配AOP
+      - 使用注解装配AOP
+      - AOP避坑指南
+    - 访问数据库
+      - 使用JDBC
+      - 使用声明式事务
+      - 使用DAO
+      - 集成Hibernate
+      - 集成JPA
+      - 集成MyBatis
+      - 设计ORM
+    - 开发Web应用
+      - 使用Spring MVC
+      - 使用REST
+      - 集成Filter
+      - 使用Interceptor
+      - 处理CORS
+      - 国际化
+      - 异步处理
+      - 使用WebSocket
+    - 集成第三方组件
+      - 集成JavaMail
+      - 集成JMS
+      - 使用Scheduler
+      - 集成JMX
+    - Spring Boot开发
+      - 第一个Spring Boot应用
+      - 使用开发者工具
+      - 打包Spring Boot应用
+      - 瘦身Spring Boot应用
+      - 使用Actuator
+      - 使用Profiles
+      - 使用Conditional
+      - 加载配置文件
+      - 禁用自动配置
+      - 添加Filter
+    - 集成第三方组件
+      - 集成Open API
+      - 访问Redis
+      - 集成Artemis
+      - 集成RabbitMQ
+      - 集成Kafka
+* 🗂️ **数据库**
+  - ⭕ Oracle
+    - [1-SQL](/1-Develop/Database/Oracle/1-SQL.md)
+    - [2-数据类型](/1-Develop/Database/Oracle/2-数据类型.md)
+    - [3-数据类型实例](/1-Develop/Database/Oracle/3-数据类型实例.md)
+    - [4-查询基础](/1-Develop/Database/Oracle/4-查询基础.md)
+    - [5-字符函数](/1-Develop/Database/Oracle/5-字符函数.md)
+    - [6-数字函数](/1-Develop/Database/Oracle/6-数字函数.md)
+    - [7-日期函数](/1-Develop/Database/Oracle/7-日期函数.md)
+    - [8-转换函数](/1-Develop/Database/Oracle/8-转换函数.md)
+    - [9-通用函数、分组函数](/1-Develop/Database/Oracle/9-通用函数、分组函数.md)
+    - [10-多表查询](/1-Develop/Database/Oracle/10-多表查询.md)
+    - [11-子查询](/1-Develop/Database/Oracle/11-子查询.md)
+    - [12-运算](/1-Develop/Database/Oracle/12-运算.md)
+    - [13-内联，外联与并列查询的区别](/1-Develop/Database/Oracle/13-内联，外联与并列查询的区别.md)
+    - [14-PL/SQL块](/1-Develop/Database/Oracle/14-PL_SQL块.md)
+    - [15-PL/SQL的异常处理](/1-Develop/Database/Oracle/15-PL_SQL的异常处理.md)
+    - [16-Oracle的约束](/1-Develop/Database/Oracle/16-Oracle的约束.md)
+    - [17-视图](/1-Develop/Database/Oracle/17-视图.md)
+    - [18-序列](/1-Develop/Database/Oracle/18-序列.md)
+    - [19-索引](/1-Develop/Database/Oracle/19-索引.md)
+    - [20-SQL优化](/1-Develop/Database/Oracle/20-SQL优化.md)
+    - [21-游标](/1-Develop/Database/Oracle/21-游标.md)
+    - [22-自定义函数](/1-Develop/Database/Oracle/22-自定义函数.md)
+    - [23-存储过程](/1-Develop/Database/Oracle/23-存储过程.md)
+    - [24-触发器](/1-Develop/Database/Oracle/24-触发器.md)
+    - [25-事务](/1-Develop/Database/Oracle/25-事务.md)
+    - [26-用户管理](/1-Develop/Database/Oracle/26-用户管理.md)
+* 🎨 **前 端**
+  - 🪟 HTML & CSS
+    - [HTML](/1-Develop/Front-end/HTML.md)
+    - [CSS](/1-Develop/Front-end/CSS.md)
+* 🧮 **算法与数据结构**
+  - [学习路线](/2-PCbase/StudyRoute/算法与数据结构学习路线.md)
+  - ⚖️ 算法
+    - [排序算法](/2-PCbase/Algorithm/sort.md)
+  - 🏛️ 数据结构
+* 🖥️ **操作系统**
     - [学习路线](/2-PCbase/StudyRoute/操作系统学习路线.md)
-  - 🎨 设计模式
+* 🎨 **设计模式**
     - [学习路线](/2-PCbase/StudyRoute/设计模式学习路线.md)
-  - 🌐 计算机网络
+* 🌐 **计算机网络**
     - [学习路线](/2-PCbase/StudyRoute/计算机网络学习路线.md)
     - [网络基础知识问答](/2-PCbase/ComputerNetworks/网络基础知识问答.md)
     - 🔐 网络安全
       - [学习路线](/2-PCbase/StudyRoute/网络安全学习路线.md)
-  - 📝 软考-软件设计师
+* 📝 **软考-软件设计师**
     - [视频资源](/2-PCbase/软考/软件设计师.md)
     - Ⓜ️ 上午题
       - [#1_计算机系统](/2-PCbase/软考/上午题/1_计算机系统.md)
@@ -279,3 +534,7 @@
   - 🥢 进阶知识学习
     - [辅料使用技巧](/7-HowToCook/tips/advanced/辅料技巧.md)
     - [油温判断技巧](/7-HowToCook/tips/advanced/油温判断技巧.md)
+
+
+
+
