@@ -25,8 +25,8 @@
   <!-- ************gif 播放控制 -->
   <link rel="stylesheet" href="https://unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
 
-  <!-- 侧边栏折叠 plugins -->
-  <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/sidebar.min.css" />
+  <!-- 侧边栏折叠 plugins
+  <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/sidebar.min.css" /> -->
 
   <!-- Gitalk
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
@@ -65,46 +65,61 @@
       --docsifytabs-content-padding: 1.5rem;
     }
 
+
+    /*侧边栏*/
     .sidebar {
       padding-top: 6px;
     }
 
     aside.sidebar ul li {
-      margin: 0;
+      font-size: 16px;
+      padding-left: 10px;
+      margin: 0 0 10px;
       position: relative;
     }
 
     aside.sidebar ul li ul {
+      padding-left: 0px;
       margin: 6px 0;
+      font-size: 16px;
     }
 
     aside.sidebar ul li p {
-      padding-left: 22px;
-      font-size: 18px;
+      padding-left: 10px;
+      font-size: 16px;
       font-weight: normal;
     }
 
     aside.sidebar ul li a {
-      line-height: 35px;
-      font-size: 14px;
-      padding: 3px 0 3px 22px;
+      line-height: 25px;
+      font-size: 16px;
+      padding: 0px 0 0px 20px;
     }
 
+    /*点击后字体加粗变为18px*/
     aside.sidebar ul li.active>a {
-      font-size: 16px !important;
+      font-size: 18px !important;
     }
 
-    aside.sidebar ul li.active>a:before {
-      content: '' !important;
-      position: absolute !important;
-      margin: 0 !important;
-      width: 10px !important;
-      height: 10px !important;
-      top: 15px !important;
-      left: 0px !important;
-      border-radius: 50% !important;
-      background-color: #fed24a !important;
-      box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
+    /*以上调侧边栏*/
+    .sidebar-nav li {
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+    }
+
+    .sidebar-nav ul:not(.app-sub-sidebar)>li:not(.file)::before {
+      content: "";
+      display: list-item;
+      position: absolute;
+      top: 11px;
+      left: -6px;
+      height: 6px;
+      width: 6px;
+      border-right: 1px solid #505d6b;
+      border-bottom: 1px solid #505d6b;
+      transform: rotate(-45deg);
+      transition: transform 0.1s;
     }
 
     /*tab自定义样式*/
@@ -122,7 +137,7 @@
       font-weight: bold;
     }
 
-    /*docsify-plugin-toc
+    /*docsify-plugin-toc*/
     aside.toc-nav {
       max-width: 500px;
       right: 0 !important;
@@ -155,7 +170,7 @@
       margin: 10px 0;
       border: none;
       font-size: 1.0em;
-    }*/
+    }
 
     /*加粗/斜体字体颜色*/
     .markdown-section strong {
@@ -401,12 +416,12 @@
       maxLevel: 5,
 
       // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
-      subMaxLevel: 0,
+      subMaxLevel: 1,
 
       //如果子目录有_sidebar.md,但你就想使用根目录的_sidebar.md，添加alias字段:
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
+      //alias: {
+      //  '/.*/_sidebar.md': '/_sidebar.md'
+      //},
       sidebarDisplayLevel: 1, // set sidebar display level
 
       //分页导航插件
@@ -556,7 +571,7 @@
 
   <!-- Plugins -->
   <!-- docsify的js依赖 -->
-  <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify@4.js"></script>
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify.js"></script>
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-themeable.min.js"></script>
 
@@ -580,7 +595,7 @@
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-tabs@1.js"></script>
 
   <!-- 侧边栏折叠 plugins -->
-  <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-sidebar-collapse.min.js"></script>
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-sidebar-collapse.js"></script>
 
   <!-- 支持搜索 -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/search.min.js"></script>
@@ -649,8 +664,8 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
   -->
 
-  <!-- ************* 页面大纲 docsify-plugin-toc -->
-  <script src="//unpkg.com/docsify-plugin-toc"></script>
+  <!-- ************* 页面大纲 docsify-plugin-toc 
+  <script src="//unpkg.com/docsify-plugin-toc"></script>-->
 
   <!-- 分页导航插件 Pagination -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-pagination.min.js"></script>
