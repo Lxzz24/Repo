@@ -25,8 +25,11 @@
   <!-- ************gif 播放控制 -->
   <link rel="stylesheet" href="https://unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
 
-  <!-- 侧边栏折叠 plugins
-  <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/sidebar.min.css" /> -->
+  <!-- 侧边栏折叠 plugins -->
+  <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/sidebar.min.css" />
+
+  <!-- docsify-plugin-toc -->
+  <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/toc.css" />
 
   <!-- Gitalk
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
@@ -67,41 +70,28 @@
 
 
     /*侧边栏*/
-    .sidebar {
-      padding-top: 6px;
-    }
-
     aside.sidebar ul li {
       font-size: 16px;
       padding-left: 10px;
-      margin: 0 0 10px;
+      margin: 0 0 0px;
       position: relative;
     }
 
     aside.sidebar ul li ul {
       padding-left: 0px;
-      margin: 6px 0;
       font-size: 16px;
     }
 
     aside.sidebar ul li p {
       padding-left: 10px;
       font-size: 16px;
-      font-weight: normal;
     }
 
     aside.sidebar ul li a {
       line-height: 25px;
       font-size: 16px;
-      padding: 0px 0 0px 20px;
     }
 
-    /*点击后字体加粗变为18px*/
-    aside.sidebar ul li.active>a {
-      font-size: 18px !important;
-    }
-
-    /*以上调侧边栏*/
     .sidebar-nav li {
       position: relative;
       margin: 0;
@@ -110,10 +100,10 @@
 
     .sidebar-nav ul:not(.app-sub-sidebar)>li:not(.file)::before {
       content: "";
-      display: list-item;
+      display: block;
       position: absolute;
       top: 11px;
-      left: -6px;
+      left: -12px;
       height: 6px;
       width: 6px;
       border-right: 1px solid #505d6b;
@@ -121,6 +111,22 @@
       transform: rotate(-45deg);
       transition: transform 0.1s;
     }
+
+    .sidebar-nav ul:not(.app-sub-sidebar)>li.open::before {
+      transform: rotate(45deg);
+    }
+
+    .sidebar-nav ul:not(.app-sub-sidebar)>li.collapse::before {
+      transform: rotate(-45deg);
+    }
+
+
+    /*点击后字体加粗变为18px*/
+    aside.sidebar ul li.active>a {
+      font-size: 18px !important;
+    }
+
+    /*以上调侧边栏*/
 
     /*tab自定义样式*/
     .tab-badge {
@@ -135,41 +141,6 @@
       font-family: sans-serif;
       font-size: 11px;
       font-weight: bold;
-    }
-
-    /*docsify-plugin-toc*/
-    aside.toc-nav {
-      max-width: 500px;
-      right: 0 !important;
-      margin-right: 0 !important;
-      background: rgb(255, 255, 255, 0.5);
-      position: relative;
-      top: 70px;
-      right: 3%;
-      margin-right: 0;
-      width: 250px;
-      z-index: 999999;
-      align-self: flex-start;
-      flex: 0 0 auto;
-      overflow-y: auto;
-      max-height: 70%;
-    }
-
-    aside.toc-nav:hover {
-      max-width: inherit;
-      opacity: 1;
-    }
-
-    section.content {
-      padding-right: 220px;
-    }
-
-    .page_toc {
-      position: relative;
-      left: 0;
-      margin: 10px 0;
-      border: none;
-      font-size: 1.0em;
     }
 
     /*加粗/斜体字体颜色*/
@@ -572,7 +543,7 @@
   <!-- Plugins -->
   <!-- docsify的js依赖 -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify.js"></script>
-  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
+
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-themeable.min.js"></script>
 
 
@@ -629,7 +600,6 @@
 
   <!-- Flexible Alerts 可使用预配置或自己的样式和警报类型将块引用转换为漂亮且可配置的警报 -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-plugin-flexible-alerts.min.js"></script>
-  <!--<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>-->
 
   <!-- mouse click -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/click_heart.js"></script>
@@ -664,8 +634,8 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
   -->
 
-  <!-- ************* 页面大纲 docsify-plugin-toc 
-  <script src="//unpkg.com/docsify-plugin-toc"></script>-->
+  <!-- ************* 页面大纲 docsify-plugin-toc -->
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-toc.js"></script>
 
   <!-- 分页导航插件 Pagination -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-pagination.min.js"></script>
