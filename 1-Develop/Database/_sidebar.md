@@ -1,0 +1,31 @@
+<!-- docs/_sidebar.md -->
+
+<h1 align="center">🗂️ 数据库</h1>
+
+* ⭕ Oracle
+  - [1-SQL](/1-Develop/Database/Oracle/Note/1-SQL.md)
+  - [2-数据类型](/1-Develop/Database/Oracle/Note/2-数据类型.md)
+  - [3-数据类型实例](/1-Develop/Database/Oracle/Note/3-数据类型实例.md)
+  - [4-查询基础](/1-Develop/Database/Oracle/Note/4-查询基础.md)
+  - [5-字符函数](/1-Develop/Database/Oracle/Note/5-字符函数.md)
+  - [6-数字函数](/1-Develop/Database/Oracle/Note/6-数字函数.md)
+  - [7-日期函数](/1-Develop/Database/Oracle/Note/7-日期函数.md)
+  - [8-转换函数](/1-Develop/Database/Oracle/Note/8-转换函数.md)
+  - [9-通用函数、分组函数](/1-Develop/Database/Oracle/Note/9-通用函数、分组函数.md)
+  - [10-多表查询](/1-Develop/Database/Oracle/Note/10-多表查询.md)
+  - [11-子查询](/1-Develop/Database/Oracle/Note/11-子查询.md)
+  - [12-运算](/1-Develop/Database/Oracle/Note/12-运算.md)
+  - [13-内联，外联与并列查询的区别](/1-Develop/Database/Oracle/Note/13-内联，外联与并列查询的区别.md)
+  - [14-PL/SQL块](/1-Develop/Database/Oracle/Note/14-PL_SQL块.md)
+  - [15-PL/SQL的异常处理](/1-Develop/Database/Oracle/Note/15-PL_SQL的异常处理.md)
+  - [16-Oracle的约束](/1-Develop/Database/Oracle/Note/16-Oracle的约束.md)
+  - [17-视图](/1-Develop/Database/Oracle/Note/17-视图.md)
+  - [18-序列](/1-Develop/Database/Oracle/Note/18-序列.md)
+  - [19-索引](/1-Develop/Database/Oracle/Note/19-索引.md)
+  - [20-SQL优化](/1-Develop/Database/Oracle/Note/20-SQL优化.md)
+  - [21-游标](/1-Develop/Database/Oracle/Note/21-游标.md)
+  - [22-自定义函数](/1-Develop/Database/Oracle/Note/22-自定义函数.md)
+  - [23-存储过程](/1-Develop/Database/Oracle/Note/23-存储过程.md)
+  - [24-触发器](/1-Develop/Database/Oracle/Note/24-触发器.md)
+  - [25-事务](/1-Develop/Database/Oracle/Note/25-事务.md)
+  - [26-用户管理](/1-Develop/Database/Oracle/Note/26-用户管理.md)
