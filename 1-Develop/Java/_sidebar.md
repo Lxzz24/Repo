@@ -1,14 +1,17 @@
 <!-- docs/_sidebar.md -->
 
-<h1 align="center">☕ Java</h1>
 
+<p style="text-align: center;"><a href="#/1-Develop/Java/README.md">
+  <img src="https://cdn.gxmnzl.xyz/img/JavaLogo.png" width=100%/>
+</a></p>
 
 * **🕐 Java快速入门**
   - 简介
-    - [概述](/1-Develop/Java/Note/1_快速入门/0_入门.md)
-    - 安装 JDK
-    - 第一个 Java 程序
-    - 使用 IDE
+    - [相关知识](/1-Develop/Java/Note/1_快速入门/简介/相关知识.md)
+    - [概述](/1-Develop/Java/Note/1_快速入门/简介/概述.md)
+    - [安装 JDK](/1-Develop/Java/Note/1_快速入门/简介/安装JDK.md)
+    - [第一个 Java 程序](/1-Develop/Java/Note/1_快速入门/简介/第一个Java程序.md)
+    - [使用 IDE](/1-Develop/Java/Note/1_快速入门/简介/使用IDE.md)
   - Java 程序基础
     - Java 程序基本结构
     - 变量和数据类型
