@@ -22,8 +22,8 @@
   <link rel="icon" href="favicon.ico" type="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" type="favicon.ico" />
 
-  <!-- ************gif 播放控制 -->
-  <link rel="stylesheet" href="https://unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
+  <!-- gif 播放控制 -->
+  <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/gifcontrol.css">
 
   <!-- 侧边栏折叠 plugins -->
   <link rel="stylesheet" href="https://cdn.gxmnzl.xyz/plugin/css/sidebar.min.css" />
@@ -343,7 +343,7 @@
 
       // 项目名称
       name: "Lxzz' Repo",
-      logo: 'http://cdn.gxmnzl.xyz/img/logo1.png',
+      logo: 'http://cdn.gxmnzl.xyz/img/Logo.png',
 
       // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
       repo: 'https://github.com/Lxzz24/Repo',
@@ -553,8 +553,6 @@
     <script src="https://cdn.gxmnzl.xyz/plugin/js/pdfobject.min.js"></script>
   -->
 
-  <!---->
-
   <!-- docsify-example-panels for rendering example panels content from markdown. -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-example-panels.js"></script>
 
@@ -595,8 +593,8 @@
     });
   </script>
 
-  <!-- ************** gif 控制 -->
-  <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
+  <!-- gif 控制 -->
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/gifcontrol.js"></script>
 
   <!-- Flexible Alerts 可使用预配置或自己的样式和警报类型将块引用转换为漂亮且可配置的警报 -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-plugin-flexible-alerts.min.js"></script>
@@ -630,18 +628,18 @@
   <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-sql.js"></script>
   <script src="https://cdn.gxmnzl.xyz/plugin/js/prism-yaml.js"></script>
 
-  <!-- **************** 阅读进度条
-  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
-  -->
+  <!-- 阅读进度条-->
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-progress.js"></script>
 
-  <!-- ************* 页面大纲 docsify-plugin-toc -->
+
+  <!-- 页面大纲 docsify-plugin-toc -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-toc.js"></script>
 
   <!-- 分页导航插件 Pagination -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/docsify-pagination.min.js"></script>
 
-  <!-- ***************** emoji表情支持
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script> -->
+  <!-- emoji表情支持 -->
+  <script src="https://cdn.gxmnzl.xyz/plugin/js/emoji.js"></script>
 
   <!-- 字数统计 -->
   <script src="https://cdn.gxmnzl.xyz/plugin/js/countable.js"></script>
@@ -670,7 +668,7 @@
       minutes - 0-59之间的整数，做为date对象的分钟数
       seconds - 0-59之间的整数，做为date对象的秒数
       microseconds - 0-999之间的整数，做为date对象的毫秒数 */
-      var t1 = Date.UTC(2022, 02, 22, 22, 22, 22); //北京时间2022-02-22 22:22:22 //计划考研的日子，6月20日毕业典礼结束后，人生需要继续努力，加油，看到这句话的朋友们！
+      var t1 = Date.UTC(2022, 02, 22, 22, 22, 22); //北京时间2022-02-22 22:22:22
       var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
       var diff = t2 - t1;
       var diffYears = Math.floor(diff / years);
