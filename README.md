@@ -29,3 +29,19 @@
 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛
 
 🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧
+
+# **🔗 常用**
+
+- [片库](https://www.btnull.org/)
+- [奇它论坛](https://www.qitabbs.com/)
+- [懒得勤快](https://masuit.com/)
+- [资源汇](http://ziyuanhuishequ.ysepan.com/) 
+- [盒子部落](https://www.hezibuluo.com/)
+- [Mac毒](https://www.macdo.cn/)
+- [计算机类书籍](https://github.com/itdevbooks/pdf) [👉打不开点这里](/6-Resource/计算机类书籍.md)
+- [程序员常用软件汇总](/6-Resource/程序员常用软件汇总.md)
+
+## **♾️ 文章**
+
+- [CS-Notes, from CyC2018](https://github.com/CyC2018/CS-Notes)
+- [VSCode 配置](https://juejin.cn/post/7077393092264869924)
