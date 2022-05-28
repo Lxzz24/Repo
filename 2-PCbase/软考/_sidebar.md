@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-<h1 align="center">📝 软考-软件设计师</h1>
+<h1 align="center"><a href="#/2-PCbase/软考/README.md">📝</a> 软考-软件设计师</h1>
 
 * Ⓜ️ 上午题
   - [#1_计算机系统](/2-PCbase/软考/Note/上午题/1_计算机系统.md)
