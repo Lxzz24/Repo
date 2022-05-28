@@ -1,8 +1,13 @@
 <!-- docs/_sidebar.md -->
 
-<h1 align="center">🗂️ 数据库</h1>
+<h1 align="center"><a href="#/1-Develop/Database/README.md">🗂️</a> 数据库</h1>
 
-* ⭕ Oracle
+* [**🧊 数据库系统原理**](/1-Develop/Database/数据库系统原理.md)
+* [**🌏 SQL 语法**](/1-Develop/Database/SQL%20语法.md)
+* [**🚩 SQL 练习**](/1-Develop/Database/SQL%20练习.md)
+* [**Ⓜ️ MySQL**](/1-Develop/Database/MySQL.md)
+* [**🌈 Redis**](/1-Develop/Database/Redis.md)
+* **⭕ Oracle**
   - [1-SQL](/1-Develop/Database/Oracle/Note/1-SQL.md)
   - [2-数据类型](/1-Develop/Database/Oracle/Note/2-数据类型.md)
   - [3-数据类型实例](/1-Develop/Database/Oracle/Note/3-数据类型实例.md)

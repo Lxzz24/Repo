@@ -5,6 +5,9 @@
   * [☕ Java](/1-Develop/Java/README.md)
   * [🗂️ 数据库](/1-Develop/Database/README.md)
   * [🎨 前 端](/1-Develop/Front-end/README.md)
+  * [💎 系统设计](/1-Develop/SystemDesign/README.md)
+  * [🛠️ 开发工具](/1-Develop/DevelopTools/README.md)
+  * [🗂️ 服务器](/1-Develop/Server/README.md)
 * 🖥️**计算机基础**
   - [⚖️ 算法与数据结构](/2-PCbase/AlgorithmDataStructures/README.md)
   - [💽 操作系统](/2-PCbase/OperatingSystem/README.md)
@@ -25,16 +28,10 @@
     - [Markdown](/3-Note/速查/markdown语法.md)
     - [KaTeX](/3-Note/速查/katex.md)
     - [希腊字母](/3-Note/速查/希腊字母.md)
-  - 🛠️ 部署
-    - [Nginx部署](/3-Note/部署/Nginx部署.md)
   - 💭 博客
     - [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
     - [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
 * 🔨 **工具**
-  - ⚙️ 软件指南
-    - [Git操作指南](/4-ToolBox/软件指南/Git操作指南.md)
-    - [IDEA使用指南](/4-ToolBox/软件指南/IDEA使用指南.md)
-    - [Maven安装与配置](/4-ToolBox/软件指南/Maven安装与配置.md)
   - 🔨 实用工具
     - [编程相关在线工具](/4-ToolBox/实用工具/编程在线工具.md)
     - [ToolBox 实用工具库](/4-ToolBox/实用工具/Tools.md)
@@ -42,8 +39,7 @@
   - 🍏 Mac
     - [Mac使用技巧](/4-ToolBox/Mac/Mac使用技巧.md)
     - [Mac上的”IDM“下载](/4-ToolBox/Mac/Mac上的”IDM“下载.md)  
-* ✒️ **刷题**
-  - [](/5-Title/#)
+* [✒️ **刷题**](/5-Title/README.md)
 * 🔗 **资源**
   - 🔗 常用
     - [计算机类书籍](/6-Resource/计算机类书籍.md)
