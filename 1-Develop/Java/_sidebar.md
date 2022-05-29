@@ -13,14 +13,14 @@
     - [第一个 Java 程序](/1-Develop/Java/Note/1_快速入门/简介/第一个Java程序.md)
     - [使用 IDE](/1-Develop/Java/Note/1_快速入门/简介/使用IDE.md)
   - Java 程序基础
-    - Java 程序基本结构
-    - 变量和数据类型
-    - 进制
-    - 运算符
+    - [Java 程序基本结构](/1-Develop/Java/Note/1_快速入门/Java程序基础/Java程序基本结构.md)
+    - [变量和数据类型](/1-Develop/Java/Note/1_快速入门/Java程序基础/变量和数据类型.md)
+    - [进制](/1-Develop/Java/Note/1_快速入门/Java程序基础/进制.md)
+    - [运算符](/1-Develop/Java/Note/1_快速入门/Java程序基础/运算符.md)
   - 流程控制
-    - 分支结构
-    - 循环结构
-    - break 和 continue
+    - [分支结构](/1-Develop/Java/Note/1_快速入门/流程控制/分支结构.md)
+    - [循环结构](/1-Develop/Java/Note/1_快速入门/流程控制/循环结构.md)
+    - [break 和 continue](/1-Develop/Java/Note/1_快速入门/流程控制/break和continue.md)
   - 数组操作
     - 概述
     - 一维数组

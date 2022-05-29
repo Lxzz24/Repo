@@ -1,6 +1,7 @@
 # 
-# **Hello World**
+# 如何执行 Java 程序
 
+![](https://cdn.gxmnzl.xyz//img/20220529161216.png)
 
 1. 将 `Java` 代码编写编写到扩展名为 `.java` 的文件中。
 2. 通过 `javac` 命令对该 `java` 文件进行编译编译。
@@ -10,9 +11,21 @@
    - Java 区分大小写；
    - `println`是输出一行的意思；
 
+# Hello World
+
+```Java
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+```
+
+
+
 ---
 
-# **注释（Comment）**
+# 注释（Comment）
 
 1. 单行 `//`
    
@@ -39,7 +52,7 @@
 `javadoc -d mydoc -author -version -encoding utf8 Hello.java`
 
 ---
-# **Java API文档** 
+# Java API 文档
 
 ?> API （Application Programming Interface,应用程序编程接口）是 Java 提供的基本编程接口。
 
@@ -49,7 +62,7 @@ Java 语言提供了大量的基础类，因此 Oracle 也为这些基础类提�
 [下载API](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 
-## 对第一个Java程序进行总结：
+# 对第一个 Java 程序进行总结：
 
 1. Java程序-编译-运行的过程
    - 编写：我们将编写的 Java 代码保存在以 ".java" 结尾的源文件中
