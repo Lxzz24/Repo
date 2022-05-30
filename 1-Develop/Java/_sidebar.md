@@ -12,8 +12,7 @@
     - [安装 JDK](/1-Develop/Java/Note/1_快速入门/简介/安装JDK.md)
     - [第一个 Java 程序](/1-Develop/Java/Note/1_快速入门/简介/第一个Java程序.md)
     - [使用 IDE](/1-Develop/Java/Note/1_快速入门/简介/使用IDE.md)
-  - Java 程序基础
-    - [Java 程序基本结构](/1-Develop/Java/Note/1_快速入门/Java程序基础/Java程序基本结构.md)
+  - [Java 程序基础](/1-Develop/Java/Note/1_快速入门/Java程序基础/Java程序基本结构.md)
     - [变量和数据类型](/1-Develop/Java/Note/1_快速入门/Java程序基础/变量和数据类型.md)
     - [进制](/1-Develop/Java/Note/1_快速入门/Java程序基础/进制.md)
     - [运算符](/1-Develop/Java/Note/1_快速入门/Java程序基础/运算符.md)
@@ -21,13 +20,16 @@
     - [分支结构](/1-Develop/Java/Note/1_快速入门/流程控制/分支结构.md)
     - [循环结构](/1-Develop/Java/Note/1_快速入门/流程控制/循环结构.md)
     - [break 和 continue](/1-Develop/Java/Note/1_快速入门/流程控制/break和continue.md)
-  - 数组操作
-    - 概述
-    - 一维数组
-    - 多维数组
+  - [数组操作](/1-Develop/Java/Note/1_快速入门/数组操作/概述.md)
+    - [一维数组](/1-Develop/Java/Note/1_快速入门/数组操作/一维数组.md)
+    - [多维数组](/1-Develop/Java/Note/1_快速入门/数组操作/多维数组.md)
     - 数组常见算法
-    - Arrays 工具类
-    - 数组常见异常
+      - [数组元素的赋值](/1-Develop/Java/Note/1_快速入门/数组操作/赋值.md)
+      - [数组元素的最大/最小/平均值/总和](/1-Develop/Java/Note/1_快速入门/数组操作/最大最小平均值总和.md)
+      - [数组元素的复制反转查找](/1-Develop/Java/Note/1_快速入门/数组操作/复制反转查找.md)
+      - [数组元素的排序](/1-Develop/Java/Note/1_快速入门/数组操作/排序.md)
+    - [Arrays 工具类](/1-Develop/Java/Note/1_快速入门/数组操作/Arrays工具类.md)
+    - [数组常见异常](/1-Develop/Java/Note/1_快速入门/数组操作/数组常见异常.md)
 * **🕑 面向对象编程基础**
   - 面向过程与面向对象
   - Java 基本元素：类和对象
