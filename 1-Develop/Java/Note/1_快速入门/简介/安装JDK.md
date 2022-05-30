@@ -1,14 +1,16 @@
 # 
 # JDK (Java Development Kit) 
-Java 开发工具包开发工具包（JRE+开发工具）（有编译）
+
+Java 开发工具包开发工具包（JRE + 开发工具）（有编译）
 
 # JRE (Java Runtime Environment) 
+
 Java 运行环境（没编译） 
 
 ![image.png](https://cdn.gxmnzl.xyz/img/SE0101.png)
 
-!> **JDK = JRE + 开发工具集（例如 Javac 编译工具等）**  
-**JRE = JVM + Java SE 标准类库**
+!> $JDK = JRE + 开发工具集（例如 Javac 编译工具等）$  
+$JRE = JVM + Java SE 标准类库$
 
 ![image.png](https://cdn.gxmnzl.xyz/img/SE0102.png)
 
@@ -60,7 +62,7 @@ Java 运行环境（没编译）
 
 ![](https://cdn.gxmnzl.xyz//img/20220529151358.png)
 
-如果你看到的版本号不是 18，而是 15、1.8 之类，说明系统存在多个JDK，且默认 JDK 不是 JDK 18，需要把JDK 18 提到 PATH 前面。
+如果你看到的版本号不是 18，而是 15、1.8 之类，说明系统存在多个 JDK，且默认 JDK 不是 JDK 18，需要把JDK 18 提到 PATH 前面。
 
 如果你得到一个错误输出：
 

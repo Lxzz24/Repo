@@ -54,7 +54,7 @@ public class Hello {
 ---
 # Java API 文档
 
-?> API （Application Programming Interface,应用程序编程接口）是 Java 提供的基本编程接口。
+?> API （Application Programming Interface，应用程序编程接口）是 Java 提供的基本编程接口。
 
 Java 语言提供了大量的基础类，因此 Oracle 也为这些基础类提供了相应的 API 文档，
 用于告诉开发者如何使用这些类，以及这些类里包含的方法。 
@@ -70,7 +70,7 @@ Java 语言提供了大量的基础类，因此 Oracle 也为这些基础类提�
      - 格式：`javac 源文件名.java`
    - 运行：使用 java.exe 命令解释运行我们的字节码文件。 
       - `格式：java 类名`
-2. 在一个 Java 源文件中可以声明多个 class ，但是**最多只能有一个类声明为 public 的**。
+2. 在一个 Java 源文件中可以声明多个 class ，但是*最多只能有一个类声明为 public 的*。
    - 而且要求声明为 public 的类的类名必须与源文件名相同。
 3. 程序的入口是 `main()` 方法。格式是固定的。
 4. 输出语句：
