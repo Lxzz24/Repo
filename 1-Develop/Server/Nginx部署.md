@@ -3,13 +3,13 @@
 
 !> From [CodeSheep](https://space.bilibili.com/384068749)
 
-## ⾸先安装包并解压
+## 首先安装包并解压
 
 这⾥下载的是 nginx-1.20.2.tar.gz 安装包，并将其直接放在了 root ⽬录下
 
 1、在 /usr/local/ 下创建 nginx ⽂件夹并进⼊
 
-```
+```bash
 cd /usr/local/
 mkdir nginx
 cd nginx
@@ -17,8 +17,8 @@ cd nginx
 
 2、将 Nginx 安装包解压到 /usr/local/nginx 中即可
 
-```
-[root@localhost nginx]# tar zxvf /root/nginx-1.20.2.tar.gz -C ./
+```bash
+tar zxvf /root/nginx-1.20.2.tar.gz -C ./
 ```
 
 解压完之后， /usr/local/nginx ⽬录中会出现⼀个 nginx-1.20.2 的⽬录
@@ -26,14 +26,13 @@ cd nginx
 
 ## 预先安装额外的依赖
 
-```
-yum -y install pcre-devel
-yum -y install openssl openssl-devel
+```bash
+yum -y install gcc pcre pcre-devel zlib zlib-devel openssl openssl-devel
 ```
 
 ## 编译安装 Nginx
 
-```
+```bash
 cd nginx-1.20.2
 ./configure
 make && make install
@@ -45,19 +44,19 @@ make && make install
 
 直接执⾏如下命令即可：
 
-```
-[root@localhost sbin]# /usr/local/nginx/sbin/nginx
+```bash
+/usr/local/nginx/sbin/nginx
 ```
 
 如果想停⽌ Nginx 服务，可执⾏：
 
-```
+```bash
 /usr/local/nginx/sbin/nginx -s stop
 ```
 
 如果修改了配置⽂件后想重新加载 Nginx，可执⾏：
 
-```
+```bash
 /usr/local/nginx/sbin/nginx -s reload
 ```
 
@@ -117,9 +116,12 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
    例如，您可以使用远程登录工具（例如，PuTTY、Xshell）登录服务器。
 2. 执行以下命令，在 Nginx 安装目录（默认为 /usr/local/nginx/conf）下创建一个用于存放证书的目录，将其命名为 cert。
    
-   ```
-   cd /usr/local/nginx/conf  #进入Nginx默认安装目录。如果您修改过默认安装目录，请根据实际配置进行调整。
-   mkdir cert  #创建证书目录，命名为cert。
+   ```bash
+   #进入Nginx默认安装目录。如果您修改过默认安装目录，请根据实际配置进行调整。
+   cd /usr/local/nginx/conf 
+   
+   #创建证书目录，命名为cert。 
+   mkdir cert  
    ```
 3. 使用远程登录工具（例如，PuTTY、Xshell）附带的本地文件上传功能，将本地证书文件和私钥文件上传到 Nginx 服务器的证书目录
    （示例中为 /usr/local/nginx/conf/cert）。
@@ -132,7 +134,7 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
     ?> 注意 nginx.conf 默认保存在 /usr/local/nginx/conf 目录下。如果您修改过 nginx.conf 的位置，
     请将 /usr/local/nginx/conf/nginx.conf 替换成修改后的位置。  
 
-    ```
+    ```bash
     vim /usr/local/nginx/conf/nginx.conf
     ```
 
@@ -148,7 +150,7 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
          - `cert-file-name.pem`：替换成您在步骤 3 上传的证书文件的名称。
          - `cert-file-name.key`：替换成您在步骤 3 上传的证书私钥文件的名称。
 
-            ```conf
+            ```bash
             #以下属性中，以故事情节的属性表示与证书配置有关。
             server {
                 listen 443 ssl;
@@ -177,7 +179,7 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
         ?> 以下代码片段需要放置在 nginx.conf 文件中 server {} 代码段后面，即设置 HTTP 请求自动跳转 HTTPS 后，
         nginx.conf 文件中会存在两个server {}代码段。
 
-        ```conf
+        ```bash
         server {
             listen 80;
             server_name yourdomain; #需要将yourdomain替换成证书绑定的域名。
@@ -195,7 +197,7 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
    - 5. 修改完成后，按 Esc 键、输入 `:wq!` 并按Enter键，保存修改后的配置文件并退出编辑模式。
 5. 执行以下命令，重启 Nginx 服务。
     
-    ```
+    ```bash
     cd /usr/local/nginx/sbin  #进入Nginx服务的可执行目录。
     ./nginx -s reload  #重新载入配置文件。
     ```
@@ -205,7 +207,8 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
    - 收到 `the "ssl" parameter requires ngx_http_ssl_module` 报错：
         您需要重新编译 Nginx 并在编译安装的时候加上 `--with-http_ssl_module` 配置。
    - 收到如下报错：您需要去掉证书相对路径最前面的 /。
-        ```
+        
+        ```bash
         "/cert/3970497_pic.certificatestests.com.pem":BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/cert/3970497_pic.certificatestests.com.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
         ```
         
@@ -217,7 +220,7 @@ PEM格式的证书文件是采用Base64编码的文本文件，您可以根据�
 
 证书安装完成后，您可通过访问证书的绑定域名验证该证书是否安装成功。  
 
-```
+```bash
 https://yourdomain   #需要将yourdomain替换成证书绑定的域名。
 ```
 
@@ -250,19 +253,19 @@ https://yourdomain   #需要将yourdomain替换成证书绑定的域名。
 
 2. 切换到源码包：
 
-```
+```bash
 cd /root/nginx-1.20.2
 ```
 
 3. 进行编译：
 
-```
+```bash
 ./configure --prefix=/usr/local/nginx --with-http_stub_status_module --with-http_ssl_module
 ```
 
 4. 配置完成后，运行命令：
 
-```
+```bash
 make
 ```
 
@@ -270,19 +273,19 @@ make
 
 6. 备份原有已安装好的 nginx ：
 
-```
+```bash
 cp /usr/local/nginx/sbin/nginx /usr/local/nginx/sbin/nginx.bak
 ```
 
 7. 停止 nginx 状态：
 
-```
+```bash
 /usr/local/nginx/sbin/nginx -s stop
 ```
 
 8. 将编译好的 nginx 覆盖掉原有的 nginx ：
 
-```
+```bash
 cd /root/nginx-1.20.2/
 cp ./objs/nginx /usr/local/nginx/sbin/
 ```
@@ -291,13 +294,13 @@ cp ./objs/nginx /usr/local/nginx/sbin/
 
 10.  然后启动 nginx：
 
-```
+```bash
 /usr/local/nginx/sbin/nginx
 ```
 
 11. 进入 nginx/sbin 目录下，通过命令查看模块是否已经加入成功：
 
-```
+```bash
 cd /usr/local/nginx/sbin/
 ./nginx -V
 ```

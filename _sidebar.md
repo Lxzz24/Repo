@@ -18,6 +18,7 @@
   - 📈 效率
     - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
     - [docsify插件用法](/3-Note/效率/docsify插件用法.md)
+    - [Wiki知识库部署](/3-Note/效率/wiki知识库部署.md)
     - [VScode结合Git的全面使用(上)](/3-Note/效率/VScode结合Git的全面使用(上).md)
     - [VScode结合Git的全面使用(下)](/3-Note/效率/VScode结合Git的全面使用(下).md)
     - [DNS](/3-Note/效率/DNS.md)

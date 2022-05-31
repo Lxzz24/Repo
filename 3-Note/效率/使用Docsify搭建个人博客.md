@@ -31,7 +31,7 @@
 
 1. 在 /user/local/ 下创建 node 文件夹并进入
 
-```
+```bash
 cd /usr/local/
 mkdir node
 cd node
@@ -47,7 +47,7 @@ cd node
 
 编辑 ~/.bash_profile ⽂件，在⽂件末尾追加如下信息:
 
-```
+```bash
 ## Nodejs
 export PATH=/usr/local/node/node-v12.16.3-linux-x64/bin:$PATH
 ```
@@ -58,7 +58,7 @@ export PATH=/usr/local/node/node-v12.16.3-linux-x64/bin:$PATH
 
 ### 检查安装结果
 
-```
+```bash
 node -v
 npm version
 npx -v
@@ -80,7 +80,7 @@ npx -v
 
 1. 在 /user/local/ 下创建 www 文件夹并进入
 
-```
+```bash
 cd /usr/local/
 mkdir www
 cd www
@@ -100,7 +100,7 @@ cd www
 
 1. 在/usr/local/ 下创建 nginx ⽂件夹并进⼊
 
-```
+```bash
 cd /usr/local/
 mkdir nginx
 cd nginx
@@ -114,12 +114,12 @@ cd nginx
 解压完之后， /usr/local/nginx ⽬录中会出现⼀个 nginx-1.20.2 的⽬录
 
 ### 预先安装额外的依赖
-`yum -y install pcre-devel`
-`yum -y install openssl openssl-devel`
+
+`yum -y install gcc pcre pcre-devel zlib zlib-devel openssl openssl-devel`
 
 ### 编译安装NGINX
 
-```
+```bash
 cd nginx-1.20.2
 ./configure
 make && make install
