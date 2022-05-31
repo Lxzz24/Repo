@@ -1,5 +1,9 @@
 ##  安装
 
+[官方文档](https://docs.requarks.io/)
+
+[docker部署](http://imbajin.com/2019-11-26-%E7%94%A8Wiki.js%E6%9D%A5%E4%BC%98%E9%9B%85%E7%9A%84%E7%AE%A1%E7%90%86%E6%96%87%E6%A1%A3/)
+
 1. 下载最新版本的 Wiki.js ：
 
     ```bash
