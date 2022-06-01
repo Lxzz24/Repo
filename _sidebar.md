@@ -1,20 +1,22 @@
 <!-- docs/_sidebar.md -->
+<p style="text-align: center;"><a href="#/1-Develop/Java/README.md">
+  <img src="https://cdn.gxmnzl.xyz/img/logo1.png" width=50%/>
+</a></p>
 
-
-* 🍻 **开发**
-  * [☕ Java](/1-Develop/Java/README.md)
-  * [🗂️ 数据库](/1-Develop/Database/README.md)
-  * [🎨 前 端](/1-Develop/Front-end/README.md)
-  * [💎 系统设计](/1-Develop/SystemDesign/README.md)
-  * [🛠️ 开发工具](/1-Develop/DevelopTools/README.md)
-  * [🗂️ 服务器](/1-Develop/Server/README.md)
-* 🖥️**计算机基础**
+* <font size="4"><b>🍻 开发</b></font> 
+  - [☕ Java](/1-Develop/Java/README.md)
+  - [🗂️ 数据库](/1-Develop/Database/README.md)
+  - [🎨 前 端](/1-Develop/Front-end/README.md)
+  - [💎 系统设计](/1-Develop/SystemDesign/README.md)
+  - [🛠️ 开发工具](/1-Develop/DevelopTools/README.md)
+  - [🗂️ 服务器](/1-Develop/Server/README.md)
+* <font size="4"><b>🖥️ 计算机基础</b></font> 
   - [⚖️ 算法与数据结构](/2-PCbase/AlgorithmDataStructures/README.md)
   - [💽 操作系统](/2-PCbase/OperatingSystem/README.md)
   - [🎨 设计模式](/2-PCbase/DesignPatterns/README.md)
   - [🌐 计算机网络](/2-PCbase/ComputerNetworks/README.md)
   - [📝 软考-软件设计师](/2-PCbase/软考/README.md)
-* 📒 **笔记**
+* <font size="4"><b>📒 笔记</b></font> 
   - 📈 效率
     - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
     - [docsify插件用法](/3-Note/效率/docsify插件用法.md)
@@ -32,7 +34,7 @@
   - 💭 博客
     - [七个对我最好的职业建议（精简版）](/3-Note/博客/七个对我最好的职业建议（精简版）.md)
     - [扎克伯格的26页PPT](/3-Note/博客/扎克伯格的26页PPT.md)
-* 🔨 **工具**
+* <font size="4"><b>🔨 工具</b></font> 
   - 🔨 实用工具
     - [编程相关在线工具](/4-ToolBox/实用工具/编程在线工具.md)
     - [ToolBox 实用工具库](/4-ToolBox/实用工具/Tools.md)
@@ -40,14 +42,14 @@
   - 🍏 Mac
     - [Mac使用技巧](/4-ToolBox/Mac/Mac使用技巧.md)
     - [Mac上的”IDM“下载](/4-ToolBox/Mac/Mac上的”IDM“下载.md)  
-* [✒️ **刷题**](/5-Title/README.md)
-* 🔗 **资源**
+* [<font size="4"><b>✒️ 刷题</b></font> ](/5-Title/README.md)
+* <font size="4"><b>🔗 资源</b></font> 
   - 🔗 常用
     - [计算机类书籍](/6-Resource/计算机类书籍.md)
     - [软考-软件设计师](/6-Resource/软件设计师.md)
   - 🎞️ 影视 & 📁 软件
     - [程序员常用软件汇总](/6-Resource/程序员常用软件汇总.md)
-* 🍚 **做饭指南**
+* <font size="4"><b>🍚 做饭指南</b></font> 
   - 🍳 做菜之前
     - [采购原料，准备厨房](/7-HowToCook/tips/厨房准备.md)
     - [学习炒与煎炸](/7-HowToCook/tips/learn/炒与煎.md)

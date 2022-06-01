@@ -12,13 +12,13 @@
 ​
 ### JDK中主要的包
 
-1. `**java.lang**`（language）----包含一些Java语言的核心类，如String、Math、Integer、 System和Thread，提供常用功能
-2. `**java.net**`----包含执行与网络相关的操作的类和接口。
-3. `**java.io**` ----包含能提供多种输入/输出功能的类。
-4. `**java.util**`----包含一些实用工具类，如定义系统特性、接口的集合框架类、使用与日期日历相关的函数。
-5. `**java.text**`----包含了一些java格式化相关的类
-6. `**java.sql**`----包含了java进行JDBC数据库编程的相关类/接口
-7. `**java.awt**`----包含了构成抽象窗口工具集（abstract window toolkits）的多个类，这些类被用来构建和管理应用程序的图形用户界面(GUI)。_~~（Java也可以写客户端，但是基本不用了）~~_
+1. `java.lang`（language）----包含一些Java语言的核心类，如String、Math、Integer、 System和Thread，提供常用功能
+2. `java.net`----包含执行与网络相关的操作的类和接口。
+3. `java.io` ----包含能提供多种输入/输出功能的类。
+4. `java.util`----包含一些实用工具类，如定义系统特性、接口的集合框架类、使用与日期日历相关的函数。
+5. `java.text`----包含了一些java格式化相关的类
+6. `java.sql`----包含了java进行JDBC数据库编程的相关类/接口
+7. `java.awt`----包含了构成抽象窗口工具集（abstract window toolkits）的多个类，这些类被用来构建和管理应用程序的图形用户界面(GUI)。_~~（Java也可以写客户端，但是基本不用了）~~_
 
 
 
@@ -27,15 +27,18 @@
 MVC是常用的设计模式之一，将整个程序分为三个层次：视图模型层，控制器层，与数据模型层。
 
 #### 模型层 model 主要处理数据
+
 - 数据对象封装 model.bean/domain
 - 数据库操作类 model.dao
 - 数据库 model.db
 
 #### 视图层 view 显示数据
+
 - 相关工具类 view.utils
 - 自定义 view view.ui
 
 #### 控制层 controller 处理业务逻辑
+
 - 应用界面相关 controller.activity
 - 存放 fragment controller.fragment
 - 显示列表的适配器 controller.adapter

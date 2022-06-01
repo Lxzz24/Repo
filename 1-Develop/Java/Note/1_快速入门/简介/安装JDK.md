@@ -1,9 +1,8 @@
-# 
-# JDK (Java Development Kit) 
+## JDK (Java Development Kit) 
 
 Java 开发工具包开发工具包（JRE + 开发工具）（有编译）
 
-# JRE (Java Runtime Environment) 
+## JRE (Java Runtime Environment) 
 
 Java 运行环境（没编译） 
 
@@ -30,13 +29,13 @@ $JRE = JVM + Java SE 标准类库$
 > - `config` : 配置文件
 
 
-# 下载 JDK
+## 下载 JDK
 
 下载地址：[Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) 
 
 找到 Java SE xx 的下载链接 JDK Download，下载安装即可。
 
-# 设置环境变量
+## 设置环境变量
 
 !> 配置环境变量的目的是为了 Windows 操作系统执行命令时，在控制台的任何文件路径下，都可以调用 JDK 指定目录下的所有指令。 		
 
