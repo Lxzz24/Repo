@@ -1,4 +1,4 @@
-package Java;
+package Java.test.one;
 
 public class IsPupil {
     public static void main(String[] args) {

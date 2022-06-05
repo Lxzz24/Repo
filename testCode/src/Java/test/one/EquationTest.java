@@ -1,4 +1,4 @@
-package Java;
+package Java.test.one;
 
 public class EquationTest {
     public static void main(String[] args) {

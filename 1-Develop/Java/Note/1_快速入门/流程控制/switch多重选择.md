@@ -8,7 +8,7 @@
 
 ## switch-case
 
-`switch` 语句根据 `switch`  (表达式)计算的结果，跳转到匹配的 `case` 结果，然后继续执行后续语句，直到遇到 `break` 结束执行。
+`switch` 语句根据 `switch(表达式)` 计算的结果，跳转到匹配的 `case` 结果，然后继续执行后续语句，直到遇到 `break` 结束执行。
 
 ```java
   switch(表达式){
@@ -190,9 +190,9 @@ public class Main {
 
 ## 编译检查
 
-使用 IDE 时，可以自动检查是否漏写了 break 语句和 default 语句，方法是打开 IDE 的编译检查。
+使用 IDE 时，可以自动检查是否漏写了 `break` 语句和 `default` 语句，方法是打开 IDE 的编译检查。
 
-在Eclipse中，选择 Preferences - Java - Compiler - Errors/Warnings - Potential programming problems ，将以下检查标记为 Warning：
+在Eclipse中，选择 `Preferences - Java - Compiler - Errors/Warnings - Potential programming problems` ，将以下检查标记为 Warning：
 
 - 'switch' is missing 'default' case
 - 'switch' case fall-through
@@ -299,7 +299,42 @@ public class Main {
 使用 `switch` 实现一个简单的石头、剪子、布游戏。
 
 ```java
+import java.util.Scanner;
 
+public class MoraTest {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("please choice:");
+        System.out.println(" 1: Rock");
+        System.out.println(" 2: Scissors");
+        System.out.println(" 3: Paper");
+
+        // 用户输入:
+        int choice = scan.nextInt();
+
+        // 计算机随机数 1, 2, 3:
+        int random = 1 + (int) (Math.random() * 3);
+        System.out.println("Bot:" + random);
+
+        switch (choice) {
+            // TODO:
+            case 1 :
+                System.out.println(random == 1 ? "draw" : (random == 2 ? "win" : "lose"));
+                break;
+            case 2 :
+                System.out.println(random == 2 ? "draw" : (random == 3 ? "win" : "lose"));
+                break;
+            case 3 :
+                System.out.println(random == 3 ? "draw" : (random == 1 ? "win" : "lose"));
+                break;
+            default:
+                System.out.println("Please input correct option!");
+                break;
+        }
+    }
+}
 ```
 
 
