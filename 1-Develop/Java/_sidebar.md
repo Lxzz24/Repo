@@ -37,7 +37,7 @@
         - [✅ 数组元素的赋值](/1-Develop/Java/Note/1_快速入门/数组操作/赋值.md)
         - [✅ 数组元素的最大/最小/平均值/总和](/1-Develop/Java/Note/1_快速入门/数组操作/最大最小平均值总和.md)
         - [✅ 数组元素的复制反转查找](/1-Develop/Java/Note/1_快速入门/数组操作/复制反转查找.md)
-        - [数组元素的排序](/1-Develop/Java/Note/1_快速入门/数组操作/排序.md)
+        - [✅ 数组元素的排序](/1-Develop/Java/Note/1_快速入门/数组操作/排序.md)
         - [Arrays 工具类](/1-Develop/Java/Note/1_快速入门/数组操作/Arrays工具类.md)
         - [数组常见异常](/1-Develop/Java/Note/1_快速入门/数组操作/数组常见异常.md)
 * <font size="4"><b>🕑 面向对象编程基础</b></font> 
