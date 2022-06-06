@@ -2,7 +2,10 @@
 
 <font face="Caveat" size="6">**Always  Have  Always  Will**</font>  
 
-[![Gitter](https://badges.gitter.im/Lxzz24/community.svg)](https://gitter.im/Lxzz24/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Lxzz](https://img.shields.io/badge/Repo-Lxzz-green)](https://www.gxmnzl.xyz/#/)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Lxzz24/Repo)
+[![Gitter](https://img.shields.io/badge/Chat-Gitter-blueviolet)](https://gitter.im/Lxzz24/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitee](https://img.shields.io/badge/Code-Gitee-orange)](https://gitee.com/lxzz24/Repo)
 
 
 > [!TIP]
@@ -45,3 +48,4 @@
 
 - [CS-Notes, from CyC2018](https://github.com/CyC2018/CS-Notes)
 - [VSCode 配置](https://juejin.cn/post/7077393092264869924)
+
