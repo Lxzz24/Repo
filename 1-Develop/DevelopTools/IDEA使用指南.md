@@ -27,12 +27,18 @@
 > 3. 本教程适用于 Windows/Mac/Linux，本文以 Window 下的版本为例进行演示，
 > 其他系统的操作方式完全相同。
 
+
+
+
+
 ## 安装 IntelliJ IDEA 2021.2.3 最新版本
 
 ### 下载 IntelliJ IDEA
 
 点击[这个地址](https://www.jetbrains.com/idea/download/#section=windows)，
 下载 IntelliJ IDEA 2021.2.3 最新版本
+
+👉 [百度网盘](https://pan.baidu.com/s/1Ofgw61JKkJ2t6qliIcrH6Q) 提取码：m1p0 
 
 ### 卸载老版本的 IDEA(如果已经安装了 IDEA)
 
@@ -404,3 +410,5 @@ file --> settings --> Editor --> Live Templates
 > 如果这个鼠标操作是能够用快捷键替代的，那么 `Key Promoter X` 会弹出一个提示框，
 > 告知你这个鼠标操作可以用什么快捷键替代。对于想完全使用快捷键在 `IDEA` 的，
 > 这个插件就很有用。
+
+
