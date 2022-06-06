@@ -1,15 +1,9 @@
-# Arrays 工具类的使用
+## Arrays 工具类的使用
 
-① 定义在 java.util 包下。  
-② Arrays ：提供了很多操作数组的方法。
+① 定义在 `java.util` 包下。  
+② `Arrays` ：提供了很多操作数组的方法。
 
-| 方法                                | 作用                                   |
-| ----------------------------------- | -------------------------------------- |
-| `boolean equals(int[] a,int[] b)`   | 判断两个数组是否相等。                 |
-| `String toString(int[] a)`          | 输出数组信息。                         |
-| `void fill(int[] a,int val)`        | 将指定值填充到数组之中。               |
-| `void sort(int[] a)`                | 对数组进行排序。                       |
-| `int binarySearch(int[] a,int key)` | 对排序后的数组进行二分法检索指定的值。 |
+![](https://cdn.gxmnzl.xyz//img/202206061707406.png)
 
 ```java
 	//1.boolean equals(int[] a,int[] b) :判断两个数组是否相等。
@@ -40,3 +34,4 @@
 		System.out.println("未找到");
 	}		
 ```
+

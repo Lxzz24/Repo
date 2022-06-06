@@ -5,7 +5,7 @@
   <img src="https://cdn.gxmnzl.xyz/img/JavaLogo.png" width=100%/>
 </a></p>
 
-* <font size="4"><b>🕐 Java快速入门</b></font> 
+* <font size="4"><b>✅ 🕐 Java快速入门</b></font> 
     + ✅ 简介
         - [✅ 相关知识](/1-Develop/Java/Note/1_快速入门/简介/相关知识.md)
         - [✅ 概述](/1-Develop/Java/Note/1_快速入门/简介/概述.md)
@@ -31,15 +31,16 @@
         - [✅ for 循环](/1-Develop/Java/Note/1_快速入门/流程控制/for循环.md)
         - [✅ 循环结构总结](/1-Develop/Java/Note/1_快速入门/流程控制/循环结构总结.md)
         - [✅ break 和 continue](/1-Develop/Java/Note/1_快速入门/流程控制/break和continue.md)
-    + [数组操作](/1-Develop/Java/Note/1_快速入门/数组操作/概述.md)
+    + [✅ 数组操作](/1-Develop/Java/Note/1_快速入门/数组操作/概述.md)
         - [✅ 一维数组](/1-Develop/Java/Note/1_快速入门/数组操作/一维数组.md)
         - [✅ 多维数组](/1-Develop/Java/Note/1_快速入门/数组操作/多维数组.md)
         - [✅ 数组元素的赋值](/1-Develop/Java/Note/1_快速入门/数组操作/赋值.md)
         - [✅ 数组元素的最大/最小/平均值/总和](/1-Develop/Java/Note/1_快速入门/数组操作/最大最小平均值总和.md)
         - [✅ 数组元素的复制反转查找](/1-Develop/Java/Note/1_快速入门/数组操作/复制反转查找.md)
         - [✅ 数组元素的排序](/1-Develop/Java/Note/1_快速入门/数组操作/排序.md)
-        - [Arrays 工具类](/1-Develop/Java/Note/1_快速入门/数组操作/Arrays工具类.md)
-        - [数组常见异常](/1-Develop/Java/Note/1_快速入门/数组操作/数组常见异常.md)
+        - [✅ 命令行参数](/1-Develop/Java/Note/1_快速入门/数组操作/命令行参数.md)
+        - [✅ Arrays 工具类](/1-Develop/Java/Note/1_快速入门/数组操作/Arrays工具类.md)
+        - [✅ 数组常见异常](/1-Develop/Java/Note/1_快速入门/数组操作/数组常见异常.md)
 * <font size="4"><b>🕑 面向对象编程基础</b></font> 
     - [面向过程与面向对象](/1-Develop/Java/Note/2_面向对象/面向过程与面向对象.md)
     + [Java 基本元素：类和对象](/1-Develop/Java/Note/2_面向对象/Java基本元素.md)
