@@ -37,7 +37,7 @@
         - [✅ 数组元素的赋值](/1-Develop/Java/Note/1_快速入门/数组操作/赋值.md)
         - [✅ 数组元素的最大/最小/平均值/总和](/1-Develop/Java/Note/1_快速入门/数组操作/最大最小平均值总和.md)
         - [✅ 数组元素的复制反转查找](/1-Develop/Java/Note/1_快速入门/数组操作/复制反转查找.md)
-        - [✅ 数组元素的排序](/1-Develop/Java/Note/1_快速入门/数组操作/排序.md)
+        - [✅ ♾️ 数组元素的排序](/1-Develop/Java/Note/1_快速入门/数组操作/排序.md)
         - [✅ 命令行参数](/1-Develop/Java/Note/1_快速入门/数组操作/命令行参数.md)
         - [✅ Arrays 工具类](/1-Develop/Java/Note/1_快速入门/数组操作/Arrays工具类.md)
         - [✅ 数组常见异常](/1-Develop/Java/Note/1_快速入门/数组操作/数组常见异常.md)
@@ -48,10 +48,10 @@
           - [✅ 对象补充](/1-Develop/Java/Note/2_面向对象/对象补充.md)
         + 类的成员
             - [✅ 属性](/1-Develop/Java/Note/2_面向对象/属性.md)
-            + [方法](/1-Develop/Java/Note/2_面向对象/方法.md)
+            + [✅ ♾️ 方法](/1-Develop/Java/Note/2_面向对象/方法.md)
                 - [重载](/1-Develop/Java/Note/2_面向对象/重载.md)
                 - [重写](/1-Develop/Java/Note/2_面向对象/.md)
-            - [构造器](/1-Develop/Java/Note/2_面向对象/构造器.md)
+            - [✅ 构造器](/1-Develop/Java/Note/2_面向对象/构造器.md)
             - [代码块](/1-Develop/Java/Note/2_面向对象/.md)
             - [内部类](/1-Develop/Java/Note/2_面向对象/.md)
     + 面向对象三大特征
