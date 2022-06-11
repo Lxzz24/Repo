@@ -148,7 +148,7 @@ docsify -v
 
 `git config --global user.name "username"`
 
-`### git config --global user.email "myname@mymail.com"`
+`git config --global user.email "myname@mymail.com"`
 
 
 ### 2. NODE 环境安装
