@@ -17,6 +17,7 @@
   - [🌐 计算机网络](/2-PCbase/ComputerNetworks/README.md)
   - [📝 软考-软件设计师](/2-PCbase/软考/README.md)
 * <font size="4"><b>📒 笔记</b></font> 
+  - [💎 docsify中文文档](/docs-zh-master/README.md)
   - 📈 效率
     - [使用Docsify搭建个人博客](/3-Note/效率/使用Docsify搭建个人博客.md)
     - [docsify插件用法](/3-Note/效率/docsify插件用法.md)
