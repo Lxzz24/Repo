@@ -2,7 +2,7 @@
 
 > 一个神奇的文档网站生成器。
 
-[原文档链接]（https://docsify.js.org/#/zh-cn/）
+[原文链接](https://docsify.js.org/#/zh-cn/)
 
 ## 概述
 
