@@ -121,25 +121,31 @@ java -cp ./hello.jar abc.xyz.Hello
 
 如果长这样：
 
-hello.zip.invalid
+![20220615221814](https://cdn.gxmnzl.xyz//img/20220615221814.png)
 
-说明打包打得有问题，JVM 仍然无法从 jar 包中查找正确的 class，原因是 hong.Person 必须按 hong/Person.class 存放，而不是 bin/hong/Person.class。
 
-jar 包还可以包含一个特殊的 / META-INF/MANIFEST.MF 文件，MANIFEST.MF 是纯文本，可以指定 Main-Class 和其它信息。JVM 会自动读取这个 MANIFEST.MF 文件，如果存在 Main-Class，我们就不必在命令行指定启动的类名，而是用更方便的命令：
+说明打包打得有问题，JVM 仍然无法从 jar 包中查找正确的 `class` ，原因是 `hong.Person` 必须按 `hong/Person.class` 存放，而不是 `bin/hong/Person.class` 。
 
+jar 包还可以包含一个特殊的 `/META-INF/MANIFEST.MF` 文件， `MANIFEST.MF` 是纯文本，可以指定 `Main-Class` 和其它信息。JVM 会自动读取这个 `MANIFEST.MF` 文件，如果存在 `Main-Class` ，我们就不必在命令行指定启动的类名，而是用更方便的命令：
+
+```
 java -jar hello.jar
-jar 包还可以包含其它 jar 包，这个时候，就需要在 MANIFEST.MF 文件里配置 classpath 了。
+```
 
-在大型项目中，不可能手动编写 MANIFEST.MF 文件，再手动创建 zip 包。Java 社区提供了大量的开源构建工具，例如 Maven，可以非常方便地创建 jar 包。
+jar 包还可以包含其它 jar 包，这个时候，就需要在 `MANIFEST.MF` 文件里配置 `classpath` 了。
 
-小结
-JVM 通过环境变量 classpath 决定搜索 class 的路径和顺序；
+在大型项目中，不可能手动编写 `MANIFEST.MF` 文件，再手动创建 zip 包。Java 社区提供了大量的开源构建工具，例如 [Maven](/Maven基础) ，可以非常方便地创建 jar 包。
 
-不推荐设置系统环境变量 classpath，始终建议通过 - cp 命令传入；
+
+## 小结
+
+JVM 通过环境变量 `classpath` 决定搜索 `class` 的路径和顺序；
+
+不推荐设置系统环境变量 `classpath` ，始终建议通过 `-cp` 命令传入；
 
 jar 包相当于目录，可以包含很多 `.class` 文件，方便下载和使用；
 
-MANIFEST.MF 文件可以提供 jar 包的信息，如 Main-Class，这样可以直接运行 jar 包。
+`MANIFEST.MF` 文件可以提供 jar 包的信息，如 `Main-Class` ，这样可以直接运行 jar 包。
 
 
 

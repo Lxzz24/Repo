@@ -64,24 +64,20 @@
     - [✅ 包](/1-Develop/Java/Note/2_面向对象/包.md)
     - [✅ 作用域](/1-Develop/Java/Note/2_面向对象/作用域.md)
     - [✅ ♾️ 内部类](/1-Develop/Java/Note/2_面向对象/内部类.md)
-    - [classpath 和 jar](/1-Develop/Java/Note/2_面向对象/classpath和jar.md)
-    - [class 版本](/1-Develop/Java/Note/2_面向对象/class版本.md)
-    - [模块](/1-Develop/Java/Note/2_面向对象/模块.md)
+    - [✅ classpath 和 jar *](/1-Develop/Java/Note/2_面向对象/classpath和jar.md)
+    - [✅ class 版本 *](/1-Develop/Java/Note/2_面向对象/class版本.md)
+    - [✅ 模块 *](/1-Develop/Java/Note/2_面向对象/模块.md)
 * <font size="4"><b>🕒 Java 核心类</b></font> 
-    + 字符串相关的类
-        - String 类及常用方法
-        - StringBuffer\StringBuilder
-        - StringJoiner
+    - 字符串和编码
+    - StringBuilder
+    - StringJoiner
     - 包装类型
     - JavaBean
     - 枚举类
     - 记录类
-    + Java 比较器
-        - Comparable
-        - Comparator
-    - System 类
-    - Math 类
-    - BigInteger 与 BigDecimal
+    - BigInteger
+    - BigDecimal
+    - 常用工具类
 * <font size="4"><b>🕓 异常处理</b></font> 
     - 异常概述与异常体系结构
     - 常见异常
