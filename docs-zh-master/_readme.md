@@ -32,3 +32,4 @@ docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地�
 ## 社区
 
 在 [Discord](https://discord.gg/3NwKFyR) 的社区里可以找到 docsify 的用户和开发者团队。
+

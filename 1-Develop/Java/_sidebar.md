@@ -63,7 +63,7 @@
     - [✅ 静态字段和方法](/1-Develop/Java/Note/2_面向对象/静态字段和方法.md)
     - [✅ 包](/1-Develop/Java/Note/2_面向对象/包.md)
     - [✅ 作用域](/1-Develop/Java/Note/2_面向对象/作用域.md)
-    - [内部类](/1-Develop/Java/Note/2_面向对象/内部类.md)
+    - [✅ ♾️ 内部类](/1-Develop/Java/Note/2_面向对象/内部类.md)
     - [classpath 和 jar](/1-Develop/Java/Note/2_面向对象/classpath和jar.md)
     - [class 版本](/1-Develop/Java/Note/2_面向对象/class版本.md)
     - [模块](/1-Develop/Java/Note/2_面向对象/模块.md)
