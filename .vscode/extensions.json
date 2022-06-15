@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "eamodio.gitlens",
-    "baurine.vscode-pangu"
+    "baurine.vscode-pangu",
+    "Spades.vs-picgo"
 ]
 }
