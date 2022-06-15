@@ -41,17 +41,16 @@
         - [✅ 命令行参数](/1-Develop/Java/Note/1_快速入门/数组操作/命令行参数.md)
         - [✅ Arrays 工具类](/1-Develop/Java/Note/1_快速入门/数组操作/Arrays工具类.md)
         - [✅ 数组常见异常](/1-Develop/Java/Note/1_快速入门/数组操作/数组常见异常.md)
-* <font size="4"><b>🕑 面向对象编程基础</b></font> 
+* <font size="4"><b>✅ 🕑 面向对象编程基础</b></font> 
     - [✅ 面向过程与面向对象](/1-Develop/Java/Note/2_面向对象/面向过程与面向对象.md)
     + [✅ Java 基本元素：类和对象](/1-Develop/Java/Note/2_面向对象/Java基本元素.md)
         + [✅ 对象的创建和使用](/1-Develop/Java/Note/2_面向对象/对象的创建和使用.md)
           - [✅ 对象补充](/1-Develop/Java/Note/2_面向对象/对象补充.md)
-        + 类的成员
+        + [类的成员](/1-Develop/Java/Note/2_面向对象/类的成员.md)
             - [✅ 属性](/1-Develop/Java/Note/2_面向对象/属性.md)
             - [✅ ♾️ 方法](/1-Develop/Java/Note/2_面向对象/方法.md)
             - [✅ 构造器](/1-Develop/Java/Note/2_面向对象/构造器.md)
-            - [代码块](/1-Develop/Java/Note/2_面向对象/.md)
-            - [内部类](/1-Develop/Java/Note/2_面向对象/.md)
+            - [✅ ♾️ 内部类 *](/1-Develop/Java/Note/2_面向对象/内部类.md)
     - [✅ 方法的重载](/1-Develop/Java/Note/2_面向对象/重载.md)
     - [✅ 方法的重写](/1-Develop/Java/Note/2_面向对象/重写.md)
     + ✅ ♾️ 面向对象三大特征
@@ -63,7 +62,6 @@
     - [✅ 静态字段和方法](/1-Develop/Java/Note/2_面向对象/静态字段和方法.md)
     - [✅ 包](/1-Develop/Java/Note/2_面向对象/包.md)
     - [✅ 作用域](/1-Develop/Java/Note/2_面向对象/作用域.md)
-    - [✅ ♾️ 内部类](/1-Develop/Java/Note/2_面向对象/内部类.md)
     - [✅ classpath 和 jar *](/1-Develop/Java/Note/2_面向对象/classpath和jar.md)
     - [✅ class 版本 *](/1-Develop/Java/Note/2_面向对象/class版本.md)
     - [✅ 模块 *](/1-Develop/Java/Note/2_面向对象/模块.md)
