@@ -1,4 +1,4 @@
-package Java.test.one;
+package Java.test.A;
 
 //方式二：
 public class RectangleTest1 {

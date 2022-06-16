@@ -1,4 +1,4 @@
-package Java.test.one;
+package Java.test.A;
 
 public class QuickSort {
     private static void swap(int[] data, int i, int j) {

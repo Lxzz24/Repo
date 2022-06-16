@@ -1,4 +1,4 @@
-package Java.test.one;
+package Java.test.A;
 
 public class ForTest {
     public static void main(String[] args) {
