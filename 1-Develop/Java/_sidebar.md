@@ -67,7 +67,7 @@
     - [✅ 模块 *](/1-Develop/Java/Note/2_面向对象/模块.md)
 * <font size="4"><b>🕒 Java 核心类</b></font> 
     - [✅ 字符串和编码](/1-Develop/Java/Note/3_Java核心类/字符串和编码.md)
-    - [StringBuilder](/1-Develop/Java/Note/3_Java核心类/StringBuilder.md)
+    - [✅ StringBuilder](/1-Develop/Java/Note/3_Java核心类/StringBuilder.md)
     - [StringJoiner](/1-Develop/Java/Note/3_Java核心类/StringJoiner.md)
     - [包装类型](/1-Develop/Java/Note/3_Java核心类/包装类型.md)
     - [JavaBean](/1-Develop/Java/Note/3_Java核心类/JavaBean.md)
