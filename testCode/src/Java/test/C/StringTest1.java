@@ -124,13 +124,16 @@ public class StringTest1 {
 
         System.out.println("getInteger(String)：");
         System.out.println(Integer.getInteger("java.version")); // 版本号，11
-
+        System.out.println();
 
         //转换为 char[]
 
         //互相转换
         char[] cs1 = "Hello".toCharArray(); //String -> char[]
         String s8 = new String(cs1); // char[] -> String
+        System.out.println(s8);
+        System.out.println();
+
 
         //如果修改了 `char[]` 数组， `String` 并不会改变：
         char[] cs2 = "Hello".toCharArray();
@@ -138,6 +141,7 @@ public class StringTest1 {
         System.out.println(s9);
         cs2[0] = 'X';
         System.out.println(s9);
+        System.out.println();
 
 
         //设计了一个 `Score` 类保存一组学生的成绩：
@@ -146,6 +150,7 @@ public class StringTest1 {
         s10.printScores();
         scores[2] = 99;
         s10.printScores();
+        System.out.println();
 
 
         //字符编码
@@ -154,10 +159,17 @@ public class StringTest1 {
         byte[] b03 = "Hello".getBytes("GBK"); // 按 GBK 编码转换
         byte[] b04 = "Hello".getBytes(StandardCharsets.UTF_8); // 按 UTF-8 编码转换
 
+        System.out.println(b01);
+        System.out.println(b02);
+        System.out.println(b03);
+        System.out.println(b04);
+        System.out.println();
+
 
         String s11 = new String(b01, "GBK"); // 按 GBK 转换
         String s12 = new String(b01, StandardCharsets.UTF_8); // 按 UTF-8 转换
-
+        System.out.println(s11);
+        System.out.println(s12);
 
     }
 }
