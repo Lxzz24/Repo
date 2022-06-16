@@ -1,4 +1,4 @@
-package Java.test.A;
+package java.test.a;
 
 public class ArrayScoreTest {
     public static void main(String[] args) {

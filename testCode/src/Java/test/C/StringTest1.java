@@ -1,4 +1,4 @@
-package Java.test.C;
+package java.test.c;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;

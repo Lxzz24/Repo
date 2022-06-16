@@ -1,4 +1,4 @@
-package Java.test.A;
+package java.test.a;
 
 public class IsPupil {
     public static void main(String[] args) {

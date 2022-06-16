@@ -1,4 +1,4 @@
-package Java.test.B;
+package java.test.b;
 
 public class PolymorphicTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java.test.A;
+package java.test.a;
 
 public class PrtRevTest {
     public static void main(String[] args) {
