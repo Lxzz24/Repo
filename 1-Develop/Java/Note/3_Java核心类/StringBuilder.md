@@ -118,5 +118,10 @@ public class Main {
 - `StringBuffer` 是 `StringBuilder` 的线程安全版本，现在很少使用。
 
 
-代码：[/testCode/src/javase/test/c/StringTest1.java](/testCode/src/javase/test/c/StringTest1.java)
+## code
+
+- [***GitHub***](https://github.com/Lxzz24/Repo/testCode/src/javase/test/c/StringBuilderTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/testCode/src/javase/test/c/StringBuilderTest.java)
+
+
 
