@@ -12,7 +12,7 @@ GitHub Pages 支持从三个地方读取文件
 
 我们推荐直接将文档放在 `docs/` 目录下，在设置页面开启 **GitHub Pages** 功能并选择 `master branch /docs folder` 选项。
 
-![github pages](../_images/deploy-github-pages.png)
+![20220617145017](https://cdn.gxmnzl.xyz//img/20220617145017.png)
 
 !> 可以将文档放在根目录下，然后选择 **master 分支** 作为文档目录。你需要在部署位置下放一个 `.nojekyll` 文件（比如 `/docs` 目录或者 gh-pages 分支）
 

@@ -120,8 +120,7 @@ public class Main {
 
 ## code
 
-- [***GitHub***](https://github.com/Lxzz24/Repo/testCode/src/javase/test/c/StringBuilderTest.java)
-- [***国内访问***](https://gitee.com/lxzz24/Repo/testCode/src/javase/test/c/StringBuilderTest.java)
-
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/StringBuilderTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/StringBuilderTest.java)
 
 

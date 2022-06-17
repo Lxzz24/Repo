@@ -58,7 +58,7 @@ window.$docsify = {
 - 类型：`Boolean|String`
 - 默认值: `false`
 
-加载自定义导航栏，参考[定制导航栏](zh-cn/custom-navbar.md) 了解用法。设置为 `true` 后会加载 `_navbar.md` 文件，也可以自定义加载的文件名。
+加载自定义导航栏，参考[定制导航栏](/docs-zh-master/custom-navbar.md) 了解用法。设置为 `true` 后会加载 `_navbar.md` 文件，也可以自定义加载的文件名。
 
 ```js
 window.$docsify = {
@@ -75,7 +75,7 @@ window.$docsify = {
 - 类型：`Boolean|String`
 - 默认值: `false`
 
-加载自定义侧边栏，参考[多页文档](zh-cn/more-pages.md)。设置为 `true` 后会加载 `_sidebar.md` 文件，也可以自定义加载的文件名。
+加载自定义侧边栏，参考[多页文档](/docs-zh-master/more-pages.md)。设置为 `true` 后会加载 `_sidebar.md` 文件，也可以自定义加载的文件名。
 
 ```js
 window.$docsify = {
@@ -208,7 +208,7 @@ window.$docsify = {
 - 类型：`Boolean|String`
 - 默认值: `false`
 
-启用[封面页](zh-cn/cover.md)。开启后是加载 `_coverpage.md` 文件，也可以自定义文件名。
+启用[封面页](/docs-zh-master/cover.md)。开启后是加载 `_coverpage.md` 文件，也可以自定义文件名。
 
 ```js
 window.$docsify = {
@@ -283,7 +283,7 @@ window.$docsify = {
 
 - 类型: `Object|Function`
 
-参考 [Markdown 配置](zh-cn/markdown.md)。
+参考 [Markdown 配置](/docs-zh-master/markdown.md)。
 
 ```js
 window.$docsify = {
@@ -352,7 +352,7 @@ window.$docsify = {
 
 - 类型：`Boolean`
 
-执行文档里的 script 标签里的脚本，只执行第一个 script ([demo](zh-cn/themes.md))。 如果 Vue 存在，则自动开启。
+执行文档里的 script 标签里的脚本，只执行第一个 script ([demo](/docs-zh-master/themes.md))。 如果 Vue 存在，则自动开启。
 
 ```js
 window.$docsify = {
@@ -468,7 +468,7 @@ window.$docsify = {
 
 - type: `Array`
 
-当设置了`routerMode:'history'`时，你可能会面临跨域的问题，参见 [#1379](https://github.com/docsifyjs/docsify/issues/1379) 。在 Markdown 内容中，有一个简单的方法可以解决，参见[helpers](zh-cn/helpers.md) 中的跨域链接。
+当设置了`routerMode:'history'`时，你可能会面临跨域的问题，参见 [#1379](https://github.com/docsifyjs/docsify/issues/1379) 。在 Markdown 内容中，有一个简单的方法可以解决，参见[helpers](/docs-zh-master/helpers.md) 中的跨域链接。
 
 ```js
 window.$docsify = {
@@ -653,11 +653,12 @@ window.$docsify = {
 
 ```markdown
 <p>
-  <button @click="count -= 1">-</button>
-  {{ count }}
-  <button @click="count += 1">+</button>
+    <button @click="count -= 1">-</button>
+    {{ count }}
+    <button @click="count += 1">+</button>
 </p>
 ```
+
 
 <output data-lang="output">
   <p>
@@ -666,6 +667,7 @@ window.$docsify = {
     <button @click="count += 1">+</button>
   </p>
 </output>
+
 
 ## vueMounts
 
@@ -687,6 +689,7 @@ window.$docsify = {
 };
 ```
 
+
 ```markdown
 <div id="counter">
   <button @click="count -= 1">-</button>
@@ -700,3 +703,5 @@ window.$docsify = {
   {{ count }}
   <button @click="count += 1">+</button>
 </output>
+
+

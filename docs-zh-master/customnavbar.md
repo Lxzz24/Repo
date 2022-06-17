@@ -19,7 +19,7 @@
 
 ## 配置文件
 
-那我们可以通过 Markdown 文件来配置导航。首先配置 `loadNavbar`，默认加载的文件为 `_navbar.md`。具体配置规则见[配置项#loadNavbar](configuration.md#loadnavbar)。
+那我们可以通过 Markdown 文件来配置导航。首先配置 `loadNavbar`，默认加载的文件为 `_navbar.md`。具体配置规则见[配置项#loadNavbar](/docs-zh-master/configuration.md#loadnavbar)。
 
 
 ```html
@@ -71,11 +71,11 @@
 
 效果图
 
-![嵌套导航栏](../_images/zh-cn/nested-navbar.png '嵌套导航栏')
+![20220617135717](https://cdn.gxmnzl.xyz//img/20220617135717.png)
 
 ## 整合自定义导航栏与 emoji 插件
 
-如果你使用 [emoji 插件](plugins#emoji):
+如果你使用 [emoji 插件](/docs-zh-master/plugins#emoji):
 
 ```html
 <!-- index.html -->

@@ -95,4 +95,4 @@ cd docs && python -m http.server 3000
   </script>
 ```
 
-对比 [el 设置](zh-cn/configuration.md#el)。
+对比 [el 设置](/docs-zh-master/configuration.md#el)。

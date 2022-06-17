@@ -4,15 +4,15 @@
 
 假设你的目录结构如下：
 
-```text
-.
-└── docs
-    ├── README.md
-    ├── guide.md
-    └── zh-cn
+
+    .
+    └── docs
         ├── README.md
-        └── guide.md
-```
+        ├── guide.md
+        └── zh-cn
+            ├── README.md
+            └── guide.md
+
 
 那么对应的访问页面将是
 
@@ -85,7 +85,7 @@ docs/zh-cn/guide.md   => http://domain.com/zh-cn/guide
 
 ## 显示目录
 
-自定义侧边栏同时也可以开启目录功能。设置 `subMaxLevel` 配置项，具体介绍见 [配置项#subMaxLevel](zh-cn/configuration#submaxlevel)。
+自定义侧边栏同时也可以开启目录功能。设置 `subMaxLevel` 配置项，具体介绍见 [配置项#subMaxLevel](/docs-zh-master/configuration#submaxlevel)。
 
 ```html
 <!-- index.html -->

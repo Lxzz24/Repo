@@ -5,14 +5,15 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 这是一个嵌入 Markdown 文件的例子。
 
 ```markdown
-[filename](../_media/example.md ':include')
+[filename](/docs-zh-master/example.md ':include')
 ```
 
 `example.md` 文件的内容将会直接显示在这里
 
-[filename](../_media/example.md ':include')
+<!-- [](/docs-zh-master/example.md ':include') -->
 
-你可以查看 [example.md](../_media/example.md ':ignore') 原始内容对比效果。
+
+你可以查看 [example.md](/docs-zh-master/example.md ':ignore') 原始内容对比效果。
 
 通常情况下，这样的语法将会被当作链接处理。但是在 docsify 里，如果你添加一个 `:include` 选项，它就会被当作文件嵌入。
 
@@ -27,19 +28,21 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 * **code** other file extension
 
 当然，你也可以强制设置嵌入类型。例如你想将 Markdown 文件当作一个 `code block` 嵌入。
+
 ```markdown
-[filename](../_media/example.md ':include :type=code')
+[filename](/docs-zh-master/example.md ':include :type=code')
 ```
 
 你会看到：
 
-[filename](../_media/example.md ':include :type=code')
+<!-- [filename](/docs-zh-master/example.md ':include :type=code') -->
 
 ## 嵌入代码片段
+
 有时候你并不想嵌入整个文件，可能你只想要其中的几行代码，但你还要在 CI 系统中编译和测试该文件。
 
 ```markdown
-[filename](../_media/example.js ':include :type=code :fragment=demo')
+[filename](/docs-zh-master/example.js ':include :type=code :fragment=demo')
 ```
 
 在你的代码文件中，你需要用斜线 `/// [demo]` 包裹该片段（片段的前后都要有）。
@@ -47,7 +50,7 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 
 示例：
 
-[filename](../_media/example.js ':include :type=code :fragment=demo')
+<!-- [filename](/docs-zh-master/example.js ':include :type=code :fragment=demo') -->
 
 ## 标签属性
 
@@ -57,7 +60,7 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 [cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px')
 ```
 
-[cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px')
+<!-- [cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px') -->
 
 看见没？你只需要直接写属性就好了，每个标签有哪些属性建议你查看 [MDN 文档](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)。
 
@@ -66,18 +69,21 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 如果是嵌入一个代码块，你可以设置高亮的语言，或者让它自动识别。这里是手动设置高亮语言
 
 ```markdown
-[](../_media/example.html ':include :type=code text')
+[](/docs-zh-master/example.html ':include :type=code text')
 ```
 
 ⬇️
 
-[](../_media/example.html ':include :type=code text')
 
-?> 如何高亮代码？你可以查看[这份文档](zh-cn/language-highlight.md)。
+<!-- [](/docs-zh-master/example.html ':include :type=code text') -->
+
+
+?> 如何高亮代码？你可以查看[这份文档](/docs-zh-master/language-highlight.md)。
+
 
 ## 嵌入Gist
 
-你可以将 Gist 作为 Markdown 内容或代码块嵌入。这是基于[嵌入文件](#embed-files)部分开头的方法，不过是嵌入一个原始的 Gist URL。
+你可以将 Gist 作为 Markdown 内容或代码块嵌入。这是基于[嵌入文件](#文件嵌入)部分开头的方法，不过是嵌入一个原始的 Gist URL。
 
 ?> 这里**不需要**插件或修改配置来使其工作。事实上，即使你使用插件或修改配置来允许加载外部脚本，从 Gist 复制的 "Embed" `script`标签也无法加载。
 
@@ -126,7 +132,9 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 
 你会看到：
 
-[gist: content.md](https://gist.githubusercontent.com/anikethsaha/f88893bb563bb7229d6e575db53a8c15/raw/content.md ':include')
+
+<!-- [gist: content.md](https://gist.githubusercontent.com/anikethsaha/f88893bb563bb7229d6e575db53a8c15/raw/content.md ':include') -->
+
 
 `LABEL`可以是任何你想要的文本。如果链接被破坏，它可以作为一个 _fallback_ 信息。所以在这里重复文件名是很有用的，万一你需要修复一个破坏的链接。它还可以使嵌入的元素一目了然。
 
@@ -148,4 +156,6 @@ docsify 4.6 开始支持嵌入任何类型的文件到文档里。你可以将�
 
 你会看到：
 
-[gist: script.js](https://gist.githubusercontent.com/anikethsaha/f88893bb563bb7229d6e575db53a8c15/raw/script.js ':include :type=code')
+<!-- [gist: script.js](https://gist.githubusercontent.com/anikethsaha/f88893bb563bb7229d6e575db53a8c15/raw/script.js ':include :type=code') -->
+
+

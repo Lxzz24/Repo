@@ -1,6 +1,6 @@
 # 封面
 
-通过设置 `coverpage` 参数，可以开启渲染封面的功能。具体用法见[配置项#coverpage](configuration.md#coverpage)。
+通过设置 `coverpage` 参数，可以开启渲染封面的功能。具体用法见[配置项#coverpage](/docs-zh-master/configuration.md#coverpage)。
 
 ## 基本用法
 
@@ -61,7 +61,7 @@ _index.html_
 
 ## 封面作为首页
 
-通常封面和首页是同时出现的，当然你也是当封面独立出来通过设置[onlyCover 选项](zh-cn/configuration.md#onlycover)。
+通常封面和首页是同时出现的，当然你也是当封面独立出来通过设置[onlyCover 选项](/docs-zh-master/configuration.md#onlycover)。
 
 ## 多个封面
 
@@ -69,17 +69,16 @@ _index.html_
 
 例如你的文档目录结构如下
 
-```text
-.
-└── docs
-    ├── README.md
-    ├── guide.md
-    ├── _coverpage.md
-    └── zh-cn
+    .
+    └── docs
         ├── README.md
-        └── guide.md
-        └── _coverpage.md
-```
+        ├── guide.md
+        ├── _coverpage.md
+        └── zh-cn
+            ├── README.md
+            └── guide.md
+            └── _coverpage.md
+
 
 那么你可以这么配置
 
@@ -99,3 +98,4 @@ window.$docsify = {
   }
 };
 ```
+
