@@ -1,3 +1,5 @@
+/// [demo]
+
 const result = fetch(`${URL}:${PORT}`)
   .then(function (response) {
     return response.json();
@@ -5,3 +7,5 @@ const result = fetch(`${URL}:${PORT}`)
   .then(function (myJson) {
     console.log(JSON.stringify(myJson));
   });
+
+/// [demo]
