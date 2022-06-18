@@ -68,7 +68,7 @@
 * <font size="4"><b>🕒 Java 核心类</b></font> 
     - [✅ 字符串和编码](/1-Develop/Java/Note/3_Java核心类/字符串和编码.md)
     - [✅ StringBuilder](/1-Develop/Java/Note/3_Java核心类/StringBuilder.md)
-    - [StringJoiner](/1-Develop/Java/Note/3_Java核心类/StringJoiner.md)
+    - [✅ StringJoiner](/1-Develop/Java/Note/3_Java核心类/StringJoiner.md)
     - [包装类型](/1-Develop/Java/Note/3_Java核心类/包装类型.md)
     - [JavaBean](/1-Develop/Java/Note/3_Java核心类/JavaBean.md)
     - [枚举类](/1-Develop/Java/Note/3_Java核心类/枚举类.md)
@@ -308,4 +308,12 @@
         - 集成Artemis
         - 集成RabbitMQ
         - 集成Kafka
+
+
+
+<!-- 
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/.java)
+- ***#/testCode/src/javase/test/c/.java*** 
+-->
 

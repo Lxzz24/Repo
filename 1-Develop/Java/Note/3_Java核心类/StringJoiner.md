@@ -31,11 +31,11 @@ import java.util.StringJoiner;
 public class Main {
     public static void main(String[] args) {
         String[] names = {"Bob", "Alice", "Grace"};
-        var sj1 = new StringJoiner(", ");
+        var sj = new StringJoiner(", ");
         for (String name : names) {
-            sj1.add(name);
+            sj.add(name);
         }
-        System.out.println(sj1.toString());
+        System.out.println(sj.toString());
     }
 }
 ```
@@ -49,11 +49,11 @@ import java.util.StringJoiner;
 public class Main {
     public static void main(String[] args) {
         String[] names = {"Bob", "Alice", "Grace"};
-        var sj2 = new StringJoiner(", ", "Hello ", "!");
+        var sj = new StringJoiner(", ", "Hello ", "!");
         for (String name : names) {
-            sj2.add(name);
+            sj.add(name);
         }
-        System.out.println(sj2.toString());
+        System.out.println(sj.toString());
     }
 }
 ```
@@ -67,7 +67,7 @@ public class Main {
 
 ```java
 String[] names = {"Bob", "Alice", "Grace"};
-var sj3 = String.join(",", names);
+var sj = String.join(",", names);
 ```
 
 
@@ -108,6 +108,8 @@ public class Main {
 
 ## code
 
-- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/StringJoinerTest.java)
-- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/StringJoinerTest.java)
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/StringJoinerTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/StringJoinerTest.java)
+- ***#/testCode/src/javase/test/c/StringJoinerTest.java***
+
 
