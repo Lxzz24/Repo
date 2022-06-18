@@ -12,16 +12,17 @@ public class Main {
         var sb = new StringBuilder();
         sb.append("Hello");
         for (String name : names) {
-            sb.append(name).append(",");
+            sb.append(" " + name).append(",");
         }
+        System.out.println(sb.toString());
+
         // 注意去掉最后的 ",":
-        sb.delete(sb.length() - 2, sb.length());
+        sb.delete(sb.length() - 1, sb.length());
         sb.append("!");
         System.out.println(sb.toString());
     }
 }
 ```
-
 
 类似用分隔符拼接数组的需求很常见，所以 Java 标准库还提供了一个 `StringJoiner` 来干这个事：
 
@@ -30,11 +31,11 @@ import java.util.StringJoiner;
 public class Main {
     public static void main(String[] args) {
         String[] names = {"Bob", "Alice", "Grace"};
-        var sj = new StringJoiner(",");
+        var sj1 = new StringJoiner(", ");
         for (String name : names) {
-            sj.add(name);
+            sj1.add(name);
         }
-        System.out.println(sj.toString());
+        System.out.println(sj1.toString());
     }
 }
 ```
@@ -48,11 +49,11 @@ import java.util.StringJoiner;
 public class Main {
     public static void main(String[] args) {
         String[] names = {"Bob", "Alice", "Grace"};
-        var sj = new StringJoiner(",", "Hello", "!");
+        var sj2 = new StringJoiner(", ", "Hello ", "!");
         for (String name : names) {
-            sj.add(name);
+            sj2.add(name);
         }
-        System.out.println(sj.toString());
+        System.out.println(sj2.toString());
     }
 }
 ```
@@ -66,7 +67,7 @@ public class Main {
 
 ```java
 String[] names = {"Bob", "Alice", "Grace"};
-var s = String.join(",", names);
+var sj3 = String.join(",", names);
 ```
 
 
@@ -89,7 +90,11 @@ public class Main {
     }
     static String buildSelectSql(String table, String[] fields) {
         // TODO:
-        return "";
+        var sj = new StringJoiner(", ", "SELECT " , " FROM " + table);
+        for (String field : fields){
+            sj.add(field);
+        }
+        return sj.toString();
     }
 }
 ```
@@ -103,6 +108,6 @@ public class Main {
 
 ## code
 
-- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/.java)
-- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/.java)
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/StringJoinerTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/StringJoinerTest.java)
 
