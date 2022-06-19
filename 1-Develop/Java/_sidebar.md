@@ -69,7 +69,7 @@
     - [✅ 字符串和编码](/1-Develop/Java/Note/3_Java核心类/字符串和编码.md)
     - [✅ StringBuilder](/1-Develop/Java/Note/3_Java核心类/StringBuilder.md)
     - [✅ StringJoiner](/1-Develop/Java/Note/3_Java核心类/StringJoiner.md)
-    - [包装类型](/1-Develop/Java/Note/3_Java核心类/包装类型.md)
+    - [✅ 包装类型](/1-Develop/Java/Note/3_Java核心类/包装类型.md)
     - [JavaBean](/1-Develop/Java/Note/3_Java核心类/JavaBean.md)
     - [枚举类](/1-Develop/Java/Note/3_Java核心类/枚举类.md)
     - [记录类](/1-Develop/Java/Note/3_Java核心类/记录类.md)
