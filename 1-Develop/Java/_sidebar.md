@@ -71,7 +71,7 @@
     - [✅ StringJoiner](/1-Develop/Java/Note/3_Java核心类/StringJoiner.md)
     - [✅ 包装类型](/1-Develop/Java/Note/3_Java核心类/包装类型.md)
     - [✅ JavaBean](/1-Develop/Java/Note/3_Java核心类/JavaBean.md)
-    - [枚举类](/1-Develop/Java/Note/3_Java核心类/枚举类.md)
+    - [✅ 枚举类](/1-Develop/Java/Note/3_Java核心类/枚举类.md)
     - [记录类](/1-Develop/Java/Note/3_Java核心类/记录类.md)
     - [BigInteger](/1-Develop/Java/Note/3_Java核心类/BigInteger.md)
     - [BigDecimal](/1-Develop/Java/Note/3_Java核心类/BigDecimal.md)
