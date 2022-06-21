@@ -65,7 +65,7 @@
     - [✅ classpath 和 jar *](/1-Develop/Java/Note/2_面向对象/classpath和jar.md)
     - [✅ class 版本 *](/1-Develop/Java/Note/2_面向对象/class版本.md)
     - [✅ 模块 *](/1-Develop/Java/Note/2_面向对象/模块.md)
-* <font size="4"><b>🕒 Java 核心类</b></font> 
+* <font size="4"><b>✅ 🕒 Java 核心类</b></font> 
     - [✅ 字符串和编码](/1-Develop/Java/Note/3_Java核心类/字符串和编码.md)
     - [✅ StringBuilder](/1-Develop/Java/Note/3_Java核心类/StringBuilder.md)
     - [✅ StringJoiner](/1-Develop/Java/Note/3_Java核心类/StringJoiner.md)
@@ -73,9 +73,9 @@
     - [✅ JavaBean](/1-Develop/Java/Note/3_Java核心类/JavaBean.md)
     - [✅ 枚举类](/1-Develop/Java/Note/3_Java核心类/枚举类.md)
     - [✅ 记录类](/1-Develop/Java/Note/3_Java核心类/记录类.md)
-    - [BigInteger](/1-Develop/Java/Note/3_Java核心类/BigInteger.md)
-    - [BigDecimal](/1-Develop/Java/Note/3_Java核心类/BigDecimal.md)
-    - [常用工具类](/1-Develop/Java/Note/3_Java核心类/常用工具类.md)
+    - [✅ BigInteger](/1-Develop/Java/Note/3_Java核心类/BigInteger.md)
+    - [✅ BigDecimal](/1-Develop/Java/Note/3_Java核心类/BigDecimal.md)
+    - [✅ 常用工具类](/1-Develop/Java/Note/3_Java核心类/常用工具类.md)
 * <font size="4"><b>🕓 异常处理</b></font> 
     - 异常概述与异常体系结构
     - 常见异常
