@@ -312,6 +312,8 @@
 
 
 <!-- 
+## code
+
 - [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/.java)
 - [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/.java)
 - ***#/testCode/src/javase/test/c/.java*** 

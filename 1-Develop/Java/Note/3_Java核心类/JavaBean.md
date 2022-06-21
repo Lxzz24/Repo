@@ -152,7 +152,7 @@ class Person {
 - 使用 `Introspector.getBeanInfo()` 可以获取属性列表。
 
 
-
+## code
 
 - [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/JavaBeanTest.java)
 - [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/JavaBeanTest.java)

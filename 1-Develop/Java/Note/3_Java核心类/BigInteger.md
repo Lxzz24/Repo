@@ -44,13 +44,12 @@ System.out.println(i.multiply(i).longValueExact()); // java.lang.ArithmeticExcep
 如果 `BigInteger` 的值甚至超过了 `float` 的最大范围（$3.4x10^{38}$），那么返回的 `float` 是什么呢？
 
 ```java
-// BigInteger to float
 import java.math.BigInteger;
 public class Main {
     public static void main(String[] args) {
         BigInteger n = new BigInteger("999999").pow(99);
         float f = n.floatValue();
-        System.out.println(f);
+        System.out.println(f);//Infinity
     }
 }
 ```
@@ -63,5 +62,10 @@ public class Main {
 - 将 `BigInteger` 转换成基本类型时可使用 `longValueExact()` 等方法保证结果准确。
 
 
+## code
+
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/BigIntegerTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/BigIntegerTest.java)
+- ***#/testCode/src/javase/test/c/BigIntegerTest.java*** 
 
 
