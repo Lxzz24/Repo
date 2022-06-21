@@ -7,8 +7,11 @@
 ```java
 BigDecimal bd = new BigDecimal("123.4567");
 System.out.println(bd.multiply(bd)); // 15241.55677489
-BigDecimal 用 scale() 表示小数位数，例如：
+```
 
+`BigDecimal` 用 `scale()` 表示小数位数，例如：
+
+```java
 BigDecimal d1 = new BigDecimal("123.45");
 BigDecimal d2 = new BigDecimal("123.4500");
 BigDecimal d3 = new BigDecimal("1234500");
@@ -129,5 +132,11 @@ public class BigDecimal extends Number implements Comparable<BigDecimal> {
 - `BigDecimal` 用于表示精确的小数，常用于财务计算；
 - 比较 `BigDecimal` 的值是否相等，必须使用 `compareTo()` 而不能使用 `equals()` 。
 
+
+## code
+
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/BigDecimalTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/BigDecimalTest.java)
+- ***#/testCode/src/javase/test/c/BigDecimalTest.java*** 
 
 
