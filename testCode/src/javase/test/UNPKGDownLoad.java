@@ -8,12 +8,12 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 
 public class UNPKGDownLoad {
-//    static String fileP = "/Users/lxzz24/Documents/themes/emoji/tw-weather/";
-//    static String urlP = "https://unpkg.com/browse/@waline/emojis@1.0.1/tw-weather/";
-//    static String urlF = "https://unpkg.com/@waline/emojis@1.0.1/tw-weather/";
     static String fileP = "/Users/lxzz24/Documents/themes/emoji/tw-weather/";
-    static String urlP = "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.1/tw-weather/";
-    static String urlF = "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.1/tw-weather/";
+    static String urlP = "https://unpkg.com/browse/@waline/emojis@1.0.1/tw-weather/";
+    static String urlF = "https://unpkg.com/@waline/emojis@1.0.1/tw-weather/";
+//    static String fileP = "/Users/lxzz24/Documents/themes/emoji/tw-weather/";
+//    static String urlP = "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.1/tw-weather/";
+//    static String urlF = "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.1/tw-weather/";
     public static void main(String[] args){
         try {
             GetPage("");
