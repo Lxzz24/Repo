@@ -76,7 +76,7 @@
     - [✅ 常用工具类](/1-Develop/Java/Note/3_Java核心类/常用工具类.md)
 * <a href="#/1-Develop/Java/Note/4_异常/异常处理.md"><font size="4"><b>🕓 异常处理</b></font></a> 
     - [✅ Java的异常](/1-Develop/Java/Note/4_异常/Java的异常.md)
-    - [捕获异常](/1-Develop/Java/Note/4_异常/捕获异常.md)
+    - [✅ 捕获异常](/1-Develop/Java/Note/4_异常/捕获异常.md)
     - [抛出异常](/1-Develop/Java/Note/4_异常/抛出异常.md)    
     - [自定义异常](/1-Develop/Java/Note/4_异常/自定义异常.md)
     - [NullPointerException](/1-Develop/Java/Note/4_异常/NullPointerException.md)
@@ -315,8 +315,8 @@
 <!-- 
 ## code
 
-- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/.java)
-- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/.java)
-- ***#/testCode/src/javase/test/c/.java*** 
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/d/.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/d/.java)
+- ***#/testCode/src/javase/test/d/.java*** 
 -->
 

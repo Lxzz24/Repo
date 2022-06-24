@@ -289,9 +289,9 @@ static byte[] toGBK(String s) {
 
 ## code
 
-- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/c/ExceptionTest.java)
-- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/c/ExceptionTest.java)
-- ***#/testCode/src/javase/test/c/ExceptionTest.java*** 
+- [***GitHub***](https://github.com/Lxzz24/Repo/tree/main/testCode/src/javase/test/d/ExceptionTest.java)
+- [***国内访问***](https://gitee.com/lxzz24/Repo/tree/main/testCode/src/javase/test/d/ExceptionTest.java)
+- ***#/testCode/src/javase/test/d/ExceptionTest.java*** 
 
 
 
