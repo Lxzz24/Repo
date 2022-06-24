@@ -77,7 +77,7 @@
 * <a href="#/1-Develop/Java/Note/4_异常/异常处理.md"><font size="4"><b>🕓 异常处理</b></font></a> 
     - [✅ Java的异常](/1-Develop/Java/Note/4_异常/Java的异常.md)
     - [✅ 捕获异常](/1-Develop/Java/Note/4_异常/捕获异常.md)
-    - [抛出异常](/1-Develop/Java/Note/4_异常/抛出异常.md)    
+    - [✅ 抛出异常](/1-Develop/Java/Note/4_异常/抛出异常.md)    
     - [自定义异常](/1-Develop/Java/Note/4_异常/自定义异常.md)
     - [NullPointerException](/1-Develop/Java/Note/4_异常/NullPointerException.md)
     - [使用断言](/1-Develop/Java/Note/4_异常/使用断言.md)
