@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-<p style="text-align: center;"><a href="#/1-Develop/Java/README.md">
+<p style="text-align: center;"><a href="#/README.md">
   <img src="https://cdn.gxmnzl.xyz/img/logo1.png" width=50%/>
 </a></p>
 

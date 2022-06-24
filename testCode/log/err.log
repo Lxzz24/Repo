@@ -1,0 +1,7 @@
+06-24 16:22:21.311 [main] ERROR javase.test.d.work.Log4jTest
+Invalid encoding.
+
+java.io.UnsupportedEncodingException: invalidCharsetName
+	at java.lang.String.lookupCharset(String.java:819) ~[?:?]
+	at java.lang.String.getBytes(String.java:1763) ~[?:?]
+	at javase.test.d.work.Log4jTest.main(Log4jTest.java:14) ~[testCode/:?]

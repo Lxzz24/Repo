@@ -74,7 +74,7 @@
     - [✅ BigInteger](/1-Develop/Java/Note/3_Java核心类/BigInteger.md)
     - [✅ BigDecimal](/1-Develop/Java/Note/3_Java核心类/BigDecimal.md)
     - [✅ 常用工具类](/1-Develop/Java/Note/3_Java核心类/常用工具类.md)
-* <a href="#/1-Develop/Java/Note/4_异常/异常处理.md"><font size="4"><b>🕓 异常处理</b></font></a> 
+* <a href="#/1-Develop/Java/Note/4_异常/异常处理.md"><font size="4"><b>✅ 🕓 异常处理</b></font></a> 
     - [✅ Java的异常](/1-Develop/Java/Note/4_异常/Java的异常.md)
     - [✅ 捕获异常](/1-Develop/Java/Note/4_异常/捕获异常.md)
     - [✅ 抛出异常](/1-Develop/Java/Note/4_异常/抛出异常.md)    
@@ -82,28 +82,28 @@
     - [✅ NullPointerException](/1-Develop/Java/Note/4_异常/NullPointerException.md)
     - [✅ 使用断言](/1-Develop/Java/Note/4_异常/使用断言.md)
     - [✅ 使用JDK Logging](/1-Develop/Java/Note/4_异常/使用JDKLogging.md)
-    - [使用Commons Logging](/1-Develop/Java/Note/4_异常/使用CommonsLogging.md)
-    - [使用Log4j](/1-Develop/Java/Note/4_异常/使用Log4j.md)
-    - [使用SLF4J和Logback](/1-Develop/Java/Note/4_异常/使用SLF4J和Logback.md)
-* <a href="#/1-Develop/Java/Note//.md"><font size="4"><b>🕔 多线程</b></font></a> 
-    - 多线程基础
-    - 线程的创建和使用
-    - 线程的生命周期
-    - 线程的同步
-    - 线程的通信
-    - 死锁
-    - 使用wait和notify
-    - 使用ReentrantLock
-    - 使用Condition
-    - 使用ReadWriteLock
-    - 使用StampedLock
-    - 使用Concurrent集合
-    - 使用Atomic
-    - 使用线程池
-    - 使用Future
-    - 使用CompletableFuture
-    - 使用ForkJoin
-    - 使用ThreadLocal
+    - [✅ 使用Commons Logging](/1-Develop/Java/Note/4_异常/使用CommonsLogging.md)
+    - [✅ 使用Log4j](/1-Develop/Java/Note/4_异常/使用Log4j.md)
+    - [✅ 使用SLF4J和Logback](/1-Develop/Java/Note/4_异常/使用SLF4J和Logback.md)
+* <a href="#/1-Develop/Java/Note/5_多线程/多线程.md"><font size="4"><b>🕔 多线程</b></font></a> 
+    - [✅ 多线程基础](/1-Develop/Java/Note/5_多线程/多线程基础.md)
+    - [线程的创建和使用](/1-Develop/Java/Note/5_多线程/线程的创建和使用.md)
+    - [线程的生命周期](/1-Develop/Java/Note/5_多线程/线程的生命周期.md)
+    - [线程的同步](/1-Develop/Java/Note/5_多线程/线程的同步.md)
+    - [线程的通信](/1-Develop/Java/Note/5_多线程/线程的通信.md)
+    - [死锁](/1-Develop/Java/Note/5_多线程/死锁.md)
+    - [使用wait和notify](/1-Develop/Java/Note/5_多线程/使用wait和notify.md)
+    - [使用ReentrantLock](/1-Develop/Java/Note/5_多线程/使用ReentrantLock.md)
+    - [使用Condition](/1-Develop/Java/Note/5_多线程/使用Condition.md)
+    - [使用ReadWriteLock](/1-Develop/Java/Note/5_多线程/使用ReadWriteLock.md)
+    - [使用StampedLock](/1-Develop/Java/Note/5_多线程/使用StampedLock.md)
+    - [使用Concurrent集合](/1-Develop/Java/Note/5_多线程/使用Concurrent集合.md)
+    - [使用Atomic](/1-Develop/Java/Note/5_多线程/使用Atomic.md)
+    - [使用线程池](/1-Develop/Java/Note/5_多线程/使用线程池.md)
+    - [使用Future](/1-Develop/Java/Note/5_多线程/使用Future.md)
+    - [使用CompletableFuture](/1-Develop/Java/Note/5_多线程/使用CompletableFuture.md)
+    - [使用ForkJoin](/1-Develop/Java/Note/5_多线程/使用ForkJoin.md)
+    - [使用ThreadLocal](/1-Develop/Java/Note/5_多线程/使用ThreadLocal.md)
 * <a href="#/1-Develop/Java/Note//.md"><font size="4"><b>🕕 集合</b></font></a> 
     - Java 集合框架概述
     - Collection 

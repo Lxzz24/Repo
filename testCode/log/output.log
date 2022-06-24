@@ -1,0 +1,11 @@
+16:43:07.278 [main] INFO  javase.test.d.work.SLF4JTest - Start process com.sun.tools.javac.Main...
+16:43:07.283 [main] INFO  javase.test.d.work.SLF4JTest - Process end.
+16:43:39.309 [main] INFO  javase.test.d.work.SLF4JTest - Start process javase.test.d.work.SLF4JTest...
+16:43:39.315 [main] INFO  javase.test.d.work.SLF4JTest - Process end.
+16:44:56.564 [main] INFO  javase.test.d.work.SLF4JTest - Start process javase.test.d.work.SLF4JTest...
+16:44:56.571 [main] ERROR javase.test.d.work.SLF4JTest - invalid charset name
+java.io.UnsupportedEncodingException: invalidCharsetName
+	at java.base/java.lang.String.lookupCharset(String.java:819)
+	at java.base/java.lang.String.getBytes(String.java:1763)
+	at javase.test.d.work.SLF4JTest.main(SLF4JTest.java:15)
+16:44:56.571 [main] INFO  javase.test.d.work.SLF4JTest - Process end.
