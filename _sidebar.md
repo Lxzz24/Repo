@@ -48,6 +48,7 @@
     - [DNS](/3-Note/效率/DNS.md)
     - [解决GitHub访问慢](/3-Note/效率/Github访问慢.md)
     - [图床：vscode+picgo](/3-Note/效率/vscode+picgo.md)
+    - [转-个人博客搭建](/3-Note/效率/转-个人博客搭建.md)
   + 🔍 速查
     - [常用单词](/3-Note/速查/WordList.md)
     - [ex:代码整洁之道](/3-Note/速查/ex：代码整洁之道.md)
